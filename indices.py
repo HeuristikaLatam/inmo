@@ -52,7 +52,8 @@ PALABRAS_CLAVE = [
     "banco central", "tpm", "dólar", "dolar", "propiedad", "subsidio",
 ]
 
-MAX_TITULARES = 10
+MIN_TITULARES = 6
+MAX_TITULARES = 12
 
 
 def http_get(url, timeout=25, reintentos=4):
@@ -221,10 +222,17 @@ def get_titulares():
         time.sleep(0.2)
 
     relevantes = [it for it in todos if _texto_relevante(it["titulo"])]
-    # Si el filtro fue demasiado estricto y no dejó nada, mostramos los más
-    # recientes de todas formas en vez de una sección vacía.
-    fuente_final = relevantes if relevantes else todos
-    return fuente_final[:MAX_TITULARES]
+
+    # Si el filtro por palabras clave dejó pocos titulares (o ninguno),
+    # completamos con los más recientes de todas las fuentes, sin repetir,
+    # hasta llegar a un mínimo razonable en vez de mostrar una sección casi vacía.
+    if len(relevantes) < MIN_TITULARES:
+        links_ya_incluidos = {it["link"] for it in relevantes}
+        extra = [it for it in todos if it["link"] not in links_ya_incluidos]
+        faltan = MIN_TITULARES - len(relevantes)
+        relevantes = relevantes + extra[:faltan]
+
+    return relevantes[:MAX_TITULARES]
 
 
 # ---------------------------------------------------------------------------
