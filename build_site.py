@@ -376,7 +376,7 @@ HTML = f"""<!DOCTYPE html>
       <div class="diag-resultado" id="diag-resultado">
         <div class="diag-nivel" id="diag-nivel"></div>
         <div class="diag-texto" id="diag-texto"></div>
-        <a class="diag-cta" href="https://www.heuristika.pro/" target="_blank" rel="noopener">Agenda una conversación de 20 min</a>
+        <a class="diag-cta" href="https://calendly.com/falcerrecalapostol/30min" target="_blank" rel="noopener">Agenda una conversación de 20 min</a>
       </div>
     </div>
   </section>
