@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-17T06:03:52.584336+00:00",
+  "generado": "2026-07-17T12:01:59.743457+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Proyecto de reconstrucción entra en semana clave en la Cámara de Diputados tras luz verde del Senado",
+      "link": "http://www.df.cl/economia-y-politica/politica/proyecto-de-reconstruccion-entra-en-semana-clave-en-la-camara-de-diputados",
+      "fecha": "Fri, 17 Jul 2026 11:08:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Las divisas emergentes caen mientras el petróleo y el dólar se disparan por mayores tensiones entre Irán y EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/las-divisas-emergentes-caen-mientras-el-petroleo-y-el-dolar-se-disparan-por",
       "fecha": "Thu, 16 Jul 2026 16:37:33 GMT",
@@ -43,27 +49,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gobierno refuerza plan de emergencia ante sistema frontal que deja más de medio millón de clientes sin luz",
+      "titulo": "El petróleo Brent bordea los US$ 86 por barril y camina a su tercera alza semanal consecutiva",
+      "link": "http://www.df.cl/mercados/commodities/el-petroleo-brent-bordea-los-us-86-por-barril-y-camina-a-su-tercera-alza",
+      "fecha": "Fri, 17 Jul 2026 11:53:07 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El petróleo vuelve a subir por hostilidades entre EEUU e Irán y las fuertes pérdidas en semiconductores arrastran a las bolsas",
+      "link": "http://www.df.cl/primer-click/las-fuertes-perdidas-en-semiconductores-arrastran-al-resto-de-los-mercados",
+      "fecha": "Fri, 17 Jul 2026 11:40:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Extenso sistema frontal deja al menos tres muertos y más de 300 mil clientes sin luz por fuertes vientos y lluvias que seguirán el fin de semana",
       "link": "http://www.df.cl/economia-y-politica/sistema-frontal-deja-mas-de-570-mil-clientes-sin-suministro-y-gobierno",
-      "fecha": "Fri, 17 Jul 2026 00:47:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Es el modelo tributario de Paraguay una receta válida para reactivar el crecimiento de Chile?",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/es-el-modelo-tributario-de-paraguay-una-receta-valida-para-reactivar-el",
-      "fecha": "Thu, 16 Jul 2026 18:46:56 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "CAIA y alternativos en fondos generacionales: límite de 20% “no tiene lógica” y benchmark restringe búsqueda de mejores retornos",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/caia-y-alternativos-en-fondos-generacionales-limite-de-20-no-tiene",
-      "fecha": "Thu, 16 Jul 2026 22:55:49 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Wall Street cierra en rojo arrastrado por la preocupación por el gasto en la IA en nueva jornada volátil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/wall-street-abre-a-la-baja-pese-a-los-solidos-resultados-de-tsmc-en-medio",
-      "fecha": "Thu, 16 Jul 2026 20:53:49 GMT",
+      "fecha": "Fri, 17 Jul 2026 11:33:21 GMT",
       "fuente": "Diario Financiero"
     }
   ],
