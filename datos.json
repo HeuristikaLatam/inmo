@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-17T12:01:59.743457+00:00",
+  "generado": "2026-07-17T12:49:12.121416+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,6 +49,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Extenso sistema frontal deja al menos tres muertos y más de 300 mil clientes sin luz por fuertes vientos y lluvias que seguirán el fin de semana",
+      "link": "http://www.df.cl/economia-y-politica/sistema-frontal-deja-mas-de-570-mil-clientes-sin-suministro-y-gobierno",
+      "fecha": "Fri, 17 Jul 2026 12:05:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "El petróleo Brent bordea los US$ 86 por barril y camina a su tercera alza semanal consecutiva",
       "link": "http://www.df.cl/mercados/commodities/el-petroleo-brent-bordea-los-us-86-por-barril-y-camina-a-su-tercera-alza",
       "fecha": "Fri, 17 Jul 2026 11:53:07 GMT",
@@ -58,12 +64,6 @@
       "titulo": "El petróleo vuelve a subir por hostilidades entre EEUU e Irán y las fuertes pérdidas en semiconductores arrastran a las bolsas",
       "link": "http://www.df.cl/primer-click/las-fuertes-perdidas-en-semiconductores-arrastran-al-resto-de-los-mercados",
       "fecha": "Fri, 17 Jul 2026 11:40:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Extenso sistema frontal deja al menos tres muertos y más de 300 mil clientes sin luz por fuertes vientos y lluvias que seguirán el fin de semana",
-      "link": "http://www.df.cl/economia-y-politica/sistema-frontal-deja-mas-de-570-mil-clientes-sin-suministro-y-gobierno",
-      "fecha": "Fri, 17 Jul 2026 11:33:21 GMT",
       "fuente": "Diario Financiero"
     }
   ],
