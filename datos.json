@@ -1,11 +1,11 @@
 {
-  "generado": "2026-07-17T23:38:33.004516+00:00",
+  "generado": "2026-07-18T11:32:17.833446+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-17T04:00:00.000Z"
+      "fecha": "2026-07-18T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,15 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Radiografía al temporal: la economía resiste, con la energía y La Araucanía como puntos críticos",
-      "link": "http://www.df.cl/senal-df/factor-economico/radiografia-al-temporal-la-economia-resiste-con-la-energia-y-la-araucania",
-      "fecha": "Fri, 17 Jul 2026 23:23:57 GMT",
+      "titulo": "Matías Acevedo, exDipres: “Los ajustes que no se hagan en este presupuesto serán muy complicados de realizar o cada vez más difíciles de hacer en los posteriores”",
+      "link": "http://www.df.cl/senal-df/factor-economico/matias-acevedo-exdipres-los-ajustes-que-no-se-hagan-en-este-presupuesto",
+      "fecha": "Sat, 18 Jul 2026 00:02:47 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El primer año de Trautmann a la cabeza del Santander",
-      "link": "http://www.df.cl/senal-df/el-deal/el-primer-ano-de-trautmann-a-la-cabeza-del-santander",
-      "fecha": "Fri, 17 Jul 2026 23:29:55 GMT",
+      "titulo": "Radiografía al temporal: la economía resiste, con la energía y La Araucanía como puntos críticos",
+      "link": "http://www.df.cl/senal-df/factor-economico/radiografia-al-temporal-la-economia-resiste-con-la-energia-y-la-araucania",
+      "fecha": "Fri, 17 Jul 2026 23:23:57 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -72,11 +72,19 @@
       {
         "fecha": "2026-07-17",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-18",
+        "valor": 40844.79
       }
     ],
     "dolar": [
       {
         "fecha": "2026-07-17",
+        "valor": 924.5
+      },
+      {
+        "fecha": "2026-07-18",
         "valor": 924.5
       }
     ],
@@ -84,14 +92,30 @@
       {
         "fecha": "2026-07-17",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-18",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
         "fecha": "2026-07-17",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-18",
+        "valor": 4.26
       }
     ]
   },
-  "dato_remarcable": null
+  "dato_remarcable": {
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.0,
+    "modo": "cambio_pct",
+    "valor_actual": 40844.79,
+    "fecha": "2026-07-18"
+  }
 }
