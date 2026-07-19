@@ -1,11 +1,11 @@
 {
-  "generado": "2026-07-18T23:38:40.243976+00:00",
+  "generado": "2026-07-19T11:40:04.965493+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-18T04:00:00.000Z"
+      "fecha": "2026-07-19T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,16 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Tercer puesto Copa del Mundo 2026 | Francia vs. Inglaterra",
-      "link": "http://www.df.cl/copa-del-mundo-2026",
-      "fecha": "Sat, 18 Jul 2026 20:53:07 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Incendio afectó a tres viviendas en cité de Santiago: 4 adultos mayores afectados y 25 damnificados",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/07/19/incendio-afecto-a-tres-viviendas-en-cite-de-santiago-centro-cuatro-adultos-mayores-afectados.shtml",
+      "fecha": "Sun, 19 Jul 2026 11:17:52 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Sistema frontal eleva la presión sobre el norte: Gobierno amplía alertas, acelera evacuaciones y despliega coordinación nacional",
-      "link": "http://www.df.cl/economia-y-politica/pais/sistema-frontal-eleva-la-presion-sobre-el-norte-gobierno-amplia-alertas",
-      "fecha": "Sat, 18 Jul 2026 15:49:03 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Cristián Riquelme mostró los estragos del temporal en su vivienda en Maitencillo: \"Está desatado\"",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/07/18/cristian-riquelme-mostro-los-estragos-del-temporal-en-su-vivienda-en-maitencillo-esta-desatado.shtml",
+      "fecha": "Sun, 19 Jul 2026 03:10:48 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -76,6 +76,10 @@
       {
         "fecha": "2026-07-18",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-19",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -85,6 +89,10 @@
       },
       {
         "fecha": "2026-07-18",
+        "valor": 924.5
+      },
+      {
+        "fecha": "2026-07-19",
         "valor": 924.5
       }
     ],
@@ -96,6 +104,10 @@
       {
         "fecha": "2026-07-18",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-19",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -105,6 +117,10 @@
       },
       {
         "fecha": "2026-07-18",
+        "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-19",
         "valor": 4.26
       }
     ]
@@ -116,6 +132,6 @@
     "score": 0.0,
     "modo": "cambio_pct",
     "valor_actual": 40844.79,
-    "fecha": "2026-07-18"
+    "fecha": "2026-07-19"
   }
 }
