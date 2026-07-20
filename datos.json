@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-20T16:00:45.478279+00:00",
+  "generado": "2026-07-20T23:34:06.633517+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre a la baja por recuperación del cobre pero con inversionistas atentos a Medio Oriente",
+      "titulo": "Dólar cierra en baja por recuperación del cobre y con los inversionistas atentos a la tensión en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zz5g6",
-      "fecha": "Mon, 20 Jul 2026 12:48:20 GMT",
+      "fecha": "Mon, 20 Jul 2026 20:33:13 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La Moneda descarta postergar votación de proyecto de reconstrucción por temporales: “Es importante cerrar esta tramitación mañana”",
+      "link": "http://www.df.cl/economia-y-politica/politica/la-moneda-descarta-postergar-votacion-de-proyecto-de-reconstruccion-por",
+      "fecha": "Mon, 20 Jul 2026 19:46:10 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "El motor inmobiliario de Santiago se traslada a las comunas periféricas, según consultora",
       "link": "http://www.df.cl/empresas/construccion/el-motor-inmobiliario-de-santiago-se-traslada-a-las-comunas-perifericas",
-      "fecha": "Mon, 20 Jul 2026 12:56:56 GMT",
+      "fecha": "Mon, 20 Jul 2026 22:47:34 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,16 +61,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Resiliencia en construcción: cómo el Golfo redibuja sus rutas para reducir la dependencia de Ormuz",
-      "link": "http://www.df.cl/internacional/economia/resiliencia-en-construccion-como-el-golfo-redibuja-sus-rutas-para-reducir",
-      "fecha": "Fri, 17 Jul 2026 19:46:23 GMT",
+      "titulo": "Presidente de la SNA: \"Si vemos el lado medio lleno del vaso, esto va a ser más bueno que malo para la agricultura\"",
+      "link": "http://www.df.cl/empresas/actualidad/presidente-de-la-sna-si-vemos-el-lado-medio-lleno-del-vaso-esto-va-a-ser",
+      "fecha": "Mon, 20 Jul 2026 22:33:02 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Retiran techo de edificio del SLEP Andalién Costa que cayó sobre vivienda en Coronel: pesa 5 toneladas",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/07/20/retiran-techo-de-edificio-del-slep-andalien-costa-que-cayo-sobre-vivienda-en-coronel-pesa-5-toneladas.shtml",
-      "fecha": "Mon, 20 Jul 2026 15:08:27 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
