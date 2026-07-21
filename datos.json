@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-21T00:15:16.060159+00:00",
+  "generado": "2026-07-21T13:04:14.529505+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-20T04:00:00.000Z"
+      "fecha": "2026-07-21T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 933.92,
-      "fecha": "2026-07-20T04:00:00.000Z"
+      "valor": 933,
+      "fecha": "2026-07-21T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-20T04:00:00.000Z"
+      "fecha": "2026-07-21T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,18 @@
   },
   "titulares": [
     {
+      "titulo": "El dólar baja en la apertura por fuerte alza del cobre y pese a las apuestas de extranjeros contra el peso",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-z39pu",
+      "fecha": "Tue, 21 Jul 2026 12:45:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Superintendencia de Pensiones eleva tasa del retiro programado para el tercer trimestre",
+      "link": "http://www.df.cl/mercados/pensiones/superintendencia-de-pensiones-eleva-tasa-del-retiro-programado-para-el",
+      "fecha": "Tue, 21 Jul 2026 00:01:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra en baja por recuperación del cobre y con los inversionistas atentos a la tensión en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zz5g6",
       "fecha": "Mon, 20 Jul 2026 20:33:13 GMT",
@@ -43,28 +55,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El motor inmobiliario de Santiago se traslada a las comunas periféricas, según consultora",
-      "link": "http://www.df.cl/empresas/construccion/el-motor-inmobiliario-de-santiago-se-traslada-a-las-comunas-perifericas",
-      "fecha": "Mon, 20 Jul 2026 22:47:34 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Nuevo balance de Gobierno: suspensión de clases, 10 fallecidos y 23 mil viviendas afectadas",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/21/nuevo-balance-de-gobierno-suspension-de-clases-10-fallecidos-y-23-mil-viviendas-afectadas.shtml",
+      "fecha": "Tue, 21 Jul 2026 12:20:59 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Priscila Robledo, economista jefa de Fintual: “Nadie puede descartar varias subidas de tasas de la Fed”",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/priscila-robledo-economista-jefa-de-fintual-nadie-puede-descartar-varias",
-      "fecha": "Fri, 17 Jul 2026 21:49:04 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Adulto mayor muere en incendio que destruyó una vivienda y una sede en Lonquimay",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/07/21/adulto-mayor-muere-en-incendio-que-destruyo-una-vivienda-y-una-sede-en-lonquimay.shtml",
+      "fecha": "Tue, 21 Jul 2026 12:20:38 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "\"Un negocio judicial\": Accionistas de inmobiliaria de Villa Panamericana en Cerrillos rechazan demanda y apuntan a afán de lucro de firma extranjera",
-      "link": "http://www.df.cl/empresas/industria/accionistas-de-inmobiliaria-de-villa-panamericana-en-cerrillos-rechazan",
-      "fecha": "Mon, 20 Jul 2026 11:11:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Subtel: 92% de las estaciones base del país sigue operativa pese a las lluvias, mientras empresas advierten daños en infraestructura",
-      "link": "http://www.df.cl/empresas/industria/subtel-92-de-las-estaciones-base-del-pais-sigue-operativa-pese-a-las",
-      "fecha": "Mon, 20 Jul 2026 23:31:43 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Mujer sufre robo de celular en Santiago: ladrón disparó al aire, la botó, le sacó ropa y la golpeó",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/07/21/mujer-sufre-robo-de-celular-en-santiago-ladron-disparo-al-aire-la-boto-le-saco-ropa-y-la-golpeo.shtml",
+      "fecha": "Tue, 21 Jul 2026 10:52:31 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -109,7 +115,7 @@
       },
       {
         "fecha": "2026-07-21",
-        "valor": 933.92
+        "valor": 933
       }
     ],
     "tpm": [
@@ -158,12 +164,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.0,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.1,
+    "score": 0.099,
     "modo": "cambio_pct",
-    "valor_actual": 40844.79,
+    "valor_actual": 933,
     "fecha": "2026-07-21"
   }
 }
