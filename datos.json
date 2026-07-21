@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-20T23:34:06.633517+00:00",
+  "generado": "2026-07-21T00:15:16.060159+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -61,9 +61,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Presidente de la SNA: \"Si vemos el lado medio lleno del vaso, esto va a ser más bueno que malo para la agricultura\"",
-      "link": "http://www.df.cl/empresas/actualidad/presidente-de-la-sna-si-vemos-el-lado-medio-lleno-del-vaso-esto-va-a-ser",
-      "fecha": "Mon, 20 Jul 2026 22:33:02 GMT",
+      "titulo": "Subtel: 92% de las estaciones base del país sigue operativa pese a las lluvias, mientras empresas advierten daños en infraestructura",
+      "link": "http://www.df.cl/empresas/industria/subtel-92-de-las-estaciones-base-del-pais-sigue-operativa-pese-a-las",
+      "fecha": "Mon, 20 Jul 2026 23:31:43 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -84,6 +84,10 @@
       {
         "fecha": "2026-07-20",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-21",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -101,6 +105,10 @@
       },
       {
         "fecha": "2026-07-20",
+        "valor": 933.92
+      },
+      {
+        "fecha": "2026-07-21",
         "valor": 933.92
       }
     ],
@@ -120,6 +128,10 @@
       {
         "fecha": "2026-07-20",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-21",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -138,16 +150,20 @@
       {
         "fecha": "2026-07-20",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-21",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 1.02,
-    "score": 1.019,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.0,
     "modo": "cambio_pct",
-    "valor_actual": 933.92,
-    "fecha": "2026-07-20"
+    "valor_actual": 40844.79,
+    "fecha": "2026-07-21"
   }
 }
