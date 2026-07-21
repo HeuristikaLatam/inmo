@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-21T13:04:14.529505+00:00",
+  "generado": "2026-07-21T23:15:37.240301+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,46 +31,40 @@
   },
   "titulares": [
     {
-      "titulo": "El dólar baja en la apertura por fuerte alza del cobre y pese a las apuestas de extranjeros contra el peso",
+      "titulo": "Gremios celebran aprobación de proyecto de reconstrucción pero alertan sobre norma que prohíbe interés sobre interés",
+      "link": "http://www.df.cl/gremios-celebran-aprobacion-de-proyecto-de-reconstruccion-pero-alertan",
+      "fecha": "Tue, 21 Jul 2026 22:58:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Investigan vertimiento irregular de líquidos en aguas del Lago Llanquihue: municipio apunta a proyecto inmobiliario",
+      "link": "http://www.df.cl/regiones/los-lagos/investigan-vertimiento-irregular-de-liquidos-en-aguas-del-lago-llanquihue",
+      "fecha": "Tue, 21 Jul 2026 22:45:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Kast pide “resolver rápido” comisión mixta por reconstrucción: “Esto va a permitir mayor inversión”",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-pide-resolver-rapido-comision-mixta-por-reconstruccion-esto-va-a",
+      "fecha": "Tue, 21 Jul 2026 21:49:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El dólar frena caída y cierra con una leve alza por la fortaleza global de la divisa que opaca el impacto del aumento en el precio del cobre",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-z39pu",
-      "fecha": "Tue, 21 Jul 2026 12:45:45 GMT",
+      "fecha": "Tue, 21 Jul 2026 20:13:45 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Superintendencia de Pensiones eleva tasa del retiro programado para el tercer trimestre",
-      "link": "http://www.df.cl/mercados/pensiones/superintendencia-de-pensiones-eleva-tasa-del-retiro-programado-para-el",
-      "fecha": "Tue, 21 Jul 2026 00:01:08 GMT",
+      "titulo": "¿Cómo impactaría al mercado inmobiliario la prohibición del anatocismo?",
+      "link": "http://www.df.cl/mercados/banca-fintech/como-impactaria-al-mercado-inmobiliario-la-prohibicion-del-anatocismo",
+      "fecha": "Tue, 21 Jul 2026 22:51:44 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra en baja por recuperación del cobre y con los inversionistas atentos a la tensión en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zz5g6",
-      "fecha": "Mon, 20 Jul 2026 20:33:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La Moneda descarta postergar votación de proyecto de reconstrucción por temporales: “Es importante cerrar esta tramitación mañana”",
-      "link": "http://www.df.cl/economia-y-politica/politica/la-moneda-descarta-postergar-votacion-de-proyecto-de-reconstruccion-por",
-      "fecha": "Mon, 20 Jul 2026 19:46:10 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Nuevo balance de Gobierno: suspensión de clases, 10 fallecidos y 23 mil viviendas afectadas",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/21/nuevo-balance-de-gobierno-suspension-de-clases-10-fallecidos-y-23-mil-viviendas-afectadas.shtml",
-      "fecha": "Tue, 21 Jul 2026 12:20:59 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Adulto mayor muere en incendio que destruyó una vivienda y una sede en Lonquimay",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/07/21/adulto-mayor-muere-en-incendio-que-destruyo-una-vivienda-y-una-sede-en-lonquimay.shtml",
-      "fecha": "Tue, 21 Jul 2026 12:20:38 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Mujer sufre robo de celular en Santiago: ladrón disparó al aire, la botó, le sacó ropa y la golpeó",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/07/21/mujer-sufre-robo-de-celular-en-santiago-ladron-disparo-al-aire-la-boto-le-saco-ropa-y-la-golpeo.shtml",
-      "fecha": "Tue, 21 Jul 2026 10:52:31 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "CMF, Banco Central y la banca disparan contra proyecto que prohíbe el anatocismo",
+      "link": "https://www.cooperativa.cl/noticias/economia/cmf-banco-central-y-la-banca-disparan-contra-proyecto-que-prohibe-el/2026-07-21/150644.html",
+      "fecha": "Tue, 21 Jul 2026 15:06:44 -0400",
+      "fuente": "Cooperativa"
     }
   ],
   "historial": {
