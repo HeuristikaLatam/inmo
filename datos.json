@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-21T23:15:37.240301+00:00",
+  "generado": "2026-07-22T00:06:57.186842+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,9 @@
   },
   "titulares": [
     {
-      "titulo": "Gremios celebran aprobación de proyecto de reconstrucción pero alertan sobre norma que prohíbe interés sobre interés",
-      "link": "http://www.df.cl/gremios-celebran-aprobacion-de-proyecto-de-reconstruccion-pero-alertan",
-      "fecha": "Tue, 21 Jul 2026 22:58:56 GMT",
+      "titulo": "Gremios celebran aprobación de proyecto de reconstrucción, pero alertan sobre norma que prohíbe interés sobre interés",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/gremios-celebran-aprobacion-de-proyecto-de-reconstruccion-pero-alertan",
+      "fecha": "Tue, 21 Jul 2026 23:18:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -57,7 +57,7 @@
     {
       "titulo": "¿Cómo impactaría al mercado inmobiliario la prohibición del anatocismo?",
       "link": "http://www.df.cl/mercados/banca-fintech/como-impactaria-al-mercado-inmobiliario-la-prohibicion-del-anatocismo",
-      "fecha": "Tue, 21 Jul 2026 22:51:44 GMT",
+      "fecha": "Tue, 21 Jul 2026 23:26:31 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -88,6 +88,10 @@
       {
         "fecha": "2026-07-21",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-22",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -109,6 +113,10 @@
       },
       {
         "fecha": "2026-07-21",
+        "valor": 933
+      },
+      {
+        "fecha": "2026-07-22",
         "valor": 933
       }
     ],
@@ -132,6 +140,10 @@
       {
         "fecha": "2026-07-21",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-22",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -154,16 +166,20 @@
       {
         "fecha": "2026-07-21",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-22",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.1,
-    "score": 0.099,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.0,
     "modo": "cambio_pct",
-    "valor_actual": 933,
-    "fecha": "2026-07-21"
+    "valor_actual": 40844.79,
+    "fecha": "2026-07-22"
   }
 }
