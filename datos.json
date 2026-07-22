@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-22T15:22:28.983663+00:00",
+  "generado": "2026-07-22T23:32:44.215246+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,33 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "El dólar sube a media mañana en medio de caída del cobre y alza del petróleo",
+      "titulo": "Argentina presenta proyecto de ley para atraer ahorros en dólares no declarados",
+      "link": "http://www.df.cl/internacional/economia/argentina-presenta-proyecto-de-ley-para-atraer-ahorros-en-dolares-no",
+      "fecha": "Wed, 22 Jul 2026 22:10:06 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El dólar cierra con leve alza cerca de máximos del año en medio de caída del cobre y alza del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/el-dolar-sube-en-la-apertura-y-se-acerca-a-maximo-del-ano-en-medio-de-caida",
-      "fecha": "Wed, 22 Jul 2026 14:05:55 GMT",
+      "fecha": "Wed, 22 Jul 2026 20:08:21 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gremios celebran aprobación de proyecto de reconstrucción, pero alertan sobre norma que prohíbe interés sobre interés",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/gremios-celebran-aprobacion-de-proyecto-de-reconstruccion-pero-alertan",
-      "fecha": "Tue, 21 Jul 2026 23:18:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Investigan vertimiento irregular de líquidos en aguas del Lago Llanquihue: municipio apunta a proyecto inmobiliario",
-      "link": "http://www.df.cl/regiones/los-lagos/investigan-vertimiento-irregular-de-liquidos-en-aguas-del-lago-llanquihue",
-      "fecha": "Tue, 21 Jul 2026 22:45:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast pide “resolver rápido” comisión mixta por reconstrucción: “Esto va a permitir mayor inversión”",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-pide-resolver-rapido-comision-mixta-por-reconstruccion-esto-va-a",
-      "fecha": "Tue, 21 Jul 2026 21:49:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El dólar frena caída y cierra con una leve alza por la fortaleza global de la divisa que opaca el impacto del aumento en el precio del cobre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-z39pu",
-      "fecha": "Tue, 21 Jul 2026 20:13:45 GMT",
+      "titulo": "Indap anuncia prórroga automática de 90 días para pago de créditos a todos sus usuarios de las regiones de Atacama y Coquimbo",
+      "link": "http://www.df.cl/regiones/coquimbo/indap-anuncia-prorroga-automatica-de-90-dias-para-pago-de-creditos-a-todos",
+      "fecha": "Wed, 22 Jul 2026 15:47:07 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -65,6 +53,18 @@
       "link": "https://www.cooperativa.cl/noticias/economia/cmf-banco-central-y-la-banca-disparan-contra-proyecto-que-prohibe-el/2026-07-21/150644.html",
       "fecha": "Tue, 21 Jul 2026 15:06:44 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Comités de vivienda protestan por recorte del DS49 y Poduje responsabiliza al gobierno anterior",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/22/comites-de-vivienda-protestan-por-recorte-del-ds49-y-poduje-apunta-al-gobierno-anterior.shtml",
+      "fecha": "Wed, 22 Jul 2026 23:04:40 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Sistema frontal: gremio de camioneros y Mercado Lo Valledor advierten efectos de los cortes de caminos",
+      "link": "http://www.df.cl/economia-y-politica/pais/sistema-frontal-gremio-de-camioneros-y-mercado-lo-valledor-advierten",
+      "fecha": "Wed, 22 Jul 2026 23:05:26 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
