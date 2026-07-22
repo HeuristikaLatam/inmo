@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-22T00:06:57.186842+00:00",
+  "generado": "2026-07-22T13:12:24.775542+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-21T04:00:00.000Z"
+      "fecha": "2026-07-22T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 933,
-      "fecha": "2026-07-21T04:00:00.000Z"
+      "valor": 932.84,
+      "fecha": "2026-07-22T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-21T04:00:00.000Z"
+      "fecha": "2026-07-22T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "El dólar sube en la apertura y se acerca a máximo del año en medio de caída del cobre y alza del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/el-dolar-sube-en-la-apertura-y-se-acerca-a-maximo-del-ano-en-medio-de-caida",
+      "fecha": "Wed, 22 Jul 2026 12:59:08 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Gremios celebran aprobación de proyecto de reconstrucción, pero alertan sobre norma que prohíbe interés sobre interés",
       "link": "http://www.df.cl/economia-y-politica/actualidad/gremios-celebran-aprobacion-de-proyecto-de-reconstruccion-pero-alertan",
@@ -55,16 +61,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿Cómo impactaría al mercado inmobiliario la prohibición del anatocismo?",
-      "link": "http://www.df.cl/mercados/banca-fintech/como-impactaria-al-mercado-inmobiliario-la-prohibicion-del-anatocismo",
-      "fecha": "Tue, 21 Jul 2026 23:26:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "CMF, Banco Central y la banca disparan contra proyecto que prohíbe el anatocismo",
       "link": "https://www.cooperativa.cl/noticias/economia/cmf-banco-central-y-la-banca-disparan-contra-proyecto-que-prohibe-el/2026-07-21/150644.html",
       "fecha": "Tue, 21 Jul 2026 15:06:44 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Vehículo termina volcado luego de colisión en Maipú: chofer habría sufrido descompensación",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/07/22/vehiculo-termina-volcado-luego-de-colision-en-maipu-chofer-habria-sufrido-descompensacion.shtml",
+      "fecha": "Wed, 22 Jul 2026 12:36:40 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -117,7 +123,7 @@
       },
       {
         "fecha": "2026-07-22",
-        "valor": 933
+        "valor": 932.84
       }
     ],
     "tpm": [
@@ -174,12 +180,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.0,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.02,
+    "score": 0.017,
     "modo": "cambio_pct",
-    "valor_actual": 40844.79,
+    "valor_actual": 932.84,
     "fecha": "2026-07-22"
   }
 }
