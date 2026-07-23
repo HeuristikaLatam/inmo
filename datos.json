@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-22T23:32:44.215246+00:00",
+  "generado": "2026-07-23T16:02:51.589433+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-22T04:00:00.000Z"
+      "fecha": "2026-07-23T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 932.84,
-      "fecha": "2026-07-22T04:00:00.000Z"
+      "valor": 936.39,
+      "fecha": "2026-07-23T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-22T04:00:00.000Z"
+      "fecha": "2026-07-23T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,30 @@
   },
   "titulares": [
     {
+      "titulo": "Ñuble aprueba construcción del mayor parque fotovoltaico de la región: inversión alcanza los US$ 400 millones",
+      "link": "http://www.df.cl/regiones/nuble/empresas/nuble-aprueba-construccion-del-mayor-parque-fotovoltaico-de-la-region",
+      "fecha": "Thu, 23 Jul 2026 15:42:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El dólar sube casi $10 a media mañana a máximos en 2026 por fortalecimiento global de la divisa, alza del petróleo y caída en el precio del cobre",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dyjf4",
+      "fecha": "Thu, 23 Jul 2026 15:55:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El BCE pausa el alza de tasas pese al nuevo incremento de los precios del petróleo",
+      "link": "http://www.df.cl/internacional/ft/el-bce-pausa-el-alza-de-tasas-pese-al-nuevo-incremento-de-los-precios-del",
+      "fecha": "Thu, 23 Jul 2026 13:28:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ética del crédito y la Tasa Máxima Convencional: una propuesta de equilibrio",
+      "link": "http://www.df.cl/opinion/columnistas/etica-del-credito-y-la-tasa-maxima-convencional-una-propuesta-de",
+      "fecha": "Wed, 22 Jul 2026 23:40:38 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Argentina presenta proyecto de ley para atraer ahorros en dólares no declarados",
       "link": "http://www.df.cl/internacional/economia/argentina-presenta-proyecto-de-ley-para-atraer-ahorros-en-dolares-no",
       "fecha": "Wed, 22 Jul 2026 22:10:06 GMT",
@@ -43,10 +67,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Indap anuncia prórroga automática de 90 días para pago de créditos a todos sus usuarios de las regiones de Atacama y Coquimbo",
-      "link": "http://www.df.cl/regiones/coquimbo/indap-anuncia-prorroga-automatica-de-90-dias-para-pago-de-creditos-a-todos",
-      "fecha": "Wed, 22 Jul 2026 15:47:07 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
+      "fecha": "Thu, 23 Jul 2026 10:16:23 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "CMF, Banco Central y la banca disparan contra proyecto que prohíbe el anatocismo",
@@ -55,16 +79,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Comités de vivienda protestan por recorte del DS49 y Poduje responsabiliza al gobierno anterior",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/22/comites-de-vivienda-protestan-por-recorte-del-ds49-y-poduje-apunta-al-gobierno-anterior.shtml",
-      "fecha": "Wed, 22 Jul 2026 23:04:40 +0000",
+      "titulo": "Plazo está próximo a vencer: cómo postular al Subsidio de Arriendo 2026 y qué requisitos debes cumplir",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/07/23/plazo-esta-proximo-a-vencer-como-postular-al-subsidio-de-arriendo-2026-y-que-requisitos-debes-cumplir.shtml",
+      "fecha": "Thu, 23 Jul 2026 15:26:48 +0000",
       "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Sistema frontal: gremio de camioneros y Mercado Lo Valledor advierten efectos de los cortes de caminos",
-      "link": "http://www.df.cl/economia-y-politica/pais/sistema-frontal-gremio-de-camioneros-y-mercado-lo-valledor-advierten",
-      "fecha": "Wed, 22 Jul 2026 23:05:26 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -92,6 +110,10 @@
       {
         "fecha": "2026-07-22",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-23",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -118,6 +140,10 @@
       {
         "fecha": "2026-07-22",
         "valor": 932.84
+      },
+      {
+        "fecha": "2026-07-23",
+        "valor": 936.39
       }
     ],
     "tpm": [
@@ -143,6 +169,10 @@
       },
       {
         "fecha": "2026-07-22",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-23",
         "valor": 4.5
       }
     ],
@@ -170,16 +200,20 @@
       {
         "fecha": "2026-07-22",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-23",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.02,
-    "score": 0.017,
-    "modo": "cambio_pct",
-    "valor_actual": 932.84,
-    "fecha": "2026-07-22"
+    "cambio_pct": 0.38,
+    "score": 0.475,
+    "modo": "zscore",
+    "valor_actual": 936.39,
+    "fecha": "2026-07-23"
   }
 }
