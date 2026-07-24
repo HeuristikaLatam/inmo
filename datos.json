@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-24T00:13:58.960075+00:00",
+  "generado": "2026-07-24T13:05:41.513526+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-23T04:00:00.000Z"
+      "fecha": "2026-07-24T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 936.39,
-      "fecha": "2026-07-23T04:00:00.000Z"
+      "valor": 946.24,
+      "fecha": "2026-07-24T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-23T04:00:00.000Z"
+      "fecha": "2026-07-24T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,51 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "Trump impone aranceles relacionados con trabajo forzoso que elevan la tasa que aplica a Chile de 10% a 12,5%",
-      "link": "http://www.df.cl/internacional/economia/trump-impone-aranceles-relacionados-con-trabajo-forzoso-que-elevan-la-tasa",
-      "fecha": "Thu, 23 Jul 2026 23:24:54 GMT",
+      "titulo": "El dólar baja en la apertura en medio de respiro en la escalada en los precios del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
+      "fecha": "Fri, 24 Jul 2026 12:55:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Crédito tributario al empleo: cómo quedó y cómo funcionará una de las medidas emblemáticas del proyecto de reconstrucción",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/credito-tributario-al-empleo-como-quedo-y-como-funcionara-una-de-las",
+      "fecha": "Fri, 24 Jul 2026 00:43:25 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mercado anticipa que el Banco Central mantendrá la tasa en reunión de la próxima semana",
+      "link": "http://www.df.cl/economia-y-politica/macro/mercado-anticipa-que-el-banco-central-mantendra-la-tasa-en-reunion-de-la",
+      "fecha": "Fri, 24 Jul 2026 00:15:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "El dólar cierra con alza de casi $ 11 a un máximo en 9 meses por demanda global de la divisa, en medio de avance del petróleo y caída en el precio del cobre",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dyjf4",
-      "fecha": "Thu, 23 Jul 2026 20:25:12 GMT",
+      "fecha": "Fri, 24 Jul 2026 01:10:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "“Comprábamos con sobreprecio”: exdirector de Azul Azul denuncia posible multipropiedad e irregularidades en el traspaso de jugadores entre Universidad de Chile y Huachipato",
       "link": "http://www.df.cl/mercados/fondos-de-inversion/comprabamos-con-sobreprecio-exdirector-de-azul-azul-denuncia-posible",
-      "fecha": "Thu, 23 Jul 2026 20:05:04 GMT",
+      "fecha": "Fri, 24 Jul 2026 00:21:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Los devastadores terremotos que sufrió Venezuela dejaron daños por al menos US$ 19.600 millones, según el Banco Mundial",
       "link": "http://www.df.cl/internacional/economia/los-devastadores-terremotos-que-sufrio-venezuela-dejaron-danos-por-al-menos",
       "fecha": "Thu, 23 Jul 2026 19:31:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Cifras récords en exportación de servicios: el escenario que recibe al crédito al empleo",
-      "link": "http://www.df.cl/economia-y-politica/macro/cifras-records-en-exportacion-de-servicios-el-escenario-que-recibe-al",
-      "fecha": "Thu, 23 Jul 2026 16:14:36 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ñuble aprueba construcción del mayor parque fotovoltaico de la región: inversión alcanza los US$ 400 millones",
-      "link": "http://www.df.cl/regiones/nuble/empresas/nuble-aprueba-construccion-del-mayor-parque-fotovoltaico-de-la-region",
-      "fecha": "Thu, 23 Jul 2026 15:42:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El BCE pausa el alza de tasas pese al nuevo incremento de los precios del petróleo",
-      "link": "http://www.df.cl/internacional/ft/el-bce-pausa-el-alza-de-tasas-pese-al-nuevo-incremento-de-los-precios-del",
-      "fecha": "Thu, 23 Jul 2026 13:28:40 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ética del crédito y la Tasa Máxima Convencional: una propuesta de equilibrio",
-      "link": "http://www.df.cl/opinion/columnistas/etica-del-credito-y-la-tasa-maxima-convencional-una-propuesta-de",
-      "fecha": "Wed, 22 Jul 2026 23:40:38 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -91,9 +79,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Cómo cobrar los seguros en caso de daños en vivienda o auto por el sistema frontal",
-      "link": "https://www.biobiochile.cl/noticias/economia/tu-bolsillo/2026/07/23/como-cobrar-los-seguros-en-caso-de-danos-en-vivienda-o-auto-por-el-sistema-frontal.shtml",
-      "fecha": "Thu, 23 Jul 2026 23:38:40 +0000",
+      "titulo": "Personas y empresas que donen reciben beneficios tributario: Gobierno activó Fondo de Reconstrucción",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/24/personas-y-empresas-que-donen-reciben-beneficios-tributario-gobierno-activo-fondo-de-reconstruccion.shtml",
+      "fecha": "Fri, 24 Jul 2026 11:18:31 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -163,7 +151,7 @@
       },
       {
         "fecha": "2026-07-24",
-        "valor": 936.39
+        "valor": 946.24
       }
     ],
     "tpm": [
@@ -238,10 +226,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.547,
+    "cambio_pct": 1.05,
+    "score": 2.142,
     "modo": "zscore",
-    "valor_actual": 936.39,
+    "valor_actual": 946.24,
     "fecha": "2026-07-24"
   }
 }
