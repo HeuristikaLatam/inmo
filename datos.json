@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-23T23:15:30.486931+00:00",
+  "generado": "2026-07-24T00:13:58.960075+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -33,7 +33,7 @@
     {
       "titulo": "Trump impone aranceles relacionados con trabajo forzoso que elevan la tasa que aplica a Chile de 10% a 12,5%",
       "link": "http://www.df.cl/internacional/economia/trump-impone-aranceles-relacionados-con-trabajo-forzoso-que-elevan-la-tasa",
-      "fecha": "Thu, 23 Jul 2026 23:14:25 GMT",
+      "fecha": "Thu, 23 Jul 2026 23:24:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -91,9 +91,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Pucón solicita a la UFRO mejorar su oferta académica o no renovará comodato del edificio del campus",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/07/23/pucon-solicita-a-la-ufro-mejorar-su-oferta-academica-o-no-renovara-comodato-del-edificio-del-campus.shtml",
-      "fecha": "Thu, 23 Jul 2026 22:05:14 +0000",
+      "titulo": "Cómo cobrar los seguros en caso de daños en vivienda o auto por el sistema frontal",
+      "link": "https://www.biobiochile.cl/noticias/economia/tu-bolsillo/2026/07/23/como-cobrar-los-seguros-en-caso-de-danos-en-vivienda-o-auto-por-el-sistema-frontal.shtml",
+      "fecha": "Thu, 23 Jul 2026 23:38:40 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -126,6 +126,10 @@
       {
         "fecha": "2026-07-23",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-24",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -155,6 +159,10 @@
       },
       {
         "fecha": "2026-07-23",
+        "valor": 936.39
+      },
+      {
+        "fecha": "2026-07-24",
         "valor": 936.39
       }
     ],
@@ -186,6 +194,10 @@
       {
         "fecha": "2026-07-23",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-24",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -216,16 +228,20 @@
       {
         "fecha": "2026-07-23",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-24",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.38,
-    "score": 0.475,
+    "cambio_pct": 0.0,
+    "score": 0.547,
     "modo": "zscore",
     "valor_actual": 936.39,
-    "fecha": "2026-07-23"
+    "fecha": "2026-07-24"
   }
 }
