@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-24T13:05:41.513526+00:00",
+  "generado": "2026-07-24T15:15:15.471833+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "Junta de acreedores de Edyce resuelve aprobar el Acuerdo de Reorganización Judicial de la manufacturera de Biobío",
+      "link": "http://www.df.cl/regiones/biobio/empresas/junta-de-acreedores-de-edyce-resuelve-aprobar-el-acuerdo-de-reorganizacion",
+      "fecha": "Fri, 24 Jul 2026 15:09:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Latam sufre por el petróleo pero el mercado la ve preparada para resistir el shock",
+      "link": "http://www.df.cl/senal-df/senales-financieras/latam-sufre-por-el-petroleo-pero-el-mercado-la-ve-preparada-para-resistir",
+      "fecha": "Fri, 24 Jul 2026 13:48:49 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "El dólar baja en la apertura en medio de respiro en la escalada en los precios del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
-      "fecha": "Fri, 24 Jul 2026 12:55:54 GMT",
+      "fecha": "Fri, 24 Jul 2026 13:12:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,24 +61,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El dólar cierra con alza de casi $ 11 a un máximo en 9 meses por demanda global de la divisa, en medio de avance del petróleo y caída en el precio del cobre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dyjf4",
-      "fecha": "Fri, 24 Jul 2026 01:10:53 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "“Comprábamos con sobreprecio”: exdirector de Azul Azul denuncia posible multipropiedad e irregularidades en el traspaso de jugadores entre Universidad de Chile y Huachipato",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/comprabamos-con-sobreprecio-exdirector-de-azul-azul-denuncia-posible",
-      "fecha": "Fri, 24 Jul 2026 00:21:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Los devastadores terremotos que sufrió Venezuela dejaron daños por al menos US$ 19.600 millones, según el Banco Mundial",
-      "link": "http://www.df.cl/internacional/economia/los-devastadores-terremotos-que-sufrio-venezuela-dejaron-danos-por-al-menos",
-      "fecha": "Thu, 23 Jul 2026 19:31:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
       "fecha": "Thu, 23 Jul 2026 10:16:23 -0400",
@@ -79,9 +73,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Personas y empresas que donen reciben beneficios tributario: Gobierno activó Fondo de Reconstrucción",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/24/personas-y-empresas-que-donen-reciben-beneficios-tributario-gobierno-activo-fondo-de-reconstruccion.shtml",
-      "fecha": "Fri, 24 Jul 2026 11:18:31 +0000",
+      "titulo": "Ludmila contó el momento que más la hizo sufrir tras su separación: involucra a ex de Ballero",
+      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/07/24/ludmila-conto-el-momento-que-mas-la-hizo-sufrir-tras-su-separacion-involucra-a-ex-de-ballero.shtml",
+      "fecha": "Fri, 24 Jul 2026 14:53:54 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Ñuble: El Carmen reporta viviendas anegadas por colapso de alcantarillados tras intensas lluvias",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/07/24/nuble-el-carmen-reporta-viviendas-anegadas-por-colapso-de-alcantarillados-tras-intensas-lluvias.shtml",
+      "fecha": "Fri, 24 Jul 2026 14:26:54 +0000",
       "fuente": "BioBioChile"
     }
   ],
