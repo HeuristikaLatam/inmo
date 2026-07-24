@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-24T15:15:15.471833+00:00",
+  "generado": "2026-07-24T23:39:09.838591+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,33 +31,27 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra al alza con un nuevo máximo en nueve meses en medio de la caída del precio del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
+      "fecha": "Fri, 24 Jul 2026 20:24:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Miami supera a Nueva York en ventas de viviendas de ultralujo por migración de grandes fortunas",
+      "link": "http://www.df.cl/internacional/economia/miami-supera-a-nueva-york-en-ventas-de-viviendas-de-ultralujo-por-migracion",
+      "fecha": "Fri, 24 Jul 2026 16:08:51 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Junta de acreedores de Edyce resuelve aprobar el Acuerdo de Reorganización Judicial de la manufacturera de Biobío",
       "link": "http://www.df.cl/regiones/biobio/empresas/junta-de-acreedores-de-edyce-resuelve-aprobar-el-acuerdo-de-reorganizacion",
-      "fecha": "Fri, 24 Jul 2026 15:09:40 GMT",
+      "fecha": "Fri, 24 Jul 2026 18:33:17 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Latam sufre por el petróleo pero el mercado la ve preparada para resistir el shock",
       "link": "http://www.df.cl/senal-df/senales-financieras/latam-sufre-por-el-petroleo-pero-el-mercado-la-ve-preparada-para-resistir",
-      "fecha": "Fri, 24 Jul 2026 13:48:49 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El dólar baja en la apertura en medio de respiro en la escalada en los precios del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
-      "fecha": "Fri, 24 Jul 2026 13:12:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Crédito tributario al empleo: cómo quedó y cómo funcionará una de las medidas emblemáticas del proyecto de reconstrucción",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/credito-tributario-al-empleo-como-quedo-y-como-funcionara-una-de-las",
-      "fecha": "Fri, 24 Jul 2026 00:43:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Mercado anticipa que el Banco Central mantendrá la tasa en reunión de la próxima semana",
-      "link": "http://www.df.cl/economia-y-politica/macro/mercado-anticipa-que-el-banco-central-mantendra-la-tasa-en-reunion-de-la",
-      "fecha": "Fri, 24 Jul 2026 00:15:27 GMT",
+      "fecha": "Fri, 24 Jul 2026 23:17:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -71,18 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/cmf-banco-central-y-la-banca-disparan-contra-proyecto-que-prohibe-el/2026-07-21/150644.html",
       "fecha": "Tue, 21 Jul 2026 15:06:44 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Ludmila contó el momento que más la hizo sufrir tras su separación: involucra a ex de Ballero",
-      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/07/24/ludmila-conto-el-momento-que-mas-la-hizo-sufrir-tras-su-separacion-involucra-a-ex-de-ballero.shtml",
-      "fecha": "Fri, 24 Jul 2026 14:53:54 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Ñuble: El Carmen reporta viviendas anegadas por colapso de alcantarillados tras intensas lluvias",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/07/24/nuble-el-carmen-reporta-viviendas-anegadas-por-colapso-de-alcantarillados-tras-intensas-lluvias.shtml",
-      "fecha": "Fri, 24 Jul 2026 14:26:54 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
