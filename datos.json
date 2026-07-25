@@ -1,11 +1,11 @@
 {
-  "generado": "2026-07-24T23:39:09.838591+00:00",
+  "generado": "2026-07-25T06:06:08.083909+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-24T04:00:00.000Z"
+      "fecha": "2026-07-25T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -100,6 +100,10 @@
       {
         "fecha": "2026-07-24",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-25",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -133,6 +137,10 @@
       },
       {
         "fecha": "2026-07-24",
+        "valor": 946.24
+      },
+      {
+        "fecha": "2026-07-25",
         "valor": 946.24
       }
     ],
@@ -168,6 +176,10 @@
       {
         "fecha": "2026-07-24",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-25",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -202,16 +214,20 @@
       {
         "fecha": "2026-07-24",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-25",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 1.05,
-    "score": 2.142,
+    "cambio_pct": 0.0,
+    "score": 0.716,
     "modo": "zscore",
     "valor_actual": 946.24,
-    "fecha": "2026-07-24"
+    "fecha": "2026-07-25"
   }
 }
