@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-25T12:11:24.715202+00:00",
+  "generado": "2026-07-25T22:39:54.083378+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,22 +49,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Latam sufre por el petróleo pero el mercado la ve preparada para resistir el shock",
-      "link": "http://www.df.cl/senal-df/senales-financieras/latam-sufre-por-el-petroleo-pero-el-mercado-la-ve-preparada-para-resistir",
-      "fecha": "Fri, 24 Jul 2026 23:17:53 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
       "fecha": "Thu, 23 Jul 2026 10:16:23 -0400",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "CMF, Banco Central y la banca disparan contra proyecto que prohíbe el anatocismo",
-      "link": "https://www.cooperativa.cl/noticias/economia/cmf-banco-central-y-la-banca-disparan-contra-proyecto-que-prohibe-el/2026-07-21/150644.html",
-      "fecha": "Tue, 21 Jul 2026 15:06:44 -0400",
-      "fuente": "Cooperativa"
+      "titulo": "Reconstrucción en duda: parlamentarios exigen incluir a Atacama y Coquimbo en financiamiento",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/25/reconstruccion-en-duda-parlamentarios-exigen-incluir-a-atacama-y-coquimbo-en-financiamiento.shtml",
+      "fecha": "Sat, 25 Jul 2026 20:34:07 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "La respuesta de firma ligada a hijos de Piñera por observaciones a proyecto inmobiliario en lago Ranco",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/25/la-respuesta-de-firma-ligada-a-hijos-de-pinera-por-observaciones-a-proyecto-inmobiliario-en-lago-ranco.shtml",
+      "fecha": "Sat, 25 Jul 2026 18:23:15 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
