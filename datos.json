@@ -1,11 +1,11 @@
 {
-  "generado": "2026-07-25T22:39:54.083378+00:00",
+  "generado": "2026-07-26T07:13:45.243855+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-25T04:00:00.000Z"
+      "fecha": "2026-07-26T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -37,34 +37,34 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Miami supera a Nueva York en ventas de viviendas de ultralujo por migración de grandes fortunas",
-      "link": "http://www.df.cl/internacional/economia/miami-supera-a-nueva-york-en-ventas-de-viviendas-de-ultralujo-por-migracion",
-      "fecha": "Fri, 24 Jul 2026 16:08:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Junta de acreedores de Edyce resuelve aprobar el Acuerdo de Reorganización Judicial de la manufacturera de Biobío",
-      "link": "http://www.df.cl/regiones/biobio/empresas/junta-de-acreedores-de-edyce-resuelve-aprobar-el-acuerdo-de-reorganizacion",
-      "fecha": "Fri, 24 Jul 2026 18:33:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
       "fecha": "Thu, 23 Jul 2026 10:16:23 -0400",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Reconstrucción en duda: parlamentarios exigen incluir a Atacama y Coquimbo en financiamiento",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/25/reconstruccion-en-duda-parlamentarios-exigen-incluir-a-atacama-y-coquimbo-en-financiamiento.shtml",
-      "fecha": "Sat, 25 Jul 2026 20:34:07 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Franco Parisi: “Estamos aprendiendo a gobernar, tomando nota de los errores”",
+      "link": "http://www.df.cl/df-mas/politica/franco-parisi-estamos-aprendiendo-a-gobernar-tomando-nota-de-los",
+      "fecha": "Sat, 25 Jul 2026 23:18:45 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La respuesta de firma ligada a hijos de Piñera por observaciones a proyecto inmobiliario en lago Ranco",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/25/la-respuesta-de-firma-ligada-a-hijos-de-pinera-por-observaciones-a-proyecto-inmobiliario-en-lago-ranco.shtml",
-      "fecha": "Sat, 25 Jul 2026 18:23:15 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "El backstage de la reaparición de Mara Sedini (Y lo que viene ahora)",
+      "link": "http://www.df.cl/df-mas/coffee-break/el-backstage-de-la-reaparicion-de-mara-sedini-y-lo-que-viene-ahora",
+      "fecha": "Sat, 25 Jul 2026 16:35:41 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La columna de J.J.Jinks; Un problema mundial",
+      "link": "http://www.df.cl/df-mas/opinion/la-columna-de-j-j-jinks-un-problema-mundial",
+      "fecha": "Fri, 24 Jul 2026 23:23:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Bienvenidos a la era del algodón de azúcar financiero",
+      "link": "http://www.df.cl/df-mas/glocal/bienvenidos-a-la-era-del-algodon-de-azucar-financiero",
+      "fecha": "Fri, 24 Jul 2026 23:12:50 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -104,6 +104,10 @@
       {
         "fecha": "2026-07-25",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-26",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -141,6 +145,10 @@
       },
       {
         "fecha": "2026-07-25",
+        "valor": 946.24
+      },
+      {
+        "fecha": "2026-07-26",
         "valor": 946.24
       }
     ],
@@ -180,6 +188,10 @@
       {
         "fecha": "2026-07-25",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-26",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -218,6 +230,10 @@
       {
         "fecha": "2026-07-25",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-26",
+        "valor": 4.26
       }
     ]
   },
@@ -225,9 +241,9 @@
     "indicador": "dolar",
     "nombre": "el dólar",
     "cambio_pct": 0.0,
-    "score": 0.716,
+    "score": 0.649,
     "modo": "zscore",
     "valor_actual": 946.24,
-    "fecha": "2026-07-25"
+    "fecha": "2026-07-26"
   }
 }
