@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-26T12:44:18.071598+00:00",
+  "generado": "2026-07-26T23:16:59.830919+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,18 @@
   },
   "titulares": [
     {
+      "titulo": "Biministro Louis de Grange estima en US$ 500 millones el costo de la reconstrucción en Coquimbo y Huasco",
+      "link": "http://www.df.cl/economia-y-politica/pais/biministro-louis-de-grange-estima-en-us-500-millones-el-costo-de-la",
+      "fecha": "Sun, 26 Jul 2026 22:42:24 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "José García Ruminot sobre la ley de reconstrucción: “Tenemos una gran misión, promulgarla cuanto antes”",
+      "link": "http://www.df.cl/economia-y-politica/politica/jose-garcia-ruminot-sobre-el-proyecto-de-reconstruccion-tenemos-una-gran",
+      "fecha": "Sun, 26 Jul 2026 22:42:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra al alza con un nuevo máximo en nueve meses en medio de la caída del precio del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
       "fecha": "Fri, 24 Jul 2026 20:24:20 GMT",
@@ -43,27 +55,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Justicia \"congela\" propiedad de juez partidor demandado por apropiarse de dinero de remate",
-      "link": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/07/26/justica-congela-propiedad-de-juez-partidor-demandado-por-apropiarse-de-dinero-de-remate.shtml",
-      "fecha": "Sun, 26 Jul 2026 10:01:52 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Franco Parisi: “Estamos aprendiendo a gobernar, tomando nota de los errores”",
-      "link": "http://www.df.cl/df-mas/politica/franco-parisi-estamos-aprendiendo-a-gobernar-tomando-nota-de-los",
-      "fecha": "Sat, 25 Jul 2026 23:18:45 GMT",
+      "titulo": "Incendios forestales amenazan a Burdeos, Francia y España que luchan contra las llamas",
+      "link": "http://www.df.cl/internacional/incendios-forestales-amenazan-a-burdeos-francia-y-espana-que-luchan-contra",
+      "fecha": "Sun, 26 Jul 2026 20:42:28 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El backstage de la reaparición de Mara Sedini (Y lo que viene ahora)",
-      "link": "http://www.df.cl/df-mas/coffee-break/el-backstage-de-la-reaparicion-de-mara-sedini-y-lo-que-viene-ahora",
-      "fecha": "Sat, 25 Jul 2026 16:35:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La columna de J.J.Jinks; Un problema mundial",
-      "link": "http://www.df.cl/df-mas/opinion/la-columna-de-j-j-jinks-un-problema-mundial",
-      "fecha": "Fri, 24 Jul 2026 23:23:50 GMT",
+      "titulo": "Lula califica nuevos aranceles EEUU de \"error\" en un artículo de opinión publicado en el Washington Post",
+      "link": "http://www.df.cl/lula-califica-nuevos-aranceles-eeuu-de-error-en-un-articulo-de-opinion",
+      "fecha": "Sun, 26 Jul 2026 16:07:10 GMT",
       "fuente": "Diario Financiero"
     }
   ],
