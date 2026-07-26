@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-26T07:13:45.243855+00:00",
+  "generado": "2026-07-26T11:48:42.267972+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -43,6 +43,12 @@
       "fuente": "Cooperativa"
     },
     {
+      "titulo": "Justica \"congela\" propiedad de juez partidor demandado por apropiarse de dinero de remate",
+      "link": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/07/26/justica-congela-propiedad-de-juez-partidor-demandado-por-apropiarse-de-dinero-de-remate.shtml",
+      "fecha": "Sun, 26 Jul 2026 10:01:52 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
       "titulo": "Franco Parisi: “Estamos aprendiendo a gobernar, tomando nota de los errores”",
       "link": "http://www.df.cl/df-mas/politica/franco-parisi-estamos-aprendiendo-a-gobernar-tomando-nota-de-los",
       "fecha": "Sat, 25 Jul 2026 23:18:45 GMT",
@@ -58,12 +64,6 @@
       "titulo": "La columna de J.J.Jinks; Un problema mundial",
       "link": "http://www.df.cl/df-mas/opinion/la-columna-de-j-j-jinks-un-problema-mundial",
       "fecha": "Fri, 24 Jul 2026 23:23:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bienvenidos a la era del algodón de azúcar financiero",
-      "link": "http://www.df.cl/df-mas/glocal/bienvenidos-a-la-era-del-algodon-de-azucar-financiero",
-      "fecha": "Fri, 24 Jul 2026 23:12:50 GMT",
       "fuente": "Diario Financiero"
     }
   ],
