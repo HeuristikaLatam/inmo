@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-26T23:16:59.830919+00:00",
+  "generado": "2026-07-27T08:59:30.369525+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-26T04:00:00.000Z"
+      "fecha": "2026-07-27T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 946.24,
-      "fecha": "2026-07-24T04:00:00.000Z"
+      "valor": 946.14,
+      "fecha": "2026-07-27T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-24T04:00:00.000Z"
+      "fecha": "2026-07-27T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,21 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "Alianza BICE-Kaufmann aprieta el acelerador en financiamiento automotriz y llega al podio del sector",
+      "link": "http://www.df.cl/mercados/banca-fintech/alianza-bice-kaufmann-aprieta-el-acelerador-en-financiamiento-automotriz-y",
+      "fecha": "Fri, 24 Jul 2026 21:51:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Biministro Louis de Grange estima en US$ 500 millones el costo de la reconstrucción en Coquimbo y Huasco",
       "link": "http://www.df.cl/economia-y-politica/pais/biministro-louis-de-grange-estima-en-us-500-millones-el-costo-de-la",
       "fecha": "Sun, 26 Jul 2026 22:42:24 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "José García Ruminot sobre la ley de reconstrucción: “Tenemos una gran misión, promulgarla cuanto antes”",
-      "link": "http://www.df.cl/economia-y-politica/politica/jose-garcia-ruminot-sobre-el-proyecto-de-reconstruccion-tenemos-una-gran",
-      "fecha": "Sun, 26 Jul 2026 22:42:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza con un nuevo máximo en nueve meses en medio de la caída del precio del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v6e9k",
-      "fecha": "Fri, 24 Jul 2026 20:24:20 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,15 +49,21 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Incendios forestales amenazan a Burdeos, Francia y España que luchan contra las llamas",
-      "link": "http://www.df.cl/internacional/incendios-forestales-amenazan-a-burdeos-francia-y-espana-que-luchan-contra",
-      "fecha": "Sun, 26 Jul 2026 20:42:28 GMT",
+      "titulo": "Boca sufre histórico papelón antes de visitar a O’Higgins: fue goleado por Riestra con Alarcón titular",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/07/26/boca-sufre-historico-papelon-antes-de-visitar-a-ohiggins-fue-goleado-por-riestra-con-alarcon-titular.shtml",
+      "fecha": "Mon, 27 Jul 2026 01:10:31 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Contrapropuesta ausente",
+      "link": "http://www.df.cl/opinion/columnistas/fernanda-garcia/contrapropuesta-ausente",
+      "fecha": "Fri, 24 Jul 2026 22:15:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Lula califica nuevos aranceles EEUU de \"error\" en un artículo de opinión publicado en el Washington Post",
-      "link": "http://www.df.cl/lula-califica-nuevos-aranceles-eeuu-de-error-en-un-articulo-de-opinion",
-      "fecha": "Sun, 26 Jul 2026 16:07:10 GMT",
+      "titulo": "Visas H-1B1 de EEUU para chilenos se duplican tras la pandemia y se afianzan como alternativa de desarrollo profesional",
+      "link": "http://www.df.cl/internacional/politica/visas-h-1b1-de-eeuu-para-chilenos-se-duplican-tras-la-pandemia-y-se",
+      "fecha": "Fri, 24 Jul 2026 23:49:19 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -108,6 +108,10 @@
       {
         "fecha": "2026-07-26",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-27",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -150,6 +154,10 @@
       {
         "fecha": "2026-07-26",
         "valor": 946.24
+      },
+      {
+        "fecha": "2026-07-27",
+        "valor": 946.14
       }
     ],
     "tpm": [
@@ -191,6 +199,10 @@
       },
       {
         "fecha": "2026-07-26",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-27",
         "valor": 4.5
       }
     ],
@@ -234,16 +246,20 @@
       {
         "fecha": "2026-07-26",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-27",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.649,
+    "cambio_pct": -0.01,
+    "score": 0.623,
     "modo": "zscore",
-    "valor_actual": 946.24,
-    "fecha": "2026-07-26"
+    "valor_actual": 946.14,
+    "fecha": "2026-07-27"
   }
 }
