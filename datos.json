@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-27T23:42:01.407913+00:00",
+  "generado": "2026-07-28T00:13:21.616403+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -63,7 +63,7 @@
     {
       "titulo": "Con ayuda de la IA, Minvu procesa observaciones para definir ajustes y lanzar reforma con la que busca impulsar la industria inmobiliaria",
       "link": "http://www.df.cl/empresas/construccion/con-ayuda-de-la-ia-minvu-procesa-observaciones-para-definir-ajustes-y",
-      "fecha": "Mon, 27 Jul 2026 22:52:42 GMT",
+      "fecha": "Mon, 27 Jul 2026 23:49:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -79,9 +79,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "\"Ay, Dios mío\": familia registró momento exacto en que tornado afecta a su vivienda en Chillán Viejo",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/07/27/ay-dios-mio-familia-registro-momento-exacto-en-que-tornado-afecta-a-su-vivienda-en-chillan-viejo.shtml",
-      "fecha": "Mon, 27 Jul 2026 22:20:36 +0000",
+      "titulo": "Tres lesionados deja choque de vehículo militar contra vivienda en comuna de Los Lagos",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/27/tres-lesionados-deja-choque-de-vehiculo-militar-contra-vivienda-en-comuna-de-los-lagos.shtml",
+      "fecha": "Mon, 27 Jul 2026 23:49:15 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -130,6 +130,10 @@
       {
         "fecha": "2026-07-27",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-28",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -175,6 +179,10 @@
       },
       {
         "fecha": "2026-07-27",
+        "valor": 946.14
+      },
+      {
+        "fecha": "2026-07-28",
         "valor": 946.14
       }
     ],
@@ -222,6 +230,10 @@
       {
         "fecha": "2026-07-27",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-28",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -268,16 +280,20 @@
       {
         "fecha": "2026-07-27",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-28",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.01,
-    "score": 0.623,
+    "cambio_pct": 0.0,
+    "score": 0.554,
     "modo": "zscore",
     "valor_actual": 946.14,
-    "fecha": "2026-07-27"
+    "fecha": "2026-07-28"
   }
 }
