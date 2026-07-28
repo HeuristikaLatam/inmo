@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-28T00:13:21.616403+00:00",
+  "generado": "2026-07-28T15:54:37.479644+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-27T04:00:00.000Z"
+      "fecha": "2026-07-28T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 946.14,
-      "fecha": "2026-07-27T04:00:00.000Z"
+      "valor": 941.93,
+      "fecha": "2026-07-28T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-27T04:00:00.000Z"
+      "fecha": "2026-07-28T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,24 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Dólar cae bajo la marca de $ 940 mientras el petróleo sigue a la baja por la distensión del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
+      "fecha": "Tue, 28 Jul 2026 15:24:25 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Arthur Laffer, economista creador de la Curva de Laffer: “Chile podría recortar tasas impositivas por todas partes y aumentar enormemente sus ingresos”",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/arthur-laffer-economista-creador-de-la-curva-de-laffer-chile-podria",
+      "fecha": "Tue, 28 Jul 2026 11:04:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Sofofa se vuelca a los liceos para entusiasmar a mujeres con la minería, construcción y manufactura",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/sofofa-se-vuelca-a-los-liceos-para-entusiasmar-a-mujeres-con-la-mineria",
+      "fecha": "Tue, 28 Jul 2026 00:04:47 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Gobierno suma dos nuevas bajas regionales en un día: renuncian seremis del Trabajo en Tarapacá y Vivienda en Maule",
       "link": "http://www.df.cl/regiones/tarapaca/gobierno-suma-dos-nuevas-bajas-regionales-en-un-dia-renuncian-seremis-del",
@@ -53,36 +71,6 @@
       "link": "http://www.df.cl/regiones/los-lagos-biobio-y-o-higgins-lideran-tramitaciones-excesivas-en-proyectos",
       "fecha": "Mon, 27 Jul 2026 23:29:49 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Por un deterioro del “balance de riesgos externos”: GPM recomienda mantener la tasa en 4,5%",
-      "link": "http://www.df.cl/economia-y-politica/macro/por-un-deterioro-del-balance-de-riesgos-externos-gpm-recomienda-mantener",
-      "fecha": "Mon, 27 Jul 2026 17:00:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Con ayuda de la IA, Minvu procesa observaciones para definir ajustes y lanzar reforma con la que busca impulsar la industria inmobiliaria",
-      "link": "http://www.df.cl/empresas/construccion/con-ayuda-de-la-ia-minvu-procesa-observaciones-para-definir-ajustes-y",
-      "fecha": "Mon, 27 Jul 2026 23:49:16 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Alianza BICE-Kaufmann aprieta el acelerador en financiamiento automotriz y llega al podio del sector",
-      "link": "http://www.df.cl/mercados/banca-fintech/alianza-bice-kaufmann-aprieta-el-acelerador-en-financiamiento-automotriz-y",
-      "fecha": "Mon, 27 Jul 2026 19:02:38 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Petróleo de Texas, referencia para Chile, volvió a sobrepasar los 90 dólares",
-      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-referencia-para-chile-volvio-a-sobrepasar-los-90/2026-07-23/101623.html",
-      "fecha": "Thu, 23 Jul 2026 10:16:23 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Tres lesionados deja choque de vehículo militar contra vivienda en comuna de Los Lagos",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/27/tres-lesionados-deja-choque-de-vehiculo-militar-contra-vivienda-en-comuna-de-los-lagos.shtml",
-      "fecha": "Mon, 27 Jul 2026 23:49:15 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -183,7 +171,7 @@
       },
       {
         "fecha": "2026-07-28",
-        "valor": 946.14
+        "valor": 941.93
       }
     ],
     "tpm": [
@@ -290,10 +278,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.554,
+    "cambio_pct": -0.44,
+    "score": 1.615,
     "modo": "zscore",
-    "valor_actual": 946.14,
+    "valor_actual": 941.93,
     "fecha": "2026-07-28"
   }
 }
