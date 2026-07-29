@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-28T23:32:52.708826+00:00",
+  "generado": "2026-07-29T00:11:00.891572+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -33,7 +33,7 @@
     {
       "titulo": "Banco Central se ajusta al libreto y mantiene la tasa ante mayor incertidumbre asociada al conflicto en Medio Oriente",
       "link": "http://www.df.cl/economia-y-politica/macro/banco-central-se-ajusta-al-libreto-y-mantiene-la-tasa-ante-mayor",
-      "fecha": "Tue, 28 Jul 2026 22:49:20 GMT",
+      "fecha": "Tue, 28 Jul 2026 23:48:14 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -71,12 +71,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Banco Central vuelve a mantener la tasa y dice que analizará su evolución \"reunión a reunión\"",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/28/por-unanimidad-banco-central-vuelve-a-mantener-la-tasa-de-interes.shtml",
-      "fecha": "Tue, 28 Jul 2026 22:02:01 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -128,6 +122,10 @@
       {
         "fecha": "2026-07-28",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-29",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -177,6 +175,10 @@
       },
       {
         "fecha": "2026-07-28",
+        "valor": 941.93
+      },
+      {
+        "fecha": "2026-07-29",
         "valor": 941.93
       }
     ],
@@ -228,6 +230,10 @@
       {
         "fecha": "2026-07-28",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-29",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -278,16 +284,20 @@
       {
         "fecha": "2026-07-28",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-29",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.44,
-    "score": 1.615,
+    "cambio_pct": 0.0,
+    "score": 0.384,
     "modo": "zscore",
     "valor_actual": 941.93,
-    "fecha": "2026-07-28"
+    "fecha": "2026-07-29"
   }
 }
