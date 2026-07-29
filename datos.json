@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-29T15:57:23.702221+00:00",
+  "generado": "2026-07-29T23:37:59.767987+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,33 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar salta hacia los $ 940 por repunte de tensiones en Medio Oriente previo a incierta decisión de política monetaria en EEUU",
+      "titulo": "Warsh valoró la “pelea familiar” en una Fed que votó dividida por mantener intacta la tasa de interés",
+      "link": "http://www.df.cl/internacional/economia/fed-mantiene-las-tasas-de-interes-sin-cambios-por-quinta-ocasion-pero",
+      "fecha": "Wed, 29 Jul 2026 21:53:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Bolsa de Santiago cierra al alza una jornada marcada por la decisión de la Fed de no subir las tasas de interés",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6gnum",
+      "fecha": "Wed, 29 Jul 2026 20:39:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar deja atrás su alza inicial de la sesión y cierra plano luego que la Fed mantuviera las tasas de interés",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ydm4a",
-      "fecha": "Wed, 29 Jul 2026 15:10:34 GMT",
+      "fecha": "Wed, 29 Jul 2026 20:11:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Kast asegura recursos para la reconstrucción por temporales y Quiroz anuncia mesa en Atacama para establecer monto en la Ley de Presupuestos 2027",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-asegura-que-se-liberaran-recursos-para-la-reconstruccion-por",
+      "fecha": "Wed, 29 Jul 2026 19:54:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Empresas chilenas repartieron US$ 2.000 millones en dividendos en el primer trimestre y quedaron segundas en la región tras Brasil",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/empresas-chilenas-repartieron-us-2-000-millones-en-dividendos-en-el-primer",
+      "fecha": "Wed, 29 Jul 2026 22:20:10 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -46,36 +70,6 @@
       "titulo": "¿Vender el stock o reactivar la inversión inmobiliaria?",
       "link": "http://www.df.cl/opinion/columnistas/vender-el-stock-o-reactivar-la-inversion-inmobiliaria",
       "fecha": "Wed, 29 Jul 2026 01:13:21 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Abogado de Jorge Gálmez recurre a la justicia para intentar revivir proyecto inmobiliario Punta Puertecillo",
-      "link": "http://www.df.cl/empresas/construccion/abogado-de-jorge-galmez-recurre-a-la-justicia-para-intentar-revivir",
-      "fecha": "Wed, 29 Jul 2026 11:19:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Banco Central mantiene la tasa ante mayor incertidumbre por guerra, más inflación y aceleración de costos laborales",
-      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-se-ajusta-al-libreto-y-mantiene-la-tasa-ante-mayor",
-      "fecha": "Wed, 29 Jul 2026 10:54:15 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bolsa chilena cierra en rojo y el IPSA pierde los 10.900 puntos justo antes de la decisión del Banco Central",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ycew8",
-      "fecha": "Tue, 28 Jul 2026 20:59:06 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar repite una fuerte caída y cierra próximo a $ 930 por la distensión del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ch6ny",
-      "fecha": "Tue, 28 Jul 2026 20:10:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Subsidio a la tasa hipotecaria supera a suspensión del IVA en preferencias de potenciales compradores de vivienda",
-      "link": "http://www.df.cl/mercados/banca-fintech/subsidio-a-la-tasa-hipotecaria-supera-a-suspension-del-iva-en-preferencias",
-      "fecha": "Tue, 28 Jul 2026 22:14:55 GMT",
       "fuente": "Diario Financiero"
     },
     {
