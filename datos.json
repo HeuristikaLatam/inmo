@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-29T23:37:59.767987+00:00",
+  "generado": "2026-07-30T00:14:20.337376+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -51,7 +51,7 @@
     {
       "titulo": "Kast asegura recursos para la reconstrucción por temporales y Quiroz anuncia mesa en Atacama para establecer monto en la Ley de Presupuestos 2027",
       "link": "http://www.df.cl/economia-y-politica/politica/kast-asegura-que-se-liberaran-recursos-para-la-reconstruccion-por",
-      "fecha": "Wed, 29 Jul 2026 19:54:30 GMT",
+      "fecha": "Wed, 29 Jul 2026 23:48:31 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -63,7 +63,7 @@
     {
       "titulo": "Daños por temporales: MOP financiará las primeras obras de reconstrucción y Hacienda analiza fórmula para el largo plazo",
       "link": "http://www.df.cl/empresas/construccion/danos-por-temporales-mop-financiara-las-primeras-obras-de-reconstruccion-y",
-      "fecha": "Wed, 29 Jul 2026 15:05:29 GMT",
+      "fecha": "Wed, 29 Jul 2026 23:44:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -77,6 +77,12 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Estudio alerta que usuarios de Mac sufren más ciberataques que los de Windows y se protegen menos",
+      "link": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2026/07/29/estudio-alerta-que-usuarios-de-mac-sufren-mas-ciberataques-que-los-de-windows-y-se-protegen-menos.shtml",
+      "fecha": "Wed, 29 Jul 2026 23:47:02 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -132,6 +138,10 @@
       {
         "fecha": "2026-07-29",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-07-30",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -185,6 +195,10 @@
       },
       {
         "fecha": "2026-07-29",
+        "valor": 936.16
+      },
+      {
+        "fecha": "2026-07-30",
         "valor": 936.16
       }
     ],
@@ -240,6 +254,10 @@
       {
         "fecha": "2026-07-29",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-07-30",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -294,16 +312,20 @@
       {
         "fecha": "2026-07-29",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-07-30",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.61,
-    "score": 1.761,
+    "cambio_pct": 0.0,
+    "score": 0.221,
     "modo": "zscore",
     "valor_actual": 936.16,
-    "fecha": "2026-07-29"
+    "fecha": "2026-07-30"
   }
 }
