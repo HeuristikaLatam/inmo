@@ -1,23 +1,23 @@
 {
-  "generado": "2026-07-30T00:14:20.337376+00:00",
+  "generado": "2026-07-30T13:17:53.884707+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-29T04:00:00.000Z"
+      "fecha": "2026-07-30T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 936.16,
-      "fecha": "2026-07-29T04:00:00.000Z"
+      "valor": 935.57,
+      "fecha": "2026-07-30T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-29T04:00:00.000Z"
+      "fecha": "2026-07-30T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Warsh valoró la “pelea familiar” en una Fed que votó dividida por mantener intacta la tasa de interés",
+      "titulo": "Dólar cae bajo los $ 930 en la apertura después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
+      "fecha": "Thu, 30 Jul 2026 12:44:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno mantiene plazo de caducidad de permisos de construcción en reforma para impulsar sector inmobiliario",
+      "link": "http://www.df.cl/empresas/construccion/gobierno-mantiene-plazo-de-caducidad-de-permisos-de-construccion-en-reforma",
+      "fecha": "Thu, 30 Jul 2026 02:07:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Con tres votos en contra, la Fed mantiene intacta la tasa en medio del incierto rumbo de la inflación",
       "link": "http://www.df.cl/internacional/economia/fed-mantiene-las-tasas-de-interes-sin-cambios-por-quinta-ocasion-pero",
-      "fecha": "Wed, 29 Jul 2026 21:53:54 GMT",
+      "fecha": "Thu, 30 Jul 2026 00:55:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,28 +73,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Daños por temporales: MOP financiará las primeras obras de reconstrucción y Hacienda analiza fórmula para el largo plazo",
-      "link": "http://www.df.cl/empresas/construccion/danos-por-temporales-mop-financiara-las-primeras-obras-de-reconstruccion-y",
-      "fecha": "Wed, 29 Jul 2026 23:44:53 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Vender el stock o reactivar la inversión inmobiliaria?",
-      "link": "http://www.df.cl/opinion/columnistas/vender-el-stock-o-reactivar-la-inversion-inmobiliaria",
-      "fecha": "Wed, 29 Jul 2026 01:13:21 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Banco Central mantuvo tasa de interés en 4,5% ante volatilidad internacional e inflación al alza",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Estudio alerta que usuarios de Mac sufren más ciberataques que los de Windows y se protegen menos",
-      "link": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/pc-e-internet/2026/07/29/estudio-alerta-que-usuarios-de-mac-sufren-mas-ciberataques-que-los-de-windows-y-se-protegen-menos.shtml",
-      "fecha": "Wed, 29 Jul 2026 23:47:02 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -199,7 +193,7 @@
       },
       {
         "fecha": "2026-07-30",
-        "valor": 936.16
+        "valor": 935.57
       }
     ],
     "tpm": [
@@ -322,10 +316,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.221,
+    "cambio_pct": -0.06,
+    "score": 0.353,
     "modo": "zscore",
-    "valor_actual": 936.16,
+    "valor_actual": 935.57,
     "fecha": "2026-07-30"
   }
 }
