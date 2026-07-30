@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-30T13:17:53.884707+00:00",
+  "generado": "2026-07-30T16:01:31.261822+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cae bajo los $ 930 en la apertura después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
+      "titulo": "Dólar se hunde $ 10 en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
-      "fecha": "Thu, 30 Jul 2026 12:44:15 GMT",
+      "fecha": "Thu, 30 Jul 2026 14:46:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Abogado de Toesca por caso Sartor: “Bastó un 'OK' por correo electrónico, para que millones de dólares se transfirieran a sociedades de los controladores”",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/abogado-de-toesca-por-caso-sartor-basto-un-ok-por-correo-electronico",
+      "fecha": "Thu, 30 Jul 2026 14:27:09 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Milei sigue adelante con sus reformas: este jueves es el turno del banco central de Argentina",
+      "link": "http://www.df.cl/internacional/economia/milei-sigue-adelante-con-sus-reformas-este-jueves-es-el-turno-del-banco",
+      "fecha": "Thu, 30 Jul 2026 13:28:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,34 +61,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Bolsa de Santiago cierra al alza una jornada marcada por la decisión de la Fed de no subir las tasas de interés",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-6gnum",
-      "fecha": "Wed, 29 Jul 2026 20:39:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar deja atrás su alza inicial de la sesión y cierra plano luego que la Fed mantuviera las tasas de interés",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ydm4a",
-      "fecha": "Wed, 29 Jul 2026 20:11:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast asegura recursos para la reconstrucción por temporales y Quiroz anuncia mesa en Atacama para establecer monto en la Ley de Presupuestos 2027",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-asegura-que-se-liberaran-recursos-para-la-reconstruccion-por",
-      "fecha": "Wed, 29 Jul 2026 23:48:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Empresas chilenas repartieron US$ 2.000 millones en dividendos en el primer trimestre y quedaron segundas en la región tras Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/empresas-chilenas-repartieron-us-2-000-millones-en-dividendos-en-el-primer",
-      "fecha": "Wed, 29 Jul 2026 22:20:10 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
+      "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Banco Central mantuvo tasa de interés en 4,5% ante volatilidad internacional e inflación al alza",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "El dólar opera a la baja ante datos económicos de EEUU y las señales de la Reserva Federal",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/30/el-dolar-opera-a-la-baja-ante-datos-economicos-de-eeuu-y-las-senales-de-la-reserva-federal.shtml",
+      "fecha": "Thu, 30 Jul 2026 15:51:57 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
