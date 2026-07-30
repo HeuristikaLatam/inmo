@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-30T16:01:31.261822+00:00",
+  "generado": "2026-07-30T23:35:46.982187+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,9 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar se hunde $ 10 en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
+      "titulo": "Dólar cierra con fuerte caída en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
-      "fecha": "Thu, 30 Jul 2026 14:46:16 GMT",
+      "fecha": "Thu, 30 Jul 2026 21:01:15 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,18 +49,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gobierno mantiene plazo de caducidad de permisos de construcción en reforma para impulsar sector inmobiliario",
-      "link": "http://www.df.cl/empresas/construccion/gobierno-mantiene-plazo-de-caducidad-de-permisos-de-construccion-en-reforma",
-      "fecha": "Thu, 30 Jul 2026 02:07:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Con tres votos en contra, la Fed mantiene intacta la tasa en medio del incierto rumbo de la inflación",
-      "link": "http://www.df.cl/internacional/economia/fed-mantiene-las-tasas-de-interes-sin-cambios-por-quinta-ocasion-pero",
-      "fecha": "Thu, 30 Jul 2026 00:55:24 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
       "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
@@ -73,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "El dólar opera a la baja ante datos económicos de EEUU y las señales de la Reserva Federal",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/30/el-dolar-opera-a-la-baja-ante-datos-economicos-de-eeuu-y-las-senales-de-la-reserva-federal.shtml",
-      "fecha": "Thu, 30 Jul 2026 15:51:57 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Embajador de EEUU arremete contra ministros de Kast por aranceles y canciller trata de ordenar la casa",
+      "link": "http://www.df.cl/economia-y-politica/comercio-exterior/no-habra-ningun-trato-si-habla-gente-que-no-tiene-que-ver-con-las",
+      "fecha": "Thu, 30 Jul 2026 23:24:56 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
