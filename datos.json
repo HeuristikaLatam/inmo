@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-31T08:10:13.887053+00:00",
+  "generado": "2026-07-31T15:49:11.941736+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Milei acelera su agenda de reformas: propone un banco central autónomo con mandato único y cierres de gobierno",
-      "link": "http://www.df.cl/internacional/economia/milei-acelera-su-agenda-de-reformas-propone-un-banco-central-autonomo-con",
-      "fecha": "Fri, 31 Jul 2026 00:19:23 GMT",
+      "titulo": "Dólar sube levemente en medio de un repunte global de la divisa tras dos sesiones de fuertes caídas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmawb",
+      "fecha": "Fri, 31 Jul 2026 15:31:13 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra con fuerte caída en el día después de la Fed y tras datos económicos más débiles de lo esperado en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-j58gy",
-      "fecha": "Thu, 30 Jul 2026 21:01:15 GMT",
+      "titulo": "Tasa de desocupación alcanza a 9,4% en el trimestre abril-junio y se mantiene en máximos en casi cinco años",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-alcanza-a-9-4-en-el-trimestre-abril-junio-y-se",
+      "fecha": "Fri, 31 Jul 2026 15:43:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Milei acelera su agenda de reformas: propone un banco central autónomo con mandato único y cierres de gobierno",
+      "link": "http://www.df.cl/internacional/economia/milei-acelera-su-agenda-de-reformas-propone-un-banco-central-autonomo-con",
+      "fecha": "Fri, 31 Jul 2026 00:19:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,16 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "De anatocismo y otras malas hierbas",
-      "link": "http://www.df.cl/opinion/columnistas/cecilia-cifuentes/de-anatocismo-y-otras-malas-hierbas",
-      "fecha": "Thu, 30 Jul 2026 23:56:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Por qué hoy es necesaria la invariabilidad tributaria",
-      "link": "http://www.df.cl/opinion/columnistas/por-que-hoy-es-necesaria-la-invariabilidad-tributaria",
-      "fecha": "Thu, 30 Jul 2026 23:57:41 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Vivienda se desplazó cerca de 6 metros tras remoción en masa en ruta que conecta Valdivia y Niebla",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/07/31/vivienda-se-desplazo-cerca-de-6-metros-tras-remocion-en-masa-en-ruta-que-conecta-valdivia-y-niebla.shtml",
+      "fecha": "Fri, 31 Jul 2026 15:33:47 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
