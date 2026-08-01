@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-31T23:37:05.517579+00:00",
+  "generado": "2026-08-01T00:18:43.528946+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,12 +49,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Tasa de desocupación alcanza a 9,4% en el trimestre abril-junio y se mantiene en máximos en casi cinco años",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-alcanza-a-9-4-en-el-trimestre-abril-junio-y-se",
-      "fecha": "Fri, 31 Jul 2026 15:43:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
       "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
@@ -65,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "McDonald’s sale a buscar nuevas ubicaciones",
+      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/mcdonald-s-sale-a-buscar-nuevas-ubicaciones",
+      "fecha": "Sat, 01 Aug 2026 00:16:14 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -128,6 +128,10 @@
       {
         "fecha": "2026-07-31",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-01",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -189,6 +193,10 @@
       },
       {
         "fecha": "2026-07-31",
+        "valor": 924.78
+      },
+      {
+        "fecha": "2026-08-01",
         "valor": 924.78
       }
     ],
@@ -252,6 +260,10 @@
       {
         "fecha": "2026-07-31",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-01",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -314,16 +326,20 @@
       {
         "fecha": "2026-07-31",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-01",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -1.15,
-    "score": 2.702,
+    "cambio_pct": 0.0,
+    "score": 0.007,
     "modo": "zscore",
     "valor_actual": 924.78,
-    "fecha": "2026-07-31"
+    "fecha": "2026-08-01"
   }
 }
