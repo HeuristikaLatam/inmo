@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-01T00:18:43.528946+00:00",
+  "generado": "2026-08-01T11:48:53.410410+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-07-31T04:00:00.000Z"
+      "fecha": "2026-08-01T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 924.78,
-      "fecha": "2026-07-31T04:00:00.000Z"
+      "valor": 922.21,
+      "fecha": "2026-07-01T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-31T04:00:00.000Z"
+      "fecha": "2026-07-01T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Las cuatro acciones del IPSA con mejor retorno por dividendo",
+      "link": "http://www.df.cl/senal-df/senales-financieras/las-cuatro-acciones-del-ipsa-con-mejor-retorno-por-dividendo",
+      "fecha": "Sat, 01 Aug 2026 01:04:40 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "IPSA cierre con leve caída pero retiene los 11.000 puntos mientras inversionistas siguen resultados, tasas de interés y conflicto geopolítico",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dbhvk",
@@ -59,12 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
       "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "McDonald’s sale a buscar nuevas ubicaciones",
-      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/mcdonald-s-sale-a-buscar-nuevas-ubicaciones",
-      "fecha": "Sat, 01 Aug 2026 00:16:14 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -197,7 +197,7 @@
       },
       {
         "fecha": "2026-08-01",
-        "valor": 924.78
+        "valor": 922.21
       }
     ],
     "tpm": [
@@ -336,10 +336,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.007,
+    "cambio_pct": -0.28,
+    "score": 0.514,
     "modo": "zscore",
-    "valor_actual": 924.78,
+    "valor_actual": 922.21,
     "fecha": "2026-08-01"
   }
 }
