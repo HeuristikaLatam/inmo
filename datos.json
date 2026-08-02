@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-02T12:41:14.952071+00:00",
+  "generado": "2026-08-02T23:15:53.199936+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,12 +49,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿El peso chileno dejará atrás el castigo de julio? Fue la tercera moneda que más subió en el mundo tras la mantención de tasas de la Fed",
-      "link": "http://www.df.cl/mercados/divisas/el-peso-chileno-dejara-atras-el-castigo-de-julio-fue-la-tercera-moneda",
-      "fecha": "Fri, 31 Jul 2026 18:18:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
       "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
@@ -67,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "La triangulación peruana: las declaraciones de cómo Sartor desvió fondos por 49 millones de dólares",
-      "link": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/08/02/la-triangulacion-peruana-las-declaraciones-de-como-sartor-desvio-fondos-por-49-millones-de-dolares.shtml",
-      "fecha": "Sun, 02 Aug 2026 10:14:44 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Lula lanza su candidatura con promesas de inversión en defensa, educación y tierras raras",
+      "link": "http://www.df.cl/internacional/politica/lula-lanza-su-candidatura-con-promesas-de-inversion-en-defensa-educacion-y",
+      "fecha": "Sun, 02 Aug 2026 22:05:24 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
