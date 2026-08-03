@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-03T08:51:09.189514+00:00",
+  "generado": "2026-08-03T16:57:48.464396+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar opera a la baja tras positivo Imacec de junio, intervención del yen y señales de diplomacia en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8jn52",
+      "fecha": "Mon, 03 Aug 2026 16:53:36 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "EXPECTATIVAS SOBRE NUEVA NORMATIVA EN VIVIENDA",
       "link": "http://www.df.cl/opinion/editorial/expectativas-sobre-nueva-normativa-en-vivienda",
       "fecha": "Sat, 01 Aug 2026 00:28:20 GMT",
@@ -43,34 +49,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las cuatro acciones del IPSA con mejor retorno por dividendo",
-      "link": "http://www.df.cl/senal-df/senales-financieras/las-cuatro-acciones-del-ipsa-con-mejor-retorno-por-dividendo",
-      "fecha": "Sat, 01 Aug 2026 01:04:40 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
       "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Banco Central mantuvo tasa de interés en 4,5% ante volatilidad internacional e inflación al alza",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-mantuvo-tasa-de-interes-en-4-5-ante-volatilidad/2026-07-28/181540.html",
-      "fecha": "Tue, 28 Jul 2026 18:15:40 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Nicolás Grau arremete contra Ley de Reconstrucción: Favorece a los sectores de \"más alto ingreso\"",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/02/nicolas-grau-arremete-contra-ley-de-reconstruccion-favorece-a-los-sectores-de-mas-alto-ingreso.shtml",
-      "fecha": "Mon, 03 Aug 2026 03:54:10 +0000",
+      "titulo": "Desalojo en megatoma de San Antonio: Gobierno compromete respuesta habitacional de 6 mil viviendas",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/03/desalojo-en-megatoma-de-san-antonio-gobierno-compromete-respuesta-habitacional-de-6-mil-viviendas.shtml",
+      "fecha": "Mon, 03 Aug 2026 16:43:53 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Balance Senapred por sistema frontal: 2 fallecidos, 25 viviendas destruidas y más de 6 mil aislados",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/02/balance-senapred-por-sistema-frontal-2-fallecidos-25-viviendas-destruidas-y-mas-de-6-mil-aislados.shtml",
-      "fecha": "Mon, 03 Aug 2026 01:47:44 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Tercer día de formalización de caso Sartor: Tribunal decreta arresto domiciliario para exdirector de inversiones de la AGF",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/tercer-dia-de-formalizacion-de-caso-sartor-tribunal-decreta-arresto",
+      "fecha": "Mon, 03 Aug 2026 16:53:05 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
