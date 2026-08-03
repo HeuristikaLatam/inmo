@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-03T16:57:48.464396+00:00",
+  "generado": "2026-08-03T17:17:28.018976+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,9 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar opera a la baja tras positivo Imacec de junio, intervención del yen y señales de diplomacia en Medio Oriente",
+      "titulo": "Dólar cae fuerte bajo los $ 925 en sesión marcada por positivo Imacec de junio y avance de conversaciones en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8jn52",
-      "fecha": "Mon, 03 Aug 2026 16:53:36 GMT",
+      "fecha": "Mon, 03 Aug 2026 17:16:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,16 +55,22 @@
       "fuente": "Cooperativa"
     },
     {
+      "titulo": "Subsidio Eléctrico, de Arriendo y más: estas son las fechas clave de beneficios y trámites en agosto",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/08/03/subsidio-electrico-de-arriendo-y-mas-estas-son-las-fechas-clave-de-beneficios-y-tramites-en-agosto.shtml",
+      "fecha": "Mon, 03 Aug 2026 17:04:47 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Persona muere calcinada tras incendio en su vivienda en Los Ángeles: aún se desconoce su identidad",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/03/persona-muere-calcinada-tras-incendio-en-su-vivienda-en-los-angeles-aun-se-desconoce-su-identidad.shtml",
+      "fecha": "Mon, 03 Aug 2026 17:01:20 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
       "titulo": "Desalojo en megatoma de San Antonio: Gobierno compromete respuesta habitacional de 6 mil viviendas",
       "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/03/desalojo-en-megatoma-de-san-antonio-gobierno-compromete-respuesta-habitacional-de-6-mil-viviendas.shtml",
       "fecha": "Mon, 03 Aug 2026 16:43:53 +0000",
       "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Tercer día de formalización de caso Sartor: Tribunal decreta arresto domiciliario para exdirector de inversiones de la AGF",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/tercer-dia-de-formalizacion-de-caso-sartor-tribunal-decreta-arresto",
-      "fecha": "Mon, 03 Aug 2026 16:53:05 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
