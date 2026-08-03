@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-02T23:15:53.199936+00:00",
+  "generado": "2026-08-03T08:51:09.189514+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-08-02T04:00:00.000Z"
+      "fecha": "2026-08-03T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 927.35,
-      "fecha": "2026-07-02T04:00:00.000Z"
+      "valor": 928.42,
+      "fecha": "2026-08-03T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-07-02T04:00:00.000Z"
+      "fecha": "2026-08-03T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,21 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "EXPECTATIVAS SOBRE NUEVA NORMATIVA EN VIVIENDA",
+      "link": "http://www.df.cl/opinion/editorial/expectativas-sobre-nueva-normativa-en-vivienda",
+      "fecha": "Sat, 01 Aug 2026 00:28:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Kevin Burgett, economista cofundador de Monetary Policy Analytics: “Unas tasas más altas (de la Fed) equilibrarían mejor los riesgos”",
+      "link": "http://www.df.cl/internacional/economia/kevin-burgett-economista-cofundador-de-monetary-policy-analytics-unas",
+      "fecha": "Sat, 01 Aug 2026 00:19:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Las cuatro acciones del IPSA con mejor retorno por dividendo",
       "link": "http://www.df.cl/senal-df/senales-financieras/las-cuatro-acciones-del-ipsa-con-mejor-retorno-por-dividendo",
       "fecha": "Sat, 01 Aug 2026 01:04:40 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IPSA cierre con leve caída pero retiene los 11.000 puntos mientras inversionistas siguen resultados, tasas de interés y conflicto geopolítico",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-dbhvk",
-      "fecha": "Fri, 31 Jul 2026 20:55:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza este viernes sobre $ 930 pero registra una baja de doble dígito en semana marcada por reunión de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmawb",
-      "fecha": "Fri, 31 Jul 2026 20:10:58 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,10 +61,16 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Lula lanza su candidatura con promesas de inversión en defensa, educación y tierras raras",
-      "link": "http://www.df.cl/internacional/politica/lula-lanza-su-candidatura-con-promesas-de-inversion-en-defensa-educacion-y",
-      "fecha": "Sun, 02 Aug 2026 22:05:24 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Nicolás Grau arremete contra Ley de Reconstrucción: Favorece a los sectores de \"más alto ingreso\"",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/02/nicolas-grau-arremete-contra-ley-de-reconstruccion-favorece-a-los-sectores-de-mas-alto-ingreso.shtml",
+      "fecha": "Mon, 03 Aug 2026 03:54:10 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Balance Senapred por sistema frontal: 2 fallecidos, 25 viviendas destruidas y más de 6 mil aislados",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/02/balance-senapred-por-sistema-frontal-2-fallecidos-25-viviendas-destruidas-y-mas-de-6-mil-aislados.shtml",
+      "fecha": "Mon, 03 Aug 2026 01:47:44 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -136,6 +142,10 @@
       {
         "fecha": "2026-08-02",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-03",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -206,6 +216,10 @@
       {
         "fecha": "2026-08-02",
         "valor": 927.35
+      },
+      {
+        "fecha": "2026-08-03",
+        "valor": 928.42
       }
     ],
     "tpm": [
@@ -275,6 +289,10 @@
       },
       {
         "fecha": "2026-08-02",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-03",
         "valor": 4.5
       }
     ],
@@ -346,16 +364,20 @@
       {
         "fecha": "2026-08-02",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-03",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.56,
-    "score": 1.072,
+    "cambio_pct": 0.12,
+    "score": 0.177,
     "modo": "zscore",
-    "valor_actual": 927.35,
-    "fecha": "2026-08-02"
+    "valor_actual": 928.42,
+    "fecha": "2026-08-03"
   }
 }
