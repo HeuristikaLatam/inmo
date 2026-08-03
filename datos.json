@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-03T17:17:28.018976+00:00",
+  "generado": "2026-08-03T23:48:57.236722+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cae fuerte bajo los $ 925 en sesión marcada por positivo Imacec de junio y avance de conversaciones en Medio Oriente",
+      "titulo": "Dirección General del Crédito Prendario eleva valor del gramo de oro récord de $ 30 mil en Coquimbo y Valparaíso para ayudar a afectados por temporales",
+      "link": "http://www.df.cl/regiones/coquimbo/dicrep-eleva-a-un-record-de-30-mil-el-gramo-de-oro-en-coquimbo-y",
+      "fecha": "Mon, 03 Aug 2026 22:23:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra con fuerte caída en niveles de $ 925 tras positivo Imacec de junio y avance de conversaciones en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8jn52",
-      "fecha": "Mon, 03 Aug 2026 17:16:23 GMT",
+      "fecha": "Mon, 03 Aug 2026 21:03:22 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,28 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Parlamentarios y alcaldes del Norte Chico exigen al Gobierno \"garantías de recursos frescos para la reconstrucción\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/parlamentarios-y-alcaldes-del-norte-chico-exigen-al-gobierno-garantias/2026-07-30/080308.html",
-      "fecha": "Thu, 30 Jul 2026 08:03:08 -0400",
-      "fuente": "Cooperativa"
+      "titulo": "Tras colapso de Los Libertadores bajo siete metros de nieve, camioneros urgen habilitar definitivamente el Paso Pehuenche, en Maule",
+      "link": "http://www.df.cl/regiones/camioneros-urgen-habilitar-paso-pehuenche-como-alternativa-a-los",
+      "fecha": "Mon, 03 Aug 2026 23:45:56 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Subsidio Eléctrico, de Arriendo y más: estas son las fechas clave de beneficios y trámites en agosto",
-      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/08/03/subsidio-electrico-de-arriendo-y-mas-estas-son-las-fechas-clave-de-beneficios-y-tramites-en-agosto.shtml",
-      "fecha": "Mon, 03 Aug 2026 17:04:47 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Persona muere calcinada tras incendio en su vivienda en Los Ángeles: aún se desconoce su identidad",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/03/persona-muere-calcinada-tras-incendio-en-su-vivienda-en-los-angeles-aun-se-desconoce-su-identidad.shtml",
-      "fecha": "Mon, 03 Aug 2026 17:01:20 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Desalojo en megatoma de San Antonio: Gobierno compromete respuesta habitacional de 6 mil viviendas",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/03/desalojo-en-megatoma-de-san-antonio-gobierno-compromete-respuesta-habitacional-de-6-mil-viviendas.shtml",
-      "fecha": "Mon, 03 Aug 2026 16:43:53 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Gobierno inicia procedimiento de invalidación de consulta indígena asociada a implementación del SBAP: se perdió lista de participantes",
+      "link": "http://www.df.cl/empresas/medio-ambiente/gobierno-inicia-procedimiento-de-invalidacion-de-consulta-indigena-asociada",
+      "fecha": "Mon, 03 Aug 2026 23:22:06 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
