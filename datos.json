@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-04T16:27:53.652039+00:00",
+  "generado": "2026-08-04T23:36:56.894969+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Quiroz y Poduje ingresan proyecto que extiende la rebaja al crédito hipotecario y crea un subsidio estatal potenciado",
+      "titulo": "Dólar se hunde más de $ 10 y cierra próximo a $ 910 por la expectativa de un pronto acuerdo de paz en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lvxuc",
+      "fecha": "Tue, 04 Aug 2026 20:04:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Comisión de Hacienda aprueba exprés y pasa a Sala el proyecto que extiende la rebaja al crédito hipotecario y crea un subsidio estatal potenciado",
       "link": "http://www.df.cl/economia-y-politica/congreso/quiroz-y-poduje-ingresan-proyecto-que-extiende-la-rebaja-al-credito",
-      "fecha": "Tue, 04 Aug 2026 15:52:11 GMT",
+      "fecha": "Tue, 04 Aug 2026 20:30:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Cuarto día de formalización en caso Sartor: abogado de Credicorp denuncia que “no se ha pagado un solo dólar de los US$ 45 millones” que invirtieron",
       "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
-      "fecha": "Tue, 04 Aug 2026 15:36:44 GMT",
+      "fecha": "Tue, 04 Aug 2026 16:41:46 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,34 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar se hunde $ 10 a media mañana por las perspectivas de un pronto acuerdo de paz en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lvxuc",
-      "fecha": "Tue, 04 Aug 2026 15:34:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "El petróleo sube y el dólar repunta, pero los inversionistas se concentran en los positivos resultados de empresas que impulsan el rally bursátil",
       "link": "http://www.df.cl/primer-click/el-petroleo-sube-y-el-dolar-repunta-pero-los-inversionistas-se-concentran",
-      "fecha": "Tue, 04 Aug 2026 12:04:14 GMT",
+      "fecha": "Tue, 04 Aug 2026 19:33:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La “reconstrucción” eléctrica",
-      "link": "http://www.df.cl/opinion/cartas/la-reconstruccion-electrica",
-      "fecha": "Tue, 04 Aug 2026 00:18:37 GMT",
+      "titulo": "Proyecto misceláneo a ley: Senado aprueba mecanismo de compensación a municipios por exención de contribuciones",
+      "link": "http://www.df.cl/economia-y-politica/congreso/proyecto-miscelaneo-a-ley-senado-aprueba-mecanismo-de-compensacion-a",
+      "fecha": "Tue, 04 Aug 2026 23:35:20 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gobierno anuncia proyecto para extender el subsidio a la tasa hipotecaria y el FOGAES",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/04/gobierno-anuncia-proyecto-para-extender-el-subsidio-a-la-tasa-hipotecaria-y-el-fogaes.shtml",
-      "fecha": "Tue, 04 Aug 2026 16:11:10 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Nadador polaco cruzó mar Báltico tras gesta de 55 horas: sufrió alucinaciones y lo ayudó una Coca-Cola",
-      "link": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/08/04/nadador-bartlomiej-kubkowski-cruzo-mar-baltico-55-horas-alucinaciones-y-coca-cola.shtml",
-      "fecha": "Tue, 04 Aug 2026 16:03:38 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
