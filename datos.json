@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-04T06:16:30.769592+00:00",
+  "generado": "2026-08-04T16:21:07.017305+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,40 +31,52 @@
   },
   "titulares": [
     {
-      "titulo": "Dirección General del Crédito Prendario eleva valor del gramo de oro récord de $ 30 mil en Coquimbo y Valparaíso para ayudar a afectados por temporales",
-      "link": "http://www.df.cl/regiones/coquimbo/dicrep-eleva-a-un-record-de-30-mil-el-gramo-de-oro-en-coquimbo-y",
-      "fecha": "Mon, 03 Aug 2026 22:23:15 GMT",
+      "titulo": "Quiroz y Poduje ingresan proyecto que extiende la rebaja al crédito hipotecario y crea un subsidio estatal potenciado",
+      "link": "http://www.df.cl/economia-y-politica/congreso/quiroz-y-poduje-ingresan-proyecto-que-extiende-la-rebaja-al-credito",
+      "fecha": "Tue, 04 Aug 2026 15:52:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra con fuerte caída en niveles de $ 925 tras positivo Imacec de junio y avance de conversaciones en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-8jn52",
-      "fecha": "Mon, 03 Aug 2026 21:03:22 GMT",
+      "titulo": "Cuarto día de formalización en caso Sartor: abogado de Credicorp denuncia que “no se ha pagado un solo dólar de los US$ 45 millones” que invirtieron",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
+      "fecha": "Tue, 04 Aug 2026 15:36:44 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "EXPECTATIVAS SOBRE NUEVA NORMATIVA EN VIVIENDA",
-      "link": "http://www.df.cl/opinion/editorial/expectativas-sobre-nueva-normativa-en-vivienda",
-      "fecha": "Sat, 01 Aug 2026 00:28:20 GMT",
+      "titulo": "ContourGlobal anuncia la construcción en la Región de O'Higgins de una nueva planta híbrida de energía solar con almacenamiento",
+      "link": "http://www.df.cl/empresas/energia/contourglobal-anuncia-la-construccion-en-la-region-de-o-higgins-de-una",
+      "fecha": "Tue, 04 Aug 2026 15:33:47 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Kevin Burgett, economista cofundador de Monetary Policy Analytics: “Unas tasas más altas (de la Fed) equilibrarían mejor los riesgos”",
-      "link": "http://www.df.cl/internacional/economia/kevin-burgett-economista-cofundador-de-monetary-policy-analytics-unas",
-      "fecha": "Sat, 01 Aug 2026 00:19:37 GMT",
+      "titulo": "Dólar se hunde $ 10 a media mañana por las perspectivas de un pronto acuerdo de paz en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lvxuc",
+      "fecha": "Tue, 04 Aug 2026 15:34:17 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Luto en la UFC: muere Allan Nascimento a los 34 años tras un aparente ataque cardíaco",
-      "link": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/08/03/luto-en-la-ufc-muere-allan-nascimento-a-los-34-anos-tras-un-aparente-ataque-cardiaco.shtml",
-      "fecha": "Tue, 04 Aug 2026 01:00:39 +0000",
+      "titulo": "El petróleo sube y el dólar repunta, pero los inversionistas se concentran en los positivos resultados de empresas que impulsan el rally bursátil",
+      "link": "http://www.df.cl/primer-click/el-petroleo-sube-y-el-dolar-repunta-pero-los-inversionistas-se-concentran",
+      "fecha": "Tue, 04 Aug 2026 12:04:14 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La “reconstrucción” eléctrica",
+      "link": "http://www.df.cl/opinion/cartas/la-reconstruccion-electrica",
+      "fecha": "Tue, 04 Aug 2026 00:18:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno anuncia proyecto para extender el subsidio a la tasa hipotecaria y el FOGAES",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/04/gobierno-anuncia-proyecto-para-extender-el-subsidio-a-la-tasa-hipotecaria-y-el-fogaes.shtml",
+      "fecha": "Tue, 04 Aug 2026 16:11:10 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Sartor: decretan cautelar de arresto domiciliario para exdirector de inversiones de AGF",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/tercer-dia-de-formalizacion-de-caso-sartor-tribunal-decreta-arresto",
-      "fecha": "Tue, 04 Aug 2026 01:11:19 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Nadador polaco cruzó mar Báltico tras gesta de 55 horas: sufrió alucinaciones y lo ayudó una Coca-Cola",
+      "link": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/08/04/nadador-bartlomiej-kubkowski-cruzo-mar-baltico-55-horas-alucinaciones-y-coca-cola.shtml",
+      "fecha": "Tue, 04 Aug 2026 16:03:38 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
