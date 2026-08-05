@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-05T06:14:08.254109+00:00",
+  "generado": "2026-08-05T15:50:38.974315+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,40 +31,40 @@
   },
   "titulares": [
     {
+      "titulo": "Pagos digitales aumentan 15% y llegan a 435 transacciones anuales por persona, según informe del Banco Central",
+      "link": "http://www.df.cl/mercados/banca-fintech/pagos-digitales-aumentan-15-y-llegan-a-435-transacciones-anuales-por",
+      "fecha": "Wed, 05 Aug 2026 13:58:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "No hubo dudas: Banco Central solo evaluó mantener la tasa en la última reunión monetaria ante la alta incertidumbre",
+      "link": "http://www.df.cl/economia-y-politica/macro/no-hubo-dudas-banco-central-solo-evaluo-mantener-la-tasa-en-la-ultima",
+      "fecha": "Wed, 05 Aug 2026 13:23:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar pierde los $ 910 en apertura tras débiles cifras de empleo privado en EEUU y esperanzas de una tregua en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
+      "fecha": "Wed, 05 Aug 2026 14:03:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Credicorp Capital por caso Sartor: “No se ha pagado un solo dólar de los US$ 45 millones” que financiaron",
       "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
-      "fecha": "Wed, 05 Aug 2026 00:24:47 GMT",
+      "fecha": "Wed, 05 Aug 2026 14:49:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar se hunde más de $ 10 y cierra próximo a $ 910 por la expectativa de un pronto acuerdo de paz en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lvxuc",
-      "fecha": "Tue, 04 Aug 2026 20:04:42 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "A una semana de la entrega del Subsidio Eléctrico: revisa quiénes tienen prioridad para recibirlo",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/08/05/a-una-semana-de-la-entrega-del-subsidio-electrico-revisa-quienes-tienen-prioridad-para-recibirlo.shtml",
+      "fecha": "Wed, 05 Aug 2026 15:03:26 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Comisión de Hacienda aprueba exprés y pasa a Sala el proyecto que extiende la rebaja al crédito hipotecario y crea un subsidio estatal potenciado",
-      "link": "http://www.df.cl/economia-y-politica/congreso/quiroz-y-poduje-ingresan-proyecto-que-extiende-la-rebaja-al-credito",
-      "fecha": "Tue, 04 Aug 2026 20:30:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "ContourGlobal anuncia la construcción en la Región de O'Higgins de una nueva planta híbrida de energía solar con almacenamiento",
-      "link": "http://www.df.cl/empresas/energia/contourglobal-anuncia-la-construccion-en-la-region-de-o-higgins-de-una",
-      "fecha": "Tue, 04 Aug 2026 15:33:47 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El petróleo sube y el dólar repunta, pero los inversionistas se concentran en los positivos resultados de empresas que impulsan el rally bursátil",
-      "link": "http://www.df.cl/primer-click/el-petroleo-sube-y-el-dolar-repunta-pero-los-inversionistas-se-concentran",
-      "fecha": "Tue, 04 Aug 2026 19:33:16 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast destacará proyecto de reactivación en cadena nacional y Fermandois refuerza defensa ante el TC",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-alista-para-este-miercoles-una-cadena-nacional-por-el-despacho-del",
-      "fecha": "Wed, 05 Aug 2026 00:55:58 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Banco Central: chilenos pagan full en digital, pero hay compras donde efectivo vuelve a ser preferido",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/05/banco-central-chilenos-pagan-full-en-digital-pero-hay-compras-donde-efectivo-vuelve-a-ser-preferido.shtml",
+      "fecha": "Wed, 05 Aug 2026 14:40:10 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
