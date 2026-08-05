@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-05T16:12:26.504216+00:00",
+  "generado": "2026-08-05T23:30:54.066517+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,39 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar borra caída inicial tras datos económicos mixtos desde EEUU y con mercados atentos a posible tregua en Medio Oriente",
+      "titulo": "Gobierno reconsidera decisión y confirma construcción de corredores de transporte público en Gran Concepción: Giacaman se reunió con biministro Alvarado",
+      "link": "http://www.df.cl/regiones/biobio/gobierno-reconsidera-decision-y-confirma-construccion-de-corredores-de",
+      "fecha": "Wed, 05 Aug 2026 21:30:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra al alza cerca de $ 915 y pone freno a recientes caídas aun cuando el cobre Comex alcanzó máximos históricos",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
-      "fecha": "Wed, 05 Aug 2026 16:03:47 GMT",
+      "fecha": "Wed, 05 Aug 2026 20:24:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Cámara Baja aprueba extensión hasta 2028 de la rebaja a la tasa del crédito hipotecario y lo despacha al Senado",
+      "link": "http://www.df.cl/economia-y-politica/congreso/camara-baja-aprueba-extension-hasta-2028-de-la-rebaja-a-la-tasa-del-credito",
+      "fecha": "Wed, 05 Aug 2026 17:34:29 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Pagos digitales aumentan 15% y llegan a 435 transacciones anuales por persona, según informe del Banco Central",
       "link": "http://www.df.cl/mercados/banca-fintech/pagos-digitales-aumentan-15-y-llegan-a-435-transacciones-anuales-por",
-      "fecha": "Wed, 05 Aug 2026 13:58:27 GMT",
+      "fecha": "Wed, 05 Aug 2026 23:02:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "No hubo dudas: Banco Central solo evaluó mantener la tasa en la última reunión monetaria ante la alta incertidumbre",
       "link": "http://www.df.cl/economia-y-politica/macro/no-hubo-dudas-banco-central-solo-evaluo-mantener-la-tasa-en-la-ultima",
-      "fecha": "Wed, 05 Aug 2026 13:23:15 GMT",
+      "fecha": "Wed, 05 Aug 2026 20:17:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Credicorp Capital por caso Sartor: “No se ha pagado un solo dólar de los US$ 45 millones” que financiaron",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
-      "fecha": "Wed, 05 Aug 2026 14:49:24 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "A una semana de la entrega del Subsidio Eléctrico: revisa quiénes tienen prioridad para recibirlo",
-      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/08/05/a-una-semana-de-la-entrega-del-subsidio-electrico-revisa-quienes-tienen-prioridad-para-recibirlo.shtml",
-      "fecha": "Wed, 05 Aug 2026 15:03:26 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "OIT alerta que El Niño podría agravar la informalidad, elevar el trabajo infantil y deteriorar las condiciones laborales en la región",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/oit-alerta-que-el-nino-podria-agravar-la-informalidad-elevar-el-trabajo",
-      "fecha": "Wed, 05 Aug 2026 16:06:05 GMT",
+      "titulo": "Molymet cierra la compra de la estadounidense Rhenium Alloys por US$ 40 millones",
+      "link": "http://www.df.cl/empresas/mineria/molymet-cierra-la-compra-de-la-estadounidense-rhenium-alloys-por-us-40",
+      "fecha": "Wed, 05 Aug 2026 23:14:25 GMT",
       "fuente": "Diario Financiero"
     }
   ],
