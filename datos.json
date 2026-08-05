@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-04T23:36:56.894969+00:00",
+  "generado": "2026-08-05T06:14:08.254109+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-08-04T04:00:00.000Z"
+      "fecha": "2026-08-05T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 924.89,
-      "fecha": "2026-08-04T04:00:00.000Z"
+      "valor": 914.46,
+      "fecha": "2026-08-05T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-04T04:00:00.000Z"
+      "fecha": "2026-08-05T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Credicorp Capital por caso Sartor: “No se ha pagado un solo dólar de los US$ 45 millones” que financiaron",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
+      "fecha": "Wed, 05 Aug 2026 00:24:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar se hunde más de $ 10 y cierra próximo a $ 910 por la expectativa de un pronto acuerdo de paz en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lvxuc",
       "fecha": "Tue, 04 Aug 2026 20:04:42 GMT",
@@ -40,12 +46,6 @@
       "titulo": "Comisión de Hacienda aprueba exprés y pasa a Sala el proyecto que extiende la rebaja al crédito hipotecario y crea un subsidio estatal potenciado",
       "link": "http://www.df.cl/economia-y-politica/congreso/quiroz-y-poduje-ingresan-proyecto-que-extiende-la-rebaja-al-credito",
       "fecha": "Tue, 04 Aug 2026 20:30:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Cuarto día de formalización en caso Sartor: abogado de Credicorp denuncia que “no se ha pagado un solo dólar de los US$ 45 millones” que invirtieron",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/cuarto-dia-de-formalizacion-en-caso-sartor-abogado-de-credicorp-denuncia",
-      "fecha": "Tue, 04 Aug 2026 16:41:46 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,9 +61,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Proyecto misceláneo a ley: Senado aprueba mecanismo de compensación a municipios por exención de contribuciones",
-      "link": "http://www.df.cl/economia-y-politica/congreso/proyecto-miscelaneo-a-ley-senado-aprueba-mecanismo-de-compensacion-a",
-      "fecha": "Tue, 04 Aug 2026 23:35:20 GMT",
+      "titulo": "Kast destacará proyecto de reactivación en cadena nacional y Fermandois refuerza defensa ante el TC",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-alista-para-este-miercoles-una-cadena-nacional-por-el-despacho-del",
+      "fecha": "Wed, 05 Aug 2026 00:55:58 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -144,6 +144,10 @@
       {
         "fecha": "2026-08-04",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-05",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -222,6 +226,10 @@
       {
         "fecha": "2026-08-04",
         "valor": 924.89
+      },
+      {
+        "fecha": "2026-08-05",
+        "valor": 914.46
       }
     ],
     "tpm": [
@@ -299,6 +307,10 @@
       },
       {
         "fecha": "2026-08-04",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-05",
         "valor": 4.5
       }
     ],
@@ -378,16 +390,20 @@
       {
         "fecha": "2026-08-04",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-05",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.38,
-    "score": 0.782,
+    "cambio_pct": -1.13,
+    "score": 2.202,
     "modo": "zscore",
-    "valor_actual": 924.89,
-    "fecha": "2026-08-04"
+    "valor_actual": 914.46,
+    "fecha": "2026-08-05"
   }
 }
