@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-05T15:50:38.974315+00:00",
+  "generado": "2026-08-05T16:12:26.504216+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar borra caída inicial tras datos económicos mixtos desde EEUU y con mercados atentos a posible tregua en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
+      "fecha": "Wed, 05 Aug 2026 16:03:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Pagos digitales aumentan 15% y llegan a 435 transacciones anuales por persona, según informe del Banco Central",
       "link": "http://www.df.cl/mercados/banca-fintech/pagos-digitales-aumentan-15-y-llegan-a-435-transacciones-anuales-por",
       "fecha": "Wed, 05 Aug 2026 13:58:27 GMT",
@@ -40,12 +46,6 @@
       "titulo": "No hubo dudas: Banco Central solo evaluó mantener la tasa en la última reunión monetaria ante la alta incertidumbre",
       "link": "http://www.df.cl/economia-y-politica/macro/no-hubo-dudas-banco-central-solo-evaluo-mantener-la-tasa-en-la-ultima",
       "fecha": "Wed, 05 Aug 2026 13:23:15 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar pierde los $ 910 en apertura tras débiles cifras de empleo privado en EEUU y esperanzas de una tregua en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
-      "fecha": "Wed, 05 Aug 2026 14:03:04 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,10 +61,10 @@
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Banco Central: chilenos pagan full en digital, pero hay compras donde efectivo vuelve a ser preferido",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/05/banco-central-chilenos-pagan-full-en-digital-pero-hay-compras-donde-efectivo-vuelve-a-ser-preferido.shtml",
-      "fecha": "Wed, 05 Aug 2026 14:40:10 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "OIT alerta que El Niño podría agravar la informalidad, elevar el trabajo infantil y deteriorar las condiciones laborales en la región",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/oit-alerta-que-el-nino-podria-agravar-la-informalidad-elevar-el-trabajo",
+      "fecha": "Wed, 05 Aug 2026 16:06:05 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
