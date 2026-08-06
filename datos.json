@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-05T23:30:54.066517+00:00",
+  "generado": "2026-08-06T00:14:33.033999+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -20,22 +20,8 @@
       "fecha": "2026-08-05T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": {
-    "nombre": "Tasa hipotecaria promedio (TIP)",
-    "unidad": "Porcentaje",
-    "valor": 4.26,
-    "fecha": "2026-07-15",
-    "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.26
-    }
-  },
+  "tasa_hipotecaria": null,
   "titulares": [
-    {
-      "titulo": "Gobierno reconsidera decisión y confirma construcción de corredores de transporte público en Gran Concepción: Giacaman se reunió con biministro Alvarado",
-      "link": "http://www.df.cl/regiones/biobio/gobierno-reconsidera-decision-y-confirma-construccion-de-corredores-de",
-      "fecha": "Wed, 05 Aug 2026 21:30:58 GMT",
-      "fuente": "Diario Financiero"
-    },
     {
       "titulo": "Dólar cierra al alza cerca de $ 915 y pone freno a recientes caídas aun cuando el cobre Comex alcanzó máximos históricos",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
@@ -61,9 +47,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Molymet cierra la compra de la estadounidense Rhenium Alloys por US$ 40 millones",
-      "link": "http://www.df.cl/empresas/mineria/molymet-cierra-la-compra-de-la-estadounidense-rhenium-alloys-por-us-40",
-      "fecha": "Wed, 05 Aug 2026 23:14:25 GMT",
+      "titulo": "Devolución de aranceles por US$ 48 millones amortigua caída de las ganancias de Agrosuper",
+      "link": "http://www.df.cl/empresas/retail/devolucion-de-aranceles-por-us-48-millones-amortigua-caida-de-las",
+      "fecha": "Thu, 06 Aug 2026 00:06:23 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Quinto día de formalización del caso Sartor: audiencia se extenderá hasta mediados de la próxima semana",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/quinta-jornada-de-formalizacion-de-caso-sartor-audiencia-se-extendera",
+      "fecha": "Thu, 06 Aug 2026 00:06:53 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -148,6 +140,10 @@
       {
         "fecha": "2026-08-05",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-06",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -230,6 +226,10 @@
       {
         "fecha": "2026-08-05",
         "valor": 914.46
+      },
+      {
+        "fecha": "2026-08-06",
+        "valor": 914.46
       }
     ],
     "tpm": [
@@ -311,6 +311,10 @@
       },
       {
         "fecha": "2026-08-05",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-06",
         "valor": 4.5
       }
     ],
@@ -400,10 +404,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -1.13,
-    "score": 2.202,
+    "cambio_pct": 0.0,
+    "score": 0.1,
     "modo": "zscore",
     "valor_actual": 914.46,
-    "fecha": "2026-08-05"
+    "fecha": "2026-08-06"
   }
 }
