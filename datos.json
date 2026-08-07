@@ -1,62 +1,76 @@
 {
-  "generado": "2026-08-06T00:14:33.033999+00:00",
+  "generado": "2026-08-07T04:33:52.109688+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-08-05T04:00:00.000Z"
+      "fecha": "2026-08-07T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 914.46,
-      "fecha": "2026-08-05T04:00:00.000Z"
+      "valor": 913.86,
+      "fecha": "2026-08-07T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-05T04:00:00.000Z"
+      "fecha": "2026-08-07T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": null,
+  "tasa_hipotecaria": {
+    "nombre": "Tasa hipotecaria promedio (TIP)",
+    "unidad": "Porcentaje",
+    "valor": 4.26,
+    "fecha": "2026-07-15",
+    "detalle": {
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.26
+    }
+  },
   "titulares": [
     {
-      "titulo": "Dólar cierra al alza cerca de $ 915 y pone freno a recientes caídas aun cuando el cobre Comex alcanzó máximos históricos",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-f3yu6",
-      "fecha": "Wed, 05 Aug 2026 20:24:00 GMT",
+      "titulo": "Gobernador de Coquimbo tras suspensión del RallyMobil 2026: “Cada peso debe estar puesto en la reconstrucción”",
+      "link": "http://www.df.cl/regiones/coquimbo/coquimbo-suspende-fecha-del-rallymobil-tras-danos-provocados-por-el",
+      "fecha": "Thu, 06 Aug 2026 22:01:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Cámara Baja aprueba extensión hasta 2028 de la rebaja a la tasa del crédito hipotecario y lo despacha al Senado",
-      "link": "http://www.df.cl/economia-y-politica/congreso/camara-baja-aprueba-extension-hasta-2028-de-la-rebaja-a-la-tasa-del-credito",
-      "fecha": "Wed, 05 Aug 2026 17:34:29 GMT",
+      "titulo": "De la Espriella asumirá la presidencia en medio de expectativas de alza de tasas del banco central colombiano",
+      "link": "http://www.df.cl/internacional/economia/de-la-espriella-asumira-la-presidencia-en-medio-de-expectativas-de-alza-de",
+      "fecha": "Thu, 06 Aug 2026 20:47:08 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Pagos digitales aumentan 15% y llegan a 435 transacciones anuales por persona, según informe del Banco Central",
-      "link": "http://www.df.cl/mercados/banca-fintech/pagos-digitales-aumentan-15-y-llegan-a-435-transacciones-anuales-por",
-      "fecha": "Wed, 05 Aug 2026 23:02:27 GMT",
+      "titulo": "Dólar cierra con leve alza por un repunte de tensiones en Medio Oriente que frenó los recientes máximos del cobre",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zba6c",
+      "fecha": "Thu, 06 Aug 2026 21:08:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "No hubo dudas: Banco Central solo evaluó mantener la tasa en la última reunión monetaria ante la alta incertidumbre",
-      "link": "http://www.df.cl/economia-y-politica/macro/no-hubo-dudas-banco-central-solo-evaluo-mantener-la-tasa-en-la-ultima",
-      "fecha": "Wed, 05 Aug 2026 20:17:53 GMT",
+      "titulo": "Informe del Banco Central: empresas advierten de aumentos de costos y nulas contrataciones, pero anticipan un mejor segundo semestre",
+      "link": "http://www.df.cl/economia-y-politica/macro/informe-del-banco-central-empresas-advierten-de-aumentos-de-costos-y-nulas",
+      "fecha": "Fri, 07 Aug 2026 00:49:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Devolución de aranceles por US$ 48 millones amortigua caída de las ganancias de Agrosuper",
-      "link": "http://www.df.cl/empresas/retail/devolucion-de-aranceles-por-us-48-millones-amortigua-caida-de-las",
-      "fecha": "Thu, 06 Aug 2026 00:06:23 GMT",
+      "titulo": "El cobre suma un nuevo récord histórico, mientras las bolsas y el dólar están atentos a cifras económicas y Medio Oriente",
+      "link": "http://www.df.cl/primer-click/el-cobre-suma-un-nuevo-record-historico-mientras-las-bolsas-y-el-dolar",
+      "fecha": "Thu, 06 Aug 2026 11:37:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Quinto día de formalización del caso Sartor: audiencia se extenderá hasta mediados de la próxima semana",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/quinta-jornada-de-formalizacion-de-caso-sartor-audiencia-se-extendera",
-      "fecha": "Thu, 06 Aug 2026 00:06:53 GMT",
+      "titulo": "Minuta del Banco Central afianza expectativa de una mantención de tasas en próximas reuniones",
+      "link": "http://www.df.cl/economia-y-politica/macro/minuta-del-banco-central-afianza-expectativa-de-una-mantencion-de-tasas-en",
+      "fecha": "Thu, 06 Aug 2026 00:00:10 GMT",
       "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Josep Borrell: \"Trump es lo suficientemente tonto para lanzarse a una guerra contra Irán\"",
+      "link": "https://www.biobiochile.cl/biobiotv/programas/la-entrevista-de-tomas-mosciatti/2026/08/06/josep-borrell-trump-es-lo-suficientemente-tonto-para-lanzarse-a-una-guerra-contra-iran.shtml",
+      "fecha": "Fri, 07 Aug 2026 01:00:39 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -144,6 +158,10 @@
       {
         "fecha": "2026-08-06",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-07",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -230,6 +248,10 @@
       {
         "fecha": "2026-08-06",
         "valor": 914.46
+      },
+      {
+        "fecha": "2026-08-07",
+        "valor": 913.86
       }
     ],
     "tpm": [
@@ -316,6 +338,10 @@
       {
         "fecha": "2026-08-06",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-07",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -398,16 +424,20 @@
       {
         "fecha": "2026-08-05",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-07",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.1,
+    "cambio_pct": -0.07,
+    "score": 0.023,
     "modo": "zscore",
-    "valor_actual": 914.46,
-    "fecha": "2026-08-06"
+    "valor_actual": 913.86,
+    "fecha": "2026-08-07"
   }
 }
