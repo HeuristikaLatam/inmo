@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-08T10:00:31.941792+00:00",
+  "generado": "2026-08-08T10:16:36.570392+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -20,7 +20,15 @@
       "fecha": "2026-08-07T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": null,
+  "tasa_hipotecaria": {
+    "nombre": "Tasa hipotecaria promedio (TIP)",
+    "unidad": "Porcentaje",
+    "valor": 4.26,
+    "fecha": "2026-07-15",
+    "detalle": {
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.26
+    }
+  },
   "titulares": [
     {
       "titulo": "Arturo Arrigorriaga, CFO de Besalco y la batería de medidas para reactivar la construcción:“Va a haber un impulso muy fuerte. Estamos súper optimistas\"",
@@ -431,6 +439,10 @@
       },
       {
         "fecha": "2026-08-07",
+        "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-08",
         "valor": 4.26
       }
     ]
