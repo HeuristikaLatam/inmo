@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-07T23:01:06.720771+00:00",
+  "generado": "2026-08-08T10:00:31.941792+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-08-07T04:00:00.000Z"
+      "fecha": "2026-08-08T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -20,15 +20,7 @@
       "fecha": "2026-08-07T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": {
-    "nombre": "Tasa hipotecaria promedio (TIP)",
-    "unidad": "Porcentaje",
-    "valor": 4.26,
-    "fecha": "2026-07-15",
-    "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.26
-    }
-  },
+  "tasa_hipotecaria": null,
   "titulares": [
     {
       "titulo": "Arturo Arrigorriaga, CFO de Besalco y la batería de medidas para reactivar la construcción:“Va a haber un impulso muy fuerte. Estamos súper optimistas\"",
@@ -61,10 +53,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Agenda de Seguridad, Imacec y cobre en récord se tomaron la agenda",
-      "link": "http://www.df.cl/senal-df/doble-shot/agenda-de-seguridad-imacec-y-cobre-en-record-se-tomaron-la-agenda",
-      "fecha": "Fri, 07 Aug 2026 23:00:55 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "\"Terriblemente chantas\" y \"vergüenza\": Poduje arremete contra empresas por reconstrucción en El Olivar",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/08/terriblemente-chantas-y-verguenza-poduje-arremete-contra-empresas-por-reconstruccion-en-el-olivar.shtml",
+      "fecha": "Sat, 08 Aug 2026 04:00:11 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Periodista José Antonio Neme sufre accidente de tránsito: chocó con motociclista",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/08/07/jose-antonio-neme-sufre-accidente-de-transito-choco-con-motociclista.shtml",
+      "fecha": "Sat, 08 Aug 2026 03:56:34 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -156,6 +154,10 @@
       {
         "fecha": "2026-08-07",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-08",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -246,6 +248,10 @@
       {
         "fecha": "2026-08-07",
         "valor": 913.86
+      },
+      {
+        "fecha": "2026-08-08",
+        "valor": 913.86
       }
     ],
     "tpm": [
@@ -335,6 +341,10 @@
       },
       {
         "fecha": "2026-08-07",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-08",
         "valor": 4.5
       }
     ],
@@ -428,10 +438,10 @@
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": -0.07,
-    "score": 0.023,
+    "cambio_pct": 0.0,
+    "score": 0.101,
     "modo": "zscore",
     "valor_actual": 913.86,
-    "fecha": "2026-08-07"
+    "fecha": "2026-08-08"
   }
 }
