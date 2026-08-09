@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-09T10:57:39.995224+00:00",
+  "generado": "2026-08-09T21:17:05.076370+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Greg Abel finalmente pone a trabajar la enorme fortuna de Warren Buffett",
+      "link": "http://www.df.cl/internacional/multinacionales/greg-abel-finalmente-pone-a-trabajar-la-enorme-fortuna-de-warren-buffett",
+      "fecha": "Sun, 09 Aug 2026 20:04:01 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Arturo Arrigorriaga, CFO de Besalco y la batería de medidas para reactivar la construcción:“Va a haber un impulso muy fuerte. Estamos súper optimistas\"",
       "link": "http://www.df.cl/senal-df/en-la-mente-del-cfo/arturo-arrigorriaga-cfo-de-besalco-y-la-bateria-de-medidas-para-reactivar",
       "fecha": "Fri, 07 Aug 2026 21:31:05 GMT",
@@ -49,21 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Filial de Pulmann Bus vs Codelco: la millonaria disputa por el transporte de trabajadores",
-      "link": "http://www.df.cl/df-mas/por-dentro/filial-de-pulmann-bus-vs-codelco-la-millonaria-disputa-por-el-transporte",
-      "fecha": "Sat, 08 Aug 2026 23:26:56 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Hallan muerto a adulto mayor de 79 años en vigas de una construcción en La Ligua",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/09/hallan-muerto-a-adulto-mayor-de-79-anos-en-vigas-de-una-construccion-en-la-ligua.shtml",
+      "fecha": "Sun, 09 Aug 2026 18:44:31 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "La columna de Jinks: Squella, la estrella",
-      "link": "http://www.df.cl/df-mas/opinion/squella-la-estrella",
-      "fecha": "Sat, 08 Aug 2026 20:41:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Arrau y su hora cero en Seguridad: “Nuestra meta es llegar a los niveles anteriores al gobierno pasado. Esperamos bajar de los mil homicidios por año”",
-      "link": "http://www.df.cl/df-mas/politica/arrau-y-su-hora-cero-en-seguridad-nuestra-meta-es-llegar-a-los-niveles",
-      "fecha": "Sat, 08 Aug 2026 20:35:12 GMT",
+      "titulo": "La demócrata Alexandria Ocasio-Cortez no descarta buscar la presidencia de EEUU en 2028",
+      "link": "http://www.df.cl/internacional/politica/la-democrata-alexandria-ocasio-cortez-no-descarta-buscar-la-presidencia-de",
+      "fecha": "Sun, 09 Aug 2026 16:51:51 GMT",
       "fuente": "Diario Financiero"
     }
   ],
