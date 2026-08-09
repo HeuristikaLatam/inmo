@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-08T21:59:55.954249+00:00",
+  "generado": "2026-08-09T10:02:51.672017+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
       "valor": 40844.79,
-      "fecha": "2026-08-08T04:00:00.000Z"
+      "fecha": "2026-08-09T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -49,21 +49,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Trump modera sus críticas a Warsh, pero mantiene la presión sobre la Fed por tasas más bajas",
-      "link": "http://www.df.cl/internacional/economia/trump-modera-sus-criticas-a-warsh-pero-mantiene-la-presion-sobre-la-fed",
-      "fecha": "Fri, 07 Aug 2026 17:17:19 GMT",
+      "titulo": "Filial de Pulmann Bus vs Codelco: la millonaria disputa por el transporte de trabajadores",
+      "link": "http://www.df.cl/df-mas/por-dentro/filial-de-pulmann-bus-vs-codelco-la-millonaria-disputa-por-el-transporte",
+      "fecha": "Sat, 08 Aug 2026 23:26:56 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Venta de euros por parte de EEUU para apuntalar al yen tomó por sorpresa al Banco Central Europeo",
-      "link": "http://www.df.cl/internacional/ft/venta-de-euros-por-parte-de-estados-unidos-para-apuntalar-al-yen-tomo-por",
-      "fecha": "Fri, 07 Aug 2026 16:49:23 GMT",
+      "titulo": "La columna de Jinks: Squella, la estrella",
+      "link": "http://www.df.cl/df-mas/opinion/squella-la-estrella",
+      "fecha": "Sat, 08 Aug 2026 20:41:02 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Irán exige a EEUU compensar sus violaciones del memorando de junio para reabrir Ormuz",
-      "link": "http://www.df.cl/internacional/politica/iran-exige-a-eeuu-compensar-sus-violaciones-del-memorando-de-junio-para",
-      "fecha": "Sat, 08 Aug 2026 14:17:26 GMT",
+      "titulo": "Arrau y su hora cero en Seguridad: “Nuestra meta es llegar a los niveles anteriores al gobierno pasado. Esperamos bajar de los mil homicidios por año”",
+      "link": "http://www.df.cl/df-mas/politica/arrau-y-su-hora-cero-en-seguridad-nuestra-meta-es-llegar-a-los-niveles",
+      "fecha": "Sat, 08 Aug 2026 20:35:12 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -160,6 +160,10 @@
       {
         "fecha": "2026-08-08",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-09",
+        "valor": 40844.79
       }
     ],
     "dolar": [
@@ -253,6 +257,10 @@
       },
       {
         "fecha": "2026-08-08",
+        "valor": 913.86
+      },
+      {
+        "fecha": "2026-08-09",
         "valor": 913.86
       }
     ],
@@ -348,6 +356,10 @@
       {
         "fecha": "2026-08-08",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-09",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -438,6 +450,10 @@
       {
         "fecha": "2026-08-08",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-09",
+        "valor": 4.26
       }
     ]
   },
@@ -445,9 +461,9 @@
     "indicador": "dolar",
     "nombre": "el dólar",
     "cambio_pct": 0.0,
-    "score": 0.101,
+    "score": 0.098,
     "modo": "zscore",
     "valor_actual": 913.86,
-    "fecha": "2026-08-08"
+    "fecha": "2026-08-09"
   }
 }
