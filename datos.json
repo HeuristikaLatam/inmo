@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-10T22:06:32.491801+00:00",
+  "generado": "2026-08-10T23:05:39.664564+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "¿Nuevo frente arancelario? EEUU pone en consulta nuevas tarifas a manufacturas derivadas del cobre",
+      "link": "http://www.df.cl/internacional/economia/eeuu-pone-en-consulta-nuevos-aranceles-a-manufacturas-vinculadas-al-cobre",
+      "fecha": "Mon, 10 Aug 2026 22:54:49 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Acción de CAP sufre segunda mayor caída del IPSA y cierra en mínimos de 2026 por resultados más débiles de lo esperado",
       "link": "http://www.df.cl/mercados/bolsa-monedas/accion-de-cap-sufre-mayor-caida-del-ipsa-en-la-sesion-y-transa-en-minimos",
       "fecha": "Mon, 10 Aug 2026 20:36:14 GMT",
@@ -45,7 +51,7 @@
     {
       "titulo": "La firma en la que invierte el expresidente de la Cámara Chilena de la Construcción, Juan Armando Vicuña, conquista a los altos patrimonios en España",
       "link": "http://www.df.cl/mercados/fondos-de-inversion/la-firma-en-la-que-invierte-el-expresidente-de-la-camara-chilena-de-la",
-      "fecha": "Mon, 10 Aug 2026 19:07:49 GMT",
+      "fecha": "Mon, 10 Aug 2026 22:45:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -58,12 +64,6 @@
       "titulo": "Claves del Congreso: vetos al proyecto misceláneo y subsidio a la rebaja del crédito hipotecario avanzan rápidamente",
       "link": "http://www.df.cl/economia-y-politica/congreso/claves-del-congreso-vetos-al-proyecto-miscelaneo-y-subsidio-a-la-rebaja",
       "fecha": "Mon, 10 Aug 2026 14:00:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "EEUU pone en consulta nuevos aranceles a manufacturas vinculadas al cobre",
-      "link": "http://www.df.cl/internacional/economia/eeuu-pone-en-consulta-nuevos-aranceles-a-manufacturas-vinculadas-al-cobre",
-      "fecha": "Mon, 10 Aug 2026 13:05:48 GMT",
       "fuente": "Diario Financiero"
     },
     {
