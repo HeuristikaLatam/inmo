@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-09T22:02:44.973439+00:00",
+  "generado": "2026-08-10T11:31:09.035524+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40844.79,
-      "fecha": "2026-08-09T04:00:00.000Z"
+      "valor": 40846.11,
+      "fecha": "2026-08-10T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 913.86,
-      "fecha": "2026-08-07T04:00:00.000Z"
+      "valor": 911.77,
+      "fecha": "2026-08-10T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-07T04:00:00.000Z"
+      "fecha": "2026-08-10T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,40 +31,46 @@
   },
   "titulares": [
     {
+      "titulo": "¿Subsidio a la vivienda o al stock?",
+      "link": "http://www.df.cl/opinion/columnistas/subsidio-a-la-vivienda-o-al-stock",
+      "fecha": "Sat, 08 Aug 2026 00:22:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Nuevo actor apuesta por las viviendas sobre UF 10 mil y anticipa que el mercado acelerará recién en 2027",
+      "link": "http://www.df.cl/empresas/industria/nuevo-actor-apuesta-por-las-viviendas-sobre-uf-10-mil-y-anticipa-que-el",
+      "fecha": "Mon, 10 Aug 2026 10:59:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Nuevo actor apuesta por las viviendas sobre UF 10 mil y anticipa que el mercado premium acelerará recién en 2027",
+      "link": "http://www.df.cl/empresas/construccion/nuevo-actor-apuesta-por-las-viviendas-sobre-uf-10-mil-y-anticipa-que-el",
+      "fecha": "Fri, 07 Aug 2026 18:02:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Greg Abel finalmente pone a trabajar la enorme fortuna de Warren Buffett",
       "link": "http://www.df.cl/internacional/multinacionales/greg-abel-finalmente-pone-a-trabajar-la-enorme-fortuna-de-warren-buffett",
       "fecha": "Sun, 09 Aug 2026 20:04:01 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Arturo Arrigorriaga, CFO de Besalco y la batería de medidas para reactivar la construcción:“Va a haber un impulso muy fuerte. Estamos súper optimistas\"",
-      "link": "http://www.df.cl/senal-df/en-la-mente-del-cfo/arturo-arrigorriaga-cfo-de-besalco-y-la-bateria-de-medidas-para-reactivar",
-      "fecha": "Fri, 07 Aug 2026 21:31:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra con leve caída y completa baja semanal de casi $ 20 tras sorpresiva contracción del empleo estadounidense",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-dla5u",
-      "fecha": "Fri, 07 Aug 2026 20:15:29 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Se modera el IPC, pero el mercado ve a un Banco Central que mantendrá la cautela y la tasa en reunión de septiembre",
-      "link": "http://www.df.cl/economia-y-politica/macro/ipc-de-julio-da-razones-a-banco-central-para-mantener-la-cautela-y-no",
-      "fecha": "Fri, 07 Aug 2026 19:51:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Hallan muerto a adulto mayor de 79 años en vigas de una construcción en La Ligua",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/08/09/hallan-muerto-a-adulto-mayor-de-79-anos-en-vigas-de-una-construccion-en-la-ligua.shtml",
-      "fecha": "Sun, 09 Aug 2026 18:44:31 +0000",
+      "titulo": "Repartidor termina baleado tras sufrir robo de su motocicleta en La Florida",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/08/10/repartidor-termina-baleado-tras-sufrir-robo-de-su-motocicleta-en-la-florida.shtml",
+      "fecha": "Mon, 10 Aug 2026 10:59:53 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Irán dice acuerdo con Omán está en \"fases finales\", pero que EEUU debe actuar para abrir Ormuz",
-      "link": "http://www.df.cl/internacional/politica/iran-rechaza-por-ahora-las-conversaciones-con-estados-unidos-mientras-se",
-      "fecha": "Sun, 09 Aug 2026 21:28:15 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Cecilia Gutiérrez reveló que Neme habría sufrido crisis mientras grababa tras chocar a motociclista",
+      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/08/10/cecilia-gutierrez-revelo-que-neme-habria-sufrido-crisis-mientras-grababa-tras-chocar-a-motociclista.shtml",
+      "fecha": "Mon, 10 Aug 2026 04:13:04 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Incendio en sector rural de Villarrica deja una persona fallecida y una vivienda totalmente destruida",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/08/09/incendio-en-sector-rural-de-villarrica-deja-una-persona-fallecida-y-una-vivienda-totalmente-destruida.shtml",
+      "fecha": "Mon, 10 Aug 2026 03:55:23 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -164,6 +170,10 @@
       {
         "fecha": "2026-08-09",
         "valor": 40844.79
+      },
+      {
+        "fecha": "2026-08-10",
+        "valor": 40846.11
       }
     ],
     "dolar": [
@@ -262,6 +272,10 @@
       {
         "fecha": "2026-08-09",
         "valor": 913.86
+      },
+      {
+        "fecha": "2026-08-10",
+        "valor": 911.77
       }
     ],
     "tpm": [
@@ -360,6 +374,10 @@
       {
         "fecha": "2026-08-09",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-10",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -454,16 +472,20 @@
       {
         "fecha": "2026-08-09",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-10",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "dolar",
     "nombre": "el dólar",
-    "cambio_pct": 0.0,
-    "score": 0.098,
+    "cambio_pct": -0.23,
+    "score": 0.353,
     "modo": "zscore",
-    "valor_actual": 913.86,
-    "fecha": "2026-08-09"
+    "valor_actual": 911.77,
+    "fecha": "2026-08-10"
   }
 }
