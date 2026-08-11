@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-11T22:22:58.080272+00:00",
+  "generado": "2026-08-11T23:22:09.216065+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Senado aprueba por unanimidad y despacha a ley extensión del subsidio a la tasa hipotecaria hasta 2028",
+      "link": "http://www.df.cl/economia-y-politica/congreso/senado-aprueba-y-despacha-a-ley-proyecto-que-extiende-el-subsidio-a-la-tasa",
+      "fecha": "Tue, 11 Aug 2026 23:11:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra con leve baja a niveles de $ 915 mientras Pakistán ve posible un acuerdo sobre el estrecho de Ormuz",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mgsgb",
       "fecha": "Tue, 11 Aug 2026 20:20:37 GMT",
@@ -61,15 +67,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Falso aviso de bomba obliga a evacuar a la comunidad educativa de la Escuela Armando Duffey de Temuco",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/08/11/falso-aviso-de-bomba-obliga-a-evacuar-a-la-comunidad-educativa-de-la-escuela-armando-duffey-de-temuco.shtml",
-      "fecha": "Tue, 11 Aug 2026 21:51:24 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Construcción del nuevo Puente Amdel sobre el río Bío Bío ingresa al Sistema de Evaluación Ambiental",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/11/ingresa-a-seia-construccion-del-nuevo-puente-amdel-y-sus-acceso-en-santa-juana-y-hualqui.shtml",
-      "fecha": "Tue, 11 Aug 2026 21:40:40 +0000",
+      "titulo": "Tramitación \"flash\": Congreso despacha a ley la ampliación del subsidio a la tasa hipotecaria",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/11/congreso-despacha-a-ley-la-ampliacion-del-subsidio-a-la-tasa-hipotecaria.shtml",
+      "fecha": "Tue, 11 Aug 2026 23:08:28 +0000",
       "fuente": "BioBioChile"
     }
   ],
