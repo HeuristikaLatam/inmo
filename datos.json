@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-10T23:05:39.664564+00:00",
+  "generado": "2026-08-11T10:37:47.794058+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40846.11,
-      "fecha": "2026-08-10T04:00:00.000Z"
+      "valor": 40847.42,
+      "fecha": "2026-08-11T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 911.77,
-      "fecha": "2026-08-10T04:00:00.000Z"
+      "valor": 916.3,
+      "fecha": "2026-08-11T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-10T04:00:00.000Z"
+      "fecha": "2026-08-11T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "El escenario temporal de la ley de reconstrucción",
+      "link": "http://www.df.cl/opinion/columnistas/el-escenario-temporal-de-la-ley-de-reconstruccion",
+      "fecha": "Tue, 11 Aug 2026 00:03:57 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "¿Nuevo frente arancelario? EEUU pone en consulta nuevas tarifas a manufacturas derivadas del cobre",
       "link": "http://www.df.cl/internacional/economia/eeuu-pone-en-consulta-nuevos-aranceles-a-manufacturas-vinculadas-al-cobre",
@@ -57,31 +63,7 @@
     {
       "titulo": "Comisión de Hacienda del Senado aprueba por unanimidad proyecto que extiende el subsidio al crédito hipotecario",
       "link": "http://www.df.cl/economia-y-politica/congreso/comision-de-hacienda-del-senado-aprueba-por-unanimidad-proyecto-que",
-      "fecha": "Mon, 10 Aug 2026 17:32:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Claves del Congreso: vetos al proyecto misceláneo y subsidio a la rebaja del crédito hipotecario avanzan rápidamente",
-      "link": "http://www.df.cl/economia-y-politica/congreso/claves-del-congreso-vetos-al-proyecto-miscelaneo-y-subsidio-a-la-rebaja",
-      "fecha": "Mon, 10 Aug 2026 14:00:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Crecimiento mundial de precios de viviendas se modera: Chile entre los 15 territorios con mayor alza nominal en el primer trimestre",
-      "link": "http://www.df.cl/empresas/construccion/crecimiento-mundial-de-precios-de-viviendas-se-modera-chile-entre-los-15",
-      "fecha": "Mon, 10 Aug 2026 12:44:38 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Subsidio a la vivienda o al stock?",
-      "link": "http://www.df.cl/opinion/columnistas/subsidio-a-la-vivienda-o-al-stock",
-      "fecha": "Sat, 08 Aug 2026 00:22:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Nuevo actor apuesta por las viviendas sobre UF 10 mil y anticipa que el mercado acelerará recién en 2027",
-      "link": "http://www.df.cl/empresas/industria/nuevo-actor-apuesta-por-las-viviendas-sobre-uf-10-mil-y-anticipa-que-el",
-      "fecha": "Mon, 10 Aug 2026 12:58:58 GMT",
+      "fecha": "Mon, 10 Aug 2026 23:17:49 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -186,6 +168,10 @@
       {
         "fecha": "2026-08-10",
         "valor": 40846.11
+      },
+      {
+        "fecha": "2026-08-11",
+        "valor": 40847.42
       }
     ],
     "dolar": [
@@ -288,6 +274,10 @@
       {
         "fecha": "2026-08-10",
         "valor": 911.77
+      },
+      {
+        "fecha": "2026-08-11",
+        "valor": 916.3
       }
     ],
     "tpm": [
@@ -390,6 +380,10 @@
       {
         "fecha": "2026-08-10",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-11",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -488,16 +482,20 @@
       {
         "fecha": "2026-08-10",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-11",
+        "valor": 4.26
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.23,
-    "score": 0.353,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 4.758,
     "modo": "zscore",
-    "valor_actual": 911.77,
-    "fecha": "2026-08-10"
+    "valor_actual": 40847.42,
+    "fecha": "2026-08-11"
   }
 }
