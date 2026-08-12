@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-11T23:22:09.216065+00:00",
+  "generado": "2026-08-12T11:12:02.363216+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40847.42,
-      "fecha": "2026-08-11T04:00:00.000Z"
+      "valor": 40848.74,
+      "fecha": "2026-08-12T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 916.3,
-      "fecha": "2026-08-11T04:00:00.000Z"
+      "valor": 914.41,
+      "fecha": "2026-08-12T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-11T04:00:00.000Z"
+      "fecha": "2026-08-12T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "Impuestos diferidos: el dolor de cabeza por la ley de reconstrucción que podría terminar impactando a las empresas",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/impuestos-diferidos-el-dolor-de-cabeza-por-la-ley-de-reconstruccion-que",
+      "fecha": "Wed, 12 Aug 2026 10:17:25 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Senado aprueba por unanimidad y despacha a ley extensión del subsidio a la tasa hipotecaria hasta 2028",
       "link": "http://www.df.cl/economia-y-politica/congreso/senado-aprueba-y-despacha-a-ley-proyecto-que-extiende-el-subsidio-a-la-tasa",
-      "fecha": "Tue, 11 Aug 2026 23:11:17 GMT",
+      "fecha": "Wed, 12 Aug 2026 01:25:13 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,22 +61,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El petróleo repunta y suma presiones a las tasas de interés, previo a las cifras de inflación mañana en EEUU",
-      "link": "http://www.df.cl/primer-click/el-petroleo-repunta-y-suma-presiones-a-las-tasas-de-interes-previo-a-las",
-      "fecha": "Tue, 11 Aug 2026 11:39:47 GMT",
+      "titulo": "El valor de un hogar",
+      "link": "http://www.df.cl/opinion/cartas/el-valor-de-un-hogar",
+      "fecha": "Tue, 11 Aug 2026 23:05:10 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El escenario temporal de la ley de reconstrucción",
-      "link": "http://www.df.cl/opinion/columnistas/el-escenario-temporal-de-la-ley-de-reconstruccion",
-      "fecha": "Tue, 11 Aug 2026 00:03:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tramitación \"flash\": Congreso despacha a ley la ampliación del subsidio a la tasa hipotecaria",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/11/congreso-despacha-a-ley-la-ampliacion-del-subsidio-a-la-tasa-hipotecaria.shtml",
-      "fecha": "Tue, 11 Aug 2026 23:08:28 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -178,6 +172,10 @@
       {
         "fecha": "2026-08-11",
         "valor": 40847.42
+      },
+      {
+        "fecha": "2026-08-12",
+        "valor": 40848.74
       }
     ],
     "dolar": [
@@ -284,6 +282,10 @@
       {
         "fecha": "2026-08-11",
         "valor": 916.3
+      },
+      {
+        "fecha": "2026-08-12",
+        "valor": 914.41
       }
     ],
     "tpm": [
@@ -390,6 +392,10 @@
       {
         "fecha": "2026-08-11",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-12",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -492,6 +498,10 @@
       {
         "fecha": "2026-08-11",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-12",
+        "valor": 4.26
       }
     ]
   },
@@ -499,9 +509,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 4.758,
+    "score": 3.405,
     "modo": "zscore",
-    "valor_actual": 40847.42,
-    "fecha": "2026-08-11"
+    "valor_actual": 40848.74,
+    "fecha": "2026-08-12"
   }
 }
