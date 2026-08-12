@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-12T11:35:26.620580+00:00",
+  "generado": "2026-08-12T22:22:48.022167+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,40 +31,52 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar no logra perder los $ 910 y cierra plano mientras la nueva \"doctrina ofensiva\" de Irán inquieta a los mercados globales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mrdhp",
+      "fecha": "Wed, 12 Aug 2026 20:20:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Uber entra a la propiedad de fintech chilena de créditos para motos Galgo",
+      "link": "http://www.df.cl/mercados/banca-fintech/uber-entra-a-la-propiedad-de-fintech-chilena-de-creditos-para-motos-galgo",
+      "fecha": "Wed, 12 Aug 2026 15:19:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "TC comenzó audiencias por requerimientos a la ley de reconstrucción: Cordero defiende relocalizaciones y el CEP invariabilidad",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/tc-comenzo-audiencias-por-requerimientos-a-la-ley-de-reconstruccion-56",
+      "fecha": "Wed, 12 Aug 2026 20:02:52 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Operadores ven una mayor inflación para los próximos 12 meses y anticipan prolongada mantención de tasas de parte del Banco Central",
+      "link": "http://www.df.cl/economia-y-politica/macro/operadores-ven-una-mayor-inflacion-para-los-proximos-doce-meses-y-anticipan",
+      "fecha": "Wed, 12 Aug 2026 15:03:38 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La inflación de Estados Unidos se enfría en julio y aleja una posible alza de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/el-ipc-de-julio-en-eeuu-sube-en-linea-con-lo-esperado-y-la-inflacion-anual",
+      "fecha": "Wed, 12 Aug 2026 14:55:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Wall Street apunta a un alza y el dólar opera plano en compás de espera del reporte del IPC en julio en EEUU",
+      "link": "http://www.df.cl/primer-click/wall-street-apunta-a-un-alza-y-el-dolar-entra-en-compas-de-espera-del",
+      "fecha": "Wed, 12 Aug 2026 11:42:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Impuestos diferidos: el dolor de cabeza por la ley de reconstrucción que podría terminar impactando a las empresas",
       "link": "http://www.df.cl/economia-y-politica/df-tax/impuestos-diferidos-el-dolor-de-cabeza-por-la-ley-de-reconstruccion-que",
       "fecha": "Wed, 12 Aug 2026 10:17:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Senado aprueba por unanimidad y despacha a ley extensión del subsidio a la tasa hipotecaria hasta 2028",
-      "link": "http://www.df.cl/economia-y-politica/congreso/senado-aprueba-y-despacha-a-ley-proyecto-que-extiende-el-subsidio-a-la-tasa",
-      "fecha": "Wed, 12 Aug 2026 01:25:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra con leve baja a niveles de $ 915 mientras Pakistán ve posible un acuerdo sobre el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mgsgb",
-      "fecha": "Tue, 11 Aug 2026 20:20:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Nueva convocatoria del subsidio eléctrico beneficiará a más de 1,9 millones de hogares y gobierno busca que beneficio sea permanente",
-      "link": "http://www.df.cl/empresas/energia/nueva-convocatoria-del-subsidio-electrico-beneficiara-a-mas-de-1-9-millones",
-      "fecha": "Tue, 11 Aug 2026 22:11:06 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Asmar Talcahuano inicia construcción del “Rapa Nui”, segunda embarcación del proyecto Escotillón IV",
-      "link": "http://www.df.cl/regiones/biobio/empresas/asmar-talcahuano-inicia-construccion-del-rapa-nui-segunda-embarcacion",
-      "fecha": "Tue, 11 Aug 2026 17:56:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El valor de un hogar",
-      "link": "http://www.df.cl/opinion/cartas/el-valor-de-un-hogar",
-      "fecha": "Tue, 11 Aug 2026 23:05:10 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Agentes de ICE podrían ocupar guantes con descargas eléctricas: inversión de 20 millones de dólares",
+      "link": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/08/12/agentes-de-ice-podrian-ocupar-guantes-con-descargas-electricas-inversion-de-20-millones-de-dolares.shtml",
+      "fecha": "Wed, 12 Aug 2026 21:25:46 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
