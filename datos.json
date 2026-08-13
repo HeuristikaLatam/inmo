@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-12T23:21:17.542254+00:00",
+  "generado": "2026-08-13T11:12:40.513869+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40848.74,
-      "fecha": "2026-08-12T04:00:00.000Z"
+      "valor": 40850.06,
+      "fecha": "2026-08-13T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 914.41,
-      "fecha": "2026-08-12T04:00:00.000Z"
+      "valor": 912,
+      "fecha": "2026-08-13T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-12T04:00:00.000Z"
+      "fecha": "2026-08-13T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,24 @@
   },
   "titulares": [
     {
+      "titulo": "Industria por subsidio hipotecario: impulsaría ventas, pero acceso al crédito y renta de compradores limitarían su alcance",
+      "link": "http://www.df.cl/empresas/banca-instituciones-financieras/industria-por-subsidio-hipotecario-impulsaria-ventas-pero-acceso-al",
+      "fecha": "Wed, 12 Aug 2026 23:58:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "DF Tax | Desafíos de la implementación del mecanismo de devolución de IVA recargado en la compra de viviendas",
+      "link": "http://www.df.cl/opinion/columnistas/df-tax-desafios-de-la-implementacion-del-mecanismo-de-devolucion-de-iva",
+      "fecha": "Wed, 12 Aug 2026 18:11:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno acuerda plan de pago con transbordadora Tabsa tras seis meses de mora y $ 2 mil millones de deuda por subsidios marítimo",
+      "link": "http://www.df.cl/regiones/aysen/empresas/tabsa-y-gobierno-acuerdan-plan-de-pago-en-dos-cuotas-para-saldar-deuda-de",
+      "fecha": "Wed, 12 Aug 2026 23:45:22 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar no logra perder los $ 910 y cierra plano mientras la nueva \"doctrina ofensiva\" de Irán inquieta a los mercados globales",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mrdhp",
       "fecha": "Wed, 12 Aug 2026 20:20:46 GMT",
@@ -43,27 +61,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "TC comenzó audiencias por requerimientos a la ley de reconstrucción: Cordero defiende relocalizaciones y el CEP invariabilidad",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/tc-comenzo-audiencias-por-requerimientos-a-la-ley-de-reconstruccion-56",
-      "fecha": "Wed, 12 Aug 2026 20:02:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Operadores ven una mayor inflación para los próximos 12 meses y anticipan prolongada mantención de tasas de parte del Banco Central",
-      "link": "http://www.df.cl/economia-y-politica/macro/operadores-ven-una-mayor-inflacion-para-los-proximos-doce-meses-y-anticipan",
-      "fecha": "Wed, 12 Aug 2026 22:43:19 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La inflación de Estados Unidos se enfría en julio y aleja una posible alza de tasas de la Fed",
-      "link": "http://www.df.cl/internacional/economia/el-ipc-de-julio-en-eeuu-sube-en-linea-con-lo-esperado-y-la-inflacion-anual",
-      "fecha": "Wed, 12 Aug 2026 14:55:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Wall Street apunta a un alza y el dólar opera plano en compás de espera del reporte del IPC en julio en EEUU",
-      "link": "http://www.df.cl/primer-click/wall-street-apunta-a-un-alza-y-el-dolar-entra-en-compas-de-espera-del",
-      "fecha": "Wed, 12 Aug 2026 11:42:30 GMT",
+      "titulo": "El verdadero desafío después de emprender",
+      "link": "http://www.df.cl/opinion/columnistas/gina-ocqueteau/el-verdadero-desafio-despues-de-emprender",
+      "fecha": "Thu, 13 Aug 2026 00:07:36 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -176,6 +176,10 @@
       {
         "fecha": "2026-08-12",
         "valor": 40848.74
+      },
+      {
+        "fecha": "2026-08-13",
+        "valor": 40850.06
       }
     ],
     "dolar": [
@@ -286,6 +290,10 @@
       {
         "fecha": "2026-08-12",
         "valor": 914.41
+      },
+      {
+        "fecha": "2026-08-13",
+        "valor": 912
       }
     ],
     "tpm": [
@@ -396,6 +404,10 @@
       {
         "fecha": "2026-08-12",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-13",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -502,6 +514,10 @@
       {
         "fecha": "2026-08-12",
         "valor": 4.26
+      },
+      {
+        "fecha": "2026-08-13",
+        "valor": 4.26
       }
     ]
   },
@@ -509,9 +525,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 3.405,
+    "score": 2.777,
     "modo": "zscore",
-    "valor_actual": 40848.74,
-    "fecha": "2026-08-12"
+    "valor_actual": 40850.06,
+    "fecha": "2026-08-13"
   }
 }
