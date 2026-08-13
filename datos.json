@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-13T11:35:09.854700+00:00",
+  "generado": "2026-08-13T22:24:02.200564+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,30 @@
   },
   "titulares": [
     {
+      "titulo": "EEUU paga la mayor tasa desde 2001 en una venta de bonos del Tesoro a 30 años",
+      "link": "http://www.df.cl/internacional/economia/eeuu-paga-la-mayor-tasa-desde-2001-en-una-venta-de-bonos-del-tesoro-a-30",
+      "fecha": "Thu, 13 Aug 2026 20:29:49 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar borra caída que siguió a datos de inflación en EEUU y cierra plano en medio de la incertidumbre sobre Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gcwrw",
+      "fecha": "Thu, 13 Aug 2026 20:07:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ley de reconstrucción: el impulso y las dudas que abren el histórico fallo antielusión para la ventana que reduce el impuesto a las donaciones",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-el-impulso-y-las-dudas-que-abren-el-historico-fallo",
+      "fecha": "Thu, 13 Aug 2026 16:03:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Acciones suben todavía impulsadas por el débil IPC en EEUU que ahuyenta la posibilidad de un alza de tasas por parte de la Fed",
+      "link": "http://www.df.cl/primer-click/acciones-suben-todavia-impulsadas-por-reporte-de-inflacion-de-eeuu",
+      "fecha": "Thu, 13 Aug 2026 11:40:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Industria por subsidio hipotecario: impulsaría ventas, pero acceso al crédito y renta de compradores limitarían su alcance",
       "link": "http://www.df.cl/empresas/banca-instituciones-financieras/industria-por-subsidio-hipotecario-impulsaria-ventas-pero-acceso-al",
       "fecha": "Wed, 12 Aug 2026 23:58:16 GMT",
@@ -43,28 +67,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gobierno acuerda plan de pago con transbordadora Tabsa tras seis meses de mora y $ 2 mil millones de deuda por subsidios marítimo",
-      "link": "http://www.df.cl/regiones/aysen/empresas/tabsa-y-gobierno-acuerdan-plan-de-pago-en-dos-cuotas-para-saldar-deuda-de",
-      "fecha": "Wed, 12 Aug 2026 23:45:22 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar no logra perder los $ 910 y cierra plano mientras la nueva \"doctrina ofensiva\" de Irán inquieta a los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mrdhp",
-      "fecha": "Wed, 12 Aug 2026 20:20:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Los inversionistas de Anthropic apuestan por una valoración de US$ 2 billones y una apertura bursátil récord que eclipsaría la de SpaceX",
-      "link": "http://www.df.cl/internacional/ft/los-inversionistas-de-anthropic-apuestan-por-una-valoracion-de-us-2",
-      "fecha": "Thu, 13 Aug 2026 11:27:55 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El verdadero desafío después de emprender",
-      "link": "http://www.df.cl/opinion/columnistas/gina-ocqueteau/el-verdadero-desafio-despues-de-emprender",
-      "fecha": "Thu, 13 Aug 2026 00:07:36 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "\"No quiero que mi hija sufra\": protagonistas de ’Papi Ricky: La película’ explican su nuevo conflicto",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/08/13/no-quiero-que-mi-hija-sufra-protagonistas-de-papi-ricky-la-pelicula-explican-su-nuevo-conflicto.shtml",
+      "fecha": "Thu, 13 Aug 2026 22:01:47 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
