@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-14T10:08:56.010686+00:00",
+  "generado": "2026-08-14T20:22:36.197676+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,46 +31,40 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar revierte caída y cierra plano sobre $ 915 con mercados sacudidos por el auge de las tasas largas en el mundo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
+      "fecha": "Fri, 14 Aug 2026 20:17:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "CEO de Empresas Copec valora ley de reconstrucción, pero advierte que hay otros elementos que incorporar a la agenda",
+      "link": "http://www.df.cl/empresas/energia/ceo-de-empresas-copec-valora-ley-de-reconstruccion-pero-advierte-que-hay",
+      "fecha": "Fri, 14 Aug 2026 16:46:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IA y propiedad intelectual: Las nuevas reglas que tensionan a medios y marcas",
+      "link": "http://www.df.cl/ia-y-propiedad-intelectual-las-nuevas-reglas-que-tensionan-a-medios-y",
+      "fecha": "Fri, 14 Aug 2026 16:13:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Se reducen inventarios del comercio y la minería y suben los de manufactura",
       "link": "http://www.df.cl/economia-y-politica/pais/se-reducen-inventarios-del-comercio-y-la-mineria-y-suben-los-de-manufactura",
       "fecha": "Thu, 13 Aug 2026 23:57:40 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ley de reconstrucción: TC declara inconstitucional la restitución por RCA anulada, pero visa casi la totalidad de la invariabilidad tributaria",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-tc-declara-inconstitucional-la-restitucion-por-rca",
-      "fecha": "Fri, 14 Aug 2026 03:02:17 GMT",
+      "titulo": "Grupo respaldado por Bezos cierra un acuerdo para adquirir una participación en el Liverpool FC",
+      "link": "http://www.df.cl/internacional/ft/el-grupo-respaldado-por-bezos-cierra-un-acuerdo-para-adquirir-una",
+      "fecha": "Fri, 14 Aug 2026 19:27:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ñuñoa, Macul y La Florida entre las comunas que más se beneficiarían con la extensión del subsidio hipotecario hasta UF 6.000",
-      "link": "http://www.df.cl/mercados/banca-fintech/nunoa-macul-y-la-florida-entre-las-comunas-que-mas-se-beneficiarian-con-la",
-      "fecha": "Fri, 14 Aug 2026 00:27:07 GMT",
+      "titulo": "Codelco reordena su primera línea: nombra cinco vicepresidentes y cambia la conducción de cuatro divisiones",
+      "link": "http://www.df.cl/empresas/mineria/codelco-reordena-su-primera-linea-nombra-cinco-vicepresidentes-y-cambia-la",
+      "fecha": "Fri, 14 Aug 2026 19:50:44 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "EEUU paga la mayor tasa desde 2001 en una venta de bonos del Tesoro a 30 años",
-      "link": "http://www.df.cl/internacional/economia/eeuu-paga-la-mayor-tasa-desde-2001-en-una-venta-de-bonos-del-tesoro-a-30",
-      "fecha": "Thu, 13 Aug 2026 20:29:49 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar borra caída que siguió a datos de inflación en EEUU y cierra plano en medio de la incertidumbre sobre Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gcwrw",
-      "fecha": "Thu, 13 Aug 2026 20:07:56 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ley de reconstrucción: el impulso y las dudas que abren el histórico fallo antielusión para la ventana que reduce el impuesto a las donaciones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-el-impulso-y-las-dudas-que-abren-el-historico-fallo",
-      "fecha": "Thu, 13 Aug 2026 22:26:19 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Adulta mayor muere atacada por perros al interior de vivienda en Ñuble: habría visitado a familiares",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/08/13/adulta-mayor-muere-atacada-por-perros-al-interior-de-vivienda-en-nuble-habria-visitado-a-familiares.shtml",
-      "fecha": "Fri, 14 Aug 2026 01:56:18 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
