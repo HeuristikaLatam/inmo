@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-14T21:17:18.168486+00:00",
+  "generado": "2026-08-15T08:17:03.933394+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40851.38,
-      "fecha": "2026-08-14T04:00:00.000Z"
+      "valor": 40852.69,
+      "fecha": "2026-08-15T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "La cruzada de Manuel José Casanueva por traer una docuficción religiosa a Chile",
+      "link": "http://www.df.cl/df-mas/coffee-break/la-cruzada-de-manuel-jose-casanueva-por-traer-una-docuficcion-religiosa-a",
+      "fecha": "Sat, 15 Aug 2026 00:19:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar revierte caída y cierra plano sobre $ 915 con mercados sacudidos por el auge de las tasas largas en el mundo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
       "fecha": "Fri, 14 Aug 2026 20:17:20 GMT",
@@ -39,31 +45,25 @@
     {
       "titulo": "CEO de Empresas Copec valora ley de reconstrucción, pero advierte que hay otros elementos que incorporar a la agenda",
       "link": "http://www.df.cl/empresas/energia/ceo-de-empresas-copec-valora-ley-de-reconstruccion-pero-advierte-que-hay",
-      "fecha": "Fri, 14 Aug 2026 16:46:43 GMT",
+      "fecha": "Fri, 14 Aug 2026 23:23:48 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IA y propiedad intelectual: Las nuevas reglas que tensionan a medios y marcas",
-      "link": "http://www.df.cl/ia-y-propiedad-intelectual-las-nuevas-reglas-que-tensionan-a-medios-y",
-      "fecha": "Fri, 14 Aug 2026 16:13:31 GMT",
+      "titulo": "La prueba de fuego del gobierno ante las concesionarias españolas en el próximo ChileDay",
+      "link": "http://www.df.cl/senal-df/el-deal/la-prueba-de-fuego-del-gobierno-ante-las-concesionarias-espanolas-en-el",
+      "fecha": "Sat, 15 Aug 2026 04:35:55 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mejoramiento de vivienda: Cómo postular a obtención de paneles solares o acondicionamiento térmico",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/08/14/mejoramiento-de-vivienda-como-postular-a-obtencion-de-paneles-solares-o-acondicionamiento-termico.shtml",
-      "fecha": "Fri, 14 Aug 2026 21:06:14 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "D’ici et d’ailleurs: Abre en Francia el segundo restaurante del chef chileno Douglas Bastian",
-      "link": "http://www.df.cl/df-mas/coffee-break/d-ici-et-d-ailleurs-abre-en-francia-el-segundo-restaurante-del-chef",
-      "fecha": "Fri, 14 Aug 2026 21:11:59 GMT",
+      "titulo": "Cómo queda la nueva ley miscelánea tras los vetos y su paso por el Tribunal Constitucional",
+      "link": "http://www.df.cl/senal-df/el-deal/como-queda-la-nueva-ley-miscelanea-tras-los-vetos-y-su-paso-por-el-tribunal",
+      "fecha": "Sat, 15 Aug 2026 01:03:02 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "China, Vietnam y Japón: la ruta que emprende el canciller por el Asia Pacífico",
-      "link": "http://www.df.cl/df-mas/coffee-break/china-vietnam-y-japon-la-ruta-que-emprende-el-canciller-por-el-asia",
-      "fecha": "Fri, 14 Aug 2026 21:05:17 GMT",
+      "titulo": "Biqu, la firma chilena de IA para el retail, prepara su expansión a Perú y Colombia",
+      "link": "http://www.df.cl/empresas/industria/biqu-la-firma-chilena-de-ia-para-el-retail-prepara-su-expansion-a-peru-y",
+      "fecha": "Sat, 15 Aug 2026 00:33:11 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -184,6 +184,10 @@
       {
         "fecha": "2026-08-14",
         "valor": 40851.38
+      },
+      {
+        "fecha": "2026-08-15",
+        "valor": 40852.69
       }
     ],
     "dolar": [
@@ -301,6 +305,10 @@
       },
       {
         "fecha": "2026-08-14",
+        "valor": 913.2
+      },
+      {
+        "fecha": "2026-08-15",
         "valor": 913.2
       }
     ],
@@ -420,6 +428,10 @@
       {
         "fecha": "2026-08-14",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-15",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -534,6 +546,10 @@
       {
         "fecha": "2026-08-14",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-15",
+        "valor": 4.3
       }
     ]
   },
@@ -541,9 +557,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 2.403,
+    "score": 2.129,
     "modo": "zscore",
-    "valor_actual": 40851.38,
-    "fecha": "2026-08-14"
+    "valor_actual": 40852.69,
+    "fecha": "2026-08-15"
   }
 }
