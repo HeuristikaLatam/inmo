@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-15T21:12:47.035433+00:00",
+  "generado": "2026-08-16T08:18:48.553119+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40852.69,
-      "fecha": "2026-08-15T04:00:00.000Z"
+      "valor": 40854.01,
+      "fecha": "2026-08-16T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "El apetito del Grupo Angelini por un negocio de renta inmobiliaria valorado en casi US$ 600 millones",
+      "link": "http://www.df.cl/df-mas/por-dentro/el-apetito-del-grupo-angelini-por-un-negocio-de-renta-inmobiliaria-valorado",
+      "fecha": "Sun, 16 Aug 2026 00:30:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "La cruzada de Manuel José Casanueva por traer una docuficción religiosa a Chile",
       "link": "http://www.df.cl/df-mas/coffee-break/la-cruzada-de-manuel-jose-casanueva-por-traer-una-docuficcion-religiosa-a",
       "fecha": "Sat, 15 Aug 2026 00:19:43 GMT",
@@ -49,21 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La prueba de fuego del gobierno ante las concesionarias españolas en el próximo ChileDay",
-      "link": "http://www.df.cl/senal-df/el-deal/la-prueba-de-fuego-del-gobierno-ante-las-concesionarias-espanolas-en-el",
-      "fecha": "Sat, 15 Aug 2026 12:31:38 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Tragedia en Zimbabue: naufragio de ferri dejó 72 muertos y continúa búsqueda de víctimas",
+      "link": "https://www.biobiochile.cl/noticias/internacional/africa/2026/08/15/tragedia-en-zimbaue-naufragio-de-ferri-dejo-72-muertos-y-continua-busqueda-de-victimas.shtml",
+      "fecha": "Sun, 16 Aug 2026 02:35:19 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Cómo queda la nueva ley miscelánea tras los vetos y su paso por el Tribunal Constitucional",
-      "link": "http://www.df.cl/senal-df/el-deal/como-queda-la-nueva-ley-miscelanea-tras-los-vetos-y-su-paso-por-el-tribunal",
-      "fecha": "Sat, 15 Aug 2026 01:03:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Biqu, la firma chilena de IA para el retail, prepara su expansión a Perú y Colombia",
-      "link": "http://www.df.cl/empresas/industria/biqu-la-firma-chilena-de-ia-para-el-retail-prepara-su-expansion-a-peru-y",
-      "fecha": "Sat, 15 Aug 2026 00:33:11 GMT",
+      "titulo": "Arturo Squella: “La forma más leal de colaborar con el gobierno es mantener clara la posición del Partido Republicano”",
+      "link": "http://www.df.cl/df-mas/politica/aarturo-squella-la-forma-mas-leal-de-colaborar-con-el-gobierno-es",
+      "fecha": "Sun, 16 Aug 2026 00:34:44 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -188,6 +188,10 @@
       {
         "fecha": "2026-08-15",
         "valor": 40852.69
+      },
+      {
+        "fecha": "2026-08-16",
+        "valor": 40854.01
       }
     ],
     "dolar": [
@@ -309,6 +313,10 @@
       },
       {
         "fecha": "2026-08-15",
+        "valor": 913.2
+      },
+      {
+        "fecha": "2026-08-16",
         "valor": 913.2
       }
     ],
@@ -432,6 +440,10 @@
       {
         "fecha": "2026-08-15",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-16",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -550,6 +562,10 @@
       {
         "fecha": "2026-08-15",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-16",
+        "valor": 4.3
       }
     ]
   },
@@ -557,9 +573,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 2.129,
+    "score": 1.964,
     "modo": "zscore",
-    "valor_actual": 40852.69,
-    "fecha": "2026-08-15"
+    "valor_actual": 40854.01,
+    "fecha": "2026-08-16"
   }
 }
