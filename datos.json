@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-16T20:11:40.497477+00:00",
+  "generado": "2026-08-16T21:12:03.093228+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,6 +49,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "La familia más rica de Colombia dona US$ 48 millones para reconstruir hospitales y escuelas en Cali",
+      "link": "http://www.df.cl/empresas/actualidad/la-familia-mas-rica-de-colombia-dona-us-48-millones-para-reconstruir",
+      "fecha": "Sun, 16 Aug 2026 20:34:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Fontaine: \"Para crecer necesitamos asociarnos con privados\" y anuncia proyecto con Pucobre por US$ 870 millones",
       "link": "http://www.df.cl/empresas/mineria/fontaine-para-crecer-necesitamos-asociarnos-con-privados-y-anuncia",
       "fecha": "Sun, 16 Aug 2026 18:12:34 GMT",
@@ -58,12 +64,6 @@
       "titulo": "Terremoto en Indonesia: al menos 53 fallecidos y miles de personas evacuadas",
       "link": "http://www.df.cl/internacional/terremoto-en-indonesia-al-menos-53-fallecidos-y-miles-de-personas",
       "fecha": "Sun, 16 Aug 2026 15:48:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Multimillonario Peter Thiel compra el 1% de la petrolera argentina Vista en Vaca Muerta, según reporte a la SEC",
-      "link": "http://www.df.cl/empresas/energia/multimillonario-peter-thiel-compra-el-1-de-la-petrolera-argentina-vista-en",
-      "fecha": "Sun, 16 Aug 2026 14:19:04 GMT",
       "fuente": "Diario Financiero"
     }
   ],
