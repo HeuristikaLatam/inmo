@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-16T21:12:03.093228+00:00",
+  "generado": "2026-08-17T08:33:07.487473+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40854.01,
-      "fecha": "2026-08-16T04:00:00.000Z"
+      "valor": 40855.33,
+      "fecha": "2026-08-17T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 913.2,
-      "fecha": "2026-08-14T04:00:00.000Z"
+      "valor": 913.15,
+      "fecha": "2026-08-17T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-14T04:00:00.000Z"
+      "fecha": "2026-08-17T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,39 +31,39 @@
   },
   "titulares": [
     {
+      "titulo": "Mercado Libre respalda crédito tributario en ley de reconstrucción nacional: “Refuerza las ganas de invertir en Chile”",
+      "link": "http://www.df.cl/empresas/industria/mercado-libre-respalda-credito-tributario-en-ley-de-reconstruccion",
+      "fecha": "Fri, 14 Aug 2026 23:21:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ampliación del subsidio al crédito hipotecario: zoom al impacto que tendrá en las regiones",
+      "link": "http://www.df.cl/regiones/ampliacion-del-subsidio-al-credito-hipotecario-zoom-al-impacto-que-tendra",
+      "fecha": "Mon, 17 Aug 2026 00:12:55 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "El apetito del Grupo Angelini por un negocio de renta inmobiliaria valorado en casi US$ 600 millones",
       "link": "http://www.df.cl/df-mas/por-dentro/el-apetito-del-grupo-angelini-por-un-negocio-de-renta-inmobiliaria-valorado",
       "fecha": "Sun, 16 Aug 2026 00:30:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La cruzada de Manuel José Casanueva por traer una docuficción religiosa a Chile",
-      "link": "http://www.df.cl/df-mas/coffee-break/la-cruzada-de-manuel-jose-casanueva-por-traer-una-docuficcion-religiosa-a",
-      "fecha": "Sat, 15 Aug 2026 00:19:43 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Viviendas son destruidas por incendio en toma de Calbuco: falta de grifos dificultó labor de Bomberos",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/08/16/viviendas-son-destruidas-por-incendio-en-toma-de-calbuco-falta-de-grifos-dificulto-labor-de-bomberos.shtml",
+      "fecha": "Mon, 17 Aug 2026 03:22:55 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Dólar revierte caída y cierra plano sobre $ 915 con mercados sacudidos por el auge de las tasas largas en el mundo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h58w5",
-      "fecha": "Fri, 14 Aug 2026 20:17:20 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Colo Colo sufre agónico empate ante O’Higgins y deja puntos de cara a Superclásico: Vidal perdió penal",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/08/16/colo-colo-sufre-agonico-empate-ante-ohiggins-y-deja-puntos-de-cara-a-superclasico-vidal-perdio-penal.shtml",
+      "fecha": "Sun, 16 Aug 2026 23:41:37 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "La familia más rica de Colombia dona US$ 48 millones para reconstruir hospitales y escuelas en Cali",
-      "link": "http://www.df.cl/empresas/actualidad/la-familia-mas-rica-de-colombia-dona-us-48-millones-para-reconstruir",
-      "fecha": "Sun, 16 Aug 2026 20:34:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Fontaine: \"Para crecer necesitamos asociarnos con privados\" y anuncia proyecto con Pucobre por US$ 870 millones",
-      "link": "http://www.df.cl/empresas/mineria/fontaine-para-crecer-necesitamos-asociarnos-con-privados-y-anuncia",
-      "fecha": "Sun, 16 Aug 2026 18:12:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Terremoto en Indonesia: al menos 53 fallecidos y miles de personas evacuadas",
-      "link": "http://www.df.cl/internacional/terremoto-en-indonesia-al-menos-53-fallecidos-y-miles-de-personas",
-      "fecha": "Sun, 16 Aug 2026 15:48:52 GMT",
+      "titulo": "Mejora en las perspectivas fiscales",
+      "link": "http://www.df.cl/opinion/columnistas/rodrigo-aravena/mejora-en-las-perspectivas-fiscales",
+      "fecha": "Fri, 14 Aug 2026 23:33:13 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -192,6 +192,10 @@
       {
         "fecha": "2026-08-16",
         "valor": 40854.01
+      },
+      {
+        "fecha": "2026-08-17",
+        "valor": 40855.33
       }
     ],
     "dolar": [
@@ -318,6 +322,10 @@
       {
         "fecha": "2026-08-16",
         "valor": 913.2
+      },
+      {
+        "fecha": "2026-08-17",
+        "valor": 913.15
       }
     ],
     "tpm": [
@@ -444,6 +452,10 @@
       {
         "fecha": "2026-08-16",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-17",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -566,6 +578,10 @@
       {
         "fecha": "2026-08-16",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-17",
+        "valor": 4.3
       }
     ]
   },
@@ -573,9 +589,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.964,
+    "score": 1.817,
     "modo": "zscore",
-    "valor_actual": 40854.01,
-    "fecha": "2026-08-16"
+    "valor_actual": 40855.33,
+    "fecha": "2026-08-17"
   }
 }
