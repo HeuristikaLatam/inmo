@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-17T09:49:00.513963+00:00",
+  "generado": "2026-08-17T20:16:04.270995+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "Enel inicia construcción de proyecto de almacenamiento BESS al interior de central solar por US$ 80 millones",
+      "link": "http://www.df.cl/empresas/energia/enel-inicia-construccion-de-proyecto-de-almacenamiento-bess-al-interior-de",
+      "fecha": "Mon, 17 Aug 2026 20:14:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar nuevamente intenta caer sin éxito y cierra plano luego de que Trump dijera no estar interesado en extender tregua con Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
+      "fecha": "Mon, 17 Aug 2026 20:14:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Mercado Libre respalda crédito tributario en ley de reconstrucción nacional: “Refuerza las ganas de invertir en Chile”",
       "link": "http://www.df.cl/empresas/industria/mercado-libre-respalda-credito-tributario-en-ley-de-reconstruccion",
-      "fecha": "Fri, 14 Aug 2026 23:21:39 GMT",
+      "fecha": "Mon, 17 Aug 2026 15:32:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,28 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El apetito del Grupo Angelini por un negocio de renta inmobiliaria valorado en casi US$ 600 millones",
-      "link": "http://www.df.cl/df-mas/por-dentro/el-apetito-del-grupo-angelini-por-un-negocio-de-renta-inmobiliaria-valorado",
-      "fecha": "Sun, 16 Aug 2026 00:30:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Viviendas son destruidas por incendio en toma de Calbuco: falta de grifos dificultó labor de Bomberos",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/08/16/viviendas-son-destruidas-por-incendio-en-toma-de-calbuco-falta-de-grifos-dificulto-labor-de-bomberos.shtml",
-      "fecha": "Mon, 17 Aug 2026 03:22:55 +0000",
+      "titulo": "Familias de conjunto habitacional en Castro demandan al Estado por presuntas fallas de construcción",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/08/17/familias-de-conjunto-habitacional-en-castro-demandan-al-estado-por-presuntas-fallas-de-construccion.shtml",
+      "fecha": "Mon, 17 Aug 2026 19:55:39 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Colo Colo sufre agónico empate ante O’Higgins y deja puntos de cara a Superclásico: Vidal perdió penal",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/08/16/colo-colo-sufre-agonico-empate-ante-ohiggins-y-deja-puntos-de-cara-a-superclasico-vidal-perdio-penal.shtml",
-      "fecha": "Sun, 16 Aug 2026 23:41:37 +0000",
+      "titulo": "El error que la mayoría comete sin darse cuenta al usar su estufa a pellet: puede afectar su vida útil",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/08/17/el-error-que-la-mayoria-comete-sin-darse-cuenta-al-usar-su-estufa-a-pellet-puede-afectar-su-vida-util.shtml",
+      "fecha": "Mon, 17 Aug 2026 19:33:25 +0000",
       "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Mejora en las perspectivas fiscales",
-      "link": "http://www.df.cl/opinion/columnistas/rodrigo-aravena/mejora-en-las-perspectivas-fiscales",
-      "fecha": "Fri, 14 Aug 2026 23:33:13 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
