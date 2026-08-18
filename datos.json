@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-18T09:38:35.613792+00:00",
+  "generado": "2026-08-18T20:13:42.007468+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar se dispara más de $ 10 al cierre mientras los precios del cobre retroceden en medio de la incertidumbre geopolítica",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bnyn9",
+      "fecha": "Tue, 18 Aug 2026 20:12:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Ximena Niño, senior advisor de Tax & Legal en Deloitte y suspensión por un año del IVA a la Vivienda: \"El gobierno plantea una manera de que las inmobiliarias puedan vender el stock acumulado\"",
       "link": "http://www.df.cl/economia-y-politica/df-tax/ximena-nino-senior-advisor-de-tax-legal-en-deloitte-y-suspension-por-un",
       "fecha": "Tue, 18 Aug 2026 00:45:10 GMT",
@@ -39,7 +45,7 @@
     {
       "titulo": "Las normas tributarias de la Ley de Reconstrucción que podrían beneficiar a los family offices",
       "link": "http://www.df.cl/mercados/banca-fintech/las-normas-tributarias-de-la-ley-de-reconstruccion-que-podrian-beneficiar-a",
-      "fecha": "Mon, 17 Aug 2026 23:21:27 GMT",
+      "fecha": "Tue, 18 Aug 2026 10:07:09 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,21 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Enel inicia construcción de proyecto de almacenamiento BESS al interior de central solar por US$ 80 millones",
-      "link": "http://www.df.cl/empresas/energia/enel-inicia-construccion-de-proyecto-de-almacenamiento-bess-al-interior-de",
-      "fecha": "Mon, 17 Aug 2026 20:14:10 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Quiroz niega haber beneficiado proyecto inmobiliario de su hermano: \"Es absolutamente falso\"",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/18/quiroz-niega-haber-beneficiado-proyecto-inmobiliario-de-su-hermano-es-absolutamente-falso.shtml",
+      "fecha": "Tue, 18 Aug 2026 20:08:47 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Dólar nuevamente intenta caer sin éxito y cierra plano luego de que Trump dijera no estar interesado en extender tregua con Irán",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-loh9m",
-      "fecha": "Mon, 17 Aug 2026 20:19:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Le importa a la oposición el crecimiento?",
-      "link": "http://www.df.cl/opinion/columnistas/cecilia-cifuentes/le-importa-a-la-oposicion-el-crecimiento",
-      "fecha": "Tue, 18 Aug 2026 01:16:02 GMT",
+      "titulo": "CPC tras caída del PIB: “Tenemos una oportunidad de cambiar la trayectoria durante los próximos meses”",
+      "link": "http://www.df.cl/economia-y-politica/macro/cpc-tras-cuentas-nacionales-tenemos-una-oportunidad-de-cambiar-la",
+      "fecha": "Tue, 18 Aug 2026 20:06:13 GMT",
       "fuente": "Diario Financiero"
     }
   ],
