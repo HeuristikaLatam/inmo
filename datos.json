@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-17T21:18:07.140498+00:00",
+  "generado": "2026-08-18T08:25:14.560085+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40855.33,
-      "fecha": "2026-08-17T04:00:00.000Z"
+      "valor": 40856.64,
+      "fecha": "2026-08-18T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 913.15,
-      "fecha": "2026-08-17T04:00:00.000Z"
+      "valor": 914.19,
+      "fecha": "2026-08-18T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-17T04:00:00.000Z"
+      "fecha": "2026-08-18T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,24 @@
   },
   "titulares": [
     {
+      "titulo": "Ximena Niño, senior advisor de Tax & Legal en Deloitte y suspensión por un año del IVA a la Vivienda: \"El gobierno plantea una manera de que las inmobiliarias puedan vender el stock acumulado\"",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/ximena-nino-senior-advisor-de-tax-legal-en-deloitte-y-suspension-por-un",
+      "fecha": "Tue, 18 Aug 2026 00:45:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las normas tributarias de la Ley de Reconstrucción que podrían beneficiar a los family offices",
+      "link": "http://www.df.cl/mercados/banca-fintech/las-normas-tributarias-de-la-ley-de-reconstruccion-que-podrian-beneficiar-a",
+      "fecha": "Mon, 17 Aug 2026 23:21:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "A los 76 años fallece Manuel Alí Daire Carle, emblemático empresario de Coquimbo ligado a negocios inmobiliario y de turismo",
+      "link": "http://www.df.cl/regiones/coquimbo/muere-manuel-ali-daire-carle-empresario-ligado-por-decadas-a-inversiones",
+      "fecha": "Mon, 17 Aug 2026 23:59:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Enel inicia construcción de proyecto de almacenamiento BESS al interior de central solar por US$ 80 millones",
       "link": "http://www.df.cl/empresas/energia/enel-inicia-construccion-de-proyecto-de-almacenamiento-bess-al-interior-de",
       "fecha": "Mon, 17 Aug 2026 20:14:10 GMT",
@@ -43,27 +61,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mercado Libre respalda crédito tributario en ley de reconstrucción nacional: “Refuerza las ganas de invertir en Chile”",
-      "link": "http://www.df.cl/empresas/industria/mercado-libre-respalda-credito-tributario-en-ley-de-reconstruccion",
-      "fecha": "Mon, 17 Aug 2026 15:32:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "\"Sos suficiente\": Pareja de Benjamín Vicuña lo defiende tras dardo de Icardi sobre sus hijos",
-      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/08/17/sos-suficiente-pareja-de-benjamin-vicuna-lo-defiende-tras-dardo-de-icardi-sobre-sus-hijos.shtml",
-      "fecha": "Mon, 17 Aug 2026 20:15:56 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Oposición crea Comisión de Seguridad para generar propuestas y analizar anuncios del gobierno",
-      "link": "http://www.df.cl/economia-y-politica/politica/oposicion-crea-comision-de-seguridad-para-generar-propuestas-y-analizar",
-      "fecha": "Mon, 17 Aug 2026 21:04:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "A un año de la inauguración del Claro Arena: Cruzados hace balance positivo y proyecta cerrar el año con crecimiento de 50% en sus ingresos",
-      "link": "http://www.df.cl/empresas/industria/a-un-ano-de-la-inauguracion-del-claro-arena-cruzados-hace-balance-positivo",
-      "fecha": "Mon, 17 Aug 2026 20:48:58 GMT",
+      "titulo": "¿Le importa a la oposición el crecimiento?",
+      "link": "http://www.df.cl/opinion/columnistas/cecilia-cifuentes/le-importa-a-la-oposicion-el-crecimiento",
+      "fecha": "Tue, 18 Aug 2026 01:16:02 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -196,6 +196,10 @@
       {
         "fecha": "2026-08-17",
         "valor": 40855.33
+      },
+      {
+        "fecha": "2026-08-18",
+        "valor": 40856.64
       }
     ],
     "dolar": [
@@ -326,6 +330,10 @@
       {
         "fecha": "2026-08-17",
         "valor": 913.15
+      },
+      {
+        "fecha": "2026-08-18",
+        "valor": 914.19
       }
     ],
     "tpm": [
@@ -456,6 +464,10 @@
       {
         "fecha": "2026-08-17",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-18",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -582,6 +594,10 @@
       {
         "fecha": "2026-08-17",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-18",
+        "valor": 4.3
       }
     ]
   },
@@ -589,9 +605,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.817,
+    "score": 1.682,
     "modo": "zscore",
-    "valor_actual": 40855.33,
-    "fecha": "2026-08-17"
+    "valor_actual": 40856.64,
+    "fecha": "2026-08-18"
   }
 }
