@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-18T21:14:54.903584+00:00",
+  "generado": "2026-08-19T08:26:06.856878+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40856.64,
-      "fecha": "2026-08-18T04:00:00.000Z"
+      "valor": 40857.96,
+      "fecha": "2026-08-19T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 914.19,
-      "fecha": "2026-08-18T04:00:00.000Z"
+      "valor": 922.12,
+      "fecha": "2026-08-19T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-18T04:00:00.000Z"
+      "fecha": "2026-08-19T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,39 +31,39 @@
   },
   "titulares": [
     {
+      "titulo": "Ley de reconstrucción: TC acoge a trámite el requerimiento del gobierno que impugna restitución de servicios básicos durante emergencias",
+      "link": "http://www.df.cl/economia-y-politica/politica/ley-de-reconstruccion-tc-acoge-a-tramite-el-requerimiento-del-gobierno-que",
+      "fecha": "Tue, 18 Aug 2026 23:04:29 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar se dispara más de $ 10 al cierre mientras los precios del cobre retroceden en medio de la incertidumbre geopolítica",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bnyn9",
       "fecha": "Tue, 18 Aug 2026 20:12:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ximena Niño, senior advisor de Tax & Legal en Deloitte y suspensión por un año del IVA a la Vivienda: \"El gobierno plantea una manera de que las inmobiliarias puedan vender el stock acumulado\"",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ximena-nino-senior-advisor-de-tax-legal-en-deloitte-y-suspension-por-un",
-      "fecha": "Tue, 18 Aug 2026 00:45:10 GMT",
+      "titulo": "El populismo no descansa",
+      "link": "http://www.df.cl/opinion/columnistas/luis-felipe-lagos/el-populismo-no-descansa",
+      "fecha": "Tue, 18 Aug 2026 23:32:28 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las normas tributarias de la Ley de Reconstrucción que podrían beneficiar a los family offices",
-      "link": "http://www.df.cl/mercados/banca-fintech/las-normas-tributarias-de-la-ley-de-reconstruccion-que-podrian-beneficiar-a",
-      "fecha": "Tue, 18 Aug 2026 10:07:09 GMT",
+      "titulo": "Políticas efectivas para combatir los rayados",
+      "link": "http://www.df.cl/opinion/columnistas/politicas-efectivas-para-combatir-los-rayados",
+      "fecha": "Tue, 18 Aug 2026 23:34:08 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Hayden Panettiere habría dejado patrimonio de 6 millones de dólares y no se sabe si llegará a su hija",
-      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/08/18/hayden-panettiere-habria-dejado-patrimonio-de-6-millones-de-dolares-y-no-se-sabe-si-llegara-a-su-hija.shtml",
-      "fecha": "Tue, 18 Aug 2026 21:10:04 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Quiroz acelera plan de venta de activos prescindibles del Estado para inyectar recursos a los fondos soberanos",
+      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-acelera-plan-de-venta-de-activos-prescindibles-del-estado-para",
+      "fecha": "Wed, 19 Aug 2026 00:28:59 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La cronología del controvertido permiso que benefició a proyecto inmobiliario de hermano de Quiroz",
-      "link": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/08/18/la-cronologia-del-controvertido-permiso-que-beneficio-a-proyecto-inmobiliario-de-hermano-de-quiroz.shtml",
-      "fecha": "Tue, 18 Aug 2026 21:06:49 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Asamblea legislativa de Bolivia fuerza salida de ministro de Economía de Rodrigo Paz",
-      "link": "http://www.df.cl/internacional/economia/asamblea-legislativa-de-bolivia-fuerza-salida-de-ministro-de-economia-de",
-      "fecha": "Tue, 18 Aug 2026 20:50:12 GMT",
+      "titulo": "Rodrigo Aravena, economista jefe Banco de Chile: “Uno debiese esperar de todas maneras mejores cifras hacia el futuro”",
+      "link": "http://www.df.cl/economia-y-politica/macro/rodrigo-aravena-economista-jefe-banco-de-chile-uno-debiese-esperar-de",
+      "fecha": "Wed, 19 Aug 2026 00:13:11 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -200,6 +200,10 @@
       {
         "fecha": "2026-08-18",
         "valor": 40856.64
+      },
+      {
+        "fecha": "2026-08-19",
+        "valor": 40857.96
       }
     ],
     "dolar": [
@@ -334,6 +338,10 @@
       {
         "fecha": "2026-08-18",
         "valor": 914.19
+      },
+      {
+        "fecha": "2026-08-19",
+        "valor": 922.12
       }
     ],
     "tpm": [
@@ -468,6 +476,10 @@
       {
         "fecha": "2026-08-18",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-19",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -598,16 +610,20 @@
       {
         "fecha": "2026-08-18",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-19",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.682,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.87,
+    "score": 2.011,
     "modo": "zscore",
-    "valor_actual": 40856.64,
-    "fecha": "2026-08-18"
+    "valor_actual": 922.12,
+    "fecha": "2026-08-19"
   }
 }
