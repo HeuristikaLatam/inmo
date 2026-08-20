@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-19T21:17:40.808225+00:00",
+  "generado": "2026-08-20T08:27:09.242725+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40857.96,
-      "fecha": "2026-08-19T04:00:00.000Z"
+      "valor": 40859.28,
+      "fecha": "2026-08-20T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 922.12,
-      "fecha": "2026-08-19T04:00:00.000Z"
+      "valor": 920.26,
+      "fecha": "2026-08-20T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-19T04:00:00.000Z"
+      "fecha": "2026-08-20T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,24 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "DF Tax | Una baja en la tasa impositiva que también impacta los impuestos diferidos",
+      "link": "http://www.df.cl/opinion/columnistas/df-tax-una-baja-en-la-tasa-impositiva-que-tambien-impacta-los-impuestos",
+      "fecha": "Wed, 19 Aug 2026 22:46:28 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Desarrollo País, el brazo empresarial del Estado, apuesta por data centers, terrenos en torno al Metro y proyectos inmobiliarios",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/desarrollo-pais-el-brazo-empresarial-del-estado-apuesta-por-data-centers",
+      "fecha": "Wed, 19 Aug 2026 22:44:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "SII define la cantidad de instrucciones que emitirá para aplicar la ley de reconstrucción",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/sii-define-la-cantidad-de-instrucciones-que-emitira-para-aplicar-la-ley-de",
+      "fecha": "Wed, 19 Aug 2026 22:20:31 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar cierra a la baja cerca de $ 920 mientras la divisa se hunde globalmente tras anuncio del Tesoro que respalda a los bonos largos",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rhryp",
@@ -45,25 +63,13 @@
     {
       "titulo": "OTIC de la Cámara de la Construcción cuestiona cambios a la franquicia tributaria Sence: “No resolvieron ninguno de los problemas que levantamos”",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/otic-de-la-camara-de-la-construccion-cuestiona-cambios-a-la-franquicia",
-      "fecha": "Wed, 19 Aug 2026 17:25:36 GMT",
+      "fecha": "Wed, 19 Aug 2026 22:27:18 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Kevin Cowan, consejero del Banco Central: “Parte de esta alza del precio cobre no es de corto plazo, sino que debería mantenerse”",
       "link": "http://www.df.cl/economia-y-politica/macro/kevin-cowan-consejero-del-banco-central-parte-de-esta-alza-del-precio",
-      "fecha": "Wed, 19 Aug 2026 16:19:23 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ley de reconstrucción: TC acoge a trámite el requerimiento del gobierno que impugna restitución de servicios básicos durante emergencias",
-      "link": "http://www.df.cl/economia-y-politica/politica/ley-de-reconstruccion-tc-acoge-a-tramite-el-requerimiento-del-gobierno-que",
-      "fecha": "Tue, 18 Aug 2026 23:04:29 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Molestia entre alcaldes del Biobío por ausencia de De Grange de Comisión parlamentaria que analizó polémica por corredores de transporte público en Concepción",
-      "link": "http://www.df.cl/regiones/biobio/empresas/molestia-entre-alcaldes-del-biobio-por-ausencia-de-de-grange-de-comision",
-      "fecha": "Wed, 19 Aug 2026 21:04:15 GMT",
+      "fecha": "Wed, 19 Aug 2026 22:13:41 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -204,6 +210,10 @@
       {
         "fecha": "2026-08-19",
         "valor": 40857.96
+      },
+      {
+        "fecha": "2026-08-20",
+        "valor": 40859.28
       }
     ],
     "dolar": [
@@ -342,6 +352,10 @@
       {
         "fecha": "2026-08-19",
         "valor": 922.12
+      },
+      {
+        "fecha": "2026-08-20",
+        "valor": 920.26
       }
     ],
     "tpm": [
@@ -480,6 +494,10 @@
       {
         "fecha": "2026-08-19",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-20",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -614,16 +632,20 @@
       {
         "fecha": "2026-08-19",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-20",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.87,
-    "score": 2.011,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.521,
     "modo": "zscore",
-    "valor_actual": 922.12,
-    "fecha": "2026-08-19"
+    "valor_actual": 40859.28,
+    "fecha": "2026-08-20"
   }
 }
