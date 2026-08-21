@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-20T21:19:40.601966+00:00",
+  "generado": "2026-08-21T08:29:11.412493+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40859.28,
-      "fecha": "2026-08-20T04:00:00.000Z"
+      "valor": 40860.6,
+      "fecha": "2026-08-21T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 920.26,
-      "fecha": "2026-08-20T04:00:00.000Z"
+      "valor": 923.23,
+      "fecha": "2026-08-21T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-20T04:00:00.000Z"
+      "fecha": "2026-08-21T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,24 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Ruby Soteras, socia de Deloitte Legal, y el nuevo crédito por enfermedades catastróficas: \"Puede ser un incentivo para las empresas en el diseño de beneficios para retener capital humano”",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-ruby-soteras-socia-de-deloitte-legal",
+      "fecha": "Thu, 20 Aug 2026 23:22:57 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Kast dio inicio a la construcción del Embalse Zapallar en Ñuble, infraestructura que garantizará el abastecimiento hídrico a la agricultura de la zona",
+      "link": "http://www.df.cl/regiones/nuble/kast-dio-inicio-a-construccion-de-embalse-zapallar-en-nuble",
+      "fecha": "Thu, 20 Aug 2026 23:58:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Global66 supera los US$ 100 millones en ingresos anualizados y prepara expansión a créditos e inversiones",
+      "link": "http://www.df.cl/mercados/banca-fintech/global66-supera-los-us-100-millones-en-ingresos-anualizados-y-prepara",
+      "fecha": "Fri, 21 Aug 2026 00:09:22 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar revierte alza inicial y cierra plano ante resiliencia del cobre pese a tensión por la nueva guerra económica de Trump",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-x54mi",
@@ -49,40 +67,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ministro Quiroz anuncia que reconstrucción del norte partirá con recursos obtenidos de la venta de activos fiscales",
-      "link": "http://www.df.cl/regiones/antofagasta/ministro-quiroz-anuncia-que-reconstruccion-del-norte-partira-con-recursos",
-      "fecha": "Thu, 20 Aug 2026 20:52:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tribunal chino condena a cadena perpetua al magnate inmobiliario fundador de la colapsada Evergrande",
-      "link": "http://www.df.cl/internacional/economia/tribunal-chino-condena-a-cadena-perpetua-al-magnate-inmobiliario-fundador",
-      "fecha": "Thu, 20 Aug 2026 10:35:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Reconstrucción del norte: Gobierno financiará obras mediante la venta de bienes fiscales \"prescindibles\"",
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Gobierno dice que acelerarán venta de activos \"prescindibles\" para financiar reconstrucción del norte",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/20/gobierno-dice-que-aceleraran-venta-de-activos-prescindibles-para-financiar-reconstruccion-del-norte.shtml",
-      "fecha": "Thu, 20 Aug 2026 21:06:01 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Claves de la burbuja inmobiliaria china y crisis de Evergrande que deja a su fundador tras las rejas",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/20/claves-de-la-burbuja-inmobiliaria-china-y-crisis-de-evergrande-que-deja-a-su-fundador-tras-las-rejas.shtml",
-      "fecha": "Thu, 20 Aug 2026 20:23:33 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Ley del Mono: cómo regularizar tu vivienda y cuáles son los cambios que propone nuevo proyecto",
-      "link": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/08/20/ley-del-mono-como-regularizar-tu-vivienda-y-cuales-son-los-cambios-que-propone-nuevo-proyecto.shtml",
-      "fecha": "Thu, 20 Aug 2026 20:08:14 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -226,6 +214,10 @@
       {
         "fecha": "2026-08-20",
         "valor": 40859.28
+      },
+      {
+        "fecha": "2026-08-21",
+        "valor": 40860.6
       }
     ],
     "dolar": [
@@ -368,6 +360,10 @@
       {
         "fecha": "2026-08-20",
         "valor": 920.26
+      },
+      {
+        "fecha": "2026-08-21",
+        "valor": 923.23
       }
     ],
     "tpm": [
@@ -510,6 +506,10 @@
       {
         "fecha": "2026-08-20",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-21",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -648,6 +648,10 @@
       {
         "fecha": "2026-08-20",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-21",
+        "valor": 4.3
       }
     ]
   },
@@ -655,9 +659,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.521,
+    "score": 1.45,
     "modo": "zscore",
-    "valor_actual": 40859.28,
-    "fecha": "2026-08-20"
+    "valor_actual": 40860.6,
+    "fecha": "2026-08-21"
   }
 }
