@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-21T09:41:46.176961+00:00",
+  "generado": "2026-08-21T20:15:41.125819+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,39 +31,27 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cae y termina la semana bajo $ 920 mientras los precios del cobre suben con fuerza tras compromiso de estímulos en China",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-i7sc5",
+      "fecha": "Fri, 21 Aug 2026 20:14:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "¿El fin del dinero fácil? La deuda de EEUU dispara las tasas y sacude a los mercados globales",
+      "link": "http://www.df.cl/senal-df/senales-financieras/el-fin-del-dinero-facil-la-deuda-de-eeuu-dispara-las-tasas-y-sacude-a-los",
+      "fecha": "Fri, 21 Aug 2026 19:28:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Reforma laboral, mercado de capitales y permisos: las prioridades para retomar el crecimiento post ley de reconstrucción, según economistas",
+      "link": "http://www.df.cl/economia-y-politica/macro/reforma-laboral-mercado-de-capitales-y-permisos-las-prioridades-para",
+      "fecha": "Fri, 21 Aug 2026 19:21:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Ruby Soteras, socia de Deloitte Legal, y el nuevo crédito por enfermedades catastróficas: \"Puede ser un incentivo para las empresas en el diseño de beneficios para retener capital humano”",
       "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-ruby-soteras-socia-de-deloitte-legal",
       "fecha": "Thu, 20 Aug 2026 23:22:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast dio inicio a la construcción del Embalse Zapallar en Ñuble, infraestructura que garantizará el abastecimiento hídrico a la agricultura de la zona",
-      "link": "http://www.df.cl/regiones/nuble/kast-dio-inicio-a-construccion-de-embalse-zapallar-en-nuble",
-      "fecha": "Thu, 20 Aug 2026 23:58:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Global66 supera los US$ 100 millones en ingresos anualizados y prepara expansión a créditos e inversiones",
-      "link": "http://www.df.cl/mercados/banca-fintech/global66-supera-los-us-100-millones-en-ingresos-anualizados-y-prepara",
-      "fecha": "Fri, 21 Aug 2026 00:09:22 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar revierte alza inicial y cierra plano ante resiliencia del cobre pese a tensión por la nueva guerra económica de Trump",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-x54mi",
-      "fecha": "Thu, 20 Aug 2026 20:11:29 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Citi recorta su apuesta por el dólar tras advertir sobre el riesgo de recompra de acciones en EEUU",
-      "link": "http://www.df.cl/internacional/economia/citi-recorta-su-apuesta-por-el-dolar-tras-advertir-sobre-el-riesgo-de",
-      "fecha": "Thu, 20 Aug 2026 19:59:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Aguas Andinas gana $ 77.526 millones en el semestre pese al golpe de la UF",
-      "link": "http://www.df.cl/empresas/industria/aguas-andinas-gana-77-526-millones-en-el-semestre-pese-al-golpe-de-la-uf",
-      "fecha": "Thu, 20 Aug 2026 19:09:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -71,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Correos revelan que ENAP conocía desde 2025 anomalías en cálculo de azufre que luego escalaron a penal",
+      "link": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/08/21/correos-revelan-que-enap-conocia-desde-2025-anomalias-en-calculo-de-azufre-que-luego-escalaron-a-penal.shtml",
+      "fecha": "Fri, 21 Aug 2026 19:28:48 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
