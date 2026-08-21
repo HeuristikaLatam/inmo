@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-21T20:15:41.125819+00:00",
+  "generado": "2026-08-21T21:15:04.944513+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Diego Celedón, JPMorgan: \"No será solo un rebote, vemos condiciones para que Chile crezca a tasas del 3% por varios años\"",
+      "link": "http://www.df.cl/senal-df/factor-economico/diego-celedon-jpmorgan-no-sera-solo-un-rebote-vemos-condiciones-para",
+      "fecha": "Fri, 21 Aug 2026 21:06:23 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cae y termina la semana bajo $ 920 mientras los precios del cobre suben con fuerza tras compromiso de estímulos en China",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-i7sc5",
       "fecha": "Fri, 21 Aug 2026 20:14:18 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Correos revelan que ENAP conocía desde 2025 anomalías en cálculo de azufre que luego escalaron a penal",
-      "link": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/articulos/2026/08/21/correos-revelan-que-enap-conocia-desde-2025-anomalias-en-calculo-de-azufre-que-luego-escalaron-a-penal.shtml",
-      "fecha": "Fri, 21 Aug 2026 19:28:48 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
