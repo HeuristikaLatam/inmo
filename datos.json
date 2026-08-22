@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-21T21:15:04.944513+00:00",
+  "generado": "2026-08-22T08:18:26.896490+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40860.6,
-      "fecha": "2026-08-21T04:00:00.000Z"
+      "valor": 40861.91,
+      "fecha": "2026-08-22T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -33,7 +33,7 @@
     {
       "titulo": "Diego Celedón, JPMorgan: \"No será solo un rebote, vemos condiciones para que Chile crezca a tasas del 3% por varios años\"",
       "link": "http://www.df.cl/senal-df/factor-economico/diego-celedon-jpmorgan-no-sera-solo-un-rebote-vemos-condiciones-para",
-      "fecha": "Fri, 21 Aug 2026 21:06:23 GMT",
+      "fecha": "Sat, 22 Aug 2026 00:38:03 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -45,7 +45,7 @@
     {
       "titulo": "¿El fin del dinero fácil? La deuda de EEUU dispara las tasas y sacude a los mercados globales",
       "link": "http://www.df.cl/senal-df/senales-financieras/el-fin-del-dinero-facil-la-deuda-de-eeuu-dispara-las-tasas-y-sacude-a-los",
-      "fecha": "Fri, 21 Aug 2026 19:28:46 GMT",
+      "fecha": "Sat, 22 Aug 2026 00:27:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,10 +55,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ruby Soteras, socia de Deloitte Legal, y el nuevo crédito por enfermedades catastróficas: \"Puede ser un incentivo para las empresas en el diseño de beneficios para retener capital humano”",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-ruby-soteras-socia-de-deloitte-legal",
-      "fecha": "Thu, 20 Aug 2026 23:22:57 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
+      "fecha": "Fri, 21 Aug 2026 16:55:34 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Reconstrucción del norte: Gobierno financiará obras mediante la venta de bienes fiscales \"prescindibles\"",
@@ -212,6 +212,10 @@
       {
         "fecha": "2026-08-21",
         "valor": 40860.6
+      },
+      {
+        "fecha": "2026-08-22",
+        "valor": 40861.91
       }
     ],
     "dolar": [
@@ -357,6 +361,10 @@
       },
       {
         "fecha": "2026-08-21",
+        "valor": 923.23
+      },
+      {
+        "fecha": "2026-08-22",
         "valor": 923.23
       }
     ],
@@ -504,6 +512,10 @@
       {
         "fecha": "2026-08-21",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-22",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -646,6 +658,10 @@
       {
         "fecha": "2026-08-21",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-22",
+        "valor": 4.3
       }
     ]
   },
@@ -653,9 +669,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.45,
+    "score": 1.372,
     "modo": "zscore",
-    "valor_actual": 40860.6,
-    "fecha": "2026-08-21"
+    "valor_actual": 40861.91,
+    "fecha": "2026-08-22"
   }
 }
