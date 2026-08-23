@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-22T21:13:13.022364+00:00",
+  "generado": "2026-08-23T08:19:21.805094+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40861.91,
-      "fecha": "2026-08-22T04:00:00.000Z"
+      "valor": 40863.23,
+      "fecha": "2026-08-23T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -43,18 +43,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿El fin del dinero fácil? La deuda de EEUU dispara las tasas y sacude a los mercados globales",
-      "link": "http://www.df.cl/senal-df/senales-financieras/el-fin-del-dinero-facil-la-deuda-de-eeuu-dispara-las-tasas-y-sacude-a-los",
-      "fecha": "Sat, 22 Aug 2026 00:27:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reforma laboral, mercado de capitales y permisos: las prioridades para retomar el crecimiento post ley de reconstrucción, según economistas",
-      "link": "http://www.df.cl/economia-y-politica/macro/reforma-laboral-mercado-de-capitales-y-permisos-las-prioridades-para",
-      "fecha": "Fri, 21 Aug 2026 19:21:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
       "fecha": "Fri, 21 Aug 2026 16:55:34 -0400",
@@ -67,16 +55,16 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Alcaldes de Futaleufú y Chaitén rechazan incorporación ante eventual creación de región de Chiloé",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/08/22/alcaldes-de-futaleufu-y-chaiten-rechazan-incorporacion-ante-eventual-creacion-de-region-de-chiloe.shtml",
-      "fecha": "Sat, 22 Aug 2026 20:51:49 +0000",
+      "titulo": "Un muerto y un herido deja bombardeo israelí contra vivienda en Gaza pese a alto el fuego",
+      "link": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/08/22/un-muerto-y-un-herido-deja-bombardeo-israeli-contra-vivienda-en-gaza-pese-a-alto-el-fuego.shtml",
+      "fecha": "Sun, 23 Aug 2026 02:02:16 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Buzo muere tras sufrir grave descompensación durante traslado de urgencia en Chiloé",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/08/22/buzo-muere-tras-sufrir-grave-descompensacion-durante-traslado-de-urgencia-en-chiloe.shtml",
-      "fecha": "Sat, 22 Aug 2026 20:14:20 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Con cláusulas “earn out” y con unos 10 asesores: Cómo Abra y Sky concretaron histórico acuerdo",
+      "link": "http://www.df.cl/df-mas/por-dentro/con-clausulas-earn-out-y-con-unos-10-asesores-como-abra-y-sky",
+      "fecha": "Sat, 22 Aug 2026 20:19:30 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -228,6 +216,10 @@
       {
         "fecha": "2026-08-22",
         "valor": 40861.91
+      },
+      {
+        "fecha": "2026-08-23",
+        "valor": 40863.23
       }
     ],
     "dolar": [
@@ -377,6 +369,10 @@
       },
       {
         "fecha": "2026-08-22",
+        "valor": 923.23
+      },
+      {
+        "fecha": "2026-08-23",
         "valor": 923.23
       }
     ],
@@ -528,6 +524,10 @@
       {
         "fecha": "2026-08-22",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-23",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -674,6 +674,10 @@
       {
         "fecha": "2026-08-22",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-23",
+        "valor": 4.3
       }
     ]
   },
@@ -681,9 +685,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.372,
+    "score": 1.335,
     "modo": "zscore",
-    "valor_actual": 40861.91,
-    "fecha": "2026-08-22"
+    "valor_actual": 40863.23,
+    "fecha": "2026-08-23"
   }
 }
