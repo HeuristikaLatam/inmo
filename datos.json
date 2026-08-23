@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-23T09:32:34.140698+00:00",
+  "generado": "2026-08-23T20:12:18.009732+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Acusan a Trump de arriesgar más sufrimiento para los estadounidenses con la guerra comercial con Canadá",
+      "link": "http://www.df.cl/acusan-a-trump-de-arriesgar-mas-sufrimiento-para-los-estadounidenses-con-la",
+      "fecha": "Sun, 23 Aug 2026 19:45:53 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Diego Celedón, JPMorgan: \"No será solo un rebote, vemos condiciones para que Chile crezca a tasas del 3% por varios años\"",
       "link": "http://www.df.cl/senal-df/factor-economico/diego-celedon-jpmorgan-no-sera-solo-un-rebote-vemos-condiciones-para",
       "fecha": "Sat, 22 Aug 2026 08:55:13 GMT",
@@ -55,15 +61,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Un muerto y un herido deja bombardeo israelí contra vivienda en Gaza pese a alto el fuego",
-      "link": "https://www.biobiochile.cl/noticias/internacional/mediooriente/2026/08/22/un-muerto-y-un-herido-deja-bombardeo-israeli-contra-vivienda-en-gaza-pese-a-alto-el-fuego.shtml",
-      "fecha": "Sun, 23 Aug 2026 02:02:16 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Con cláusulas “earn out” y con unos 10 asesores: Cómo Abra y Sky concretaron histórico acuerdo",
-      "link": "http://www.df.cl/df-mas/por-dentro/con-clausulas-earn-out-y-con-unos-10-asesores-como-abra-y-sky",
-      "fecha": "Sat, 22 Aug 2026 20:19:30 GMT",
+      "titulo": "Mark Carney afirma que Canadá está en guerra con EEUU por nueva ofensiva comercial",
+      "link": "http://www.df.cl/internacional/ft/mark-carney-afirma-que-canada-esta-en-guerra-con-eeuu-por-nueva-ofensiva",
+      "fecha": "Sun, 23 Aug 2026 15:30:31 GMT",
       "fuente": "Diario Financiero"
     }
   ],
