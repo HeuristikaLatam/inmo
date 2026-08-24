@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T20:19:46.254351+00:00",
+  "generado": "2026-08-24T21:21:00.731549+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "El dólar en Argentina cruza la marca histórica de 1.500 pesos, pero analistas consideran que ajuste es \"saludable\"",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/el-dolar-cruza-la-marca-historica-de-1-500-pesos-en-argentina-pero",
+      "fecha": "Mon, 24 Aug 2026 20:54:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra con leve caída mientras agentes monitorean el plan de EEUU para aislar a la economía iraní",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ki6py",
       "fecha": "Mon, 24 Aug 2026 20:11:39 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Científicos resuelven un enigma espacial: ¿por qué los astronautas sufren estreñimiento?",
-      "link": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/08/24/cientificos-resuelven-un-enigma-espacial-por-que-los-astronautas-sufren-estrenimiento.shtml",
-      "fecha": "Mon, 24 Aug 2026 19:17:42 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
