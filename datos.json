@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-23T21:13:12.592638+00:00",
+  "generado": "2026-08-24T08:37:42.263928+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40863.23,
-      "fecha": "2026-08-23T04:00:00.000Z"
+      "valor": 40864.55,
+      "fecha": "2026-08-24T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 923.23,
-      "fecha": "2026-08-21T04:00:00.000Z"
+      "valor": 918.17,
+      "fecha": "2026-08-24T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-21T04:00:00.000Z"
+      "fecha": "2026-08-24T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -33,19 +33,7 @@
     {
       "titulo": "Acusan a Trump de arriesgar más sufrimiento para los estadounidenses con la guerra comercial con Canadá",
       "link": "http://www.df.cl/acusan-a-trump-de-arriesgar-mas-sufrimiento-para-los-estadounidenses-con-la",
-      "fecha": "Sun, 23 Aug 2026 19:45:53 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Diego Celedón, JPMorgan: \"No será solo un rebote, vemos condiciones para que Chile crezca a tasas del 3% por varios años\"",
-      "link": "http://www.df.cl/senal-df/factor-economico/diego-celedon-jpmorgan-no-sera-solo-un-rebote-vemos-condiciones-para",
-      "fecha": "Sat, 22 Aug 2026 08:55:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cae y termina la semana bajo $ 920 mientras los precios del cobre suben con fuerza tras compromiso de estímulos en China",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-i7sc5",
-      "fecha": "Fri, 21 Aug 2026 20:14:18 GMT",
+      "fecha": "Sun, 23 Aug 2026 21:53:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,9 +49,21 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Mark Carney afirma que Canadá está en guerra con EEUU por nueva ofensiva comercial",
-      "link": "http://www.df.cl/internacional/ft/mark-carney-afirma-que-canada-esta-en-guerra-con-eeuu-por-nueva-ofensiva",
-      "fecha": "Sun, 23 Aug 2026 15:30:31 GMT",
+      "titulo": "El viento no basta",
+      "link": "http://www.df.cl/opinion/columnistas/fernanda-garcia/el-viento-no-basta",
+      "fecha": "Fri, 21 Aug 2026 22:22:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Acuerdo comercial con Trinidad y Tobago le ahorraría a Chile costos de importación de GNL",
+      "link": "http://www.df.cl/economia-y-politica/macro/acuerdo-comercial-con-trinidad-y-tobago-le-ahorraria-a-chile-costos-de",
+      "fecha": "Fri, 21 Aug 2026 23:35:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La rusa InDrive apunta a competir con las grandes aplicaciones de transporte en la Región Metropolitana",
+      "link": "http://www.df.cl/empresas/industria/la-rusa-indrive-apunta-a-competir-con-las-grandes-aplicaciones-de",
+      "fecha": "Fri, 21 Aug 2026 22:53:31 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -220,6 +220,10 @@
       {
         "fecha": "2026-08-23",
         "valor": 40863.23
+      },
+      {
+        "fecha": "2026-08-24",
+        "valor": 40864.55
       }
     ],
     "dolar": [
@@ -374,6 +378,10 @@
       {
         "fecha": "2026-08-23",
         "valor": 923.23
+      },
+      {
+        "fecha": "2026-08-24",
+        "valor": 918.17
       }
     ],
     "tpm": [
@@ -528,6 +536,10 @@
       {
         "fecha": "2026-08-23",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-24",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -678,6 +690,10 @@
       {
         "fecha": "2026-08-23",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-24",
+        "valor": 4.3
       }
     ]
   },
@@ -685,9 +701,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.335,
+    "score": 1.286,
     "modo": "zscore",
-    "valor_actual": 40863.23,
-    "fecha": "2026-08-23"
+    "valor_actual": 40864.55,
+    "fecha": "2026-08-24"
   }
 }
