@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T09:53:58.174052+00:00",
+  "generado": "2026-08-24T20:19:46.254351+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,18 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra con leve caída mientras agentes monitorean el plan de EEUU para aislar a la economía iraní",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ki6py",
+      "fecha": "Mon, 24 Aug 2026 20:11:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Latam obtiene crédito por US$ 505 millones para impulsar sostenibilidad y renovación de flota",
+      "link": "http://www.df.cl/empresas/industria/latam-anuncia-prestamo-por-us-505-millones-para-impulsar-sostenibilidad-y",
+      "fecha": "Mon, 24 Aug 2026 18:41:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Acusan a Trump de arriesgar más sufrimiento para los estadounidenses con la guerra comercial con Canadá",
       "link": "http://www.df.cl/acusan-a-trump-de-arriesgar-mas-sufrimiento-para-los-estadounidenses-con-la",
       "fecha": "Sun, 23 Aug 2026 21:53:23 GMT",
@@ -49,22 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "El viento no basta",
-      "link": "http://www.df.cl/opinion/columnistas/fernanda-garcia/el-viento-no-basta",
-      "fecha": "Fri, 21 Aug 2026 22:22:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Acuerdo comercial con Trinidad y Tobago le ahorraría a Chile costos de importación de GNL",
-      "link": "http://www.df.cl/economia-y-politica/macro/acuerdo-comercial-con-trinidad-y-tobago-le-ahorraria-a-chile-costos-de",
-      "fecha": "Fri, 21 Aug 2026 23:35:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La rusa InDrive apunta a competir con las grandes aplicaciones de transporte en la Región Metropolitana",
-      "link": "http://www.df.cl/empresas/industria/la-rusa-indrive-apunta-a-competir-con-las-grandes-aplicaciones-de",
-      "fecha": "Fri, 21 Aug 2026 22:53:31 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Científicos resuelven un enigma espacial: ¿por qué los astronautas sufren estreñimiento?",
+      "link": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/08/24/cientificos-resuelven-un-enigma-espacial-por-que-los-astronautas-sufren-estrenimiento.shtml",
+      "fecha": "Mon, 24 Aug 2026 19:17:42 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
