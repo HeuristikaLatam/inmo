@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T09:40:48.591134+00:00",
+  "generado": "2026-08-25T20:18:21.633828+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Moderado IPC sorprende en mayo y se afianza expectativa de una tasa congelada este año",
-      "link": "http://www.df.cl",
-      "fecha": "Tue, 25 Aug 2026 00:41:38 GMT",
+      "titulo": "Dólar revierte caída inicial y cierra levemente al alza previo a importantes datos de inflación de EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kcsrn",
+      "fecha": "Tue, 25 Aug 2026 20:16:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Créditos a empresas acumulan 46 meses de caídas y anotan peor ciclo desde que existen registros",
-      "link": "http://www.df.cl",
-      "fecha": "Tue, 25 Aug 2026 00:41:27 GMT",
+      "titulo": "Caso Sartor: defensa de Pedro Pablo Larraín apela a prisión preventiva y apunta a fallo con fundamentación insuficiente",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/caso-sartor-defensa-de-pedro-pablo-larrain-apela-a-prision-preventiva-y",
+      "fecha": "Tue, 25 Aug 2026 20:05:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Claudia Torres, gerenta general de Bci Asset Management: \"Probablemente hay muchas inversiones que se están posponiendo, esperando que parta la Ley de Reconstrucción”",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/claudia-torres-gerenta-general-de-bci-asset-management-hay-muchas",
+      "fecha": "Tue, 25 Aug 2026 19:57:07 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Santander ve posible baja de la actividad no minera en julio tras cifras de comercio y manufactura",
+      "link": "http://www.df.cl/economia-y-politica/pais/santander-ve-posible-baja-de-la-actividad-no-minera-en-julio-tras-cifras-de",
+      "fecha": "Mon, 24 Aug 2026 23:56:59 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -53,18 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Minvu ordena sumario por subsidios de arriendo a fallecidos y otras irregularidades detectadas por CGR",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/25/minvu-ordena-sumario-por-subsidios-de-arriendo-a-fallecidos-y-otras-irregularidades-detectadas-por-cgr.shtml",
-      "fecha": "Tue, 25 Aug 2026 04:24:24 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Detectan pagos de subsidios de arriendo a 168 fallecidos y personas que tenían contratos con cónyuges",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/24/detectan-pagos-de-subsidios-de-arriendo-a-168-fallecidos-y-personas-que-tenian-contratos-con-conyuges.shtml",
-      "fecha": "Tue, 25 Aug 2026 00:52:39 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
