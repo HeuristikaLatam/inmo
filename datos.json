@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T20:18:21.633828+00:00",
+  "generado": "2026-08-25T21:19:12.949823+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Bienes Nacionales traspasa al Serviu terreno de 25 hectáreas en el sur de Iquique para desarrollar 600 viviendas sociales",
+      "link": "http://www.df.cl/regiones/tarapaca/bienes-nacionales-traspasa-terreno-al-serviu-en-el-sur-de-iquique-para",
+      "fecha": "Tue, 25 Aug 2026 20:23:53 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar revierte caída inicial y cierra levemente al alza previo a importantes datos de inflación de EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kcsrn",
@@ -65,6 +71,18 @@
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
       "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Confirman denuncia de Kenita Larraín en la Fiscalía de Género: habría sufrido violencia intrafamiliar",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/08/25/confirman-denuncia-de-kenita-larrain-en-la-fiscalia-de-genero-habria-sufrido-violencia-intrafamiliar.shtml",
+      "fecha": "Tue, 25 Aug 2026 21:02:41 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Alcalde pide a Contraloría indagar si anomalía en cálculo de azufre se replicaron en planta de Hualpén",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/25/alcalde-pide-a-contraloria-indagar-si-anomalia-en-calculo-de-azufre-se-replicaron-en-planta-de-hualpen.shtml",
+      "fecha": "Tue, 25 Aug 2026 20:56:18 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
