@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-27T00:21:28.506535+00:00",
+  "generado": "2026-08-27T18:39:31.612702+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40867.18,
-      "fecha": "2026-08-26T04:00:00.000Z"
+      "valor": 40868.5,
+      "fecha": "2026-08-27T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 911.43,
-      "fecha": "2026-08-26T04:00:00.000Z"
+      "valor": 918.42,
+      "fecha": "2026-08-27T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-26T04:00:00.000Z"
+      "fecha": "2026-08-27T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,46 +31,28 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar modera alzas que lo acercaron a $ 930 con todas las miradas puestas en la cumbre de Jackson Hole",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yn9",
+      "fecha": "Thu, 27 Aug 2026 17:46:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Primera vivienda de adultos mayores",
+      "link": "http://www.df.cl/opinion/cartas/primera-vivienda-de-adultos-mayores",
+      "fecha": "Wed, 26 Aug 2026 22:49:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "FMI aprueba nueva línea de crédito flexible con Chile por hasta US$ 11.800 millones",
       "link": "http://www.df.cl/economia-y-politica/macro/fmi-aprueba-nueva-linea-de-credito-flexible-con-chile-por-hasta-us-11-800",
       "fecha": "Wed, 26 Aug 2026 23:35:30 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra al alza sobre $ 920 tras datos de inflación en EEUU y previo a reunión de banqueros centrales en Jackson Hole",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mxwgx",
-      "fecha": "Wed, 26 Aug 2026 20:21:21 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Conaf interpone querella por tala ilegal de bosque nativo en propiedad fiscal en Puerto Varas y pide multa récord por más de $ 8.300 millones",
-      "link": "http://www.df.cl/regiones/los-lagos/conaf-interpone-querella-por-tala-de-bosque-nativo-en-propiedad-fiscal-en",
-      "fecha": "Wed, 26 Aug 2026 19:21:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Banco Central presenta nuevas monedas de $ 10 y $ 50 con mismo diseño, pero más livianas y con una tecnología que reduce costo de producción",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/banco-central-presenta-nuevas-monedas-de-10-y-50-con-mismo-diseno-pero",
-      "fecha": "Wed, 26 Aug 2026 20:24:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast al promulgar nuevo subsidio estatal para viviendas de hasta 6 mil UF: “Queremos que Chile sea un país de propietarios, no de arrendatarios”",
-      "link": "http://www.df.cl/economia-y-politica/politica/kast-al-promulgar-nuevo-subsidio-estatal-para-viviendas-de-hasta-6-mil-uf",
-      "fecha": "Wed, 26 Aug 2026 15:25:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Apenas 176 viviendas en lo que va de 2026: CChC busca combatir déficit de inversión inmobiliaria en Concepción con propuesta para modificar Plan Regulador",
-      "link": "http://www.df.cl/regiones/biobio/mercados/deficit-de-9-500-viviendas-cchc-busca-destrabar-inversion-inmobiliaria-con",
-      "fecha": "Wed, 26 Aug 2026 14:58:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Coeva de Los Ríos aprueba proyecto de inmobiliaria ligada a familia del expresidente Piñera en Lago Ranco",
-      "link": "http://www.df.cl/regiones/los-rios/empresas/coeva-de-los-rios-aprueba-proyecto-de-inmobiliaria-ligada-a-la-familia",
-      "fecha": "Wed, 26 Aug 2026 18:18:23 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "FMI aprobó Línea de Crédito Flexible para Chile por 11.800 millones de dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/fmi-aprobo-linea-de-credito-flexible-para-chile-por-11-800-millones-de/2026-08-26/202655.html",
+      "fecha": "Wed, 26 Aug 2026 20:26:55 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Tras anuncio de cambios del Banco Central: ¿Cuánto usan los chilenos las monedas?",
@@ -94,12 +76,6 @@
       "titulo": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
       "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
       "fecha": "Fri, 21 Aug 2026 16:55:34 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Reconstrucción del norte: Gobierno financiará obras mediante la venta de bienes fiscales \"prescindibles\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/reconstruccion-del-norte-gobierno-financiara-obras-mediante-la-venta-de/2026-08-20/135941.html",
-      "fecha": "Thu, 20 Aug 2026 13:59:41 -0400",
       "fuente": "Cooperativa"
     }
   ],
@@ -271,7 +247,7 @@
       },
       {
         "fecha": "2026-08-27",
-        "valor": 40867.18
+        "valor": 40868.5
       }
     ],
     "dolar": [
@@ -441,7 +417,7 @@
       },
       {
         "fecha": "2026-08-27",
-        "valor": 911.43
+        "valor": 918.42
       }
     ],
     "tpm": [
@@ -782,12 +758,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.86,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.77,
+    "score": 1.805,
     "modo": "zscore",
-    "valor_actual": 40867.18,
+    "valor_actual": 918.42,
     "fecha": "2026-08-27"
   }
 }
