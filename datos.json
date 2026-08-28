@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-28T03:55:52.485077+00:00",
+  "generado": "2026-08-28T05:02:03.259133+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40868.5,
-      "fecha": "2026-08-27T04:00:00.000Z"
+      "valor": 40869.82,
+      "fecha": "2026-08-28T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 918.42,
-      "fecha": "2026-08-27T04:00:00.000Z"
+      "valor": 925.25,
+      "fecha": "2026-08-28T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-27T04:00:00.000Z"
+      "fecha": "2026-08-28T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -245,7 +245,7 @@
       },
       {
         "fecha": "2026-08-28",
-        "valor": 40868.5
+        "valor": 40869.82
       }
     ],
     "dolar": [
@@ -419,7 +419,7 @@
       },
       {
         "fecha": "2026-08-28",
-        "valor": 918.42
+        "valor": 925.25
       }
     ],
     "tpm": [
@@ -768,12 +768,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.885,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.74,
+    "score": 1.665,
     "modo": "zscore",
-    "valor_actual": 40868.5,
+    "valor_actual": 925.25,
     "fecha": "2026-08-28"
   }
 }
