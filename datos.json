@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-28T05:02:03.259133+00:00",
+  "generado": "2026-08-28T19:47:54.980097+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,22 +31,64 @@
   },
   "titulares": [
     {
-      "titulo": "Disputa por deslinde en exclusivo sector de La Dehesa: Grupo Hiller se enfrenta con Enaco y propietarios de viviendas",
-      "link": "http://www.df.cl/empresas/construccion/disputa-por-deslinde-en-exclusivo-sector-de-la-dehesa-grupo-hiller-se",
-      "fecha": "Fri, 28 Aug 2026 01:01:32 GMT",
+      "titulo": "La revitalización inmobiliaria “selectiva” que vive el centro de Santiago",
+      "link": "http://www.df.cl/senal-df/el-deal/la-revitalizacion-inmobiliaria-selectiva-que-vive-el-centro-de-santiago",
+      "fecha": "Fri, 28 Aug 2026 19:36:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra al alza sobre $ 925 con mercados atentos a las declaraciones de Warsh en la cumbre de Jackson Hole",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yn9",
-      "fecha": "Thu, 27 Aug 2026 20:10:49 GMT",
+      "titulo": "Dólar cotiza al alza en $ 930 por fuertes compras globales tras postura restrictiva de Warsh en su discurso desde Jackson Hole",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-9ea9y",
+      "fecha": "Fri, 28 Aug 2026 17:08:04 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Primera vivienda de adultos mayores",
-      "link": "http://www.df.cl/opinion/cartas/primera-vivienda-de-adultos-mayores",
-      "fecha": "Wed, 26 Aug 2026 22:49:02 GMT",
+      "titulo": "\"Liviandad\", atenta contra \"derecho de propiedad\" e \"inconstitucional\": las razones de las empresas de servicios básicos para insistir ante el TC por norma que obliga a recolectar a morosos",
+      "link": "http://www.df.cl/empresas/energia/liviandad-atenta-contra-derecho-de-propiedad-e-inconstitucional-las",
+      "fecha": "Fri, 28 Aug 2026 17:24:57 GMT",
       "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IPSA pierde impulso y cede la marca de 11.500 a medida que declaraciones de Warsh hacen prever un próximo aumento de tasas en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yd58p",
+      "fecha": "Fri, 28 Aug 2026 15:45:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las cinco acciones chilenas más expuestas al alza de las tasas largas",
+      "link": "http://www.df.cl/senal-df/senales-financieras/las-cinco-acciones-chilenas-mas-expuestas-al-alza-de-las-tasas-largas",
+      "fecha": "Fri, 28 Aug 2026 18:52:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Warsh afirma que la Fed tiene “trabajo por hacer” si persiste la inflación y el mercado eleva sus apuestas por un alza de tasas",
+      "link": "http://www.df.cl/internacional/economia/warsh-afirma-que-la-fed-tiene-trabajo-por-hacer-si-la-elevada-inflacion",
+      "fecha": "Fri, 28 Aug 2026 17:20:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "CEO de Andes Iron anuncia que Minera Dominga inició ya su construcción tras 13 años de trámites",
+      "link": "http://www.df.cl/empresas/mineria/ceo-de-andes-iron-anuncia-que-minera-dominga-inicio-ya-su-construccion-tras",
+      "fecha": "Fri, 28 Aug 2026 15:41:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Quiroz anuncia que la ley de reconstrucción se promulgará en la primera quincena de septiembre y no ve necesario bajar la tasa de interés para crecer 3,5% en 2027",
+      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-anuncia-que-la-ley-de-reconstruccion-se-promulgara-en-primera",
+      "fecha": "Fri, 28 Aug 2026 15:20:55 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La tasa de desocupación nacional sube a 9,5% en mayo-julio en un nuevo máximo en cinco años y el tiempo promedio sin empleo aumenta a 8,1 meses",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/la-tasa-de-desocupacion-nacional-sube-a-9-5-en-el-trimestre-mayo-julio-y",
+      "fecha": "Fri, 28 Aug 2026 14:56:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Oficialismo apunta al sector construcción como factor clave para reactivar el empleo",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/oficialismo-apunta-al-sector-construccion-como-factor-clave-para/2026-08-28/113058.html",
+      "fecha": "Fri, 28 Aug 2026 11:30:58 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "FMI aprobó Línea de Crédito Flexible para Chile por 11.800 millones de dólares",
@@ -58,18 +100,6 @@
       "titulo": "Tras anuncio de cambios del Banco Central: ¿Cuánto usan los chilenos las monedas?",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tras-anuncio-de-cambios-del-banco-central-cuanto-usan-los-chilenos-las/2026-08-26/175142.html",
       "fecha": "Wed, 26 Aug 2026 17:51:42 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "CChC propone crear cuenta enfocada en ahorro del pie para la primera vivienda",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/cchc-propone-crear-cuenta-enfocada-en-ahorro-del-pie-para-la-primera/2026-08-26/151047.html",
-      "fecha": "Wed, 26 Aug 2026 15:10:47 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Banco Central presentó nuevas monedas de $10 y $50: Tienen un peso más ligero",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-presento-nuevas-monedas-de-10-y-50-tienen-un-peso-mas/2026-08-26/123142.html",
-      "fecha": "Wed, 26 Aug 2026 12:31:42 -0400",
       "fuente": "Cooperativa"
     }
   ],
