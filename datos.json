@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-27T19:43:10.394434+00:00",
+  "generado": "2026-08-28T03:55:52.485077+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar modera alzas que lo acercaron a $ 930 con todas las miradas puestas en la cumbre de Jackson Hole",
+      "titulo": "Disputa por deslinde en exclusivo sector de La Dehesa: Grupo Hiller se enfrenta con Enaco y propietarios de viviendas",
+      "link": "http://www.df.cl/empresas/construccion/disputa-por-deslinde-en-exclusivo-sector-de-la-dehesa-grupo-hiller-se",
+      "fecha": "Fri, 28 Aug 2026 01:01:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra al alza sobre $ 925 con mercados atentos a las declaraciones de Warsh en la cumbre de Jackson Hole",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yn9",
-      "fecha": "Thu, 27 Aug 2026 17:46:17 GMT",
+      "fecha": "Thu, 27 Aug 2026 20:10:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Primera vivienda de adultos mayores",
       "link": "http://www.df.cl/opinion/cartas/primera-vivienda-de-adultos-mayores",
       "fecha": "Wed, 26 Aug 2026 22:49:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "FMI aprueba nueva línea de crédito flexible con Chile por hasta US$ 11.800 millones",
-      "link": "http://www.df.cl/economia-y-politica/macro/fmi-aprueba-nueva-linea-de-credito-flexible-con-chile-por-hasta-us-11-800",
-      "fecha": "Wed, 26 Aug 2026 23:35:30 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -71,18 +71,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-presento-nuevas-monedas-de-10-y-50-tienen-un-peso-mas/2026-08-26/123142.html",
       "fecha": "Wed, 26 Aug 2026 12:31:42 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "\"Fraguando Lab\": La alianza de Melón y ChileGlobal Ventures que impulsa la innovación en la construcción",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/fraguando-lab-la-alianza-de-melon-y-chileglobal-ventures-que-impulsa/2026-08-21/165534.html",
-      "fecha": "Fri, 21 Aug 2026 16:55:34 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Secuestro a matrimonio: Delincuentes roban vivienda en Quillón y trasladan a víctimas a Concepción",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/27/secuestro-a-matrimonio-delincuentes-roban-vivienda-en-quillon-y-trasladan-a-victimas-a-concepcion.shtml",
-      "fecha": "Thu, 27 Aug 2026 18:35:16 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -254,6 +242,10 @@
       {
         "fecha": "2026-08-27",
         "valor": 40868.5
+      },
+      {
+        "fecha": "2026-08-28",
+        "valor": 40868.5
       }
     ],
     "dolar": [
@@ -423,6 +415,10 @@
       },
       {
         "fecha": "2026-08-27",
+        "valor": 918.42
+      },
+      {
+        "fecha": "2026-08-28",
         "valor": 918.42
       }
     ],
@@ -594,6 +590,10 @@
       {
         "fecha": "2026-08-27",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-28",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -760,16 +760,20 @@
       {
         "fecha": "2026-08-27",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-28",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.77,
-    "score": 1.805,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.885,
     "modo": "zscore",
-    "valor_actual": 918.42,
-    "fecha": "2026-08-27"
+    "valor_actual": 40868.5,
+    "fecha": "2026-08-28"
   }
 }
