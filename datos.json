@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-28T20:47:19.591827+00:00",
+  "generado": "2026-08-29T02:37:15.196034+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "La decisión de Costa: los escenarios que se abren para la presidencia del Banco Central",
+      "link": "http://www.df.cl/senal-df/factor-economico/la-decision-de-costa-los-escenarios-que-se-abren-para-la-presidencia-del",
+      "fecha": "Sat, 29 Aug 2026 00:51:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "IPSA revierte alza inicial y no logra cerrar sobre 11.500 puntos tras declaraciones de Warsh que hacen prever un próximo aumento de tasas en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yd58p",
-      "fecha": "Fri, 28 Aug 2026 20:42:58 GMT",
+      "fecha": "Fri, 28 Aug 2026 20:49:14 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,34 +61,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las cinco acciones chilenas más expuestas al alza de las tasas largas",
-      "link": "http://www.df.cl/senal-df/senales-financieras/las-cinco-acciones-chilenas-mas-expuestas-al-alza-de-las-tasas-largas",
-      "fecha": "Fri, 28 Aug 2026 18:52:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Warsh afirma que la Fed tiene “trabajo por hacer” si persiste la inflación y el mercado eleva sus apuestas por un alza de tasas",
-      "link": "http://www.df.cl/internacional/economia/warsh-afirma-que-la-fed-tiene-trabajo-por-hacer-si-la-elevada-inflacion",
-      "fecha": "Fri, 28 Aug 2026 17:20:26 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "CEO de Andes Iron anuncia que Minera Dominga inició ya su construcción tras 13 años de trámites",
-      "link": "http://www.df.cl/empresas/mineria/ceo-de-andes-iron-anuncia-que-minera-dominga-inicio-ya-su-construccion-tras",
-      "fecha": "Fri, 28 Aug 2026 15:41:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Quiroz anuncia que la ley de reconstrucción se promulgará en la primera quincena de septiembre y no ve necesario bajar la tasa de interés para crecer 3,5% en 2027",
-      "link": "http://www.df.cl/economia-y-politica/macro/quiroz-anuncia-que-la-ley-de-reconstruccion-se-promulgara-en-primera",
-      "fecha": "Fri, 28 Aug 2026 15:20:55 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La tasa de desocupación nacional sube a 9,5% en mayo-julio en un nuevo máximo en cinco años y el tiempo promedio sin empleo aumenta a 8,1 meses",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/la-tasa-de-desocupacion-nacional-sube-a-9-5-en-el-trimestre-mayo-julio-y",
-      "fecha": "Fri, 28 Aug 2026 14:56:27 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "\"Gata Feria\": Seis años transformando las calles de Providencia en vitrinas de manufactura nacional",
+      "link": "https://www.cooperativa.cl/noticias/economia/pymes/gata-feria-seis-anos-transformando-las-calles-de-providencia-en/2026-08-28/162849.html",
+      "fecha": "Fri, 28 Aug 2026 16:28:49 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Oficialismo apunta al sector construcción como factor clave para reactivar el empleo",
@@ -101,6 +83,24 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tras-anuncio-de-cambios-del-banco-central-cuanto-usan-los-chilenos-las/2026-08-26/175142.html",
       "fecha": "Wed, 26 Aug 2026 17:51:42 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "CChC propone crear cuenta enfocada en ahorro del pie para la primera vivienda",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/cchc-propone-crear-cuenta-enfocada-en-ahorro-del-pie-para-la-primera/2026-08-26/151047.html",
+      "fecha": "Wed, 26 Aug 2026 15:10:47 -0400",
+      "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Banco Central presentó nuevas monedas de $10 y $50: Tienen un peso más ligero",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-presento-nuevas-monedas-de-10-y-50-tienen-un-peso-mas/2026-08-26/123142.html",
+      "fecha": "Wed, 26 Aug 2026 12:31:42 -0400",
+      "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "ICE implementaría perros robots para redadas en EEUU: inversión sería de 2 millones de dólares",
+      "link": "https://www.biobiochile.cl/noticias/internacional/eeuu/2026/08/28/ice-implementaria-perros-robots-para-redadas-en-eeuu-inversion-seria-de-2-millones-de-dolares.shtml",
+      "fecha": "Fri, 28 Aug 2026 23:30:33 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -276,6 +276,10 @@
       {
         "fecha": "2026-08-28",
         "valor": 40869.82
+      },
+      {
+        "fecha": "2026-08-29",
+        "valor": 40869.82
       }
     ],
     "dolar": [
@@ -449,6 +453,10 @@
       },
       {
         "fecha": "2026-08-28",
+        "valor": 925.25
+      },
+      {
+        "fecha": "2026-08-29",
         "valor": 925.25
       }
     ],
@@ -624,6 +632,10 @@
       {
         "fecha": "2026-08-28",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-29",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -794,16 +806,20 @@
       {
         "fecha": "2026-08-28",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-29",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.74,
-    "score": 1.665,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.909,
     "modo": "zscore",
-    "valor_actual": 925.25,
-    "fecha": "2026-08-28"
+    "valor_actual": 40869.82,
+    "fecha": "2026-08-29"
   }
 }
