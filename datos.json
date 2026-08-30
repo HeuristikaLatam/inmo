@@ -1,11 +1,11 @@
 {
-  "generado": "2026-08-29T22:55:53.280492+00:00",
+  "generado": "2026-08-30T13:26:11.079744+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40871.14,
-      "fecha": "2026-08-29T04:00:00.000Z"
+      "valor": 40872.45,
+      "fecha": "2026-08-30T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,10 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "\"Liviandad\", atenta contra \"derecho de propiedad\" e \"inconstitucional\": las razones de las empresas de servicios básicos para insistir ante el TC por norma que obliga a recolectar a morosos",
-      "link": "http://www.df.cl/empresas/energia/liviandad-atenta-contra-derecho-de-propiedad-e-inconstitucional-las",
-      "fecha": "Fri, 28 Aug 2026 17:24:57 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "El 70% de los jóvenes en Argentina sufre desempleo, informalidad o inactividad laboral",
+      "link": "https://www.cooperativa.cl/noticias/mundo/argentina/economia/el-70-de-los-jovenes-en-argentina-sufre-desempleo-informalidad-o/2026-08-29/171448.html",
+      "fecha": "Sat, 29 Aug 2026 17:14:48 -0400",
+      "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Delcy Rodríguez: Acuerdo con EE.UU. durará 25 años y Venezuela conservará la propiedad del petróleo",
+      "link": "https://www.cooperativa.cl/noticias/mundo/venezuela/relaciones-exteriores/delcy-rodriguez-acuerdo-con-ee-uu-durara-25-anos-y-venezuela/2026-08-30/002221.html",
+      "fecha": "Sun, 30 Aug 2026 00:22:21 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "\"Gata Feria\": Seis años transformando las calles de Providencia en vitrinas de manufactura nacional",
@@ -77,30 +83,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/fmi-aprobo-linea-de-credito-flexible-para-chile-por-11-800-millones-de/2026-08-26/202655.html",
       "fecha": "Wed, 26 Aug 2026 20:26:55 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Tras anuncio de cambios del Banco Central: ¿Cuánto usan los chilenos las monedas?",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tras-anuncio-de-cambios-del-banco-central-cuanto-usan-los-chilenos-las/2026-08-26/175142.html",
-      "fecha": "Wed, 26 Aug 2026 17:51:42 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "CChC propone crear cuenta enfocada en ahorro del pie para la primera vivienda",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/cchc-propone-crear-cuenta-enfocada-en-ahorro-del-pie-para-la-primera/2026-08-26/151047.html",
-      "fecha": "Wed, 26 Aug 2026 15:10:47 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Banco Central presentó nuevas monedas de $10 y $50: Tienen un peso más ligero",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/banco-central-presento-nuevas-monedas-de-10-y-50-tienen-un-peso-mas/2026-08-26/123142.html",
-      "fecha": "Wed, 26 Aug 2026 12:31:42 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Hacienda descarta baja de tasas y apuesta a la inversión privada para reactivar la economía",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/08/29/hacienda-descarta-baja-de-tasas-y-apuesta-a-la-inversion-privada-para-reactivar-la-economia.shtml",
-      "fecha": "Sat, 29 Aug 2026 20:54:23 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -280,6 +262,10 @@
       {
         "fecha": "2026-08-29",
         "valor": 40871.14
+      },
+      {
+        "fecha": "2026-08-30",
+        "valor": 40872.45
       }
     ],
     "dolar": [
@@ -457,6 +443,10 @@
       },
       {
         "fecha": "2026-08-29",
+        "valor": 925.25
+      },
+      {
+        "fecha": "2026-08-30",
         "valor": 925.25
       }
     ],
@@ -636,6 +626,10 @@
       {
         "fecha": "2026-08-29",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-30",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -810,6 +804,10 @@
       {
         "fecha": "2026-08-29",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-30",
+        "valor": 4.3
       }
     ]
   },
@@ -817,9 +815,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.104,
+    "score": 1.06,
     "modo": "zscore",
-    "valor_actual": 40871.14,
-    "fecha": "2026-08-29"
+    "valor_actual": 40872.45,
+    "fecha": "2026-08-30"
   }
 }
