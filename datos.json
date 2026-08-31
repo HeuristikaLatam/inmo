@@ -1,23 +1,23 @@
 {
-  "generado": "2026-08-30T23:01:39.584490+00:00",
+  "generado": "2026-08-31T15:43:15.336192+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40872.45,
-      "fecha": "2026-08-30T04:00:00.000Z"
+      "valor": 40873.77,
+      "fecha": "2026-08-31T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 925.25,
-      "fecha": "2026-08-28T04:00:00.000Z"
+      "valor": 929.18,
+      "fecha": "2026-08-31T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-28T04:00:00.000Z"
+      "fecha": "2026-08-31T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,28 +31,40 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar supera los $ 935 a medida que el repunte de la violencia en Medio Oriente impulsa los precios del petróleo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wdutw",
+      "fecha": "Mon, 31 Aug 2026 14:17:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "¿Se confirma un julio flojo para la economía chilena? Producción minera, manufactura y comercio cayeron en el mes",
+      "link": "http://www.df.cl/economia-y-politica/macro/se-confirma-un-julio-flojo-para-la-economia-chilena-produccion-minera",
+      "fecha": "Mon, 31 Aug 2026 14:00:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Confianza de los consumidores sufre fuerte caída en agosto y Chile acusa el peor resultado de América Latina",
+      "link": "http://www.df.cl/economia-y-politica/macro/confianza-de-los-consumidores-sufre-fuerte-caida-en-agosto-y-chile-acusa-el",
+      "fecha": "Fri, 28 Aug 2026 23:28:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Aseguradoras de vida amplían financiamiento inmobiliario para compras de family offices",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/aseguradoras-de-vida-amplian-financiamiento-inmobiliario-para-compras-de",
+      "fecha": "Mon, 31 Aug 2026 14:14:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "La decisión de Costa: los escenarios que se abren para la presidencia del Banco Central",
       "link": "http://www.df.cl/senal-df/factor-economico/la-decision-de-costa-los-escenarios-que-se-abren-para-la-presidencia-del",
       "fecha": "Sat, 29 Aug 2026 00:51:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IPSA revierte alza inicial y no logra cerrar sobre 11.500 puntos tras declaraciones de Warsh que hacen prever un próximo aumento de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-yd58p",
-      "fecha": "Fri, 28 Aug 2026 20:49:14 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar supera los $ 930 y cierra en máximos de un mes tras postura restrictiva de Warsh en su discurso desde Jackson Hole",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-9ea9y",
-      "fecha": "Fri, 28 Aug 2026 20:09:56 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La revitalización inmobiliaria “selectiva” que vive el centro de Santiago",
-      "link": "http://www.df.cl/senal-df/el-deal/la-revitalizacion-inmobiliaria-selectiva-que-vive-el-centro-de-santiago",
-      "fecha": "Fri, 28 Aug 2026 19:56:10 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Quiroz aseguró que reforma al mercado de capitales tiene foco en acceso a la vivienda",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/quiroz-aseguro-que-reforma-al-mercado-de-capitales-tiene-foco-en-acceso/2026-08-30/203834.html",
+      "fecha": "Sun, 30 Aug 2026 20:38:34 -0400",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "El 70% de los jóvenes en Argentina sufre desempleo, informalidad o inactividad laboral",
@@ -65,24 +77,6 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/venezuela/relaciones-exteriores/delcy-rodriguez-acuerdo-con-ee-uu-durara-25-anos-y-venezuela/2026-08-30/002221.html",
       "fecha": "Sun, 30 Aug 2026 00:22:21 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "\"Gata Feria\": Seis años transformando las calles de Providencia en vitrinas de manufactura nacional",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/gata-feria-seis-anos-transformando-las-calles-de-providencia-en/2026-08-28/162849.html",
-      "fecha": "Fri, 28 Aug 2026 16:28:49 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Oficialismo apunta al sector construcción como factor clave para reactivar el empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/oficialismo-apunta-al-sector-construccion-como-factor-clave-para/2026-08-28/113058.html",
-      "fecha": "Fri, 28 Aug 2026 11:30:58 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Vagón quedó a metros de viviendas: Tren de Fepasa descarrila en sector Colcura de Lota",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/08/30/vagon-quedo-a-metros-de-viviendas-tren-de-fepasa-descarrila-en-sector-colcura-de-lota.shtml",
-      "fecha": "Sun, 30 Aug 2026 18:44:27 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -266,6 +260,10 @@
       {
         "fecha": "2026-08-30",
         "valor": 40872.45
+      },
+      {
+        "fecha": "2026-08-31",
+        "valor": 40873.77
       }
     ],
     "dolar": [
@@ -448,6 +446,10 @@
       {
         "fecha": "2026-08-30",
         "valor": 925.25
+      },
+      {
+        "fecha": "2026-08-31",
+        "valor": 929.18
       }
     ],
     "tpm": [
@@ -630,6 +632,10 @@
       {
         "fecha": "2026-08-30",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-08-31",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -808,6 +814,10 @@
       {
         "fecha": "2026-08-30",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-08-31",
+        "valor": 4.3
       }
     ]
   },
@@ -815,9 +825,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.06,
+    "score": 1.05,
     "modo": "zscore",
-    "valor_actual": 40872.45,
-    "fecha": "2026-08-30"
+    "valor_actual": 40873.77,
+    "fecha": "2026-08-31"
   }
 }
