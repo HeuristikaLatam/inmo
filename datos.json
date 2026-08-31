@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T15:43:15.336192+00:00",
+  "generado": "2026-08-31T16:57:02.199269+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Reducir la inflación desde 14% y defender la autonomía ante los cambios constitucionales: el balance de los economistas jefes de los cinco años de la presidencia de Costa en el Banco Central",
+      "link": "http://www.df.cl/economia-y-politica/macro/reducir-la-inflacion-desde-14-y-defender-la-autonomia-ante-los-cambios",
+      "fecha": "Mon, 31 Aug 2026 16:50:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar supera los $ 935 a medida que el repunte de la violencia en Medio Oriente impulsa los precios del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wdutw",
       "fecha": "Mon, 31 Aug 2026 14:17:20 GMT",
@@ -52,12 +58,6 @@
       "titulo": "Aseguradoras de vida amplían financiamiento inmobiliario para compras de family offices",
       "link": "http://www.df.cl/mercados/bolsa-monedas/aseguradoras-de-vida-amplian-financiamiento-inmobiliario-para-compras-de",
       "fecha": "Mon, 31 Aug 2026 14:14:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La decisión de Costa: los escenarios que se abren para la presidencia del Banco Central",
-      "link": "http://www.df.cl/senal-df/factor-economico/la-decision-de-costa-los-escenarios-que-se-abren-para-la-presidencia-del",
-      "fecha": "Sat, 29 Aug 2026 00:51:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
