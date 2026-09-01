@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-01T12:54:23.621095+00:00",
+  "generado": "2026-09-01T14:03:13.929983+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre al alza en $ 940 tras un negativo Imacec de julio y el sostenido aumento de las tasas de interés globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
-      "fecha": "Tue, 01 Sep 2026 12:51:26 GMT",
+      "titulo": "Tasas largas de Reino Unido y Japón escalan a máximos de casi tres décadas ante temores inflacionarios",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/tasas-largas-de-reino-unido-y-japon-escalan-a-maximos-de-casi-tres-decadas",
+      "fecha": "Tue, 01 Sep 2026 13:31:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Inflación de la zona euro llega a 3,3% y refuerza expectativa de alza de tasas del BCE",
       "link": "http://www.df.cl/internacional/economia/inflacion-de-la-zona-euro-llega-a-3-3-y-refuerza-expectativa-de-alza-de",
-      "fecha": "Tue, 01 Sep 2026 12:42:03 GMT",
+      "fecha": "Tue, 01 Sep 2026 13:07:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre al alza en $ 940 tras un negativo Imacec de julio y el sostenido aumento de las tasas de interés globales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
+      "fecha": "Tue, 01 Sep 2026 13:50:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Imacec sufre en julio su mayor descenso en más de tres años tras fuerte caída de la minería",
       "link": "http://www.df.cl/economia-y-politica/macro/actividad-vuelve-a-caer-en-julio-y-marca-retroceso-de-1-5",
-      "fecha": "Tue, 01 Sep 2026 12:53:46 GMT",
+      "fecha": "Tue, 01 Sep 2026 13:05:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -76,12 +82,6 @@
       "titulo": "Necdot, firma chilena que comercializa propiedades en Miami, expande rondas de negocio al norte de Chile y apunta a altos ejecutivos mineros",
       "link": "http://www.df.cl/regiones/antofagasta/altos-ejecutivos-mineros-el-nuevo-objetivo-de-firma-chilena-que",
       "fecha": "Mon, 31 Aug 2026 21:26:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reducir la inflación desde 14% y defender la autonomía ante los cambios constitucionales: el balance de los economistas jefes de los cinco años de la presidencia de Costa en el Banco Central",
-      "link": "http://www.df.cl/economia-y-politica/macro/reducir-la-inflacion-desde-14-y-defender-la-autonomia-ante-los-cambios",
-      "fecha": "Mon, 31 Aug 2026 23:12:37 GMT",
       "fuente": "Diario Financiero"
     },
     {
