@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-01T00:14:28.402476+00:00",
+  "generado": "2026-09-01T12:54:23.621095+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40873.77,
-      "fecha": "2026-08-31T04:00:00.000Z"
+      "valor": 40875.09,
+      "fecha": "2026-09-01T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 929.18,
-      "fecha": "2026-08-31T04:00:00.000Z"
+      "valor": 933.4,
+      "fecha": "2026-09-01T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-08-31T04:00:00.000Z"
+      "fecha": "2026-09-01T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,42 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Dólar abre al alza en $ 940 tras un negativo Imacec de julio y el sostenido aumento de las tasas de interés globales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
+      "fecha": "Tue, 01 Sep 2026 12:51:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Inflación de la zona euro llega a 3,3% y refuerza expectativa de alza de tasas del BCE",
+      "link": "http://www.df.cl/internacional/economia/inflacion-de-la-zona-euro-llega-a-3-3-y-refuerza-expectativa-de-alza-de",
+      "fecha": "Tue, 01 Sep 2026 12:42:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Imacec sufre en julio su mayor descenso en más de tres años tras fuerte caída de la minería",
+      "link": "http://www.df.cl/economia-y-politica/macro/actividad-vuelve-a-caer-en-julio-y-marca-retroceso-de-1-5",
+      "fecha": "Tue, 01 Sep 2026 12:53:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Tasas globales suben a máximos en décadas y golpean a las acciones",
+      "link": "http://www.df.cl/primer-click/tasas-globales-suben-a-maximos-en-decadas-y-golpean-a-las-acciones",
+      "fecha": "Tue, 01 Sep 2026 11:54:28 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno sale a vender propiedades y partirá por las que llegaron al Fisco por herencias vacantes",
+      "link": "http://www.df.cl/empresas/industria/gobierno-sale-a-vender-propiedades-y-partira-por-las-que-llegaron-al-fisco",
+      "fecha": "Tue, 01 Sep 2026 00:54:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Reforma al mercado de capitales creará fondo de recompra de carteras hipotecarias para reducir las tasas",
+      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-creara-fondo-de-recompra-de-carteras",
+      "fecha": "Tue, 01 Sep 2026 00:25:54 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar cierra al alza por quinta sesión y gana terreno sobre $ 930 tras el repunte de la violencia en Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wdutw",
@@ -49,18 +85,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿Se confirma un julio flojo para la economía chilena? Producción minera, manufactura y comercio cayeron en el mes",
-      "link": "http://www.df.cl/economia-y-politica/macro/se-confirma-un-julio-flojo-para-la-economia-chilena-produccion-minera",
-      "fecha": "Mon, 31 Aug 2026 14:00:26 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Confianza de los consumidores sufre fuerte caída en agosto y Chile acusa el peor resultado de América Latina",
-      "link": "http://www.df.cl/economia-y-politica/macro/confianza-de-los-consumidores-sufre-fuerte-caida-en-agosto-y-chile-acusa-el",
-      "fecha": "Fri, 28 Aug 2026 23:28:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
       "fecha": "Mon, 31 Aug 2026 14:34:34 -0400",
@@ -76,12 +100,6 @@
       "titulo": "El 70% de los jóvenes en Argentina sufre desempleo, informalidad o inactividad laboral",
       "link": "https://www.cooperativa.cl/noticias/mundo/argentina/economia/el-70-de-los-jovenes-en-argentina-sufre-desempleo-informalidad-o/2026-08-29/171448.html",
       "fecha": "Sat, 29 Aug 2026 17:14:48 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Delcy Rodríguez: Acuerdo con EE.UU. durará 25 años y Venezuela conservará la propiedad del petróleo",
-      "link": "https://www.cooperativa.cl/noticias/mundo/venezuela/relaciones-exteriores/delcy-rodriguez-acuerdo-con-ee-uu-durara-25-anos-y-venezuela/2026-08-30/002221.html",
-      "fecha": "Sun, 30 Aug 2026 00:22:21 -0400",
       "fuente": "Cooperativa"
     }
   ],
@@ -273,7 +291,7 @@
       },
       {
         "fecha": "2026-09-01",
-        "valor": 40873.77
+        "valor": 40875.09
       }
     ],
     "dolar": [
@@ -463,7 +481,7 @@
       },
       {
         "fecha": "2026-09-01",
-        "valor": 929.18
+        "valor": 933.4
       }
     ],
     "tpm": [
@@ -847,9 +865,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.978,
+    "score": 1.026,
     "modo": "zscore",
-    "valor_actual": 40873.77,
+    "valor_actual": 40875.09,
     "fecha": "2026-09-01"
   }
 }
