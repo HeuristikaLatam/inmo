@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-01T14:03:13.929983+00:00",
+  "generado": "2026-09-01T22:12:59.377715+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,36 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra al alza por sexta jornada y se acerca a $ 940 mientras se extiende la nueva ola de violencia en el estrecho de Ormuz",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
+      "fecha": "Tue, 01 Sep 2026 20:13:09 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Reforma al mercado de capitales: BancoEstado administrará el fondo de recompra de carteras hipotecarias",
+      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-bancoestado-administrara-el-fondo-de",
+      "fecha": "Tue, 01 Sep 2026 20:08:06 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Colliers estima que medidas con foco en vivienda del gobierno podrían reducir hasta 35% los dividendos",
+      "link": "http://www.df.cl/mercados/banca-fintech/colliers-estima-que-medidas-con-foco-en-vivienda-del-gobierno-podrian",
+      "fecha": "Tue, 01 Sep 2026 19:29:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Reforma al MK: la experiencia de Estados Unidos que mira Hacienda para su nuevo fondo hipotecario",
+      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mk-la-experiencia-de-estados-unidos-que-mira-hacienda-para-su",
+      "fecha": "Tue, 01 Sep 2026 19:14:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Directora ejecutiva de inmobiliaria Imagina, Carolina Büchi: “Las medidas del gobierno fueron un tratamiento de shock muy efectivo, pero aún faltan cambios estructurales”",
+      "link": "http://www.df.cl/empresas/construccion/directora-ejecutiva-de-inmobiliaria-imagina-carolina-buchi-las-medidas",
+      "fecha": "Tue, 01 Sep 2026 22:01:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Tasas largas de Reino Unido y Japón escalan a máximos de casi tres décadas ante temores inflacionarios",
       "link": "http://www.df.cl/mercados/bolsa-monedas/tasas-largas-de-reino-unido-y-japon-escalan-a-maximos-de-casi-tres-decadas",
       "fecha": "Tue, 01 Sep 2026 13:31:32 GMT",
@@ -40,12 +70,6 @@
       "titulo": "Inflación de la zona euro llega a 3,3% y refuerza expectativa de alza de tasas del BCE",
       "link": "http://www.df.cl/internacional/economia/inflacion-de-la-zona-euro-llega-a-3-3-y-refuerza-expectativa-de-alza-de",
       "fecha": "Tue, 01 Sep 2026 13:07:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar abre al alza en $ 940 tras un negativo Imacec de julio y el sostenido aumento de las tasas de interés globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
-      "fecha": "Tue, 01 Sep 2026 13:50:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,30 +85,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gobierno sale a vender propiedades y partirá por las que llegaron al Fisco por herencias vacantes",
-      "link": "http://www.df.cl/empresas/industria/gobierno-sale-a-vender-propiedades-y-partira-por-las-que-llegaron-al-fisco",
-      "fecha": "Tue, 01 Sep 2026 00:54:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reforma al mercado de capitales creará fondo de recompra de carteras hipotecarias para reducir las tasas",
-      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-creara-fondo-de-recompra-de-carteras",
-      "fecha": "Tue, 01 Sep 2026 00:25:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza por quinta sesión y gana terreno sobre $ 930 tras el repunte de la violencia en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-wdutw",
-      "fecha": "Mon, 31 Aug 2026 20:17:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Necdot, firma chilena que comercializa propiedades en Miami, expande rondas de negocio al norte de Chile y apunta a altos ejecutivos mineros",
-      "link": "http://www.df.cl/regiones/antofagasta/altos-ejecutivos-mineros-el-nuevo-objetivo-de-firma-chilena-que",
-      "fecha": "Mon, 31 Aug 2026 21:26:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
       "fecha": "Mon, 31 Aug 2026 14:34:34 -0400",
@@ -94,12 +94,6 @@
       "titulo": "Quiroz aseguró que reforma al mercado de capitales tiene foco en acceso a la vivienda",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/quiroz-aseguro-que-reforma-al-mercado-de-capitales-tiene-foco-en-acceso/2026-08-30/203834.html",
       "fecha": "Sun, 30 Aug 2026 20:38:34 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El 70% de los jóvenes en Argentina sufre desempleo, informalidad o inactividad laboral",
-      "link": "https://www.cooperativa.cl/noticias/mundo/argentina/economia/el-70-de-los-jovenes-en-argentina-sufre-desempleo-informalidad-o/2026-08-29/171448.html",
-      "fecha": "Sat, 29 Aug 2026 17:14:48 -0400",
       "fuente": "Cooperativa"
     }
   ],
