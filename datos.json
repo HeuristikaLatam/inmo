@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-02T13:29:21.000615+00:00",
+  "generado": "2026-09-02T22:13:04.049179+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -20,56 +20,18 @@
       "fecha": "2026-09-02T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": {
-    "nombre": "Tasa hipotecaria promedio (TIP)",
-    "unidad": "Porcentaje",
-    "valor": 4.3,
-    "fecha": "2026-08-14",
-    "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.3
-    }
-  },
+  "tasa_hipotecaria": null,
   "titulares": [
     {
-      "titulo": "Dólar abre con leve caída y el petróleo frena su escalada mientras operadores evalúan la situación comercial en Medio Oriente",
+      "titulo": "Presidente Kast reajusta sueldos de consejeros del Banco Central",
+      "link": "http://www.df.cl/economia-y-politica/pais/kast-reajusta-sueldos-de-consejeros-del-banco-central-presidenta-ganara",
+      "fecha": "Wed, 02 Sep 2026 21:40:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra próximo a $ 940 una séptima jornada al alza con la vista puesta en el estrecho de Ormuz",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lp7aw",
-      "fecha": "Wed, 02 Sep 2026 12:58:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Hacienda aclara punto clave de la invariabilidad tributaria: contratos incluirán gradualidad de baja de tasa corporativa",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/hacienda-aclara-punto-clave-de-la-invariabilidad-tributaria-contratos",
-      "fecha": "Tue, 01 Sep 2026 23:08:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reforma al mercado de capitales: BancoEstado administrará el fondo de recompra de carteras hipotecarias",
-      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-bancoestado-administrara-el-fondo-de",
-      "fecha": "Tue, 01 Sep 2026 23:22:58 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza por sexta jornada y se acerca a $ 940 mientras se extiende la nueva ola de violencia en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
-      "fecha": "Tue, 01 Sep 2026 20:13:09 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Colliers estima que medidas con foco en vivienda del gobierno podrían reducir hasta 35% los dividendos",
-      "link": "http://www.df.cl/mercados/banca-fintech/colliers-estima-que-medidas-con-foco-en-vivienda-del-gobierno-podrian",
-      "fecha": "Tue, 01 Sep 2026 19:29:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reforma al MK: la experiencia de Estados Unidos que mira Hacienda para su nuevo fondo hipotecario",
-      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mk-la-experiencia-de-estados-unidos-que-mira-hacienda-para-su",
-      "fecha": "Tue, 01 Sep 2026 19:14:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Directora ejecutiva de inmobiliaria Imagina, Carolina Büchi: “Las medidas del gobierno fueron un tratamiento de shock muy efectivo, pero aún faltan cambios estructurales”",
-      "link": "http://www.df.cl/empresas/construccion/directora-ejecutiva-de-inmobiliaria-imagina-carolina-buchi-las-medidas",
-      "fecha": "Tue, 01 Sep 2026 22:13:22 GMT",
+      "fecha": "Wed, 02 Sep 2026 20:23:55 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -83,6 +45,18 @@
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/quiroz-aseguro-que-reforma-al-mercado-de-capitales-tiene-foco-en-acceso/2026-08-30/203834.html",
       "fecha": "Sun, 30 Aug 2026 20:38:34 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Inicia demolición de 220 viviendas en desalojado Cerro Chuño de Arica",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-arica-y-parinacota/2026/09/02/inicia-demolicion-de-220-viviendas-en-desalojado-cerro-chuno-de-arica.shtml",
+      "fecha": "Wed, 02 Sep 2026 21:47:15 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Despidos por necesidades de la empresa retoman las caídas al cierre del primer semestre",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/despidos-por-necesidades-de-la-empresa-caen-2-1-en-junio",
+      "fecha": "Wed, 02 Sep 2026 22:11:40 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
