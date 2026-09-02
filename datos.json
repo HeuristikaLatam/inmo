@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-01T22:54:28.949335+00:00",
+  "generado": "2026-09-02T12:24:59.184404+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40875.09,
-      "fecha": "2026-09-01T04:00:00.000Z"
+      "valor": 40876.41,
+      "fecha": "2026-09-02T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 933.4,
-      "fecha": "2026-09-01T04:00:00.000Z"
+      "valor": 936.86,
+      "fecha": "2026-09-02T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-01T04:00:00.000Z"
+      "fecha": "2026-09-02T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra al alza por sexta jornada y se acerca a $ 940 mientras se extiende la nueva ola de violencia en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
-      "fecha": "Tue, 01 Sep 2026 20:13:09 GMT",
+      "titulo": "Hacienda aclara punto clave de la invariabilidad tributaria: contratos incluirán gradualidad de baja de tasa corporativa",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/hacienda-aclara-punto-clave-de-la-invariabilidad-tributaria-contratos",
+      "fecha": "Tue, 01 Sep 2026 23:08:03 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Reforma al mercado de capitales: BancoEstado administrará el fondo de recompra de carteras hipotecarias",
       "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-bancoestado-administrara-el-fondo-de",
-      "fecha": "Tue, 01 Sep 2026 20:08:06 GMT",
+      "fecha": "Tue, 01 Sep 2026 23:22:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra al alza por sexta jornada y se acerca a $ 940 mientras se extiende la nueva ola de violencia en el estrecho de Ormuz",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3w46m",
+      "fecha": "Tue, 01 Sep 2026 20:13:09 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,30 +67,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Tasas largas de Reino Unido y Japón escalan a máximos de casi tres décadas ante temores inflacionarios",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/tasas-largas-de-reino-unido-y-japon-escalan-a-maximos-de-casi-tres-decadas",
-      "fecha": "Tue, 01 Sep 2026 13:31:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Inflación de la zona euro llega a 3,3% y refuerza expectativa de alza de tasas del BCE",
-      "link": "http://www.df.cl/internacional/economia/inflacion-de-la-zona-euro-llega-a-3-3-y-refuerza-expectativa-de-alza-de",
-      "fecha": "Tue, 01 Sep 2026 13:07:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Imacec sufre en julio su mayor descenso en más de tres años tras fuerte caída de la minería",
-      "link": "http://www.df.cl/economia-y-politica/macro/actividad-vuelve-a-caer-en-julio-y-marca-retroceso-de-1-5",
-      "fecha": "Tue, 01 Sep 2026 13:05:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tasas globales suben a máximos en décadas y golpean a las acciones",
-      "link": "http://www.df.cl/primer-click/tasas-globales-suben-a-maximos-en-decadas-y-golpean-a-las-acciones",
-      "fecha": "Tue, 01 Sep 2026 11:54:28 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
       "fecha": "Mon, 31 Aug 2026 14:34:34 -0400",
@@ -95,12 +77,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/quiroz-aseguro-que-reforma-al-mercado-de-capitales-tiene-foco-en-acceso/2026-08-30/203834.html",
       "fecha": "Sun, 30 Aug 2026 20:38:34 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Conserje sufre brutal golpiza al intentar impedir robo en Vitacura: fue despedido tras licencia",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/01/conserje-sufre-brutal-golpiza-al-intentar-impedir-robo-en-vitacura-fue-despedido-tras-licencia.shtml",
-      "fecha": "Tue, 01 Sep 2026 22:15:25 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -292,6 +268,10 @@
       {
         "fecha": "2026-09-01",
         "valor": 40875.09
+      },
+      {
+        "fecha": "2026-09-02",
+        "valor": 40876.41
       }
     ],
     "dolar": [
@@ -482,6 +462,10 @@
       {
         "fecha": "2026-09-01",
         "valor": 933.4
+      },
+      {
+        "fecha": "2026-09-02",
+        "valor": 936.86
       }
     ],
     "tpm": [
@@ -672,6 +656,10 @@
       {
         "fecha": "2026-09-01",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-02",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -858,6 +846,10 @@
       {
         "fecha": "2026-09-01",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-02",
+        "valor": 4.3
       }
     ]
   },
@@ -865,9 +857,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.026,
+    "score": 1.003,
     "modo": "zscore",
-    "valor_actual": 40875.09,
-    "fecha": "2026-09-01"
+    "valor_actual": 40876.41,
+    "fecha": "2026-09-02"
   }
 }
