@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-02T22:54:57.317070+00:00",
+  "generado": "2026-09-03T12:23:31.923582+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40876.41,
-      "fecha": "2026-09-02T04:00:00.000Z"
+      "valor": 40877.73,
+      "fecha": "2026-09-03T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 936.86,
-      "fecha": "2026-09-02T04:00:00.000Z"
+      "valor": 936.32,
+      "fecha": "2026-09-03T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-02T04:00:00.000Z"
+      "fecha": "2026-09-03T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "Vanesa Lanciotti, socia líder de Tax & Legal de Deloitte y nuevo crédito fiscal para empresas tecnológicas: \"Se está incentivando la exportación de estos servicios desde Chile\"",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-vanesa-lanciotti-socia-lider-de-tax-legal-de",
+      "fecha": "Thu, 03 Sep 2026 00:03:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Presidente Kast reajusta sueldos de consejeros del Banco Central",
       "link": "http://www.df.cl/economia-y-politica/pais/kast-reajusta-sueldos-de-consejeros-del-banco-central-presidenta-ganara",
-      "fecha": "Wed, 02 Sep 2026 21:40:32 GMT",
+      "fecha": "Wed, 02 Sep 2026 23:00:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,28 +49,34 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Industria pesquera calcula pérdidas de 430 millones de dólares anuales por robos",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/pesca/industria-pesquera-calcula-perdidas-de-430-millones-de-dolares-anuales/2026-09-02/233226.html",
+      "fecha": "Wed, 02 Sep 2026 23:32:26 -0400",
+      "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Gremio advierte caída de obras de viviendas sociales: \"No tendremos suficientes para entregar\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/gremio-advierte-caida-de-obras-de-viviendas-sociales-no-tendremos/2026-09-02/175256.html",
+      "fecha": "Wed, 02 Sep 2026 17:52:56 -0400",
+      "fuente": "Cooperativa"
+    },
+    {
       "titulo": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
       "fecha": "Mon, 31 Aug 2026 14:34:34 -0400",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Quiroz aseguró que reforma al mercado de capitales tiene foco en acceso a la vivienda",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/quiroz-aseguro-que-reforma-al-mercado-de-capitales-tiene-foco-en-acceso/2026-08-30/203834.html",
-      "fecha": "Sun, 30 Aug 2026 20:38:34 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Inicia demolición de 220 viviendas en desalojado Cerro Chuño de Arica",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-arica-y-parinacota/2026/09/02/inicia-demolicion-de-220-viviendas-en-desalojado-cerro-chuno-de-arica.shtml",
-      "fecha": "Wed, 02 Sep 2026 21:47:15 +0000",
+      "titulo": "Carlos Palacios volvió con todo en Boca: anotó penal clave en sufrido avance a 4tos de Copa Argentina",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/09/03/carlos-palacios-volvio-con-todo-en-boca-anoto-penal-clave-en-sufrido-avance-a-4tos-de-copa-argentina.shtml",
+      "fecha": "Thu, 03 Sep 2026 11:35:14 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Países Bajos traslada oro desde EEUU a Londres ante la agitación geopolítica",
-      "link": "http://www.df.cl/internacional/economia/paises-bajos-traslada-oro-desde-eeuu-a-londres-ante-la-agitacion",
-      "fecha": "Wed, 02 Sep 2026 22:43:49 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Directivos de ENAP apuntan a \"sistema\" para alterar datos de emisión de azufre en Refinería Aconcagua",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/03/directivos-de-enap-apuntan-a-sistema-para-alterar-datos-de-emision-de-azufre-en-refineria-aconcagua.shtml",
+      "fecha": "Thu, 03 Sep 2026 04:49:46 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -260,6 +272,10 @@
       {
         "fecha": "2026-09-02",
         "valor": 40876.41
+      },
+      {
+        "fecha": "2026-09-03",
+        "valor": 40877.73
       }
     ],
     "dolar": [
@@ -454,6 +470,10 @@
       {
         "fecha": "2026-09-02",
         "valor": 936.86
+      },
+      {
+        "fecha": "2026-09-03",
+        "valor": 936.32
       }
     ],
     "tpm": [
@@ -648,6 +668,10 @@
       {
         "fecha": "2026-09-02",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-03",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -838,6 +862,10 @@
       {
         "fecha": "2026-09-02",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-03",
+        "valor": 4.3
       }
     ]
   },
@@ -845,9 +873,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 1.003,
+    "score": 0.982,
     "modo": "zscore",
-    "valor_actual": 40876.41,
-    "fecha": "2026-09-02"
+    "valor_actual": 40877.73,
+    "fecha": "2026-09-03"
   }
 }
