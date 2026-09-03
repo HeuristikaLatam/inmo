@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-03T12:23:31.923582+00:00",
+  "generado": "2026-09-03T13:27:09.848588+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Dólar abre a la baja mientras la divisa recibe un fuerte golpe por una posible intervención sobre el yen japonés",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rkmbt",
+      "fecha": "Thu, 03 Sep 2026 13:15:22 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Vanesa Lanciotti, socia líder de Tax & Legal de Deloitte y nuevo crédito fiscal para empresas tecnológicas: \"Se está incentivando la exportación de estos servicios desde Chile\"",
       "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-vanesa-lanciotti-socia-lider-de-tax-legal-de",
@@ -70,12 +76,6 @@
       "titulo": "Carlos Palacios volvió con todo en Boca: anotó penal clave en sufrido avance a 4tos de Copa Argentina",
       "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/09/03/carlos-palacios-volvio-con-todo-en-boca-anoto-penal-clave-en-sufrido-avance-a-4tos-de-copa-argentina.shtml",
       "fecha": "Thu, 03 Sep 2026 11:35:14 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Directivos de ENAP apuntan a \"sistema\" para alterar datos de emisión de azufre en Refinería Aconcagua",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/03/directivos-de-enap-apuntan-a-sistema-para-alterar-datos-de-emision-de-azufre-en-refineria-aconcagua.shtml",
-      "fecha": "Thu, 03 Sep 2026 04:49:46 +0000",
       "fuente": "BioBioChile"
     }
   ],
