@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-03T13:27:09.848588+00:00",
+  "generado": "2026-09-03T22:02:13.490649+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,27 +31,45 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre a la baja mientras la divisa recibe un fuerte golpe por una posible intervención sobre el yen japonés",
+      "titulo": "Reforma al mercado de capitales incorporará licitaciones de seguros de desgravamen para créditos de consumo",
+      "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-incorporara-licitaciones-de-seguros-de",
+      "fecha": "Thu, 03 Sep 2026 21:37:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra próximo a los $ 930 tras una fuerte caída que rompe con siete jornadas consecutivas al alza",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rkmbt",
-      "fecha": "Thu, 03 Sep 2026 13:15:22 GMT",
+      "fecha": "Thu, 03 Sep 2026 20:19:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IVA a la vivienda, repatriación de capitales e invariabilidad tributaria: ¿cuándo entran en vigencia las principales normas de la ley de reconstrucción con su promulgación en septiembre?",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/iva-a-la-vivienda-repatriacion-de-capitales-e-invariabilidad-tributaria",
+      "fecha": "Thu, 03 Sep 2026 19:48:13 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La Araucana recauda US$ 87 millones para financiar expansión de créditos sociales gracias a su primer bono corporativo en 12 años",
+      "link": "http://www.df.cl/mercados/renta-fija/la-araucana-recauda-us-87-millones-para-refinanciamiento-y-creditos",
+      "fecha": "Thu, 03 Sep 2026 19:20:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Empresas prevén que el año terminará con una inflación en 4% y acusan que el dólar vuelve a presionar los precios al alza",
+      "link": "http://www.df.cl/economia-y-politica/macro/empresas-preven-que-el-ano-terminara-con-una-inflacion-en-4-y-acusan-que",
+      "fecha": "Thu, 03 Sep 2026 13:58:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Operadores financieros prevén un alza del IPC en 0,3% en agosto y que la tasa de interés se mantendrá hasta finales de año",
+      "link": "http://www.df.cl/economia-y-politica/macro/operadores-financieros-preven-un-alza-del-ipc-en-0-3-en-agosto-y-que-la",
+      "fecha": "Thu, 03 Sep 2026 14:40:51 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Vanesa Lanciotti, socia líder de Tax & Legal de Deloitte y nuevo crédito fiscal para empresas tecnológicas: \"Se está incentivando la exportación de estos servicios desde Chile\"",
       "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-vanesa-lanciotti-socia-lider-de-tax-legal-de",
       "fecha": "Thu, 03 Sep 2026 00:03:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Presidente Kast reajusta sueldos de consejeros del Banco Central",
-      "link": "http://www.df.cl/economia-y-politica/pais/kast-reajusta-sueldos-de-consejeros-del-banco-central-presidenta-ganara",
-      "fecha": "Wed, 02 Sep 2026 23:00:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra próximo a $ 940 una séptima jornada al alza con la vista puesta en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-lp7aw",
-      "fecha": "Wed, 02 Sep 2026 20:23:55 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -65,18 +83,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/gremio-advierte-caida-de-obras-de-viviendas-sociales-no-tendremos/2026-09-02/175256.html",
       "fecha": "Wed, 02 Sep 2026 17:52:56 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Expertos prevén un Imacec de julio negativo, marcado por retroceso en minería y manufactura",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/expertos-preven-un-imacec-de-julio-negativo-marcado-por-retroceso-en/2026-08-31/143434.html",
-      "fecha": "Mon, 31 Aug 2026 14:34:34 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Carlos Palacios volvió con todo en Boca: anotó penal clave en sufrido avance a 4tos de Copa Argentina",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/09/03/carlos-palacios-volvio-con-todo-en-boca-anoto-penal-clave-en-sufrido-avance-a-4tos-de-copa-argentina.shtml",
-      "fecha": "Thu, 03 Sep 2026 11:35:14 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
