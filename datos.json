@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-03T22:54:22.671166+00:00",
+  "generado": "2026-09-04T12:23:24.515110+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40877.73,
-      "fecha": "2026-09-03T04:00:00.000Z"
+      "valor": 40879.04,
+      "fecha": "2026-09-04T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 936.32,
-      "fecha": "2026-09-03T04:00:00.000Z"
+      "valor": 933.47,
+      "fecha": "2026-09-04T04:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-03T04:00:00.000Z"
+      "fecha": "2026-09-04T04:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Una nueva reunión monetaria sin cambios: mercado asume una tasa en 4,5% hasta 2027",
+      "link": "http://www.df.cl/economia-y-politica/macro/una-nueva-reunion-monetaria-sin-cambios-mercado-asume-una-tasa-en-4-5",
+      "fecha": "Fri, 04 Sep 2026 00:16:46 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Reforma al mercado de capitales incorporará licitaciones de seguros de desgravamen para créditos de consumo",
       "link": "http://www.df.cl/mercados/banca-fintech/reforma-al-mercado-de-capitales-incorporara-licitaciones-de-seguros-de",
@@ -55,24 +61,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Empresas prevén que el año terminará con una inflación en 4% y acusan que el dólar vuelve a presionar los precios al alza",
-      "link": "http://www.df.cl/economia-y-politica/macro/empresas-preven-que-el-ano-terminara-con-una-inflacion-en-4-y-acusan-que",
-      "fecha": "Thu, 03 Sep 2026 13:58:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Operadores financieros prevén un alza del IPC en 0,3% en agosto y que la tasa de interés se mantendrá hasta finales de año",
-      "link": "http://www.df.cl/economia-y-politica/macro/operadores-financieros-preven-un-alza-del-ipc-en-0-3-en-agosto-y-que-la",
-      "fecha": "Thu, 03 Sep 2026 14:40:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Vanesa Lanciotti, socia líder de Tax & Legal de Deloitte y nuevo crédito fiscal para empresas tecnológicas: \"Se está incentivando la exportación de estos servicios desde Chile\"",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/la-ruta-tributaria-vanesa-lanciotti-socia-lider-de-tax-legal-de",
-      "fecha": "Thu, 03 Sep 2026 00:03:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Industria pesquera calcula pérdidas de 430 millones de dólares anuales por robos",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/pesca/industria-pesquera-calcula-perdidas-de-430-millones-de-dolares-anuales/2026-09-02/233226.html",
       "fecha": "Wed, 02 Sep 2026 23:32:26 -0400",
@@ -83,6 +71,12 @@
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/gremio-advierte-caida-de-obras-de-viviendas-sociales-no-tendremos/2026-09-02/175256.html",
       "fecha": "Wed, 02 Sep 2026 17:52:56 -0400",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Adulta mayor muere en incendio que destruyó viviendas en Viña del Mar: dejó otros 3 damnificados",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/04/adulta-mayor-muere-en-incendio-que-destruyo-vivienda-en-vina-del-mar-dejo-otros-3-damnificados.shtml",
+      "fecha": "Fri, 04 Sep 2026 11:28:41 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -282,6 +276,10 @@
       {
         "fecha": "2026-09-03",
         "valor": 40877.73
+      },
+      {
+        "fecha": "2026-09-04",
+        "valor": 40879.04
       }
     ],
     "dolar": [
@@ -480,6 +478,10 @@
       {
         "fecha": "2026-09-03",
         "valor": 936.32
+      },
+      {
+        "fecha": "2026-09-04",
+        "valor": 933.47
       }
     ],
     "tpm": [
@@ -678,6 +680,10 @@
       {
         "fecha": "2026-09-03",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-04",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -872,6 +878,10 @@
       {
         "fecha": "2026-09-03",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-04",
+        "valor": 4.3
       }
     ]
   },
@@ -879,9 +889,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.982,
+    "score": 0.947,
     "modo": "zscore",
-    "valor_actual": 40877.73,
-    "fecha": "2026-09-03"
+    "valor_actual": 40879.04,
+    "fecha": "2026-09-04"
   }
 }
