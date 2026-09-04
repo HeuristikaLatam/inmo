@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-04T12:23:24.515110+00:00",
+  "generado": "2026-09-04T13:21:41.453138+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,18 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Sólido empleo en EEUU refuerza las expectativas de un alza de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/solido-empleo-en-eeuu-refuerza-las-expectativas-de-que-la-fed-suba-las",
+      "fecha": "Fri, 04 Sep 2026 13:21:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre al alza sobre $ 935 ya que las nóminas de empleo en EEUU más que duplicaron las expectativas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-w4pat",
+      "fecha": "Fri, 04 Sep 2026 12:50:21 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Una nueva reunión monetaria sin cambios: mercado asume una tasa en 4,5% hasta 2027",
       "link": "http://www.df.cl/economia-y-politica/macro/una-nueva-reunion-monetaria-sin-cambios-mercado-asume-una-tasa-en-4-5",
