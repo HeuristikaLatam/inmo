@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-04T22:39:57.657348+00:00",
+  "generado": "2026-09-05T11:29:56.036031+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40879.04,
-      "fecha": "2026-09-04T04:00:00.000Z"
+      "valor": 40880.36,
+      "fecha": "2026-09-05T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -77,12 +77,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/gremio-advierte-caida-de-obras-de-viviendas-sociales-no-tendremos/2026-09-02/175256.html",
       "fecha": "Wed, 02 Sep 2026 17:52:56 -0400",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Trump exige a la Fed que baje las tasas o dejará de comerciar con países que tienen superávit con EEUU",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/04/trump-exige-a-la-fed-que-baje-las-tasas-o-dejara-de-comerciar-con-los-paises-que-eeuu-tiene-deficit.shtml",
-      "fecha": "Fri, 04 Sep 2026 22:04:31 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -286,6 +280,10 @@
       {
         "fecha": "2026-09-04",
         "valor": 40879.04
+      },
+      {
+        "fecha": "2026-09-05",
+        "valor": 40880.36
       }
     ],
     "dolar": [
@@ -487,6 +485,10 @@
       },
       {
         "fecha": "2026-09-04",
+        "valor": 933.47
+      },
+      {
+        "fecha": "2026-09-05",
         "valor": 933.47
       }
     ],
@@ -690,6 +692,10 @@
       {
         "fecha": "2026-09-04",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-05",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -888,6 +894,10 @@
       {
         "fecha": "2026-09-04",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-05",
+        "valor": 4.3
       }
     ]
   },
@@ -895,9 +905,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.947,
+    "score": 0.944,
     "modo": "zscore",
-    "valor_actual": 40879.04,
-    "fecha": "2026-09-04"
+    "valor_actual": 40880.36,
+    "fecha": "2026-09-05"
   }
 }
