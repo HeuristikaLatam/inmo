@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-06T11:50:47.065570+00:00",
+  "generado": "2026-09-06T12:47:34.214809+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -20,15 +20,7 @@
       "fecha": "2026-09-04T04:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": {
-    "nombre": "Tasa hipotecaria promedio (TIP)",
-    "unidad": "Porcentaje",
-    "valor": 4.3,
-    "fecha": "2026-08-14",
-    "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.3
-    }
-  },
+  "tasa_hipotecaria": null,
   "titulares": [
     {
       "titulo": "En 20 años, la inflación promedio no ha bajado del 4%: ¿es momento de revisar la meta o la tasa neutral?",
