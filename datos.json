@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-05T22:30:15.065087+00:00",
+  "generado": "2026-09-06T11:50:47.065570+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40880.36,
-      "fecha": "2026-09-05T04:00:00.000Z"
+      "valor": 40881.68,
+      "fecha": "2026-09-06T04:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -52,18 +52,6 @@
       "titulo": "Dólar cierra con leve alza por nóminas de empleo que superaron con creces las expectativas en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-w4pat",
       "fecha": "Fri, 04 Sep 2026 20:08:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Negocio cementero profundizó retroceso en ventas y agrava efecto en la construcción",
-      "link": "http://www.df.cl/senal-df/el-deal/negocio-cementero-profundizo-retroceso-en-ventas-y-agrava-efecto-en-la",
-      "fecha": "Fri, 04 Sep 2026 18:01:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Sólido empleo en EEUU refuerza las expectativas de un alza de tasas de la Fed y ponen en alerta a Trump",
-      "link": "http://www.df.cl/internacional/economia/solido-empleo-en-eeuu-refuerza-las-expectativas-de-que-la-fed-suba-las",
-      "fecha": "Fri, 04 Sep 2026 15:16:22 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -284,6 +272,10 @@
       {
         "fecha": "2026-09-05",
         "valor": 40880.36
+      },
+      {
+        "fecha": "2026-09-06",
+        "valor": 40881.68
       }
     ],
     "dolar": [
@@ -489,6 +481,10 @@
       },
       {
         "fecha": "2026-09-05",
+        "valor": 933.47
+      },
+      {
+        "fecha": "2026-09-06",
         "valor": 933.47
       }
     ],
@@ -696,6 +692,10 @@
       {
         "fecha": "2026-09-05",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-06",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -898,6 +898,10 @@
       {
         "fecha": "2026-09-05",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-06",
+        "valor": 4.3
       }
     ]
   },
@@ -905,9 +909,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.944,
+    "score": 0.926,
     "modo": "zscore",
-    "valor_actual": 40880.36,
-    "fecha": "2026-09-05"
+    "valor_actual": 40881.68,
+    "fecha": "2026-09-06"
   }
 }
