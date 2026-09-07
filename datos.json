@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T14:57:49.643453+00:00",
+  "generado": "2026-09-07T22:24:25.372858+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Inmobiliaria recurre a la Suprema para invalidar nuevo PRC de Ripamonti que restringió desarrollo urbano en dunas de Reñaca",
-      "link": "http://www.df.cl/regiones/valparaiso/empresas/inmobiliaria-recurre-a-la-suprema-para-invalidar-nuevo-prc-de-ripamonti-que",
-      "fecha": "Mon, 07 Sep 2026 13:05:00 GMT",
+      "titulo": "Dólar cierra con leve alza pese a que el cobre tocó un récord tras nuevas hostilidades en aguas de Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gd4mn",
+      "fecha": "Mon, 07 Sep 2026 19:12:59 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar abre con leve alza tras la escalada militar del fin de semana en las aguas de Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gd4mn",
-      "fecha": "Mon, 07 Sep 2026 12:38:41 GMT",
+      "titulo": "GPM recomienda al Banco Central a mantener la tasa en 4,5% y apunta a incertidumbre en inflación por los precios de combustibles",
+      "link": "http://www.df.cl/economia-y-politica/macro/gpm-recomienda-al-banco-central-a-mantener-la-tasa-en-4-5-y-apunta-a",
+      "fecha": "Mon, 07 Sep 2026 21:45:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Inmobiliaria recurre a la Suprema para invalidar nuevo PRC de Ripamonti que restringió desarrollo urbano en dunas de Reñaca",
+      "link": "http://www.df.cl/regiones/valparaiso/empresas/inmobiliaria-recurre-a-la-suprema-para-invalidar-nuevo-prc-de-ripamonti-que",
+      "fecha": "Mon, 07 Sep 2026 21:42:48 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "La disputa que abrió inmobiliaria por proyectos habitacionales en Quilicura: “Significa una pérdida de una cuantiosa inversión”",
       "link": "http://www.df.cl/empresas/construccion/la-disputa-que-abrio-inmobiliaria-por-proyectos-habitacionales-en",
-      "fecha": "Mon, 07 Sep 2026 14:32:56 GMT",
+      "fecha": "Mon, 07 Sep 2026 22:04:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -59,36 +65,6 @@
       "link": "http://www.df.cl/economia-y-politica/df-tax/hacienda-aclara-las-principales-dudas-de-cara-a-la-suspension-por-un-ano",
       "fecha": "Mon, 07 Sep 2026 10:53:18 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Concha y Toro reactiva su negocio inmobiliario y evalúa oportunidades para 120 hectáreas que tiene en la Región Metropolitana",
-      "link": "http://www.df.cl/empresas/industria/concha-y-toro-reactiva-su-negocio-inmobiliario-y-evalua-oportunidades-para",
-      "fecha": "Mon, 07 Sep 2026 11:25:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Industria pesquera calcula pérdidas de 430 millones de dólares anuales por robos",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/pesca/industria-pesquera-calcula-perdidas-de-430-millones-de-dolares-anuales/2026-09-02/233226.html",
-      "fecha": "Wed, 02 Sep 2026 23:32:26 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Gremio advierte caída de obras de viviendas sociales: \"No tendremos suficientes para entregar\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/gremio-advierte-caida-de-obras-de-viviendas-sociales-no-tendremos/2026-09-02/175256.html",
-      "fecha": "Wed, 02 Sep 2026 17:52:56 -0400",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Niña de 9 años sufre accidente con trineo en el Volcán Osorno y debió ser evacuada en helicóptero",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/09/07/nina-de-9-anos-sufre-accidente-con-trineo-en-el-volcan-osorno-y-debio-ser-evacuada-en-helicoptero.shtml",
-      "fecha": "Mon, 07 Sep 2026 14:28:36 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Para facilitar acceso a vivienda e inversiones: Gobierno alista la reforma al mercado de capitales",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/07/para-facilitar-acceso-a-vivienda-e-inversiones-gobierno-alista-la-reforma-al-mercado-de-capitales.shtml",
-      "fecha": "Mon, 07 Sep 2026 13:56:23 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
