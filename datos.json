@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-06T22:34:54.900806+00:00",
+  "generado": "2026-09-07T13:49:44.170958+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40881.68,
-      "fecha": "2026-09-06T04:00:00.000Z"
+      "valor": 40883,
+      "fecha": "2026-09-07T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 933.47,
-      "fecha": "2026-09-04T04:00:00.000Z"
+      "valor": 934.35,
+      "fecha": "2026-09-07T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-04T04:00:00.000Z"
+      "fecha": "2026-09-07T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,27 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "En 20 años, la inflación promedio no ha bajado del 4%: ¿es momento de revisar la meta o la tasa neutral?",
-      "link": "http://www.df.cl/senal-df/factor-economico/en-20-anos-la-inflacion-promedio-no-ha-bajado-del-4-es-momento-de",
-      "fecha": "Fri, 04 Sep 2026 21:18:24 GMT",
+      "titulo": "Inmobiliaria recurre a la Suprema para invalidar nuevo PRC de Ripamonti que restringió desarrollo urbano en dunas de Reñaca",
+      "link": "http://www.df.cl/regiones/valparaiso/empresas/inmobiliaria-recurre-a-la-suprema-para-invalidar-nuevo-prc-de-ripamonti-que",
+      "fecha": "Mon, 07 Sep 2026 13:05:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Minvu proyecta más de 10 mil viviendas en Iquique Sur y alista plan para enfrentar crisis por socavones",
-      "link": "http://www.df.cl/regiones/tarapaca/minvu-proyecta-mas-de-10-mil-viviendas-en-iquique-sur-y-alista-plan-para",
-      "fecha": "Fri, 04 Sep 2026 20:27:29 GMT",
+      "titulo": "Dólar abre con leve alza tras la escalada militar del fin de semana en las aguas de Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gd4mn",
+      "fecha": "Mon, 07 Sep 2026 12:38:41 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Bolsa chilena cierra con leve caída tras un reporte laboral que hace prever una próxima subida de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-8eipv",
-      "fecha": "Fri, 04 Sep 2026 20:21:30 GMT",
+      "titulo": "La disputa que abrió inmobiliaria por proyectos habitacionales en Quilicura: “Significa una pérdida de una cuantiosa inversión”",
+      "link": "http://www.df.cl/empresas/construccion/la-disputa-que-abrio-inmobiliaria-por-proyectos-habitacionales-en",
+      "fecha": "Mon, 07 Sep 2026 12:08:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra con leve alza por nóminas de empleo que superaron con creces las expectativas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-w4pat",
-      "fecha": "Fri, 04 Sep 2026 20:08:46 GMT",
+      "titulo": "Expectativas de alzas de tasas y riesgos políticos golpean al mercado al inicio de la semana",
+      "link": "http://www.df.cl/primer-click/expectativas-de-alzas-de-tasas-y-riesgos-politicos-golpean-al-mercado-al",
+      "fecha": "Mon, 07 Sep 2026 10:42:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Hacienda aclara las principales dudas de cara a la suspensión por un año del IVA a la vivienda",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/hacienda-aclara-las-principales-dudas-de-cara-a-la-suspension-por-un-ano",
+      "fecha": "Mon, 07 Sep 2026 10:53:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Concha y Toro reactiva su negocio inmobiliario y evalúa oportunidades para 120 hectáreas que tiene en la Región Metropolitana",
+      "link": "http://www.df.cl/empresas/industria/concha-y-toro-reactiva-su-negocio-inmobiliario-y-evalua-oportunidades-para",
+      "fecha": "Mon, 07 Sep 2026 11:25:20 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -276,6 +288,10 @@
       {
         "fecha": "2026-09-06",
         "valor": 40881.68
+      },
+      {
+        "fecha": "2026-09-07",
+        "valor": 40883
       }
     ],
     "dolar": [
@@ -486,6 +502,10 @@
       {
         "fecha": "2026-09-06",
         "valor": 933.47
+      },
+      {
+        "fecha": "2026-09-07",
+        "valor": 934.35
       }
     ],
     "tpm": [
@@ -696,6 +716,10 @@
       {
         "fecha": "2026-09-06",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-07",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -902,6 +926,10 @@
       {
         "fecha": "2026-09-06",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-07",
+        "valor": 4.3
       }
     ]
   },
@@ -909,9 +937,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.926,
+    "score": 0.909,
     "modo": "zscore",
-    "valor_actual": 40881.68,
-    "fecha": "2026-09-06"
+    "valor_actual": 40883,
+    "fecha": "2026-09-07"
   }
 }
