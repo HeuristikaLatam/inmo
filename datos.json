@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-08T22:11:55.003700+00:00",
+  "generado": "2026-09-08T23:04:24.909322+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Megalínea Kimal-Lo Aguirre alcanza 20% de avance en su construcción y ya suma desembolsos por US$ 422 millones",
+      "link": "http://www.df.cl/empresas/energia/megalinea-que-unira-antofagasta-y-santiago-alcanza-20-de-avance-en-su",
+      "fecha": "Tue, 08 Sep 2026 23:03:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Banco Central vuelve a mantener la tasa y advierte que la economía podría mantener su debilidad por más tiempo de lo esperado",
       "link": "http://www.df.cl/economia-y-politica/macro/banco-central-vuelve-a-mantener-la-tasa-y-apunta-a-una-incertidumbre-mayor",
       "fecha": "Tue, 08 Sep 2026 21:56:29 GMT",
@@ -40,12 +46,6 @@
       "titulo": "Bolsa chilena cierra la baja y mercado se vuelca hacia la UF tras datos de inflación que duplicaron las expectativas en agosto",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ykopd",
       "fecha": "Tue, 08 Sep 2026 21:46:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Megalínea que unirá Antofagasta y Santiago alcanza 20% de avance en su construcción y ya se han desembolsado US$ 422 millones",
-      "link": "http://www.df.cl/empresas/energia/megalinea-que-unira-antofagasta-y-santiago-alcanza-20-de-avance-en-su",
-      "fecha": "Tue, 08 Sep 2026 21:17:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,9 +61,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Banco Central mantiene la tasa y no descarta que la economía tenga una debilidad \"más persistente\"",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/08/en-linea-con-lo-esperado-banco-central-vuelve-a-mantener-la-tasa-de-interes.shtml",
-      "fecha": "Tue, 08 Sep 2026 21:01:56 +0000",
+      "titulo": "Por incertidumbre macroeconómica: Banco Central mantuvo tasa de interés en 4,5%",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
+      "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
+      "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Qué elementos suben de valor cuando aumenta el monto de la UF: pasará los $41 mil tras IPC de agosto",
+      "link": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/09/08/que-elementos-suben-de-valor-cuando-aumenta-el-monto-de-la-uf-pasara-los-41-mil-tras-ipc-de-agosto.shtml",
+      "fecha": "Tue, 08 Sep 2026 22:12:06 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Fundador del Movilh Rolando Jiménez sufre atropello en Providencia: conductor huyó y fue detenido",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/08/fundador-del-movilh-rolando-jimenez-sufre-atropello-en-providencia-conductor-huyo-y-fue-detenido.shtml",
+      "fecha": "Tue, 08 Sep 2026 22:00:25 +0000",
       "fuente": "BioBioChile"
     }
   ],
