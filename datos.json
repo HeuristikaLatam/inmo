@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-07T23:11:39.242657+00:00",
+  "generado": "2026-09-08T12:27:04.905392+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40883,
-      "fecha": "2026-09-07T03:00:00.000Z"
+      "valor": 40884.32,
+      "fecha": "2026-09-08T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 934.35,
-      "fecha": "2026-09-07T03:00:00.000Z"
+      "valor": 933.82,
+      "fecha": "2026-09-08T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-07T03:00:00.000Z"
+      "fecha": "2026-09-08T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,40 +31,46 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar abre a la baja cerca de $ 930 frente al cobre en nuevo récord y un IPC muy por sobre lo esperado en Chile",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gyjta",
+      "fecha": "Tue, 08 Sep 2026 12:03:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Brotes verdes en el sector inmobiliario",
+      "link": "http://www.df.cl/opinion/editorial/brotes-verdes-en-el-sector-inmobiliario",
+      "fecha": "Mon, 07 Sep 2026 23:22:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Grupo alemán entra a firma salmonera Fiordo Austral con casi el 40% de la propiedad",
+      "link": "http://www.df.cl/empresas/industria/grupo-aleman-entra-a-firma-salmonera-fiordo-austral-con-casi-el-40-de-la",
+      "fecha": "Tue, 08 Sep 2026 09:19:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Economistas del GPM se alinean con mantención de la tasa y advierten escenario incierto para la inflación por los combustibles",
+      "link": "http://www.df.cl/economia-y-politica/macro/gpm-recomienda-al-banco-central-a-mantener-la-tasa-en-4-5-y-apunta-a",
+      "fecha": "Mon, 07 Sep 2026 23:49:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra con leve alza pese a que el cobre tocó un récord tras nuevas hostilidades en aguas de Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-gd4mn",
       "fecha": "Mon, 07 Sep 2026 19:12:59 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "GPM recomienda al Banco Central a mantener la tasa en 4,5% y apunta a incertidumbre en inflación por los precios de combustibles",
-      "link": "http://www.df.cl/economia-y-politica/macro/gpm-recomienda-al-banco-central-a-mantener-la-tasa-en-4-5-y-apunta-a",
-      "fecha": "Mon, 07 Sep 2026 21:45:45 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "La UF traspasará los $41 mil empujada por el IPC de agosto",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/08/la-uf-traspasara-los-41-mil-empujada-por-el-ipc-de-agosto.shtml",
+      "fecha": "Tue, 08 Sep 2026 12:24:32 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Inmobiliaria recurre a la Suprema para invalidar nuevo PRC de Ripamonti que restringió desarrollo urbano en dunas de Reñaca",
-      "link": "http://www.df.cl/regiones/valparaiso/empresas/inmobiliaria-recurre-a-la-suprema-para-invalidar-nuevo-prc-de-ripamonti-que",
-      "fecha": "Mon, 07 Sep 2026 21:42:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La disputa que abrió inmobiliaria por proyectos habitacionales en Quilicura: “Significa una pérdida de una cuantiosa inversión”",
-      "link": "http://www.df.cl/empresas/construccion/la-disputa-que-abrio-inmobiliaria-por-proyectos-habitacionales-en",
-      "fecha": "Mon, 07 Sep 2026 22:04:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Expectativas de alzas de tasas y riesgos políticos golpean al mercado al inicio de la semana",
-      "link": "http://www.df.cl/primer-click/expectativas-de-alzas-de-tasas-y-riesgos-politicos-golpean-al-mercado-al",
-      "fecha": "Mon, 07 Sep 2026 10:42:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Hacienda aclara las principales dudas de cara a la suspensión por un año del IVA a la vivienda",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/hacienda-aclara-las-principales-dudas-de-cara-a-la-suspension-por-un-ano",
-      "fecha": "Mon, 07 Sep 2026 10:53:18 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Inicia postulación a Subsidio de Arriendo que cubre hasta 90% del valor: revisa quiénes pueden acceder",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/09/08/inicia-postulacion-a-subsidio-de-arriendo-que-cubre-hasta-90-del-valor-revisa-quienes-pueden-acceder.shtml",
+      "fecha": "Tue, 08 Sep 2026 11:01:35 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -280,6 +286,10 @@
       {
         "fecha": "2026-09-07",
         "valor": 40883
+      },
+      {
+        "fecha": "2026-09-08",
+        "valor": 40884.32
       }
     ],
     "dolar": [
@@ -494,6 +504,10 @@
       {
         "fecha": "2026-09-07",
         "valor": 934.35
+      },
+      {
+        "fecha": "2026-09-08",
+        "valor": 933.82
       }
     ],
     "tpm": [
@@ -708,6 +722,10 @@
       {
         "fecha": "2026-09-07",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-08",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -918,6 +936,10 @@
       {
         "fecha": "2026-09-07",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-08",
+        "valor": 4.3
       }
     ]
   },
@@ -925,9 +947,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.909,
+    "score": 0.893,
     "modo": "zscore",
-    "valor_actual": 40883,
-    "fecha": "2026-09-07"
+    "valor_actual": 40884.32,
+    "fecha": "2026-09-08"
   }
 }
