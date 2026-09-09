@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-08T23:04:24.909322+00:00",
+  "generado": "2026-09-09T12:36:21.295827+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40884.32,
-      "fecha": "2026-09-08T03:00:00.000Z"
+      "valor": 40885.63,
+      "fecha": "2026-09-09T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 933.82,
-      "fecha": "2026-09-08T03:00:00.000Z"
+      "valor": 926.94,
+      "fecha": "2026-09-09T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-08T03:00:00.000Z"
+      "fecha": "2026-09-09T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,15 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Megalínea Kimal-Lo Aguirre alcanza 20% de avance en su construcción y ya suma desembolsos por US$ 422 millones",
-      "link": "http://www.df.cl/empresas/energia/megalinea-que-unira-antofagasta-y-santiago-alcanza-20-de-avance-en-su",
-      "fecha": "Tue, 08 Sep 2026 23:03:00 GMT",
+      "titulo": "El Banco Central reduce a 0,25%-0,75% la proyección de PIB para el año y pone las fichas en aceleración hacia 2028",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-reduce-a-0-25-0-75-la-proyeccion-de-pib-para-el-ano-y",
+      "fecha": "Wed, 09 Sep 2026 12:29:06 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Banco Central vuelve a mantener la tasa y advierte que la economía podría mantener su debilidad por más tiempo de lo esperado",
+      "titulo": "Dólar abre con leve alza mientras el petróleo Brent supera los US$ 100 por la guerra naval en el estrecho de Ormuz",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-um5rm",
+      "fecha": "Wed, 09 Sep 2026 11:44:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Banco Central vuelve a mantener la tasa clave en 4,5% y pone foco en el riesgo de una debilidad económica más persistente",
       "link": "http://www.df.cl/economia-y-politica/macro/banco-central-vuelve-a-mantener-la-tasa-y-apunta-a-una-incertidumbre-mayor",
-      "fecha": "Tue, 08 Sep 2026 21:56:29 GMT",
+      "fecha": "Wed, 09 Sep 2026 10:18:52 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Megalínea Kimal-Lo Aguirre alcanza 20% de avance en su construcción y ya suma desembolsos por US$ 422 millones",
+      "link": "http://www.df.cl/empresas/energia/megalinea-que-unira-antofagasta-y-santiago-alcanza-20-de-avance-en-su",
+      "fecha": "Tue, 08 Sep 2026 23:03:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,21 +73,27 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Economista descarta que subsidios solucionen crisis laboral: \"Necesitamos crecer\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economista-descarta-que-subsidios-solucionen-crisis-laboral/2026-09-09/091607.html",
+      "fecha": "Wed, 09 Sep 2026 09:16:07 -0300",
+      "fuente": "Cooperativa"
+    },
+    {
       "titulo": "Por incertidumbre macroeconómica: Banco Central mantuvo tasa de interés en 4,5%",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
       "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Qué elementos suben de valor cuando aumenta el monto de la UF: pasará los $41 mil tras IPC de agosto",
-      "link": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/09/08/que-elementos-suben-de-valor-cuando-aumenta-el-monto-de-la-uf-pasara-los-41-mil-tras-ipc-de-agosto.shtml",
-      "fecha": "Tue, 08 Sep 2026 22:12:06 +0000",
+      "titulo": "Banco Central alerta sobre debilidad económica de Chile y recorta con fuerza proyección de crecimiento",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/09/banco-central-alerta-sobre-debilidad-economica-de-chile-y-recorta-con-fuerza-proyeccion-de-crecimiento.shtml",
+      "fecha": "Wed, 09 Sep 2026 12:08:01 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Fundador del Movilh Rolando Jiménez sufre atropello en Providencia: conductor huyó y fue detenido",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/08/fundador-del-movilh-rolando-jimenez-sufre-atropello-en-providencia-conductor-huyo-y-fue-detenido.shtml",
-      "fecha": "Tue, 08 Sep 2026 22:00:25 +0000",
+      "titulo": "Quedó la crema: camión con tortas y dulces termina destruido en Vespucio Norte tras sufrir encerrona",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/09/quedo-la-crema-camion-con-tortas-y-dulces-sufre-accidente-en-vespucio-norte.shtml",
+      "fecha": "Wed, 09 Sep 2026 09:55:37 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -296,6 +314,10 @@
       {
         "fecha": "2026-09-08",
         "valor": 40884.32
+      },
+      {
+        "fecha": "2026-09-09",
+        "valor": 40885.63
       }
     ],
     "dolar": [
@@ -514,6 +536,10 @@
       {
         "fecha": "2026-09-08",
         "valor": 933.82
+      },
+      {
+        "fecha": "2026-09-09",
+        "valor": 926.94
       }
     ],
     "tpm": [
@@ -732,6 +758,10 @@
       {
         "fecha": "2026-09-08",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-09",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -946,16 +976,20 @@
       {
         "fecha": "2026-09-08",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-09",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.893,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.74,
+    "score": 1.769,
     "modo": "zscore",
-    "valor_actual": 40884.32,
-    "fecha": "2026-09-08"
+    "valor_actual": 926.94,
+    "fecha": "2026-09-09"
   }
 }
