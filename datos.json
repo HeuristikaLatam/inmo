@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T12:36:21.295827+00:00",
+  "generado": "2026-09-09T13:37:11.878655+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "El Banco Central reduce a 0,25%-0,75% la proyección de PIB para el año y pone las fichas en aceleración hacia 2028",
+      "titulo": "El Banco Central vuelve a alertar por el impacto del alza de los costos laborales en medio del alto desempleo",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-vuelve-a-alertar-por-el-impacto-del-alza-de-los-costos",
+      "fecha": "Wed, 09 Sep 2026 13:28:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Boberck, decano del retail de Los Lagos, da el salto al negocio inmobiliario con una cartera de inversiones de US$ 3 millones",
+      "link": "http://www.df.cl/regiones/los-lagos/empresas/la-reconversion-de-boberck-de-pioneros-del-retail-en-chiloe-a",
+      "fecha": "Wed, 09 Sep 2026 13:29:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El Banco Central reduce a 0,25%-0,75% la proyección de PIB para el año en medio de caída de inversión y pone las fichas en aceleración hacia 2028",
       "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-reduce-a-0-25-0-75-la-proyeccion-de-pib-para-el-ano-y",
-      "fecha": "Wed, 09 Sep 2026 12:29:06 GMT",
+      "fecha": "Wed, 09 Sep 2026 13:00:34 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Dólar abre con leve alza mientras el petróleo Brent supera los US$ 100 por la guerra naval en el estrecho de Ormuz",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-um5rm",
-      "fecha": "Wed, 09 Sep 2026 11:44:30 GMT",
+      "fecha": "Wed, 09 Sep 2026 13:29:12 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,10 +79,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Tras alto IPC de agosto, la UF cruzará los $ 41.000 en octubre",
-      "link": "http://www.df.cl/economia-y-politica/macro/tras-alto-ipc-de-agosto-la-uf-cruzara-los-41-000-en-octubre",
-      "fecha": "Tue, 08 Sep 2026 18:15:48 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
+      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/banco-central-recorto-con-fuerza-la-proyeccion-de-crecimiento-para-2026/2026-09-09/100202.html",
+      "fecha": "Wed, 09 Sep 2026 10:02:02 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Economista descarta que subsidios solucionen crisis laboral: \"Necesitamos crecer\"",
@@ -88,12 +100,6 @@
       "titulo": "Banco Central alerta sobre debilidad económica de Chile y recorta con fuerza proyección de crecimiento",
       "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/09/banco-central-alerta-sobre-debilidad-economica-de-chile-y-recorta-con-fuerza-proyeccion-de-crecimiento.shtml",
       "fecha": "Wed, 09 Sep 2026 12:08:01 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Quedó la crema: camión con tortas y dulces termina destruido en Vespucio Norte tras sufrir encerrona",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/09/quedo-la-crema-camion-con-tortas-y-dulces-sufre-accidente-en-vespucio-norte.shtml",
-      "fecha": "Wed, 09 Sep 2026 09:55:37 +0000",
       "fuente": "BioBioChile"
     }
   ],
