@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T12:32:39.808502+00:00",
+  "generado": "2026-09-10T13:28:25.506620+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "BCE sube las tasas a 2,5% debido a las presiones inflacionarias derivadas del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/internacional/economia/bce-sube-las-tasas-a-2-5-debido-a-las-presiones-inflacionarias-derivadas",
+      "fecha": "Thu, 10 Sep 2026 13:05:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar abre al alza mientras precios del cobre caen con fuerza por reportes de que la Casa Blanca duda sobre aplicar aranceles al metal",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
       "fecha": "Thu, 10 Sep 2026 11:46:50 GMT",
@@ -45,7 +51,7 @@
     {
       "titulo": "Aníbal Alarcón, economista senior de Scotiabank: “El Banco Central está señalizando que la recesión continúa”",
       "link": "http://www.df.cl/economia-y-politica/macro/anibal-alarcon-economista-senior-de-scotiabank-el-banco-central-esta",
-      "fecha": "Thu, 10 Sep 2026 10:42:41 GMT",
+      "fecha": "Thu, 10 Sep 2026 12:33:35 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,12 +73,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "MK4: oposición se cuadra con fondo para la vivienda, pero mira con cautela medidas tributarias",
-      "link": "http://www.df.cl/economia-y-politica/congreso/mk4-oposicion-se-cuadra-con-fondo-para-la-vivienda-pero-mira-con-cautela",
-      "fecha": "Wed, 09 Sep 2026 18:05:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/banco-central-recorto-con-fuerza-la-proyeccion-de-crecimiento-para-2026/2026-09-09/100202.html",
       "fecha": "Wed, 09 Sep 2026 10:02:02 -0300",
@@ -89,12 +89,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
       "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Poduje y balance por reconstrucción en Valparaíso: \"25% de avance físico y 70% de subsidios asignados\"",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/10/poduje-y-balance-por-reconstruccion-en-valparaiso-25-de-avance-fisico-y-70-de-subsidios-asignados.shtml",
-      "fecha": "Thu, 10 Sep 2026 08:45:08 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
