@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-09T22:50:47.168842+00:00",
+  "generado": "2026-09-10T12:32:39.808502+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40885.63,
-      "fecha": "2026-09-09T03:00:00.000Z"
+      "valor": 40893.78,
+      "fecha": "2026-09-10T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 926.94,
-      "fecha": "2026-09-09T03:00:00.000Z"
+      "valor": 925.97,
+      "fecha": "2026-09-10T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-09T03:00:00.000Z"
+      "fecha": "2026-09-10T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -30,6 +30,30 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Dólar abre al alza mientras precios del cobre caen con fuerza por reportes de que la Casa Blanca duda sobre aplicar aranceles al metal",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
+      "fecha": "Thu, 10 Sep 2026 11:46:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las 30 medidas que trae la MK4: desde un fondo estatal que comprará hipotecarios a un nuevo segmento bursátil para empresas emergentes",
+      "link": "http://www.df.cl/mercados/banca-fintech/desde-un-fondo-estatal-que-comprara-hipotecarios-a-un-nuevo-segmento",
+      "fecha": "Thu, 10 Sep 2026 09:34:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Aníbal Alarcón, economista senior de Scotiabank: “El Banco Central está señalizando que la recesión continúa”",
+      "link": "http://www.df.cl/economia-y-politica/macro/anibal-alarcon-economista-senior-de-scotiabank-el-banco-central-esta",
+      "fecha": "Thu, 10 Sep 2026 10:42:41 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Banco Central aplica fuerte recorte a proyección de PIB de este año y pone sus fichas en una mejoría hacia 2027 y 2028",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-reduce-a-0-25-0-75-la-proyeccion-de-pib-para-el-ano-y",
+      "fecha": "Thu, 10 Sep 2026 10:01:13 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Empresarios valoran reforma al mercado de capitales y destacan las medidas para facilitar acceso a la vivienda",
       "link": "http://www.df.cl/mercados/mercados-en-accion/empresarios-valoran-reforma-al-mercado-de-capitales-y-destacan-las-medidas",
@@ -49,36 +73,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "LIV Golf solicita la bancarrota, pero prepara un cambio total en su propiedad",
-      "link": "http://www.df.cl/empresas/multinacionales/liv-golf-solicita-la-bancarrota-pero-prepara-un-cambio-total-en-su",
-      "fecha": "Wed, 09 Sep 2026 16:28:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Pese al desánimo de corto plazo, el BC prevé un repunte de las expectativas económicas para 2027 de la mano de la ley de reconstrucción",
-      "link": "http://www.df.cl/economia-y-politica/macro/pese-al-desanimo-de-corto-plazo-el-banco-central-preve-un-repunte-de-las",
-      "fecha": "Wed, 09 Sep 2026 15:06:29 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El Banco Central vuelve a alertar por el impacto del alza de los costos laborales en medio del alto desempleo",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-vuelve-a-alertar-por-el-impacto-del-alza-de-los-costos",
-      "fecha": "Wed, 09 Sep 2026 21:49:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Boberck, decano del retail de Los Lagos, da el salto al negocio inmobiliario con una cartera de inversiones de US$ 3 millones",
-      "link": "http://www.df.cl/regiones/los-lagos/empresas/la-reconversion-de-boberck-de-pioneros-del-retail-en-chiloe-a",
-      "fecha": "Wed, 09 Sep 2026 20:10:35 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El Banco Central reduce a 0,25%-0,75% la proyección de PIB para el año en medio de caída de inversión y pone las fichas en aceleración hacia 2028",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-reduce-a-0-25-0-75-la-proyeccion-de-pib-para-el-ano-y",
-      "fecha": "Wed, 09 Sep 2026 17:21:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/banco-central-recorto-con-fuerza-la-proyeccion-de-crecimiento-para-2026/2026-09-09/100202.html",
       "fecha": "Wed, 09 Sep 2026 10:02:02 -0300",
@@ -95,6 +89,12 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
       "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Poduje y balance por reconstrucción en Valparaíso: \"25% de avance físico y 70% de subsidios asignados\"",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/10/poduje-y-balance-por-reconstruccion-en-valparaiso-25-de-avance-fisico-y-70-de-subsidios-asignados.shtml",
+      "fecha": "Thu, 10 Sep 2026 08:45:08 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -318,6 +318,10 @@
       {
         "fecha": "2026-09-09",
         "valor": 40885.63
+      },
+      {
+        "fecha": "2026-09-10",
+        "valor": 40893.78
       }
     ],
     "dolar": [
@@ -540,6 +544,10 @@
       {
         "fecha": "2026-09-09",
         "valor": 926.94
+      },
+      {
+        "fecha": "2026-09-10",
+        "valor": 925.97
       }
     ],
     "tpm": [
@@ -762,6 +770,10 @@
       {
         "fecha": "2026-09-09",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-10",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -980,16 +992,20 @@
       {
         "fecha": "2026-09-09",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-10",
+        "valor": 4.3
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.74,
-    "score": 1.769,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.02,
+    "score": 11.343,
     "modo": "zscore",
-    "valor_actual": 926.94,
-    "fecha": "2026-09-09"
+    "valor_actual": 40893.78,
+    "fecha": "2026-09-10"
   }
 }
