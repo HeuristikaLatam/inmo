@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-10T13:28:25.506620+00:00",
+  "generado": "2026-09-10T22:06:48.621058+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "BCE sube las tasas a 2,5% debido a las presiones inflacionarias derivadas del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/internacional/economia/bce-sube-las-tasas-a-2-5-debido-a-las-presiones-inflacionarias-derivadas",
-      "fecha": "Thu, 10 Sep 2026 13:05:03 GMT",
+      "titulo": "Dólar cierra sobre $ 940 tras su mayor alza en tres meses por fuerte caída del cobre y la creciente inquietud sobre Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
+      "fecha": "Thu, 10 Sep 2026 19:37:01 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar abre al alza mientras precios del cobre caen con fuerza por reportes de que la Casa Blanca duda sobre aplicar aranceles al metal",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
-      "fecha": "Thu, 10 Sep 2026 11:46:50 GMT",
+      "titulo": "BID movilizará US$ 2.000 millones a través del Fondo Nacional de Vivienda para facilitar el crédito habitacional",
+      "link": "http://www.df.cl/economia-y-politica/macro/kast-recibe-al-presidente-del-bid-reafirman-trabajo-colaborativo-y",
+      "fecha": "Thu, 10 Sep 2026 19:06:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "BCE sube las tasas a 2,5% debido a las presiones inflacionarias derivadas del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/internacional/economia/bce-sube-las-tasas-a-2-5-debido-a-las-presiones-inflacionarias-derivadas",
+      "fecha": "Thu, 10 Sep 2026 15:10:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Colliers se suma al respaldo a la reforma de capitales: tasas hipotecarias podrían bajar 100 puntos base y plazos de créditos subirán en cinco años",
+      "link": "http://www.df.cl/empresas/construccion/colliers-se-suma-al-respaldo-a-la-reforma-de-capitales-tasas-hipotecarias",
+      "fecha": "Thu, 10 Sep 2026 22:01:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mercado se alinea con el Banco Central y recorta las proyecciones de crecimiento para este año y mejora las del próximo",
+      "link": "http://www.df.cl/economia-y-politica/macro/mercado-se-alinea-con-el-banco-central-y-recorta-las-proyecciones-de",
+      "fecha": "Thu, 10 Sep 2026 15:04:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Trump promete un “dividendo” de US$ 5 mil a los votantes de EEUU si los republicanos ganan la elección de medio término",
+      "link": "http://www.df.cl/internacional/ft/trump-promete-un-dividendo-de-us-5-mil-a-los-votantes-de-eeuu-si-los",
+      "fecha": "Thu, 10 Sep 2026 16:58:38 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -52,24 +76,6 @@
       "titulo": "Aníbal Alarcón, economista senior de Scotiabank: “El Banco Central está señalizando que la recesión continúa”",
       "link": "http://www.df.cl/economia-y-politica/macro/anibal-alarcon-economista-senior-de-scotiabank-el-banco-central-esta",
       "fecha": "Thu, 10 Sep 2026 12:33:35 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Banco Central aplica fuerte recorte a proyección de PIB de este año y pone sus fichas en una mejoría hacia 2027 y 2028",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-banco-central-reduce-a-0-25-0-75-la-proyeccion-de-pib-para-el-ano-y",
-      "fecha": "Thu, 10 Sep 2026 10:01:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Empresarios valoran reforma al mercado de capitales y destacan las medidas para facilitar acceso a la vivienda",
-      "link": "http://www.df.cl/mercados/mercados-en-accion/empresarios-valoran-reforma-al-mercado-de-capitales-y-destacan-las-medidas",
-      "fecha": "Wed, 09 Sep 2026 20:01:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza cerca de $ 930 mientras el petróleo Brent supera los US$ 100 por la guerra naval en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-um5rm",
-      "fecha": "Wed, 09 Sep 2026 19:32:56 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -89,6 +95,12 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
       "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "BID aportará US$2.000 millones para acceso a la vivienda en la reforma de capitales del Gobierno",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/10/bid-aportara-us2-000-millones-para-acceso-a-la-vivienda-mediante-la-reforma-de-capitales-del-gobierno.shtml",
+      "fecha": "Thu, 10 Sep 2026 21:32:29 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
