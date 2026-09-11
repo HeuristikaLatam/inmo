@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-11T12:28:04.670938+00:00",
+  "generado": "2026-09-11T22:06:46.891785+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,70 +31,40 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre a la baja mientras el petróleo revierte parte de su escalada y operadores aguardan el IPC estadounidense",
+      "titulo": "IPSA cierra una séptima jornada de caídas tras datos de inflación que llevarían a la Fed a subir tasas la próxima semana",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-agres",
+      "fecha": "Fri, 11 Sep 2026 20:09:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra en nuevos máximos desde julio ya que el IPC consolidó la expectativa de una próxima subida de tasas en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-patdj",
-      "fecha": "Fri, 11 Sep 2026 11:38:46 GMT",
+      "fecha": "Fri, 11 Sep 2026 19:16:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Pablo García, exvicepresidente del Banco Central:“El Fonavi en sí mismo requiere de un análisis cuidadoso”",
-      "link": "http://www.df.cl/economia-y-politica/macro/pablo-garcia-exvicepresidente-del-banco-central-el-fonavi-en-si-mismo",
-      "fecha": "Thu, 10 Sep 2026 22:25:12 GMT",
+      "titulo": "Bancos, inmobiliarias y small caps: los ganadores de la bolsa que asoman con la MK4",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bancos-inmobiliarias-y-small-caps-los-ganadores-de-la-bolsa-que-asoman",
+      "fecha": "Fri, 11 Sep 2026 15:03:03 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mario Farren, presidente de BancoEstado: “Con el Fonavi podríamos tener la capacidad de financiar en los próximos años, más de 220 mil viviendas”",
-      "link": "http://www.df.cl/mercados/banca-fintech/mario-farren-presidente-de-bancoestado-con-el-fonavi-podriamos-tener-la",
-      "fecha": "Fri, 11 Sep 2026 12:21:17 GMT",
+      "titulo": "IPC de EEUU en agosto cumple las expectativas pero no reduce las apuestas por un alza de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/ipc-de-agosto-en-eeuu-subio-0-4-mensual-en-linea-con-las-expectativas",
+      "fecha": "Fri, 11 Sep 2026 15:28:45 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra sobre $ 940 tras su mayor alza en tres meses por fuerte caída del cobre y la creciente inquietud sobre Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
-      "fecha": "Thu, 10 Sep 2026 19:37:01 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "BID movilizará US$ 2.000 millones a través del Fondo Nacional de Vivienda para facilitar el crédito habitacional",
-      "link": "http://www.df.cl/economia-y-politica/macro/kast-recibe-al-presidente-del-bid-reafirman-trabajo-colaborativo-y",
-      "fecha": "Thu, 10 Sep 2026 19:06:12 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Fonavi: Quiénes podrán acceder y cómo rebajará el pie y los dividendos de la primera vivienda",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/fonavi-quienes-podran-acceder-y-como-rebajara-el-pie-y-los-dividendos/2026-09-11/085106.html",
+      "fecha": "Fri, 11 Sep 2026 08:51:06 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "El BID invertirá 2.000 millones de dólares para dinamizar el sector vivienda en Chile",
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/el-bid-invertira-2-000-millones-de-dolares-para-dinamizar-el-sector/2026-09-10/225456.html",
       "fecha": "Thu, 10 Sep 2026 22:54:56 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/chile/banco-central-recorto-con-fuerza-la-proyeccion-de-crecimiento-para-2026/2026-09-09/100202.html",
-      "fecha": "Wed, 09 Sep 2026 10:02:02 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Economista descarta que subsidios solucionen crisis laboral: \"Necesitamos crecer\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economista-descarta-que-subsidios-solucionen-crisis-laboral/2026-09-09/091607.html",
-      "fecha": "Wed, 09 Sep 2026 09:16:07 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Por incertidumbre macroeconómica: Banco Central mantuvo tasa de interés en 4,5%",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-incertidumbre-macroeconomica-banco-central-mantuvo-tasa-de-interes/2026-09-08/192434.html",
-      "fecha": "Tue, 08 Sep 2026 19:24:34 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Coronel (r) del Ejército sufre robo en La Reina: ladrones huyeron con botín avaluado en $35 millones",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/11/coronel-r-del-ejercito-sufre-robo-en-la-reina-ladrones-huyeron-con-botin-avaluado-en-35-millones.shtml",
-      "fecha": "Fri, 11 Sep 2026 11:09:29 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Ministro Poduje cifra en casi $400 mil millones el costo de reconstrucción por fuertes lluvias",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/11/ministro-poduje-cifra-en-casi-400-mil-millones-el-costo-de-reconstruccion-por-fuertes-lluvias.shtml",
-      "fecha": "Fri, 11 Sep 2026 10:42:24 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
