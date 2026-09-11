@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-10T22:51:53.966128+00:00",
+  "generado": "2026-09-11T12:28:04.670938+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40893.78,
-      "fecha": "2026-09-10T03:00:00.000Z"
+      "valor": 40901.94,
+      "fecha": "2026-09-11T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 925.97,
-      "fecha": "2026-09-10T03:00:00.000Z"
+      "valor": 937.17,
+      "fecha": "2026-09-11T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-10T03:00:00.000Z"
+      "fecha": "2026-09-11T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,24 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar abre a la baja mientras el petróleo revierte parte de su escalada y operadores aguardan el IPC estadounidense",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-patdj",
+      "fecha": "Fri, 11 Sep 2026 11:38:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Pablo García, exvicepresidente del Banco Central:“El Fonavi en sí mismo requiere de un análisis cuidadoso”",
+      "link": "http://www.df.cl/economia-y-politica/macro/pablo-garcia-exvicepresidente-del-banco-central-el-fonavi-en-si-mismo",
+      "fecha": "Thu, 10 Sep 2026 22:25:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mario Farren, presidente de BancoEstado: “Con el Fonavi podríamos tener la capacidad de financiar en los próximos años, más de 220 mil viviendas”",
+      "link": "http://www.df.cl/mercados/banca-fintech/mario-farren-presidente-de-bancoestado-con-el-fonavi-podriamos-tener-la",
+      "fecha": "Fri, 11 Sep 2026 12:21:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra sobre $ 940 tras su mayor alza en tres meses por fuerte caída del cobre y la creciente inquietud sobre Medio Oriente",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-h9i5c",
       "fecha": "Thu, 10 Sep 2026 19:37:01 GMT",
@@ -43,40 +61,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "BCE sube las tasas a 2,5% debido a las presiones inflacionarias derivadas del conflicto en Medio Oriente",
-      "link": "http://www.df.cl/internacional/economia/bce-sube-las-tasas-a-2-5-debido-a-las-presiones-inflacionarias-derivadas",
-      "fecha": "Thu, 10 Sep 2026 15:10:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Colliers se suma al respaldo a la reforma de capitales: tasas hipotecarias podrían bajar 100 puntos base y plazos de créditos subirán en cinco años",
-      "link": "http://www.df.cl/empresas/construccion/colliers-se-suma-al-respaldo-a-la-reforma-de-capitales-tasas-hipotecarias",
-      "fecha": "Thu, 10 Sep 2026 22:01:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Mercado se alinea con el Banco Central y recorta las proyecciones de crecimiento para este año y mejora las del próximo",
-      "link": "http://www.df.cl/economia-y-politica/macro/mercado-se-alinea-con-el-banco-central-y-recorta-las-proyecciones-de",
-      "fecha": "Thu, 10 Sep 2026 22:32:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Trump promete un “dividendo” de US$ 5 mil a los votantes de EEUU si los republicanos ganan la elección de medio término",
-      "link": "http://www.df.cl/internacional/ft/trump-promete-un-dividendo-de-us-5-mil-a-los-votantes-de-eeuu-si-los",
-      "fecha": "Thu, 10 Sep 2026 22:20:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Las 30 medidas que trae la MK4: desde un fondo estatal que comprará hipotecarios a un nuevo segmento bursátil para empresas emergentes",
-      "link": "http://www.df.cl/mercados/banca-fintech/desde-un-fondo-estatal-que-comprara-hipotecarios-a-un-nuevo-segmento",
-      "fecha": "Thu, 10 Sep 2026 09:34:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Aníbal Alarcón, economista senior de Scotiabank: “El Banco Central está señalizando que la recesión continúa”",
-      "link": "http://www.df.cl/economia-y-politica/macro/anibal-alarcon-economista-senior-de-scotiabank-el-banco-central-esta",
-      "fecha": "Thu, 10 Sep 2026 12:33:35 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "El BID invertirá 2.000 millones de dólares para dinamizar el sector vivienda en Chile",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/el-bid-invertira-2-000-millones-de-dolares-para-dinamizar-el-sector/2026-09-10/225456.html",
+      "fecha": "Thu, 10 Sep 2026 22:54:56 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Banco Central recortó con fuerza la proyección de crecimiento para 2026",
@@ -97,9 +85,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "BID aportará US$2.000 millones para acceso a la vivienda en la reforma de capitales del Gobierno",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/10/bid-aportara-us2-000-millones-para-acceso-a-la-vivienda-mediante-la-reforma-de-capitales-del-gobierno.shtml",
-      "fecha": "Thu, 10 Sep 2026 21:32:29 +0000",
+      "titulo": "Coronel (r) del Ejército sufre robo en La Reina: ladrones huyeron con botín avaluado en $35 millones",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/09/11/coronel-r-del-ejercito-sufre-robo-en-la-reina-ladrones-huyeron-con-botin-avaluado-en-35-millones.shtml",
+      "fecha": "Fri, 11 Sep 2026 11:09:29 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Ministro Poduje cifra en casi $400 mil millones el costo de reconstrucción por fuertes lluvias",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/11/ministro-poduje-cifra-en-casi-400-mil-millones-el-costo-de-reconstruccion-por-fuertes-lluvias.shtml",
+      "fecha": "Fri, 11 Sep 2026 10:42:24 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -328,6 +322,10 @@
       {
         "fecha": "2026-09-10",
         "valor": 40893.78
+      },
+      {
+        "fecha": "2026-09-11",
+        "valor": 40901.94
       }
     ],
     "dolar": [
@@ -554,6 +552,10 @@
       {
         "fecha": "2026-09-10",
         "valor": 925.97
+      },
+      {
+        "fecha": "2026-09-11",
+        "valor": 937.17
       }
     ],
     "tpm": [
@@ -780,6 +782,10 @@
       {
         "fecha": "2026-09-10",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-11",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1002,6 +1008,10 @@
       {
         "fecha": "2026-09-10",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-11",
+        "valor": 4.3
       }
     ]
   },
@@ -1009,9 +1019,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 11.343,
+    "score": 6.158,
     "modo": "zscore",
-    "valor_actual": 40893.78,
-    "fecha": "2026-09-10"
+    "valor_actual": 40901.94,
+    "fecha": "2026-09-11"
   }
 }
