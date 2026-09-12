@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-11T22:54:11.671696+00:00",
+  "generado": "2026-09-12T11:49:39.574580+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40901.94,
-      "fecha": "2026-09-11T03:00:00.000Z"
+      "valor": 40910.1,
+      "fecha": "2026-09-12T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "Arabia Saudí cierra su oleoducto alternativo a Ormuz tras sufrir varios ataques",
+      "link": "http://www.df.cl/internacional/politica/arabia-saudi-cierra-su-oleoducto-alternativo-a-ormuz-tras-sufrir-varios",
+      "fecha": "Sat, 12 Sep 2026 07:37:57 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "IPSA cierra una séptima jornada de caídas tras datos de inflación que llevarían a la Fed a subir tasas la próxima semana",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-agres",
-      "fecha": "Fri, 11 Sep 2026 20:09:12 GMT",
+      "fecha": "Sat, 12 Sep 2026 01:09:48 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,9 +73,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Sevilla ganó con sufrimiento al Valencia por La Liga: Gabriel Suazo fue titular y jugó todo el partido",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/09/11/sevilla-gano-con-sufrimiento-al-valencia-por-la-liga-gabriel-suazo-fue-titular-y-jugo-todo-el-partido.shtml",
-      "fecha": "Fri, 11 Sep 2026 22:29:09 +0000",
+      "titulo": "Jaula Bahamondes regresa al octágono: cuándo y dónde ver la pelea del chileno en el UFC Fight Night",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/09/12/jaula-bahamondes-regresa-al-octagono-cuando-y-donde-ver-la-pelea-del-chileno-en-el-ufc-fight-night-2.shtml",
+      "fecha": "Sat, 12 Sep 2026 11:40:35 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -302,6 +308,10 @@
       {
         "fecha": "2026-09-11",
         "valor": 40901.94
+      },
+      {
+        "fecha": "2026-09-12",
+        "valor": 40910.1
       }
     ],
     "dolar": [
@@ -531,6 +541,10 @@
       },
       {
         "fecha": "2026-09-11",
+        "valor": 937.17
+      },
+      {
+        "fecha": "2026-09-12",
         "valor": 937.17
       }
     ],
@@ -762,6 +776,10 @@
       {
         "fecha": "2026-09-11",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-12",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -988,6 +1006,10 @@
       {
         "fecha": "2026-09-11",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-12",
+        "valor": 4.3
       }
     ]
   },
@@ -995,9 +1017,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 6.158,
+    "score": 4.711,
     "modo": "zscore",
-    "valor_actual": 40901.94,
-    "fecha": "2026-09-11"
+    "valor_actual": 40910.1,
+    "fecha": "2026-09-12"
   }
 }
