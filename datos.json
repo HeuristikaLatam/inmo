@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-12T22:43:24.919199+00:00",
+  "generado": "2026-09-13T12:58:41.073724+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40910.1,
-      "fecha": "2026-09-12T03:00:00.000Z"
+      "valor": 40918.25,
+      "fecha": "2026-09-13T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,12 +55,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IPC de EEUU en agosto cumple las expectativas pero no reduce las apuestas por un alza de tasas de la Fed",
-      "link": "http://www.df.cl/internacional/economia/ipc-de-agosto-en-eeuu-subio-0-4-mensual-en-linea-con-las-expectativas",
-      "fecha": "Fri, 11 Sep 2026 15:28:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Fonavi: Quiénes podrán acceder y cómo rebajará el pie y los dividendos de la primera vivienda",
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/fonavi-quienes-podran-acceder-y-como-rebajara-el-pie-y-los-dividendos/2026-09-11/085106.html",
       "fecha": "Fri, 11 Sep 2026 08:51:06 -0300",
@@ -73,27 +67,33 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Gobierno define destino de sobrevivientes tras fatal incendio en residencia de Pitrufquén",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/09/12/gobierno-define-destino-de-sobrevivientes-tras-fatal-incendio-en-residencia-de-pitrufquen.shtml",
-      "fecha": "Sat, 12 Sep 2026 22:35:02 +0000",
+      "titulo": "Restauración de Palacio Carrasco de Viña del Mar contempla inversión de 10 millones de dólares",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/13/restauracion-de-palacio-carrasco-de-vina-del-mar-contempla-inversion-de-10-millones-de-dolares.shtml",
+      "fecha": "Sun, 13 Sep 2026 12:26:52 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "\"Jaula\" Bahamondes demolió al ruso Salikhov y logró primer triunfo welter en la UFC",
-      "link": "https://www.biobiochile.cl/noticias/deportes/mas-deportes/2026/09/12/jaula-bahamondes-gano-a-ruso-salikhov-noche-ufc.shtml",
-      "fecha": "Sat, 12 Sep 2026 21:17:25 +0000",
+      "titulo": "La chilena que sufrió una estafa, durmió en el suelo y conquistó la TV española con sus sopaipillas",
+      "link": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/09/13/la-chilena-que-sufrio-una-estafa-durmio-en-el-suelo-y-conquisto-la-tv-espanola-con-sus-sopaipillas.shtml",
+      "fecha": "Sun, 13 Sep 2026 12:21:50 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "SS11 del WRC Chile se neutralizó con bandera roja: Calle Carlberg sufrió choque de alto impacto",
-      "link": "https://www.biobiochile.cl/especial/wrc2026/noticias/2026/09/12/rally-chile-biobio-neutralizan-etapa-11-por-choque-calle-carlberg.shtml",
-      "fecha": "Sat, 12 Sep 2026 20:39:21 +0000",
+      "titulo": "Conductora sufre portonazo en sector de Gómez Carreño en Viña del Mar: delincuente huyó con vehículo",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/13/conductora-sufre-portonazo-en-sector-de-gomez-carreno-en-vina-del-mar.shtml",
+      "fecha": "Sun, 13 Sep 2026 12:10:13 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Cobresal superó con sufrimiento a Coquimbo y escapó de la zona de descenso en La Liga de Primera",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/12/cobresal-supero-con-sufrimiento-a-coquimbo-y-escapo-de-la-zona-de-descenso-en-la-liga-de-primera.shtml",
-      "fecha": "Sat, 12 Sep 2026 20:26:11 +0000",
+      "titulo": "Orgullo y euforia: Stephanie Vaquer sorprende vestida de huasa en WWE Santiago",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/celebridades/2026/09/13/orgullo-y-euforia-stephanie-vaquer-sorprende-vestida-de-huasa-en-wwe-santiago.shtml",
+      "fecha": "Sun, 13 Sep 2026 11:55:14 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Municipalidad de Pitrufquén decreta 3 días de duelo comunal por tragedia en hogar de adultos mayores",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/09/13/municipalidad-de-pitrufquen-decreta-3-dias-de-duelo-comunal-por-tragedia-en-hogar-de-adultos-mayores.shtml",
+      "fecha": "Sun, 13 Sep 2026 11:42:20 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -330,6 +330,10 @@
       {
         "fecha": "2026-09-12",
         "valor": 40910.1
+      },
+      {
+        "fecha": "2026-09-13",
+        "valor": 40918.25
       }
     ],
     "dolar": [
@@ -563,6 +567,10 @@
       },
       {
         "fecha": "2026-09-12",
+        "valor": 937.17
+      },
+      {
+        "fecha": "2026-09-13",
         "valor": 937.17
       }
     ],
@@ -798,6 +806,10 @@
       {
         "fecha": "2026-09-12",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-13",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1028,6 +1040,10 @@
       {
         "fecha": "2026-09-12",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-13",
+        "valor": 4.3
       }
     ]
   },
@@ -1035,9 +1051,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 4.711,
+    "score": 3.955,
     "modo": "zscore",
-    "valor_actual": 40910.1,
-    "fecha": "2026-09-12"
+    "valor_actual": 40918.25,
+    "fecha": "2026-09-13"
   }
 }
