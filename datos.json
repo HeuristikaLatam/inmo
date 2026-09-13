@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-13T21:57:39.363207+00:00",
+  "generado": "2026-09-13T22:43:49.788549+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,12 +49,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Bancos, inmobiliarias y small caps: los ganadores de la bolsa que asoman con la MK4",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bancos-inmobiliarias-y-small-caps-los-ganadores-de-la-bolsa-que-asoman",
-      "fecha": "Fri, 11 Sep 2026 15:03:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Fonavi: Quiénes podrán acceder y cómo rebajará el pie y los dividendos de la primera vivienda",
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/fonavi-quienes-podran-acceder-y-como-rebajara-el-pie-y-los-dividendos/2026-09-11/085106.html",
       "fecha": "Fri, 11 Sep 2026 08:51:06 -0300",
@@ -65,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/pais/vivienda/el-bid-invertira-2-000-millones-de-dolares-para-dinamizar-el-sector/2026-09-10/225456.html",
       "fecha": "Thu, 10 Sep 2026 22:54:56 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "\"Chile está de vuelta\": el mensaje del ministro Daniel Mas a los inversionistas del Chile Day",
+      "link": "http://www.df.cl/economia-y-politica/pais/chile-esta-de-vuelta-el-mensaje-del-ministro-daniel-mas-a-los",
+      "fecha": "Sun, 13 Sep 2026 16:21:16 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
