@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-13T22:43:49.788549+00:00",
+  "generado": "2026-09-14T14:35:51.351642+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40918.25,
-      "fecha": "2026-09-13T03:00:00.000Z"
+      "valor": 40926.41,
+      "fecha": "2026-09-14T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 937.17,
-      "fecha": "2026-09-11T03:00:00.000Z"
+      "valor": 940.91,
+      "fecha": "2026-09-14T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-11T03:00:00.000Z"
+      "fecha": "2026-09-14T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,21 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar despega más de $ 16 y bordea los $ 960 mientras el petróleo reanuda su escalada antes de una esperada subida de tasas en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mcvky",
+      "fecha": "Mon, 14 Sep 2026 14:30:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "ChileDay 2026: Quiroz pone el foco en MK4 y cuadruplicar la tasa de crecimiento de la inversión en el país",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/chileday-2026-quiroz-pone-el-foco-en-mk4-y-cuadruplicar-la-tasa-de",
+      "fecha": "Mon, 14 Sep 2026 10:06:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Arabia Saudí cierra su oleoducto alternativo a Ormuz tras sufrir varios ataques",
       "link": "http://www.df.cl/internacional/politica/arabia-saudi-cierra-su-oleoducto-alternativo-a-ormuz-tras-sufrir-varios",
       "fecha": "Sat, 12 Sep 2026 07:37:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IPSA cierra una séptima jornada de caídas tras datos de inflación que llevarían a la Fed a subir tasas la próxima semana",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-agres",
-      "fecha": "Sat, 12 Sep 2026 01:09:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra en nuevos máximos desde julio ya que el IPC consolidó la expectativa de una próxima subida de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-patdj",
-      "fecha": "Fri, 11 Sep 2026 19:16:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "\"Chile está de vuelta\": el mensaje del ministro Daniel Mas a los inversionistas del Chile Day",
-      "link": "http://www.df.cl/economia-y-politica/pais/chile-esta-de-vuelta-el-mensaje-del-ministro-daniel-mas-a-los",
-      "fecha": "Sun, 13 Sep 2026 16:21:16 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Cambia tu estufa por un aire acondicionado si vives en alguna de estas 20 comunas: plazo vence mañana",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/09/14/cambia-tu-estufa-por-un-aire-acondicionado-si-vives-en-alguna-de-estas-20-comunas-plazo-vence-manana.shtml",
+      "fecha": "Mon, 14 Sep 2026 14:29:29 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -304,6 +304,10 @@
       {
         "fecha": "2026-09-13",
         "valor": 40918.25
+      },
+      {
+        "fecha": "2026-09-14",
+        "valor": 40926.41
       }
     ],
     "dolar": [
@@ -542,6 +546,10 @@
       {
         "fecha": "2026-09-13",
         "valor": 937.17
+      },
+      {
+        "fecha": "2026-09-14",
+        "valor": 940.91
       }
     ],
     "tpm": [
@@ -780,6 +788,10 @@
       {
         "fecha": "2026-09-13",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-14",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1014,6 +1026,10 @@
       {
         "fecha": "2026-09-13",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-14",
+        "valor": 4.3
       }
     ]
   },
@@ -1021,9 +1037,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 3.955,
+    "score": 3.484,
     "modo": "zscore",
-    "valor_actual": 40918.25,
-    "fecha": "2026-09-13"
+    "valor_actual": 40926.41,
+    "fecha": "2026-09-14"
   }
 }
