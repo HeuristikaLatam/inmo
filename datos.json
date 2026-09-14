@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T14:35:51.351642+00:00",
+  "generado": "2026-09-14T22:52:19.526549+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar despega más de $ 16 y bordea los $ 960 mientras el petróleo reanuda su escalada antes de una esperada subida de tasas en EEUU",
+      "titulo": "Dólar despega a niveles de $ 960 y cierra en máximos desde octubre de 2025 con miras a la esperada subida de tasas en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mcvky",
-      "fecha": "Mon, 14 Sep 2026 14:30:45 GMT",
+      "fecha": "Mon, 14 Sep 2026 19:08:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "LarrainVial ingresa en la propiedad de gestora de activos alternativos CIO Invest",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/larrainvial-ingresa-en-la-propiedad-de-gestora-de-activos-alternativos-cio",
+      "fecha": "Mon, 14 Sep 2026 22:02:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Warsh y Trump en rumbo de colisión mientras el mercado anticipa un alza de tasas de la Reserva Federal",
+      "link": "http://www.df.cl/internacional/ft/warsh-y-trump-en-rumbo-de-colision-mientras-el-mercado-anticipa-un-alza-de",
+      "fecha": "Mon, 14 Sep 2026 22:06:12 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "ChileDay 2026: Quiroz pone el foco en MK4 y cuadruplicar la tasa de crecimiento de la inversión en el país",
       "link": "http://www.df.cl/economia-y-politica/actualidad/chileday-2026-quiroz-pone-el-foco-en-mk4-y-cuadruplicar-la-tasa-de",
-      "fecha": "Mon, 14 Sep 2026 10:06:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Arabia Saudí cierra su oleoducto alternativo a Ormuz tras sufrir varios ataques",
-      "link": "http://www.df.cl/internacional/politica/arabia-saudi-cierra-su-oleoducto-alternativo-a-ormuz-tras-sufrir-varios",
-      "fecha": "Sat, 12 Sep 2026 07:37:57 GMT",
+      "fecha": "Mon, 14 Sep 2026 21:51:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,9 +67,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Cambia tu estufa por un aire acondicionado si vives en alguna de estas 20 comunas: plazo vence mañana",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/09/14/cambia-tu-estufa-por-un-aire-acondicionado-si-vives-en-alguna-de-estas-20-comunas-plazo-vence-manana.shtml",
-      "fecha": "Mon, 14 Sep 2026 14:29:29 +0000",
+      "titulo": "Reconstrucción de Hotel Alto Nevados costaría cerca de US$7 millones y esperan reabrirlo en 2027",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/09/14/reconstruccion-de-hotel-alto-nevados-costaria-cerca-de-us7-millones-y-esperan-reabrirlo-en-2027.shtml",
+      "fecha": "Mon, 14 Sep 2026 22:45:55 +0000",
       "fuente": "BioBioChile"
     }
   ],
