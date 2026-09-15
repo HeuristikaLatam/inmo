@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-15T13:02:01.170034+00:00",
+  "generado": "2026-09-15T14:15:17.069809+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,18 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Bolsa chilena cae y Wall Street abre en rojo mientras la principal tasa soberana de EEUU alcanza máximos de casi dos décadas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ggw8e",
+      "fecha": "Tue, 15 Sep 2026 13:50:25 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ministro de Vivienda y Urbanismo pide la renuncia del seremi de Antofagasta tras polémica por recorte habitacional",
+      "link": "http://www.df.cl/regiones/antofagasta/polemica-por-recorte-habitacional-termina-con-la-salida-del-seremi-de",
+      "fecha": "Tue, 15 Sep 2026 14:03:15 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar abre plano mientras la divisa sigue apreciándose globalmente ante el inicio de la reunión de política monetaria en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b2h9f",
@@ -88,12 +100,6 @@
       "titulo": "Desplome inmobiliario en China no claudica: Precios de viviendas nuevas llevan casi 4 años a la baja",
       "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/15/desplome-inmobiliario-en-china-no-claudica-precios-de-viviendas-nuevas-llevan-casi-4-anos-a-la-baja.shtml",
       "fecha": "Tue, 15 Sep 2026 12:44:58 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "\"Graves falencias en gestión\": Poduje explica renuncia de seremi de Vivienda de Antofagasta",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/09/15/graves-falencias-en-gestion-poduje-explica-renuncia-de-seremi-de-vivienda-de-antofagasta.shtml",
-      "fecha": "Tue, 15 Sep 2026 11:43:30 +0000",
       "fuente": "BioBioChile"
     }
   ],
