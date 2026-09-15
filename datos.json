@@ -1,35 +1,65 @@
 {
-  "generado": "2026-09-14T23:37:00.857610+00:00",
+  "generado": "2026-09-15T13:02:01.170034+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40926.41,
-      "fecha": "2026-09-14T03:00:00.000Z"
+      "valor": 40934.58,
+      "fecha": "2026-09-15T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 940.91,
-      "fecha": "2026-09-14T03:00:00.000Z"
+      "valor": 957.53,
+      "fecha": "2026-09-15T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-14T03:00:00.000Z"
+      "fecha": "2026-09-15T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
     "nombre": "Tasa hipotecaria promedio (TIP)",
     "unidad": "Porcentaje",
-    "valor": 4.3,
-    "fecha": "2026-08-14",
+    "valor": 4.34,
+    "fecha": "2026-09-15",
     "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.3
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.34
     }
   },
   "titulares": [
+    {
+      "titulo": "Dólar abre plano mientras la divisa sigue apreciándose globalmente ante el inicio de la reunión de política monetaria en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b2h9f",
+      "fecha": "Tue, 15 Sep 2026 11:42:21 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Tasa de los bonos a 10 años supera temido nivel a la espera de la Fed, mientras el dólar y el petróleo suman nuevas alzas",
+      "link": "http://www.df.cl/primer-click/tasa-de-los-bonos-a-10-anos-supera-temido-nivel-a-la-espera-de-la-fed",
+      "fecha": "Tue, 15 Sep 2026 10:41:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IVA a la vivienda: rebaja anunciada, certeza pendiente",
+      "link": "http://www.df.cl/opinion/cartas/iva-a-la-vivienda-rebaja-anunciada-certeza-pendiente",
+      "fecha": "Mon, 14 Sep 2026 22:47:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "OOPP, Salud, Vivienda y GORE: las razones de la caída de la inversión pública que está en la mira de Hacienda",
+      "link": "http://www.df.cl/economia-y-politica/macro/oopp-salud-vivienda-y-gore-las-razones-de-la-caida-de-la-inversion",
+      "fecha": "Mon, 14 Sep 2026 23:27:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Quiroz pone foco en cuadriplicar la tasa de crecimiento de la inversión en el país",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/chileday-2026-quiroz-pone-el-foco-en-mk4-y-cuadruplicar-la-tasa-de",
+      "fecha": "Tue, 15 Sep 2026 00:21:59 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Dólar despega a niveles de $ 960 y cierra en máximos desde octubre de 2025 con miras a la esperada subida de tasas en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mcvky",
@@ -40,18 +70,6 @@
       "titulo": "LarrainVial ingresa en la propiedad de gestora de activos alternativos CIO Invest",
       "link": "http://www.df.cl/mercados/fondos-de-inversion/larrainvial-ingresa-en-la-propiedad-de-gestora-de-activos-alternativos-cio",
       "fecha": "Mon, 14 Sep 2026 22:02:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Warsh y Trump en rumbo de colisión mientras el mercado anticipa un alza de tasas de la Reserva Federal",
-      "link": "http://www.df.cl/internacional/ft/warsh-y-trump-en-rumbo-de-colision-mientras-el-mercado-anticipa-un-alza-de",
-      "fecha": "Mon, 14 Sep 2026 22:06:12 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "ChileDay 2026: Quiroz pone el foco en MK4 y cuadruplicar la tasa de crecimiento de la inversión en el país",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/chileday-2026-quiroz-pone-el-foco-en-mk4-y-cuadruplicar-la-tasa-de",
-      "fecha": "Mon, 14 Sep 2026 21:51:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,9 +85,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Reconstrucción de Hotel Alto Nevados costaría cerca de US$7 millones y esperan reabrirlo en 2027",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/09/14/reconstruccion-de-hotel-alto-nevados-costaria-cerca-de-us7-millones-y-esperan-reabrirlo-en-2027.shtml",
-      "fecha": "Mon, 14 Sep 2026 22:45:55 +0000",
+      "titulo": "Desplome inmobiliario en China no claudica: Precios de viviendas nuevas llevan casi 4 años a la baja",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/15/desplome-inmobiliario-en-china-no-claudica-precios-de-viviendas-nuevas-llevan-casi-4-anos-a-la-baja.shtml",
+      "fecha": "Tue, 15 Sep 2026 12:44:58 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "\"Graves falencias en gestión\": Poduje explica renuncia de seremi de Vivienda de Antofagasta",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/09/15/graves-falencias-en-gestion-poduje-explica-renuncia-de-seremi-de-vivienda-de-antofagasta.shtml",
+      "fecha": "Tue, 15 Sep 2026 11:43:30 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -314,6 +338,10 @@
       {
         "fecha": "2026-09-14",
         "valor": 40926.41
+      },
+      {
+        "fecha": "2026-09-15",
+        "valor": 40934.58
       }
     ],
     "dolar": [
@@ -556,6 +584,10 @@
       {
         "fecha": "2026-09-14",
         "valor": 940.91
+      },
+      {
+        "fecha": "2026-09-15",
+        "valor": 957.53
       }
     ],
     "tpm": [
@@ -798,6 +830,10 @@
       {
         "fecha": "2026-09-14",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-15",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1036,16 +1072,20 @@
       {
         "fecha": "2026-09-14",
         "valor": 4.3
+      },
+      {
+        "fecha": "2026-09-15",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 3.484,
+    "indicador": "tasa_hipotecaria",
+    "nombre": "la tasa hipotecaria promedio",
+    "cambio_pct": 0.93,
+    "score": 7.478,
     "modo": "zscore",
-    "valor_actual": 40926.41,
-    "fecha": "2026-09-14"
+    "valor_actual": 4.34,
+    "fecha": "2026-09-15"
   }
 }
