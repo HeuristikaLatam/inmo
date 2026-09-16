@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-15T14:15:17.069809+00:00",
+  "generado": "2026-09-16T12:58:51.989772+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40934.58,
-      "fecha": "2026-09-15T03:00:00.000Z"
+      "valor": 40942.74,
+      "fecha": "2026-09-16T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 957.53,
-      "fecha": "2026-09-15T03:00:00.000Z"
+      "valor": 955.37,
+      "fecha": "2026-09-16T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-15T03:00:00.000Z"
+      "fecha": "2026-09-16T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,76 +31,64 @@
   },
   "titulares": [
     {
-      "titulo": "Bolsa chilena cae y Wall Street abre en rojo mientras la principal tasa soberana de EEUU alcanza máximos de casi dos décadas",
+      "titulo": "La opción de mantener la tasa fue “claramente dominante” en la última reunión del Banco Central",
+      "link": "http://www.df.cl/economia-y-politica/macro/la-opcion-de-mantener-la-tasa-fue-claramente-dominante-en-la-ultima",
+      "fecha": "Wed, 16 Sep 2026 12:57:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Encuesta de la Universidad de Chicago muestra amplio respaldo de economistas top a un alza de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/ft/encuesta-de-la-universidad-de-chicago-muestra-amplio-respaldo-de",
+      "fecha": "Wed, 16 Sep 2026 12:26:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre levemente a la baja cerca de $ 950 en jornada clave por la expectativa de un alza en las tasas de interés en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hucn2",
+      "fecha": "Wed, 16 Sep 2026 11:47:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La Fed prepara su primera alza de tasas en 38 meses y los mercados hacen una pausa antes del veredicto",
+      "link": "http://www.df.cl/primer-click/la-fed-prepara-su-primera-alza-de-tasas-en-38-meses-y-los-mercados-hacen",
+      "fecha": "Wed, 16 Sep 2026 10:31:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Economistas y el sector empresarial ponen condiciones al plan de emergencia laboral de Kast: “Por sí solo, no es suficiente”",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/economistas-y-el-sector-empresarial-ponen-condiciones-al-plan-de-emergencia",
+      "fecha": "Tue, 15 Sep 2026 23:16:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El Minvu defiende su ejecución presupuestaria con foco en una mayor construcción de viviendas este año",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-minvu-defiende-su-ejecucion-presupuestaria-con-foco-en-una-mayor",
+      "fecha": "Tue, 15 Sep 2026 22:20:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Tras orden de la CMF: fondo de capital privado de LarrainVial inicia liquidación por patrimonio insuficiente",
+      "link": "http://www.df.cl/mercados/fondos-de-inversion/fondo-de-capital-privado-de-larrainvial-inicia-liquidacion-por-orden-de-la",
+      "fecha": "Wed, 16 Sep 2026 00:22:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dirección General del Crédito Prendario (La Tía Rica) eleva a $ 30 mil la tasación del gramo de oro en Antofagasta y Copiapó",
+      "link": "http://www.df.cl/regiones/antofagasta/direccion-general-del-credito-prendario-la-tia-rica-eleva-a-30-mil-la",
+      "fecha": "Tue, 15 Sep 2026 21:42:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Bolsa chilena y Wall Street cierran a la baja después de que principal tasa soberana de EEUU alcanzara máximos de casi dos décadas",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ggw8e",
-      "fecha": "Tue, 15 Sep 2026 13:50:25 GMT",
+      "fecha": "Tue, 15 Sep 2026 20:02:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ministro de Vivienda y Urbanismo pide la renuncia del seremi de Antofagasta tras polémica por recorte habitacional",
-      "link": "http://www.df.cl/regiones/antofagasta/polemica-por-recorte-habitacional-termina-con-la-salida-del-seremi-de",
-      "fecha": "Tue, 15 Sep 2026 14:03:15 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar abre plano mientras la divisa sigue apreciándose globalmente ante el inicio de la reunión de política monetaria en EEUU",
+      "titulo": "Dólar cierra con leve caída desde sus máximos a medida que el cobre repunta con mercados atentos a decisión de la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b2h9f",
-      "fecha": "Tue, 15 Sep 2026 11:42:21 GMT",
+      "fecha": "Tue, 15 Sep 2026 19:15:11 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tasa de los bonos a 10 años supera temido nivel a la espera de la Fed, mientras el dólar y el petróleo suman nuevas alzas",
-      "link": "http://www.df.cl/primer-click/tasa-de-los-bonos-a-10-anos-supera-temido-nivel-a-la-espera-de-la-fed",
-      "fecha": "Tue, 15 Sep 2026 10:41:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IVA a la vivienda: rebaja anunciada, certeza pendiente",
-      "link": "http://www.df.cl/opinion/cartas/iva-a-la-vivienda-rebaja-anunciada-certeza-pendiente",
-      "fecha": "Mon, 14 Sep 2026 22:47:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "OOPP, Salud, Vivienda y GORE: las razones de la caída de la inversión pública que está en la mira de Hacienda",
-      "link": "http://www.df.cl/economia-y-politica/macro/oopp-salud-vivienda-y-gore-las-razones-de-la-caida-de-la-inversion",
-      "fecha": "Mon, 14 Sep 2026 23:27:56 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Quiroz pone foco en cuadriplicar la tasa de crecimiento de la inversión en el país",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/chileday-2026-quiroz-pone-el-foco-en-mk4-y-cuadruplicar-la-tasa-de",
-      "fecha": "Tue, 15 Sep 2026 00:21:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar despega a niveles de $ 960 y cierra en máximos desde octubre de 2025 con miras a la esperada subida de tasas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-mcvky",
-      "fecha": "Mon, 14 Sep 2026 19:08:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "LarrainVial ingresa en la propiedad de gestora de activos alternativos CIO Invest",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/larrainvial-ingresa-en-la-propiedad-de-gestora-de-activos-alternativos-cio",
-      "fecha": "Mon, 14 Sep 2026 22:02:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Fonavi: Quiénes podrán acceder y cómo rebajará el pie y los dividendos de la primera vivienda",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/fonavi-quienes-podran-acceder-y-como-rebajara-el-pie-y-los-dividendos/2026-09-11/085106.html",
-      "fecha": "Fri, 11 Sep 2026 08:51:06 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El BID invertirá 2.000 millones de dólares para dinamizar el sector vivienda en Chile",
-      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/el-bid-invertira-2-000-millones-de-dolares-para-dinamizar-el-sector/2026-09-10/225456.html",
-      "fecha": "Thu, 10 Sep 2026 22:54:56 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Desplome inmobiliario en China no claudica: Precios de viviendas nuevas llevan casi 4 años a la baja",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/15/desplome-inmobiliario-en-china-no-claudica-precios-de-viviendas-nuevas-llevan-casi-4-anos-a-la-baja.shtml",
-      "fecha": "Tue, 15 Sep 2026 12:44:58 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -348,6 +336,10 @@
       {
         "fecha": "2026-09-15",
         "valor": 40934.58
+      },
+      {
+        "fecha": "2026-09-16",
+        "valor": 40942.74
       }
     ],
     "dolar": [
@@ -594,6 +586,10 @@
       {
         "fecha": "2026-09-15",
         "valor": 957.53
+      },
+      {
+        "fecha": "2026-09-16",
+        "valor": 955.37
       }
     ],
     "tpm": [
@@ -840,6 +836,10 @@
       {
         "fecha": "2026-09-15",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-16",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1082,16 +1082,20 @@
       {
         "fecha": "2026-09-15",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-16",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "tasa_hipotecaria",
-    "nombre": "la tasa hipotecaria promedio",
-    "cambio_pct": 0.93,
-    "score": 7.478,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.02,
+    "score": 2.888,
     "modo": "zscore",
-    "valor_actual": 4.34,
-    "fecha": "2026-09-15"
+    "valor_actual": 40942.74,
+    "fecha": "2026-09-16"
   }
 }
