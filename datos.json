@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-16T12:58:51.989772+00:00",
+  "generado": "2026-09-16T14:08:07.000396+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,18 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "El Banco Central acelera el paso para la internacionalización del peso",
+      "link": "http://www.df.cl/mercados/banca-fintech/el-banco-central-acelera-el-paso-para-la-internacionalizacion-del-peso",
+      "fecha": "Wed, 16 Sep 2026 13:46:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Tras voraz incendio, Nevados de Chillán anuncia pronta reconstrucción del hotel: “Nuestro objetivo es un recinto moderno y seguro”",
+      "link": "http://www.df.cl/regiones/nuble/empresas/nevados-de-chillan-anuncia-pronta-reconstruccion-del-hotel-tras-incendio",
+      "fecha": "Wed, 16 Sep 2026 13:06:17 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "La opción de mantener la tasa fue “claramente dominante” en la última reunión del Banco Central",
       "link": "http://www.df.cl/economia-y-politica/macro/la-opcion-de-mantener-la-tasa-fue-claramente-dominante-en-la-ultima",
@@ -76,18 +88,6 @@
       "titulo": "Dirección General del Crédito Prendario (La Tía Rica) eleva a $ 30 mil la tasación del gramo de oro en Antofagasta y Copiapó",
       "link": "http://www.df.cl/regiones/antofagasta/direccion-general-del-credito-prendario-la-tia-rica-eleva-a-30-mil-la",
       "fecha": "Tue, 15 Sep 2026 21:42:10 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bolsa chilena y Wall Street cierran a la baja después de que principal tasa soberana de EEUU alcanzara máximos de casi dos décadas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ggw8e",
-      "fecha": "Tue, 15 Sep 2026 20:02:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra con leve caída desde sus máximos a medida que el cobre repunta con mercados atentos a decisión de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b2h9f",
-      "fecha": "Tue, 15 Sep 2026 19:15:11 GMT",
       "fuente": "Diario Financiero"
     }
   ],
