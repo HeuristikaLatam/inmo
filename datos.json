@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-16T14:08:07.000396+00:00",
+  "generado": "2026-09-16T22:30:25.599557+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,18 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar retoma niveles de $ 960 y cierra en máximos desde octubre de 2025 tras la primera alza de tasas de la Fed en más de tres años",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hucn2",
+      "fecha": "Wed, 16 Sep 2026 20:11:53 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La Fed sube la tasa de interés por primera vez desde 2023 y Trump responde con nuevas presiones para que la baje",
+      "link": "http://www.df.cl/internacional/economia/la-fed-cumple-con-las-expectativas-y-sube-las-tasas-de-interes-por-primera",
+      "fecha": "Wed, 16 Sep 2026 21:13:23 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "El Banco Central acelera el paso para la internacionalización del peso",
       "link": "http://www.df.cl/mercados/banca-fintech/el-banco-central-acelera-el-paso-para-la-internacionalizacion-del-peso",
       "fecha": "Wed, 16 Sep 2026 13:46:12 GMT",
@@ -55,12 +67,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar abre levemente a la baja cerca de $ 950 en jornada clave por la expectativa de un alza en las tasas de interés en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hucn2",
-      "fecha": "Wed, 16 Sep 2026 11:47:08 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "La Fed prepara su primera alza de tasas en 38 meses y los mercados hacen una pausa antes del veredicto",
       "link": "http://www.df.cl/primer-click/la-fed-prepara-su-primera-alza-de-tasas-en-38-meses-y-los-mercados-hacen",
       "fecha": "Wed, 16 Sep 2026 10:31:17 GMT",
@@ -73,22 +79,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El Minvu defiende su ejecución presupuestaria con foco en una mayor construcción de viviendas este año",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-minvu-defiende-su-ejecucion-presupuestaria-con-foco-en-una-mayor",
-      "fecha": "Tue, 15 Sep 2026 22:20:33 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Incendio de Pitrufquén: una responsabilidad compartida",
+      "link": "https://www.biobiochile.cl/noticias/opinion/tu-voz/2026/09/16/incendio-de-pitrufquen-una-responsabilidad-compartida.shtml",
+      "fecha": "Wed, 16 Sep 2026 21:17:52 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Tras orden de la CMF: fondo de capital privado de LarrainVial inicia liquidación por patrimonio insuficiente",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/fondo-de-capital-privado-de-larrainvial-inicia-liquidacion-por-orden-de-la",
-      "fecha": "Wed, 16 Sep 2026 00:22:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dirección General del Crédito Prendario (La Tía Rica) eleva a $ 30 mil la tasación del gramo de oro en Antofagasta y Copiapó",
-      "link": "http://www.df.cl/regiones/antofagasta/direccion-general-del-credito-prendario-la-tia-rica-eleva-a-30-mil-la",
-      "fecha": "Tue, 15 Sep 2026 21:42:10 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Poduje endurece tono tras salida de seremi de Vivienda en Antofagasta: \"Seremi que no funciona se va\"",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/16/poduje-endurece-tono-tras-salida-de-seremi-de-vivienda-en-antofagasta-seremi-que-no-funciona-se-va.shtml",
+      "fecha": "Wed, 16 Sep 2026 20:57:40 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
