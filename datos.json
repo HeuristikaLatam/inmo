@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-16T23:26:01.504744+00:00",
+  "generado": "2026-09-17T12:54:08.638358+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40942.74,
-      "fecha": "2026-09-16T03:00:00.000Z"
+      "valor": 40950.9,
+      "fecha": "2026-09-17T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 955.37,
-      "fecha": "2026-09-16T03:00:00.000Z"
+      "valor": 954.85,
+      "fecha": "2026-09-17T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-16T03:00:00.000Z"
+      "fecha": "2026-09-17T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,58 +31,40 @@
   },
   "titulares": [
     {
+      "titulo": "Banco de Inglaterra mantiene las tasas y advierte una posible alza si la guerra en Irán persiste",
+      "link": "http://www.df.cl/internacional/ft/banco-de-inglaterra-mantiene-las-tasas-y-advierte-una-posible-alza-si-la",
+      "fecha": "Thu, 17 Sep 2026 12:52:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El corretaje de propiedades y la falta de empleo: el difícil camino laboral de los condenados en Caso Audio",
+      "link": "http://www.df.cl/df-mas/coffee-break/el-corretaje-de-propiedades-y-la-falta-de-empleo-el-dificil-camino-laboral",
+      "fecha": "Thu, 17 Sep 2026 12:51:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre con leve caída desde sus máximos en 11 meses tras el anuncio de tasas de la Fed que sacudió a los mercados",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b3oum",
+      "fecha": "Thu, 17 Sep 2026 11:42:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Una inflación “demasiado alta” obliga a la Fed a subir tasas y abre la puerta a un nuevo ciclo de alzas",
+      "link": "http://www.df.cl/internacional/economia/la-fed-cumple-con-las-expectativas-y-sube-las-tasas-de-interes-por-primera",
+      "fecha": "Thu, 17 Sep 2026 09:48:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar retoma niveles de $ 960 y cierra en máximos desde octubre de 2025 tras la primera alza de tasas de la Fed en más de tres años",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hucn2",
       "fecha": "Wed, 16 Sep 2026 20:11:53 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La Fed sube la tasa de interés por primera vez desde 2023 y Trump responde con nuevas presiones para que la baje",
-      "link": "http://www.df.cl/internacional/economia/la-fed-cumple-con-las-expectativas-y-sube-las-tasas-de-interes-por-primera",
-      "fecha": "Wed, 16 Sep 2026 21:13:23 GMT",
+      "titulo": "Davor Luksic renueva sus votos matrimoniales en Roma",
+      "link": "http://www.df.cl/df-mas/coffee-break/davor-luksic-renueva-sus-votos-matrimoniales-en-roma",
+      "fecha": "Thu, 17 Sep 2026 12:53:22 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El Banco Central acelera el paso para la internacionalización del peso",
-      "link": "http://www.df.cl/mercados/banca-fintech/el-banco-central-acelera-el-paso-para-la-internacionalizacion-del-peso",
-      "fecha": "Wed, 16 Sep 2026 13:46:12 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tras voraz incendio, Nevados de Chillán anuncia pronta reconstrucción del hotel: “Nuestro objetivo es un recinto moderno y seguro”",
-      "link": "http://www.df.cl/regiones/nuble/empresas/nevados-de-chillan-anuncia-pronta-reconstruccion-del-hotel-tras-incendio",
-      "fecha": "Wed, 16 Sep 2026 13:06:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La opción de mantener la tasa fue “claramente dominante” en la última reunión del Banco Central",
-      "link": "http://www.df.cl/economia-y-politica/macro/la-opcion-de-mantener-la-tasa-fue-claramente-dominante-en-la-ultima",
-      "fecha": "Wed, 16 Sep 2026 12:57:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Encuesta de la Universidad de Chicago muestra amplio respaldo de economistas top a un alza de tasas de la Fed",
-      "link": "http://www.df.cl/internacional/ft/encuesta-de-la-universidad-de-chicago-muestra-amplio-respaldo-de",
-      "fecha": "Wed, 16 Sep 2026 12:26:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La Fed prepara su primera alza de tasas en 38 meses y los mercados hacen una pausa antes del veredicto",
-      "link": "http://www.df.cl/primer-click/la-fed-prepara-su-primera-alza-de-tasas-en-38-meses-y-los-mercados-hacen",
-      "fecha": "Wed, 16 Sep 2026 10:31:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Economistas y el sector empresarial ponen condiciones al plan de emergencia laboral de Kast: “Por sí solo, no es suficiente”",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/economistas-y-el-sector-empresarial-ponen-condiciones-al-plan-de-emergencia",
-      "fecha": "Tue, 15 Sep 2026 23:16:10 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "De construcción hasta gastronomía: Colombia anuncia acuerdo con Chile para reconocer trabajadores",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/16/de-construccion-hasta-gastronomia-colombia-anuncia-acuerdo-con-chile-para-reconocer-trabajadores.shtml",
-      "fecha": "Wed, 16 Sep 2026 22:31:26 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -334,6 +316,10 @@
       {
         "fecha": "2026-09-16",
         "valor": 40942.74
+      },
+      {
+        "fecha": "2026-09-17",
+        "valor": 40950.9
       }
     ],
     "dolar": [
@@ -584,6 +570,10 @@
       {
         "fecha": "2026-09-16",
         "valor": 955.37
+      },
+      {
+        "fecha": "2026-09-17",
+        "valor": 954.85
       }
     ],
     "tpm": [
@@ -834,6 +824,10 @@
       {
         "fecha": "2026-09-16",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-17",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1080,6 +1074,10 @@
       {
         "fecha": "2026-09-16",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-17",
+        "valor": 4.34
       }
     ]
   },
@@ -1087,9 +1085,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.888,
+    "score": 2.686,
     "modo": "zscore",
-    "valor_actual": 40942.74,
-    "fecha": "2026-09-16"
+    "valor_actual": 40950.9,
+    "fecha": "2026-09-17"
   }
 }
