@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-17T12:54:08.638358+00:00",
+  "generado": "2026-09-17T14:12:54.304151+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,24 @@
   },
   "titulares": [
     {
+      "titulo": "Primer Click | Cumbre Xi Jinping-Donald Trump: cuando la tregua es suficiente",
+      "link": "http://www.df.cl/senal-df/primer-click-de-la-semana/primer-click-cuando-la-tregua-es-suficiente",
+      "fecha": "Thu, 17 Sep 2026 14:12:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mayor inflación y alza del dólar costaron $335 mil millones a empresas del IPSA y su incidencia subió 56%",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mayor-inflacion-y-alza-del-dolar-costaron-335-mil-millones-a-empresas-del",
+      "fecha": "Thu, 17 Sep 2026 14:09:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Sergio Lehmann y la meta de Quiroz: “Bajo el actual marco, llegar a una tasa de desempleo de 6,5% no se ve factible”",
+      "link": "http://www.df.cl/senal-df/factor-economico/sergio-lehmann-y-la-meta-de-quiroz-bajo-el-actual-marco-llegar-a-una",
+      "fecha": "Thu, 17 Sep 2026 13:59:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Banco de Inglaterra mantiene las tasas y advierte una posible alza si la guerra en Irán persiste",
       "link": "http://www.df.cl/internacional/ft/banco-de-inglaterra-mantiene-las-tasas-y-advierte-una-posible-alza-si-la",
       "fecha": "Thu, 17 Sep 2026 12:52:16 GMT",
@@ -39,13 +57,13 @@
     {
       "titulo": "El corretaje de propiedades y la falta de empleo: el difícil camino laboral de los condenados en Caso Audio",
       "link": "http://www.df.cl/df-mas/coffee-break/el-corretaje-de-propiedades-y-la-falta-de-empleo-el-dificil-camino-laboral",
-      "fecha": "Thu, 17 Sep 2026 12:51:39 GMT",
+      "fecha": "Thu, 17 Sep 2026 13:02:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Dólar abre con leve caída desde sus máximos en 11 meses tras el anuncio de tasas de la Fed que sacudió a los mercados",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b3oum",
-      "fecha": "Thu, 17 Sep 2026 11:42:30 GMT",
+      "fecha": "Thu, 17 Sep 2026 13:15:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,16 +73,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar retoma niveles de $ 960 y cierra en máximos desde octubre de 2025 tras la primera alza de tasas de la Fed en más de tres años",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hucn2",
-      "fecha": "Wed, 16 Sep 2026 20:11:53 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Cajas de Compensación podrían revisar las deudas antes de otorgar créditos: propuesta está en consulta",
+      "link": "https://www.biobiochile.cl/noticias/economia/tu-bolsillo/2026/09/17/cajas-de-compensacion-podrian-revisar-las-deudas-antes-de-otorgar-creditos-propuesta-esta-en-consulta.shtml",
+      "fecha": "Thu, 17 Sep 2026 13:37:00 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Davor Luksic renueva sus votos matrimoniales en Roma",
-      "link": "http://www.df.cl/df-mas/coffee-break/davor-luksic-renueva-sus-votos-matrimoniales-en-roma",
-      "fecha": "Thu, 17 Sep 2026 12:53:22 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Lanzan primer auto que resuelve el fastidio de la carga eléctrica: ni siquiera hay que enchufarlo",
+      "link": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/adelantos/2026/09/17/lanzan-primer-auto-que-resuelve-el-fastidio-de-la-carga-electrica-ni-siquiera-hay-que-enchufarlo.shtml",
+      "fecha": "Thu, 17 Sep 2026 13:12:05 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Funcionaria de Presidencia sufre robo en su departamento en San Miguel",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/17/funcionaria-de-presidencia-sufre-robo-en-su-departamento-en-san-miguel.shtml",
+      "fecha": "Thu, 17 Sep 2026 13:03:52 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
