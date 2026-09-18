@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-18T13:31:15.705007+00:00",
+  "generado": "2026-09-18T22:05:43.027295+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,18 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Lo que debes saber al terminar la semana I El Chile Day más concurrido de la historia y la subida de tasas de la Fed",
+      "link": "http://www.df.cl/senal-df/doble-shot/el-chile-day-mas-concurrido-de-la-historiay-la-subida-de-tasas-de-la-fed",
+      "fecha": "Fri, 18 Sep 2026 08:41:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Loretta Mester, expresidenta de la Fed de Cleveland: “Creo que esta es la primera de varias alzas de tasas que probablemente serán necesarias\"",
+      "link": "http://www.df.cl/senal-df/factor-economico/loretta-mester-expresidenta-de-la-fed-de-cleveland-creo-que-esta-es-la",
+      "fecha": "Fri, 18 Sep 2026 09:04:12 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Howard Buffett sucederá a su padre Warren como presidente de Berkshire Hathaway",
       "link": "http://www.df.cl/internacional/multinacionales/howard-buffett-sucedera-a-su-padre-warren-como-presidente-de-berkshire",
@@ -73,22 +85,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Banco de Inglaterra mantiene las tasas y advierte una posible alza si la guerra en Irán persiste",
-      "link": "http://www.df.cl/internacional/ft/banco-de-inglaterra-mantiene-las-tasas-y-advierte-una-posible-alza-si-la",
-      "fecha": "Thu, 17 Sep 2026 12:52:16 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El corretaje de propiedades y la falta de empleo: el difícil camino laboral de los condenados en Caso Audio",
-      "link": "http://www.df.cl/df-mas/coffee-break/el-corretaje-de-propiedades-y-la-falta-de-empleo-el-dificil-camino-laboral",
-      "fecha": "Thu, 17 Sep 2026 13:02:23 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Niño de dos años muere tras caer a piscina en vivienda de Romeral: PDI investiga el hecho",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2026/09/18/nino-de-dos-anos-muere-tras-caer-a-piscina-en-vivienda-de-romeral-pdi-investiga-el-hecho.shtml",
+      "fecha": "Fri, 18 Sep 2026 21:28:07 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Cifran en 2 mil millones de dólares lo ahorrado por el Fisco tras modificación del Gobierno al Mepco",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/18/cifran-en-2-mil-millones-de-dolares-lo-ahorrado-por-el-fisco-tras-modificacion-del-gobierno-al-mepco.shtml",
+      "fecha": "Fri, 18 Sep 2026 18:14:40 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
