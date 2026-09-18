@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-17T23:17:23.943548+00:00",
+  "generado": "2026-09-18T12:32:01.050695+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40950.9,
-      "fecha": "2026-09-17T03:00:00.000Z"
+      "valor": 40959.07,
+      "fecha": "2026-09-18T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "¿Volverá a los $ 1.000? Cuánto impulso tiene el dólar tras \"mano dura\" de la Fed y un Chile que apenas crece",
+      "link": "http://www.df.cl/senal-df/senales-financieras/volvera-a-los-1-000-cuanto-impulso-tiene-el-dolar-tras-mano-dura-de",
+      "fecha": "Fri, 18 Sep 2026 11:06:57 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra sobre la marca de $ 960 por primera vez en casi un año y termina una semana corta en Chile marcada por la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-b3oum",
       "fecha": "Thu, 17 Sep 2026 19:19:10 GMT",
@@ -39,25 +45,25 @@
     {
       "titulo": "Entrada en vigencia de MK4 ampliaría en hasta 23% el acceso a viviendas nuevas en Santiago",
       "link": "http://www.df.cl/senal-df/el-deal/entrada-en-vigencia-de-mk4-ampliaria-en-hasta-23-el-acceso-a-viviendas",
-      "fecha": "Thu, 17 Sep 2026 17:53:00 GMT",
+      "fecha": "Fri, 18 Sep 2026 09:10:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Primer Click | Cumbre Donald Trump-Xi Jinping: cuando la tregua es suficiente",
+      "titulo": "Primer Click de la semana | Cumbre Donald Trump-Xi Jinping: cuando la tregua es suficiente",
       "link": "http://www.df.cl/senal-df/primer-click-de-la-semana/primer-click-cumbre-donald-trump-xi-jinping-cuando-la-tregua-es",
-      "fecha": "Thu, 17 Sep 2026 14:30:24 GMT",
+      "fecha": "Fri, 18 Sep 2026 09:32:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mayor inflación y alza del dólar costaron $335 mil millones a empresas del IPSA y su incidencia subió 56%",
+      "titulo": "Mayor inflación y alza del dólar costaron $ 335 mil millones a empresas del IPSA y su incidencia subió 56%",
       "link": "http://www.df.cl/senal-df/senales-financieras/mayor-inflacion-y-alza-del-dolar-costaron-335-mil-millones-a-empresas-del",
-      "fecha": "Thu, 17 Sep 2026 19:27:57 GMT",
+      "fecha": "Fri, 18 Sep 2026 09:35:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Sergio Lehmann y la meta de Quiroz: “Bajo el actual marco, llegar a una tasa de desempleo de 6,5% no se ve factible”",
       "link": "http://www.df.cl/senal-df/factor-economico/sergio-lehmann-y-la-meta-de-quiroz-bajo-el-actual-marco-llegar-a-una",
-      "fecha": "Thu, 17 Sep 2026 17:40:33 GMT",
+      "fecha": "Fri, 18 Sep 2026 09:45:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -332,6 +338,10 @@
       {
         "fecha": "2026-09-17",
         "valor": 40950.9
+      },
+      {
+        "fecha": "2026-09-18",
+        "valor": 40959.07
       }
     ],
     "dolar": [
@@ -585,6 +595,10 @@
       },
       {
         "fecha": "2026-09-17",
+        "valor": 954.85
+      },
+      {
+        "fecha": "2026-09-18",
         "valor": 954.85
       }
     ],
@@ -840,6 +854,10 @@
       {
         "fecha": "2026-09-17",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-18",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1090,6 +1108,10 @@
       {
         "fecha": "2026-09-17",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-18",
+        "valor": 4.34
       }
     ]
   },
@@ -1097,9 +1119,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.686,
+    "score": 2.525,
     "modo": "zscore",
-    "valor_actual": 40950.9,
-    "fecha": "2026-09-17"
+    "valor_actual": 40959.07,
+    "fecha": "2026-09-18"
   }
 }
