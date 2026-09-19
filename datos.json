@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-19T13:00:03.534649+00:00",
+  "generado": "2026-09-19T21:57:35.012963+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -79,16 +79,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mayor inflación y alza del dólar costaron $ 335 mil millones a empresas del IPSA y su incidencia subió 56%",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mayor-inflacion-y-alza-del-dolar-costaron-335-mil-millones-a-empresas-del",
-      "fecha": "Fri, 18 Sep 2026 09:35:23 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "España gana primer duelo a Chile en Copa Davis: un decaído Tabilo sufrió remontada de Daniel Mérida",
+      "link": "https://www.biobiochile.cl/noticias/deportes/tenis/2026/09/19/espana-gana-primer-duelo-a-chile-en-copa-davis-un-decaido-tabilo-sufrio-remontada-de-daniel-merida.shtml",
+      "fecha": "Sat, 19 Sep 2026 18:38:54 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
