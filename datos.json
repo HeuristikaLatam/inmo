@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-18T22:55:34.149368+00:00",
+  "generado": "2026-09-19T12:10:15.790370+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40959.07,
-      "fecha": "2026-09-18T03:00:00.000Z"
+      "valor": 40967.24,
+      "fecha": "2026-09-19T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "Bachelet sufre nuevo revés en su candidatura a la ONU",
+      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/bachelet-sufre-nuevo-reves-en-su-candidatura-a-la-onu",
+      "fecha": "Fri, 18 Sep 2026 23:53:12 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Lo que debes saber al terminar la semana I El Chile Day más concurrido de la historia y la subida de tasas de la Fed",
       "link": "http://www.df.cl/senal-df/doble-shot/el-chile-day-mas-concurrido-de-la-historiay-la-subida-de-tasas-de-la-fed",
@@ -63,7 +69,7 @@
     {
       "titulo": "Entrada en vigencia de MK4 ampliaría en hasta 23% el acceso a viviendas nuevas en Santiago",
       "link": "http://www.df.cl/senal-df/el-deal/entrada-en-vigencia-de-mk4-ampliaria-en-hasta-23-el-acceso-a-viviendas",
-      "fecha": "Fri, 18 Sep 2026 09:10:27 GMT",
+      "fecha": "Fri, 18 Sep 2026 23:49:21 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -83,12 +89,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Niño de dos años muere tras caer a piscina en vivienda de Romeral: PDI investiga el hecho",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-maule/2026/09/18/nino-de-dos-anos-muere-tras-caer-a-piscina-en-vivienda-de-romeral-pdi-investiga-el-hecho.shtml",
-      "fecha": "Fri, 18 Sep 2026 21:28:07 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -348,6 +348,10 @@
       {
         "fecha": "2026-09-18",
         "valor": 40959.07
+      },
+      {
+        "fecha": "2026-09-19",
+        "valor": 40967.24
       }
     ],
     "dolar": [
@@ -605,6 +609,10 @@
       },
       {
         "fecha": "2026-09-18",
+        "valor": 954.85
+      },
+      {
+        "fecha": "2026-09-19",
         "valor": 954.85
       }
     ],
@@ -864,6 +872,10 @@
       {
         "fecha": "2026-09-18",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-19",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1118,6 +1130,10 @@
       {
         "fecha": "2026-09-18",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-19",
+        "valor": 4.34
       }
     ]
   },
@@ -1125,9 +1141,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.525,
+    "score": 2.386,
     "modo": "zscore",
-    "valor_actual": 40959.07,
-    "fecha": "2026-09-18"
+    "valor_actual": 40967.24,
+    "fecha": "2026-09-19"
   }
 }
