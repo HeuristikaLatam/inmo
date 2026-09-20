@@ -1,11 +1,11 @@
 {
-  "generado": "2026-09-19T22:35:20.318634+00:00",
+  "generado": "2026-09-20T12:46:14.068293+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40967.24,
-      "fecha": "2026-09-19T03:00:00.000Z"
+      "valor": 40975.41,
+      "fecha": "2026-09-20T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -73,21 +73,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Primer Click de la semana | Cumbre Donald Trump-Xi Jinping: cuando la tregua es suficiente",
-      "link": "http://www.df.cl/senal-df/primer-click-de-la-semana/primer-click-cumbre-donald-trump-xi-jinping-cuando-la-tregua-es",
-      "fecha": "Fri, 18 Sep 2026 09:32:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "España gana primer duelo a Chile en Copa Davis: un decaído Tabilo sufrió remontada de Daniel Mérida",
-      "link": "https://www.biobiochile.cl/noticias/deportes/tenis/2026/09/19/espana-gana-primer-duelo-a-chile-en-copa-davis-un-decaido-tabilo-sufrio-remontada-de-daniel-merida.shtml",
-      "fecha": "Sat, 19 Sep 2026 18:38:54 +0000",
+      "titulo": "Incendio destruye vivienda en Hijuelas: dueño del inmueble terminó detenido",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/20/incendio-destruye-vivienda-en-hijuelas-dueno-del-inmueble-termino-detenido.shtml",
+      "fecha": "Sun, 20 Sep 2026 11:25:37 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -352,6 +346,10 @@
       {
         "fecha": "2026-09-19",
         "valor": 40967.24
+      },
+      {
+        "fecha": "2026-09-20",
+        "valor": 40975.41
       }
     ],
     "dolar": [
@@ -613,6 +611,10 @@
       },
       {
         "fecha": "2026-09-19",
+        "valor": 954.85
+      },
+      {
+        "fecha": "2026-09-20",
         "valor": 954.85
       }
     ],
@@ -876,6 +878,10 @@
       {
         "fecha": "2026-09-19",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-20",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1134,6 +1140,10 @@
       {
         "fecha": "2026-09-19",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-20",
+        "valor": 4.34
       }
     ]
   },
@@ -1141,9 +1151,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.386,
+    "score": 2.268,
     "modo": "zscore",
-    "valor_actual": 40967.24,
-    "fecha": "2026-09-19"
+    "valor_actual": 40975.41,
+    "fecha": "2026-09-20"
   }
 }
