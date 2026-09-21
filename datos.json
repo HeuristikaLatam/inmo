@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T22:56:19.217632+00:00",
+  "generado": "2026-09-21T23:44:22.717810+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -37,6 +37,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "RN busca recuperar fórmulas de Piñera para impulsar el empleo: propone subsidio a la contratación y fortalecer el Fogape",
+      "link": "http://www.df.cl/economia-y-politica/politica/rn-pineriza-la-agenda-para-enfrentar-la-alta-desocupacion-con-dos-medidas",
+      "fecha": "Mon, 21 Sep 2026 23:20:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Buffalo Waffles se apronta a alcanzar los 60 locales, pero advierte: “Hoy es mucho más difícil que hace 10 años”",
       "link": "http://www.df.cl/empresas/retail/buffalo-waffles-se-apronta-a-alcanzar-los-60-locales-pero-advierte-hoy",
       "fecha": "Mon, 21 Sep 2026 21:29:00 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/21/vuelve-al-debate-la-desindexacion-de-la-uf-tras-apoyo-del-bancoestado-a-los-hipotecarios-en-pesos.shtml",
       "fecha": "Mon, 21 Sep 2026 22:18:17 +0000",
       "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Justicia dicta sentencias por más de 1.000 años de cárcel a 18 condenados por ataque al Molino Grollmus en Contulmo",
-      "link": "http://www.df.cl/regiones/biobio/justicia-dicta-condenas-por-mas-de-1-000-anos-de-carcel-a-18-responsables",
-      "fecha": "Mon, 21 Sep 2026 22:44:53 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
