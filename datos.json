@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T15:47:54.554461+00:00",
+  "generado": "2026-09-21T22:56:19.217632+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,27 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Buffalo Waffles se apronta a alcanzar los 60 locales, pero advierte: “Hoy es mucho más difícil que hace diez años”",
-      "link": "http://www.df.cl/empresas/retail/buffalo-waffles-se-apronta-a-alcanzar-los-60-locales-pero-advierte-hoy",
-      "fecha": "Mon, 21 Sep 2026 15:34:02 GMT",
+      "titulo": "Dólar cierra con una caída de $ 10 luego de que el petróleo Brent bajara a niveles de US$ 100 por barril",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
+      "fecha": "Mon, 21 Sep 2026 19:11:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar baja tras el descanso de Fiestas Patrias a medida que el petróleo Brent cae de los US$ 100 por barril",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
-      "fecha": "Mon, 21 Sep 2026 15:27:51 GMT",
+      "titulo": "Buffalo Waffles se apronta a alcanzar los 60 locales, pero advierte: “Hoy es mucho más difícil que hace 10 años”",
+      "link": "http://www.df.cl/empresas/retail/buffalo-waffles-se-apronta-a-alcanzar-los-60-locales-pero-advierte-hoy",
+      "fecha": "Mon, 21 Sep 2026 21:29:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Comité de Ministros en picada contra inmobiliaria de Jorge Gálmez por millonario proyecto en Litueche y pide rechazar recurso de reclamación",
       "link": "http://www.df.cl/empresas/construccion/comite-de-ministros-en-picada-contra-inmobiliaria-que-lidera-millonario",
-      "fecha": "Mon, 21 Sep 2026 14:14:49 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bachelet sufre nuevo revés en su candidatura a la ONU",
-      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/bachelet-sufre-nuevo-reves-en-su-candidatura-a-la-onu",
-      "fecha": "Fri, 18 Sep 2026 23:53:12 GMT",
+      "fecha": "Mon, 21 Sep 2026 21:53:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,10 +55,16 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Brasileña descubrió que tenía una rara enfermedad gracias a su cita de Tinder: \"Estaba en sufrimiento\"",
-      "link": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/09/21/brasilena-descubrio-que-tenia-una-rara-enfermedad-gracias-a-su-cita-de-tinder-estaba-en-sufrimiento.shtml",
-      "fecha": "Mon, 21 Sep 2026 15:14:50 +0000",
+      "titulo": "Vuelve al debate la ’desindexación’ de la UF tras apoyo del BancoEstado a los hipotecarios en pesos",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/21/vuelve-al-debate-la-desindexacion-de-la-uf-tras-apoyo-del-bancoestado-a-los-hipotecarios-en-pesos.shtml",
+      "fecha": "Mon, 21 Sep 2026 22:18:17 +0000",
       "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Justicia dicta sentencias por más de 1.000 años de cárcel a 18 condenados por ataque al Molino Grollmus en Contulmo",
+      "link": "http://www.df.cl/regiones/biobio/justicia-dicta-condenas-por-mas-de-1-000-anos-de-carcel-a-18-responsables",
+      "fecha": "Mon, 21 Sep 2026 22:44:53 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
