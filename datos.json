@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T14:42:49.627632+00:00",
+  "generado": "2026-09-21T15:47:54.554461+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar baja tras el descanso de Fiestas Patrias a medida que el petróleo Brent cae hasta los US$ 100 por barril",
+      "titulo": "Buffalo Waffles se apronta a alcanzar los 60 locales, pero advierte: “Hoy es mucho más difícil que hace diez años”",
+      "link": "http://www.df.cl/empresas/retail/buffalo-waffles-se-apronta-a-alcanzar-los-60-locales-pero-advierte-hoy",
+      "fecha": "Mon, 21 Sep 2026 15:34:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar baja tras el descanso de Fiestas Patrias a medida que el petróleo Brent cae de los US$ 100 por barril",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
-      "fecha": "Mon, 21 Sep 2026 14:42:02 GMT",
+      "fecha": "Mon, 21 Sep 2026 15:27:51 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,16 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "IPSA baja tras fin de semana largo y Wall Street abre al alza mientras inversionistas evalúan posible diálogo sobre Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-x8n52",
-      "fecha": "Mon, 21 Sep 2026 13:47:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Claves del Congreso: reforma política que endurece formación de partidos podría ser despachada a ley esta semana",
-      "link": "http://www.df.cl/economia-y-politica/congreso/claves-del-congreso-reforma-politica-que-endurece-formacion-de-partidos",
-      "fecha": "Mon, 21 Sep 2026 12:56:29 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Brasileña descubrió que tenía una rara enfermedad gracias a su cita de Tinder: \"Estaba en sufrimiento\"",
+      "link": "https://www.biobiochile.cl/noticias/sociedad/historia/2026/09/21/brasilena-descubrio-que-tenia-una-rara-enfermedad-gracias-a-su-cita-de-tinder-estaba-en-sufrimiento.shtml",
+      "fecha": "Mon, 21 Sep 2026 15:14:50 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
