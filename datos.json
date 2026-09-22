@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-21T23:44:22.717810+00:00",
+  "generado": "2026-09-22T12:57:52.155833+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40983.58,
-      "fecha": "2026-09-21T03:00:00.000Z"
+      "valor": 40991.75,
+      "fecha": "2026-09-22T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 958.42,
-      "fecha": "2026-09-21T03:00:00.000Z"
+      "valor": 952,
+      "fecha": "2026-09-22T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-21T03:00:00.000Z"
+      "fecha": "2026-09-22T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,36 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar abre a la baja mientras el crudo Brent pierde los US$ 100 por un mayor alivio de tensiones sobre Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
+      "fecha": "Tue, 22 Sep 2026 12:12:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Los bancos despliegan una ofensiva para competir en créditos hipotecarios más allá de la reforma MK4",
+      "link": "http://www.df.cl/mercados/banca-fintech/mas-alla-de-mk4-bancos-despliegan-ofensiva-para-competir-en-creditos",
+      "fecha": "Tue, 22 Sep 2026 09:40:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Vivienda anuncia plan de reactivación del empleo por US$ 200 millones para la construcción",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/vivienda-anuncia-plan-de-reactivacion-del-empleo-por-us-200-millones-para",
+      "fecha": "Mon, 21 Sep 2026 22:52:24 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La apuesta del Banco Central",
+      "link": "http://www.df.cl/opinion/columnistas/la-apuesta-del-banco-central",
+      "fecha": "Mon, 21 Sep 2026 22:37:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Alza de tasas de la Fed reordena el escenario para las acciones del IPSA",
+      "link": "http://www.df.cl/mercados/alza-de-tasas-de-la-fed-reordena-el-escenario-para-las-acciones-del-ipsa",
+      "fecha": "Mon, 21 Sep 2026 22:01:25 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra con una caída de $ 10 luego de que el petróleo Brent bajara a niveles de US$ 100 por barril",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
       "fecha": "Mon, 21 Sep 2026 19:11:16 GMT",
@@ -43,28 +73,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Buffalo Waffles se apronta a alcanzar los 60 locales, pero advierte: “Hoy es mucho más difícil que hace 10 años”",
-      "link": "http://www.df.cl/empresas/retail/buffalo-waffles-se-apronta-a-alcanzar-los-60-locales-pero-advierte-hoy",
-      "fecha": "Mon, 21 Sep 2026 21:29:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Comité de Ministros en picada contra inmobiliaria de Jorge Gálmez por millonario proyecto en Litueche y pide rechazar recurso de reclamación",
-      "link": "http://www.df.cl/empresas/construccion/comite-de-ministros-en-picada-contra-inmobiliaria-que-lidera-millonario",
-      "fecha": "Mon, 21 Sep 2026 21:53:16 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Vuelve al debate la ’desindexación’ de la UF tras apoyo del BancoEstado a los hipotecarios en pesos",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/21/vuelve-al-debate-la-desindexacion-de-la-uf-tras-apoyo-del-bancoestado-a-los-hipotecarios-en-pesos.shtml",
-      "fecha": "Mon, 21 Sep 2026 22:18:17 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -336,6 +348,10 @@
       {
         "fecha": "2026-09-21",
         "valor": 40983.58
+      },
+      {
+        "fecha": "2026-09-22",
+        "valor": 40991.75
       }
     ],
     "dolar": [
@@ -606,6 +622,10 @@
       {
         "fecha": "2026-09-21",
         "valor": 958.42
+      },
+      {
+        "fecha": "2026-09-22",
+        "valor": 952
       }
     ],
     "tpm": [
@@ -876,6 +896,10 @@
       {
         "fecha": "2026-09-21",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-22",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1142,6 +1166,10 @@
       {
         "fecha": "2026-09-21",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-22",
+        "valor": 4.34
       }
     ]
   },
@@ -1149,9 +1177,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.166,
+    "score": 2.076,
     "modo": "zscore",
-    "valor_actual": 40983.58,
-    "fecha": "2026-09-21"
+    "valor_actual": 40991.75,
+    "fecha": "2026-09-22"
   }
 }
