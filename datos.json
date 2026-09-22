@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-22T13:58:57.235715+00:00",
+  "generado": "2026-09-22T22:33:33.775842+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,45 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre a la baja mientras el crudo Brent pierde los US$ 100 por un mayor alivio de tensiones sobre Medio Oriente",
+      "titulo": "Dólar cierra con leve caída bajo $ 950 una sesión volátil por el discurso de Trump en la Asamblea General de la ONU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
-      "fecha": "Tue, 22 Sep 2026 12:12:30 GMT",
+      "fecha": "Tue, 22 Sep 2026 19:11:40 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Los bancos despliegan una ofensiva para competir en créditos hipotecarios más allá de la reforma MK4",
-      "link": "http://www.df.cl/mercados/banca-fintech/mas-alla-de-mk4-bancos-despliegan-ofensiva-para-competir-en-creditos",
-      "fecha": "Tue, 22 Sep 2026 09:40:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Vivienda anuncia plan de reactivación del empleo por US$ 200 millones para la construcción",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/vivienda-anuncia-plan-de-reactivacion-del-empleo-por-us-200-millones-para",
-      "fecha": "Mon, 21 Sep 2026 22:52:24 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La apuesta del Banco Central",
-      "link": "http://www.df.cl/opinion/columnistas/la-apuesta-del-banco-central",
-      "fecha": "Mon, 21 Sep 2026 22:37:56 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Alza de tasas de la Fed reordena el escenario para las acciones del IPSA",
-      "link": "http://www.df.cl/mercados/alza-de-tasas-de-la-fed-reordena-el-escenario-para-las-acciones-del-ipsa",
-      "fecha": "Mon, 21 Sep 2026 22:01:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra con una caída de $ 10 luego de que el petróleo Brent bajara a niveles de US$ 100 por barril",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3ugv3",
-      "fecha": "Mon, 21 Sep 2026 19:11:16 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "RN busca recuperar fórmulas de Piñera para impulsar el empleo: propone subsidio a la contratación y fortalecer el Fogape",
-      "link": "http://www.df.cl/economia-y-politica/politica/rn-pineriza-la-agenda-para-enfrentar-la-alta-desocupacion-con-dos-medidas",
-      "fecha": "Mon, 21 Sep 2026 23:20:45 GMT",
+      "titulo": "Consejero del Banco Central anticipa un impacto \"acotado\" en el dólar ante el alza de la tasa de interés de la Fed",
+      "link": "http://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-anticipa-un-impacto-acotado-en-el-dolar-ante",
+      "fecha": "Tue, 22 Sep 2026 18:08:06 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -77,6 +47,24 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Gobierno descarta eventual alza de precios de vivienda por fondo que compraría créditos hipotecarios",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/22/gobierno-descarta-eventual-alza-de-precios-de-vivienda-por-fondo-que-compraria-creditos-hipotecarios.shtml",
+      "fecha": "Tue, 22 Sep 2026 21:23:05 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Corte Suprema ratifica carácter público de datos de cosecha salmonera tras litigio de la industria con Fundación Terram",
+      "link": "http://www.df.cl/regiones/corte-suprema-ratifico-caracter-publico-de-datos-de-cosecha-salmonera-tras",
+      "fecha": "Tue, 22 Sep 2026 22:28:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Permisología frena parque eólico de US$ 200 millones en Los Lagos: SEA dicta cuarta prórroga para su evaluación",
+      "link": "http://www.df.cl/regiones/los-lagos/empresas/permisologia-frena-parque-eolico-de-us-200-millones-en-los-lagos-sea",
+      "fecha": "Tue, 22 Sep 2026 22:05:47 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
