@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-22T23:23:23.957796+00:00",
+  "generado": "2026-09-23T13:09:17.640363+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40991.75,
-      "fecha": "2026-09-22T03:00:00.000Z"
+      "valor": 40999.93,
+      "fecha": "2026-09-23T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 952,
-      "fecha": "2026-09-22T03:00:00.000Z"
+      "valor": 945.87,
+      "fecha": "2026-09-23T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-22T03:00:00.000Z"
+      "fecha": "2026-09-23T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar abre al alza sobre $ 950 a medida que el diálogo entre EEUU e Irán no disipa las preocupaciones sobre la inflación",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
+      "fecha": "Wed, 23 Sep 2026 11:52:41 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cierra con leve caída bajo $ 950 una sesión volátil por el discurso de Trump en la Asamblea General de la ONU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-nzkxp",
       "fecha": "Tue, 22 Sep 2026 19:11:40 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Consejero del Banco Central anticipa un impacto \"acotado\" en el dólar ante el alza de la tasa de interés de la Fed",
+      "titulo": "Consejero del Banco Central aborda el impacto de la decisión de la Fed sobre el dólar y la inflación",
       "link": "http://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-anticipa-un-impacto-acotado-en-el-dolar-ante",
-      "fecha": "Tue, 22 Sep 2026 23:00:51 GMT",
+      "fecha": "Wed, 23 Sep 2026 12:43:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,21 +55,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Minera Escondida presenta última oferta a sindicato de supervisores que involucra millonarios bonos y beneficios",
-      "link": "http://www.df.cl/empresas/mineria/minera-escondida-presenta-ultima-oferta-a-sindicato-de-supervisores-que",
-      "fecha": "Tue, 22 Sep 2026 23:07:34 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Muere trabajador contratista tras sufrir descarga eléctrica en planta de Cecinas Sopraval en La Calera",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/23/muere-trabajador-tras-sufrir-descarga-electrica-en-planta-de-cecinas-sopraval-en-la-calera.shtml",
+      "fecha": "Wed, 23 Sep 2026 12:31:46 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Corte Suprema ratifica carácter público de datos de cosecha salmonera tras litigio de la industria con Fundación Terram",
-      "link": "http://www.df.cl/regiones/corte-suprema-ratifico-caracter-publico-de-datos-de-cosecha-salmonera-tras",
-      "fecha": "Tue, 22 Sep 2026 22:28:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Permisología frena parque eólico de US$ 200 millones en Los Lagos: SEA dicta cuarta prórroga para su evaluación",
-      "link": "http://www.df.cl/regiones/los-lagos/empresas/permisologia-frena-parque-eolico-de-us-200-millones-en-los-lagos-sea",
-      "fecha": "Tue, 22 Sep 2026 22:05:47 GMT",
+      "titulo": "La OCDE destaca la resistencia de la economía mundial ante la guerra y subraya el rol de la IA",
+      "link": "http://www.df.cl/internacional/economia/la-ocde-destaca-la-resistencia-de-la-economia-mundial-ante-la-guerra-y",
+      "fecha": "Wed, 23 Sep 2026 12:55:59 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -340,6 +340,10 @@
       {
         "fecha": "2026-09-22",
         "valor": 40991.75
+      },
+      {
+        "fecha": "2026-09-23",
+        "valor": 40999.93
       }
     ],
     "dolar": [
@@ -614,6 +618,10 @@
       {
         "fecha": "2026-09-22",
         "valor": 952
+      },
+      {
+        "fecha": "2026-09-23",
+        "valor": 945.87
       }
     ],
     "tpm": [
@@ -888,6 +896,10 @@
       {
         "fecha": "2026-09-22",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-23",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1158,6 +1170,10 @@
       {
         "fecha": "2026-09-22",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-23",
+        "valor": 4.34
       }
     ]
   },
@@ -1165,9 +1181,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 2.076,
+    "score": 2.0,
     "modo": "zscore",
-    "valor_actual": 40991.75,
-    "fecha": "2026-09-22"
+    "valor_actual": 40999.93,
+    "fecha": "2026-09-23"
   }
 }
