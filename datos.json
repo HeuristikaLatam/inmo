@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-23T13:09:17.640363+00:00",
+  "generado": "2026-09-23T14:09:58.224510+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,9 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre al alza sobre $ 950 a medida que el diálogo entre EEUU e Irán no disipa las preocupaciones sobre la inflación",
+      "titulo": "Dólar se dispara $ 13 y supera los $ 960 a media mañana tras índices de actividad muy por sobre lo esperado en EEUU",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
-      "fecha": "Wed, 23 Sep 2026 11:52:41 GMT",
+      "fecha": "Wed, 23 Sep 2026 14:09:29 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,27 +43,27 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Consejero del Banco Central aborda el impacto de la decisión de la Fed sobre el dólar y la inflación",
-      "link": "http://www.df.cl/economia-y-politica/macro/consejero-del-banco-central-anticipa-un-impacto-acotado-en-el-dolar-ante",
-      "fecha": "Wed, 23 Sep 2026 12:43:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Muere trabajador contratista tras sufrir descarga eléctrica en planta de Cecinas Sopraval en La Calera",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/09/23/muere-trabajador-tras-sufrir-descarga-electrica-en-planta-de-cecinas-sopraval-en-la-calera.shtml",
-      "fecha": "Wed, 23 Sep 2026 12:31:46 +0000",
+      "titulo": "VIDEO | Auto terminó incrustado en vivienda tras persecución policial por robo en San Pedro de la Paz",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/23/video-auto-termino-incrustado-en-vivienda-tras-persecucion-policial-por-robo-en-san-pedro-de-la-paz.shtml",
+      "fecha": "Wed, 23 Sep 2026 13:41:21 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "La OCDE destaca la resistencia de la economía mundial ante la guerra y subraya el rol de la IA",
-      "link": "http://www.df.cl/internacional/economia/la-ocde-destaca-la-resistencia-de-la-economia-mundial-ante-la-guerra-y",
-      "fecha": "Wed, 23 Sep 2026 12:55:59 GMT",
+      "titulo": "Se desvanece optimismo por reanudación del diálogo entre EEUU e Irán y el petróleo retoma las alzas",
+      "link": "http://www.df.cl/internacional/economia/se-desvanece-optimismo-por-reanudacion-del-dialogo-entre-eeuu-e-iran-y-el",
+      "fecha": "Wed, 23 Sep 2026 14:01:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "McDonald’s apuesta por el pollo para recuperar clientes ante el fuerte aumento de los precios de la carne de vacuno",
+      "link": "http://www.df.cl/internacional/ft/mcdonald-s-apuesta-por-el-pollo-para-recuperar-clientes-ante-el-fuerte",
+      "fecha": "Wed, 23 Sep 2026 14:07:06 GMT",
       "fuente": "Diario Financiero"
     }
   ],
