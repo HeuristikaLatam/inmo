@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-24T14:07:57.200503+00:00",
+  "generado": "2026-09-24T22:51:00.187147+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "Unir Chiloé y Magallanes: alcaldes lanzan campaña por vuelo directo con plan para eliminar las tasas de embarque",
-      "link": "http://www.df.cl/regiones/alcaldes-de-castro-y-punta-arenas-reactivan-ofensiva-por-vuelo-directo-y",
-      "fecha": "Thu, 24 Sep 2026 12:51:24 GMT",
+      "titulo": "Revolut avanza en su expansión en Argentina: banco central autorizó la compra del Banco Cetelem",
+      "link": "http://www.df.cl/df-sud/revolut-avanza-en-su-expansion-en-argentina-banco-central-autorizo-la",
+      "fecha": "Thu, 24 Sep 2026 21:52:18 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar abre con nueva alza y se acerca a $ 970 mientras el petróleo Brent sigue ganando terreno sobre US$ 100 por barril",
+      "titulo": "IPSA cae con fuerza y cierra levemente bajo 11.300 puntos en sesión marcada por el auge de las tasas largas estadounidenses",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-rm9gj",
+      "fecha": "Thu, 24 Sep 2026 20:08:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra firme en sus máximos desde octubre de 2025 mientras se profundizan las ventas de bonos del Tesoro estadounidense",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-d7mvy",
-      "fecha": "Thu, 24 Sep 2026 12:30:06 GMT",
+      "fecha": "Thu, 24 Sep 2026 19:12:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Arauco prepara un bono híbrido de hasta UF 10 millones para fortalecer su balance ante las etapas finales del proyecto Sucuriú",
+      "link": "http://www.df.cl/empresas/industria/arauco-prepara-un-bono-hibrido-de-hasta-uf-10-millones-para-fortalecer-su",
+      "fecha": "Thu, 24 Sep 2026 21:04:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mientras se afina acuerdo por el Paseo San Damián, ya hay lista corta de inmobiliarias para comprar emblemático terreno",
+      "link": "http://www.df.cl/empresas/construccion/mientras-se-afina-acuerdo-por-el-paseo-san-damian-ya-hay-lista-corta-de",
+      "fecha": "Thu, 24 Sep 2026 18:08:09 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Unir Chiloé y Magallanes: alcaldes lanzan campaña por vuelo directo con plan para eliminar las tasas de embarque",
+      "link": "http://www.df.cl/regiones/alcaldes-de-castro-y-punta-arenas-reactivan-ofensiva-por-vuelo-directo-y",
+      "fecha": "Thu, 24 Sep 2026 12:51:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,16 +85,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar se dispara $ 15, supera los $ 960 y cierra en máximos de 2026 tras datos que exacerbaron las preocupaciones inflacionarias en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
-      "fecha": "Thu, 24 Sep 2026 00:37:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
       "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Minvu aclara polémica por $5.900 millones para construcción de iglesias: fija límite para culto",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/24/minvu-aclara-polemica-por-5-900-millones-para-construccion-de-iglesias-fija-limite-para-culto.shtml",
+      "fecha": "Thu, 24 Sep 2026 21:59:33 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
