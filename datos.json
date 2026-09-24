@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-23T23:21:35.159344+00:00",
+  "generado": "2026-09-24T13:02:50.045433+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 40999.93,
-      "fecha": "2026-09-23T03:00:00.000Z"
+      "valor": 41008.1,
+      "fecha": "2026-09-24T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 945.87,
-      "fecha": "2026-09-23T03:00:00.000Z"
+      "valor": 959.39,
+      "fecha": "2026-09-24T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-23T03:00:00.000Z"
+      "fecha": "2026-09-24T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,15 +31,39 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar se dispara $ 15, supera los $ 960 y cierra en máximos de 2026 tras datos que exacerbaron las preocupaciones inflacionarias en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
-      "fecha": "Wed, 23 Sep 2026 21:00:17 GMT",
+      "titulo": "Unir Chiloé y Magallanes: alcaldes lanzan campaña por vuelo directo con plan para eliminar las tasas de embarque",
+      "link": "http://www.df.cl/regiones/alcaldes-de-castro-y-punta-arenas-reactivan-ofensiva-por-vuelo-directo-y",
+      "fecha": "Thu, 24 Sep 2026 12:51:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gasto en grandes proyectos de inversión se desacelera en la primera parte del año, en línea con el flojo 2026 de las obras públicas e inmobiliario",
-      "link": "http://www.df.cl/economia-y-politica/macro/gasto-en-grandes-proyectos-de-inversion-se-desacelera-en-linea-con-el-flojo",
-      "fecha": "Wed, 23 Sep 2026 22:19:53 GMT",
+      "titulo": "Dólar abre con nueva alza y se acerca a $ 970 mientras el petróleo Brent sigue ganando terreno sobre US$ 100 por barril",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-d7mvy",
+      "fecha": "Thu, 24 Sep 2026 12:30:06 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Combustibles y tasas más altas golpean el apetito por el riesgo: rendimiento de bonos del Tesoro de EEUU a 10 años alcanza máximo desde 2007",
+      "link": "http://www.df.cl/primer-click/combustibles-y-tasas-mas-altas-golpean-el-apetito-por-el-riesgo",
+      "fecha": "Thu, 24 Sep 2026 10:40:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Parisi propone institucionalizar el bono pie y el reembolso del IVA por compra de viviendas",
+      "link": "http://www.df.cl/economia-y-politica/pais/parisi-propone-institucionalizar-el-bono-pie-y-el-reembolso-del-iva-por",
+      "fecha": "Wed, 23 Sep 2026 23:33:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "MOP acuerda anticipo de hasta US$ 200 millones a consorcio coreano para acelerar construcción de Puente Chacao",
+      "link": "http://www.df.cl/empresas/construccion/mop-acuerda-anticipo-de-hasta-us-200-millones-a-consorcio-coreano-para",
+      "fecha": "Thu, 24 Sep 2026 09:41:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar se dispara $ 15, supera los $ 960 y cierra en máximos de 2026 tras datos que exacerbaron las preocupaciones inflacionarias en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-3p3uj",
+      "fecha": "Thu, 24 Sep 2026 00:37:20 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,22 +73,16 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "TDLC rechaza recurso de reclamación de Conadecus contra su decisión sobre regulación de conglomerados económicos",
-      "link": "http://www.df.cl/empresas/industria/tdlc-rechaza-recurso-de-reclamacion-de-conadecus-contra-su-decision-sobre",
-      "fecha": "Wed, 23 Sep 2026 22:27:08 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "El dólar se dispara a niveles no vistos desde 2025 y amenaza con traspasar los $970",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/24/el-dolar-se-dispara-a-niveles-no-vistos-desde-2025-el-cobre-y-petroleo-ponen-presion-al-peso-chileno.shtml",
+      "fecha": "Thu, 24 Sep 2026 12:07:09 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Pensiones: libertad de opción y rol del Estado​",
-      "link": "http://www.df.cl/opinion/columnistas/pensiones-libertad-de-opcion-y-rol-del-estado",
-      "fecha": "Wed, 23 Sep 2026 21:30:53 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Luz verde de la FNE: dueña de Salcobrand toma el control de Rotter & Krauss",
-      "link": "http://www.df.cl/empresas/industria/luz-verde-de-la-fne-duena-de-salcobrand-toma-el-control-de-rotter-krauss",
-      "fecha": "Wed, 23 Sep 2026 21:19:48 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Cerca de 70 viviendas inundadas por desborde de dos ríos en localidad de Trovolhue en Carahue",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/09/24/cerca-de-70-viviendas-inundadas-por-desborde-de-dos-rios-en-localidad-de-trovolhue-en-carahue.shtml",
+      "fecha": "Thu, 24 Sep 2026 11:24:12 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -344,6 +362,10 @@
       {
         "fecha": "2026-09-23",
         "valor": 40999.93
+      },
+      {
+        "fecha": "2026-09-24",
+        "valor": 41008.1
       }
     ],
     "dolar": [
@@ -622,6 +644,10 @@
       {
         "fecha": "2026-09-23",
         "valor": 945.87
+      },
+      {
+        "fecha": "2026-09-24",
+        "valor": 959.39
       }
     ],
     "tpm": [
@@ -900,6 +926,10 @@
       {
         "fecha": "2026-09-23",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-24",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1174,16 +1204,20 @@
       {
         "fecha": "2026-09-23",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-24",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 2.0,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 1.43,
+    "score": 2.877,
     "modo": "zscore",
-    "valor_actual": 40999.93,
-    "fecha": "2026-09-23"
+    "valor_actual": 959.39,
+    "fecha": "2026-09-24"
   }
 }
