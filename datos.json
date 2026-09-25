@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-25T14:31:41.675586+00:00",
+  "generado": "2026-09-25T22:58:26.985231+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,30 @@
   },
   "titulares": [
     {
+      "titulo": "Kevin Cowan, consejero del Banco Central: “Lo que ha ocurrido en los últimos días y semanas está dentro de los escenarios de riesgo del banco\"",
+      "link": "http://www.df.cl/senal-df/factor-economico/kevin-cowan-consejero-del-banco-central-lo-que-ha-ocurrido-en-los",
+      "fecha": "Fri, 25 Sep 2026 21:45:07 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IPSA cierra a la baja junto con pares regionales y completa una caída semanal tras el auge de la deuda en dólares",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ejuc5",
+      "fecha": "Fri, 25 Sep 2026 20:03:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar rechaza los $ 970 y cierra plano en sus máximos de 2026 ante cautas esperanzas de un acuerdo sobre el estrecho de Ormuz",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vithd",
+      "fecha": "Fri, 25 Sep 2026 19:28:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Complementar rentas duplica la aprobación de créditos hipotecarios frente a las postulaciones individuales",
+      "link": "http://www.df.cl/mercados/banca-fintech/complementar-rentas-gana-terreno-como-formula-para-sortear-las-barreras-del",
+      "fecha": "Fri, 25 Sep 2026 19:18:22 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "David Beckham recibe una fortuna en dividendos mientras los acuerdos por el Mundial impulsan sus ganancias",
       "link": "http://www.df.cl/internacional/ft/david-beckham-recibe-una-fortuna-en-dividendos-mientras-los-acuerdos-por-el",
       "fecha": "Fri, 25 Sep 2026 12:57:08 GMT",
@@ -39,50 +63,14 @@
     {
       "titulo": "Acciones bancarias: Quiénes ganan con el plan de reactivación para el sector de la construcción",
       "link": "http://www.df.cl/senal-df/senales-financieras/acciones-bancarias-quienes-ganan-con-el-plan-de-reactivacion-para-el",
-      "fecha": "Fri, 25 Sep 2026 13:49:59 GMT",
+      "fecha": "Fri, 25 Sep 2026 21:10:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "La escalada del hard discount ¿existe espacio suficiente para tantos actores?",
       "link": "http://www.df.cl/senal-df/el-deal/la-escalada-del-hard-discount-existe-espacio-suficiente-para-tantos",
-      "fecha": "Fri, 25 Sep 2026 14:20:09 GMT",
+      "fecha": "Fri, 25 Sep 2026 16:48:37 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar abre a la baja en $ 960 con mercados más calmados ante un posible acuerdo sobre el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vithd",
-      "fecha": "Fri, 25 Sep 2026 13:22:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Mala combinación: alzas del petróleo y dólar reviven en el mercado la inquietud por el curso de la inflación",
-      "link": "http://www.df.cl/economia-y-politica/macro/mala-combinacion-alzas-del-petroleo-y-dolar-reviven-en-el-mercado-la",
-      "fecha": "Fri, 25 Sep 2026 13:03:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿De neutral a restrictiva? Scotiabank pone en la mesa opción de cambio de tono para la tasa",
-      "link": "http://www.df.cl/economia-y-politica/macro/de-neutral-a-restrictiva-scotiabank-pone-en-la-mesa-opcion-de-cambio-de",
-      "fecha": "Thu, 24 Sep 2026 23:25:55 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Revolut avanza en su expansión en Argentina: banco central autorizó la compra del Banco Cetelem",
-      "link": "http://www.df.cl/df-sud/revolut-avanza-en-su-expansion-en-argentina-banco-central-autorizo-la",
-      "fecha": "Thu, 24 Sep 2026 21:52:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IPSA cae con fuerza y cierra levemente bajo 11.300 puntos en sesión marcada por el auge de las tasas largas estadounidenses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-rm9gj",
-      "fecha": "Thu, 24 Sep 2026 20:08:26 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Paso de sistema frontal en Los Ríos deja 161 viviendas afectadas y 200 mm de lluvia caída",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/09/25/paso-de-sistema-frontal-en-los-rios-deja-161-viviendas-afectadas-y-200-mm-de-lluvia-caida.shtml",
-      "fecha": "Fri, 25 Sep 2026 13:28:54 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
