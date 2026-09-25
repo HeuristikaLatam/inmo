@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-25T13:07:37.829210+00:00",
+  "generado": "2026-09-25T14:31:41.675586+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -37,9 +37,21 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Acciones bancarias: Quiénes ganan con el plan de reactivación para el sector de la construcción",
+      "link": "http://www.df.cl/senal-df/senales-financieras/acciones-bancarias-quienes-ganan-con-el-plan-de-reactivacion-para-el",
+      "fecha": "Fri, 25 Sep 2026 13:49:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La escalada del hard discount ¿existe espacio suficiente para tantos actores?",
+      "link": "http://www.df.cl/senal-df/el-deal/la-escalada-del-hard-discount-existe-espacio-suficiente-para-tantos",
+      "fecha": "Fri, 25 Sep 2026 14:20:09 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar abre a la baja en $ 960 con mercados más calmados ante un posible acuerdo sobre el estrecho de Ormuz",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vithd",
-      "fecha": "Fri, 25 Sep 2026 11:52:00 GMT",
+      "fecha": "Fri, 25 Sep 2026 13:22:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,22 +79,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra firme en sus máximos desde octubre de 2025 mientras se profundizan las ventas de bonos del Tesoro estadounidense",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-d7mvy",
-      "fecha": "Thu, 24 Sep 2026 19:12:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Arauco prepara un bono híbrido de hasta UF 10 millones para fortalecer su balance ante las etapas finales del proyecto Sucuriú",
-      "link": "http://www.df.cl/empresas/industria/arauco-prepara-un-bono-hibrido-de-hasta-uf-10-millones-para-fortalecer-su",
-      "fecha": "Thu, 24 Sep 2026 21:04:08 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tras decisión de la Fed: Experto anticipa alza de la tasa de interés en Chile",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/tras-decision-de-la-fed-experto-anticipa-alza-de-la-tasa-de-interes-en/2026-09-17/152505.html",
-      "fecha": "Thu, 17 Sep 2026 15:25:05 -0300",
-      "fuente": "Cooperativa"
+      "titulo": "Paso de sistema frontal en Los Ríos deja 161 viviendas afectadas y 200 mm de lluvia caída",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/09/25/paso-de-sistema-frontal-en-los-rios-deja-161-viviendas-afectadas-y-200-mm-de-lluvia-caida.shtml",
+      "fecha": "Fri, 25 Sep 2026 13:28:54 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
