@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-27T23:30:37.363115+00:00",
+  "generado": "2026-09-28T16:17:55.939366+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41032.64,
-      "fecha": "2026-09-27T03:00:00.000Z"
+      "valor": 41040.82,
+      "fecha": "2026-09-28T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 965.71,
-      "fecha": "2026-09-25T03:00:00.000Z"
+      "valor": 964.1,
+      "fecha": "2026-09-28T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-25T03:00:00.000Z"
+      "fecha": "2026-09-28T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,27 +31,27 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar opera al alza cerca de $ 970 en línea con el petróleo frente al punto muerto de las negociaciones entre EEUU e Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-be7yn",
+      "fecha": "Mon, 28 Sep 2026 15:28:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Grupo alemán que ingresó a la propiedad de Fiordo Austral pone fichas en industria salmonera chilena: “La demanda está ahí”",
+      "link": "http://www.df.cl/empresas/industria/grupo-aleman-que-ingreso-a-la-propiedad-de-fiordo-austral-pone-fichas-en",
+      "fecha": "Fri, 25 Sep 2026 21:08:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Unificación en LarrainVial: AGF Activos absorbe unidad de deuda privada de Activa y fundador sale de la propiedad",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/unificacion-en-larrainvial-agf-activos-absorbe-unidad-de-deuda-privada-de",
+      "fecha": "Mon, 28 Sep 2026 10:47:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "El presente de Cristián Araya: entre sus negocios inmobiliarios en España y la multa de la CMF a A&C",
       "link": "http://www.df.cl/df-mas/personaje/el-presente-de-cristian-araya-entre-sus-negocios-inmobiliarios-en-espana-y",
       "fecha": "Sat, 26 Sep 2026 13:58:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kevin Cowan, consejero del Banco Central: “Lo que ha ocurrido en los últimos días y semanas está dentro de los escenarios de riesgo del banco\"",
-      "link": "http://www.df.cl/senal-df/factor-economico/kevin-cowan-consejero-del-banco-central-lo-que-ha-ocurrido-en-los",
-      "fecha": "Fri, 25 Sep 2026 21:45:07 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IPSA cierra a la baja junto con pares regionales y completa una caída semanal tras el auge de la deuda en dólares",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ejuc5",
-      "fecha": "Fri, 25 Sep 2026 20:03:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar rechaza los $ 970 y cierra plano en sus máximos de 2026 ante cautas esperanzas de un acuerdo sobre el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vithd",
-      "fecha": "Fri, 25 Sep 2026 19:28:15 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,15 +61,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "La U sufrió con Everton pero avanzó a cuartos de Copa Chile: igualaron en la revancha en el Nacional",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/09/27/la-u-sufrio-con-everton-pero-avanzo-a-cuartos-de-copa-chile-igualaron-en-la-revancha-en-el-nacional.shtml",
-      "fecha": "Sun, 27 Sep 2026 22:33:08 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Arrendadas o deshabitadas: intensifican fiscalizaciones a viviendas sociales en provincia del Bío Bío",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/09/27/arrendadas-o-deshabitadas-intensifican-fiscalizaciones-a-viviendas-sociales-en-provincia-del-bio-bio.shtml",
-      "fecha": "Sun, 27 Sep 2026 19:49:44 +0000",
+      "titulo": "Patricio Maturana, condenado por caso Campillai, sufre accidente de tránsito durante salida dominical",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/09/28/patricio-maturana-condenado-por-caso-campillai-sufre-accidente-de-transito-durante-salida-dominical.shtml",
+      "fecha": "Mon, 28 Sep 2026 15:24:13 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -366,6 +360,10 @@
       {
         "fecha": "2026-09-27",
         "valor": 41032.64
+      },
+      {
+        "fecha": "2026-09-28",
+        "valor": 41040.82
       }
     ],
     "dolar": [
@@ -660,6 +658,10 @@
       {
         "fecha": "2026-09-27",
         "valor": 965.71
+      },
+      {
+        "fecha": "2026-09-28",
+        "valor": 964.1
       }
     ],
     "tpm": [
@@ -954,6 +956,10 @@
       {
         "fecha": "2026-09-27",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-28",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1244,6 +1250,10 @@
       {
         "fecha": "2026-09-27",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-28",
+        "valor": 4.34
       }
     ]
   },
@@ -1251,9 +1261,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 1.754,
+    "score": 1.705,
     "modo": "zscore",
-    "valor_actual": 41032.64,
-    "fecha": "2026-09-27"
+    "valor_actual": 41040.82,
+    "fecha": "2026-09-28"
   }
 }
