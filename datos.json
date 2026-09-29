@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T15:34:42.818251+00:00",
+  "generado": "2026-09-29T23:17:19.824923+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar borra caída inicial y retoma los $ 970 mientras las tasas largas de EEUU siguen alcanzando máximos en décadas",
+      "titulo": "Tasas largas de EEUU se disparan a máximos desde 2002 ante temores por inflación y deuda",
+      "link": "http://www.df.cl/internacional/ft/tasas-largas-de-eeuu-se-disparan-a-maximos-desde-2002-ante-temores-por",
+      "fecha": "Tue, 29 Sep 2026 21:35:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar supera los $ 970 y cierra en máximos de 13 meses frente al persistente auge de las tasas largas estadounidenses",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-89g7x",
-      "fecha": "Tue, 29 Sep 2026 15:17:20 GMT",
+      "fecha": "Tue, 29 Sep 2026 19:54:17 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ñuble aprueba construcción de central de energía solar en Chillán por US$ 306 millones",
+      "link": "http://www.df.cl/regiones/nuble/empresas/nuble-aprueba-construccion-de-central-de-energia-solar-en-chillan-por-us",
+      "fecha": "Tue, 29 Sep 2026 16:30:46 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,27 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Acelerar inversión pública, subsidio a la contratación y Fogape concentraron aplauso del sector empresarial al plan para enfrentar alto desempleo",
-      "link": "http://www.df.cl/economia-y-politica/acelerar-inversion-publica-subsidio-a-la-contratacion-y-fogape",
-      "fecha": "Tue, 29 Sep 2026 12:48:35 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "El 58% del comercio no denuncia los delitos que sufre \"porque no hay confianza en el sistema\"",
       "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/el-58-del-comercio-no-denuncia-los-delitos-que-sufre-porque-no-hay/2026-09-26/093032.html",
       "fecha": "Sat, 26 Sep 2026 09:30:32 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Apremiados por caso Maricarmen: las medidas del gobierno español para afrontar la crisis de vivienda",
-      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/09/29/apremiados-por-caso-maricarmen-las-medidas-del-gobierno-espanol-para-afrontar-la-crisis-de-vivienda-espana.shtml",
-      "fecha": "Tue, 29 Sep 2026 14:54:18 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Subsecretaría de Turismo y Congreso Futuro impulsan acuerdo nacional para convertir a Chile en potencia turística",
-      "link": "http://www.df.cl/economia-y-politica/pais/subsecretaria-de-turismo-y-congreso-futuro-impulsan-acuerdo-nacional-para",
-      "fecha": "Tue, 29 Sep 2026 15:32:45 GMT",
+      "titulo": "MOP detalla plan de empleo: vialidad concentra el 70% de la inversión y La Araucanía lidera entre las regiones",
+      "link": "http://www.df.cl/empresas/construccion/mop-detalla-plan-de-empleo-vialidad-concentra-el-70-de-la-inversion-y-la",
+      "fecha": "Tue, 29 Sep 2026 22:49:46 GMT",
       "fuente": "Diario Financiero"
     }
   ],
