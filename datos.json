@@ -1,23 +1,23 @@
 {
-  "generado": "2026-09-29T00:45:04.902360+00:00",
+  "generado": "2026-09-29T14:28:38.795322+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41040.82,
-      "fecha": "2026-09-28T03:00:00.000Z"
+      "valor": 41049.01,
+      "fecha": "2026-09-29T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 964.1,
-      "fecha": "2026-09-28T03:00:00.000Z"
+      "valor": 969.7,
+      "fecha": "2026-09-29T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-28T03:00:00.000Z"
+      "fecha": "2026-09-29T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,21 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar sube a niveles de $ 970 y cierra en máximos en más de un año tras el punto muerto de las negociaciones entre EEUU e Irán",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-be7yn",
-      "fecha": "Mon, 28 Sep 2026 19:42:47 GMT",
+      "titulo": "Australia sube la tasa de interés a su nivel más alto en 15 años",
+      "link": "http://www.df.cl/internacional/ft/australia-sube-la-tasa-de-interes-a-su-nivel-mas-alto-en-15-anos",
+      "fecha": "Tue, 29 Sep 2026 13:05:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Banco Santander ve recuperación de la demanda por viviendas más allá de los subsidios",
-      "link": "http://www.df.cl/mercados/banca-fintech/banco-santander-ve-recuperacion-de-la-demanda-por-viviendas-mas-alla-de-los",
-      "fecha": "Mon, 28 Sep 2026 21:55:05 GMT",
+      "titulo": "Dólar abre a la baja y se aleja de $ 970 mientras el petróleo se estabiliza en medio de los contactos entre EEUU e Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-89g7x",
+      "fecha": "Tue, 29 Sep 2026 14:28:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Grupo alemán que ingresó a la propiedad de Fiordo Austral pone fichas en industria salmonera chilena: “La demanda está ahí”",
-      "link": "http://www.df.cl/empresas/industria/grupo-aleman-que-ingreso-a-la-propiedad-de-fiordo-austral-pone-fichas-en",
-      "fecha": "Fri, 25 Sep 2026 21:08:42 GMT",
+      "titulo": "Acelerar inversión pública, subsidio a la contratación y Fogape concentraron aplauso del sector empresarial al plan para enfrentar alto desempleo",
+      "link": "http://www.df.cl/economia-y-politica/acelerar-inversion-publica-subsidio-a-la-contratacion-y-fogape",
+      "fecha": "Tue, 29 Sep 2026 12:48:35 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,15 +55,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "“Ha contestado lo que ha querido” y “usted no es el Presidente”: lo que dejó la inédita interpelación al canciller",
-      "link": "http://www.df.cl/economia-y-politica/congreso/ha-respondido-lo-que-ha-querido-y-usted-no-es-el-presidente-de-la",
-      "fecha": "Tue, 29 Sep 2026 00:15:17 GMT",
+      "titulo": "El nuevo giro en Dominga: firma dueña del proyecto apuesta a que Comité de Ministro de la era Kast dé el vamos definitivo a la iniciativa",
+      "link": "http://www.df.cl/empresas/mineria/el-nuevo-giro-en-dominga-firma-duena-del-proyecto-apuesta-a-que-comite-de",
+      "fecha": "Tue, 29 Sep 2026 14:27:43 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Cambios en gerencias, más contacto con afiliados y encuestas: cómo las AFP se preparan para la licitación de stock",
-      "link": "http://www.df.cl/mercados/pensiones/cambios-en-gerencias-mas-contacto-con-afiliados-y-encuestas-como-las-afp",
-      "fecha": "Mon, 28 Sep 2026 23:43:01 GMT",
+      "titulo": "Kast aborda el complejo momento económico: “Sabemos que no han sido meses fáciles… pero cuando un país se endeuda en algún momento tiene que pagar”",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-aborda-el-complejo-momento-economico-sabemos-que-no-han-sido-meses",
+      "fecha": "Tue, 29 Sep 2026 14:27:23 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -367,7 +367,7 @@
       },
       {
         "fecha": "2026-09-29",
-        "valor": 41040.82
+        "valor": 41049.01
       }
     ],
     "dolar": [
@@ -669,7 +669,7 @@
       },
       {
         "fecha": "2026-09-29",
-        "valor": 964.1
+        "valor": 969.7
       }
     ],
     "tpm": [
@@ -1276,10 +1276,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.814,
+    "cambio_pct": 0.02,
+    "score": 1.663,
     "modo": "zscore",
-    "valor_actual": 41040.82,
+    "valor_actual": 41049.01,
     "fecha": "2026-09-29"
   }
 }
