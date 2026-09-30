@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T14:27:06.424112+00:00",
+  "generado": "2026-09-30T15:46:11.696461+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,9 @@
   },
   "titulares": [
     {
-      "titulo": "Gasto de consumo personal se modera al 3% en EEUU y abre espacio para una pausa en las alzas de tasas",
+      "titulo": "Inflación PCE se modera al 3% en EEUU y abre espacio para una pausa en las alzas de tasas",
       "link": "http://www.df.cl/internacional/economia/gasto-de-consumo-personal-se-modera-al-3-en-eeuu-y-abre-espacio-para-una",
-      "fecha": "Wed, 30 Sep 2026 14:17:05 GMT",
+      "fecha": "Wed, 30 Sep 2026 15:15:57 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -45,7 +45,7 @@
     {
       "titulo": "Tasa de desocupación sube a 9,6% en el trimestre junio-agosto y alcanza nuevo máximo en más de 5 años",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-alcanza-a-9-6-en-el-trimestre-junio-agosto-y-alcanza",
-      "fecha": "Wed, 30 Sep 2026 13:27:44 GMT",
+      "fecha": "Wed, 30 Sep 2026 14:44:59 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -79,22 +79,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar supera los $ 970 y cierra en máximos de 13 meses frente al persistente auge de las tasas largas estadounidenses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-89g7x",
-      "fecha": "Tue, 29 Sep 2026 19:54:17 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Impuesto de Mamdani a las segundas viviendas sufrió revés judicial",
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/impuesto-de-mamdani-a-las-segundas-viviendas-sufrio-reves-judicial/2026-09-30/003935.html",
       "fecha": "Wed, 30 Sep 2026 00:39:35 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El jueves inicia postulación 2027 a gratuidad, becas y créditos con FUAS: revisa quiénes deben hacerlo",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/09/30/el-jueves-inicia-postulacion-2027-a-gratuidad-becas-y-creditos-con-fuas-revisa-quienes-deben-hacerlo.shtml",
-      "fecha": "Wed, 30 Sep 2026 13:37:59 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
