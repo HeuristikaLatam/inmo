@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-29T23:17:19.824923+00:00",
+  "generado": "2026-09-30T00:01:08.192066+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -61,9 +61,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "MOP detalla plan de empleo: vialidad concentra el 70% de la inversión y La Araucanía lidera entre las regiones",
-      "link": "http://www.df.cl/empresas/construccion/mop-detalla-plan-de-empleo-vialidad-concentra-el-70-de-la-inversion-y-la",
-      "fecha": "Tue, 29 Sep 2026 22:49:46 GMT",
+      "titulo": "Trump opta por la autorregulación junto a élite de la IA: “Jamás frenaré una tecnología que superará la Revolución Industrial”",
+      "link": "http://www.df.cl/internacional/economia/trump-se-reune-esta-tarde-con-lideres-de-nvidia-anthropic-y-palantir-para",
+      "fecha": "Tue, 29 Sep 2026 23:57:11 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -368,6 +368,10 @@
       {
         "fecha": "2026-09-29",
         "valor": 41049.01
+      },
+      {
+        "fecha": "2026-09-30",
+        "valor": 41049.01
       }
     ],
     "dolar": [
@@ -669,6 +673,10 @@
       },
       {
         "fecha": "2026-09-29",
+        "valor": 969.7
+      },
+      {
+        "fecha": "2026-09-30",
         "valor": 969.7
       }
     ],
@@ -972,6 +980,10 @@
       {
         "fecha": "2026-09-29",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-09-30",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1270,16 +1282,20 @@
       {
         "fecha": "2026-09-29",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-09-30",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 1.663,
+    "cambio_pct": 0.0,
+    "score": 0.827,
     "modo": "zscore",
     "valor_actual": 41049.01,
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-30"
   }
 }
