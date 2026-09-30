@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T15:46:11.696461+00:00",
+  "generado": "2026-09-30T23:20:31.490753+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,51 +31,39 @@
   },
   "titulares": [
     {
+      "titulo": "Tesla obtiene US$ 30 mil millones en crédito para acelerar su apuesta por la IA y la robótica",
+      "link": "http://www.df.cl/internacional/multinacionales/tesla-obtiene-us-30-000-millones-en-credito-para-acelerar-su-apuesta-por",
+      "fecha": "Wed, 30 Sep 2026 20:07:29 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar sube levemente y cierra en máximos desde agosto de 2025 a medida que se profundiza la venta de bonos a largo plazo en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-muvch",
+      "fecha": "Wed, 30 Sep 2026 19:57:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Más de 73 mil trabajadores ya han postulado al subsidio a la contratación: conozca en qué consiste el beneficio y cómo puede acceder",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/mas-de-73-mil-trabajadores-ya-han-postulado-al-subsidio-a-la-contratacion",
+      "fecha": "Wed, 30 Sep 2026 19:06:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las tasas largas de Chile se han vuelto \"considerablemente\" más atractivas tras su reciente escalada, según agentes del mercado",
+      "link": "http://www.df.cl/mercados/renta-fija/las-tasas-largas-de-chile-se-han-vuelto-considerablemente-mas-atractivas",
+      "fecha": "Wed, 30 Sep 2026 17:59:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Inflación PCE se modera al 3% en EEUU y abre espacio para una pausa en las alzas de tasas",
       "link": "http://www.df.cl/internacional/economia/gasto-de-consumo-personal-se-modera-al-3-en-eeuu-y-abre-espacio-para-una",
       "fecha": "Wed, 30 Sep 2026 15:15:57 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cae y pierde la marca de $ 970 tras una sorpresa a la baja en el \"dato de inflación favorito de la Fed\"",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-muvch",
-      "fecha": "Wed, 30 Sep 2026 13:00:57 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tasa de desocupación sube a 9,6% en el trimestre junio-agosto y alcanza nuevo máximo en más de 5 años",
+      "titulo": "Tasa de desocupación sube a 9,6% en el trimestre junio-agosto y alcanza nuevo máximo en más de cinco años",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-alcanza-a-9-6-en-el-trimestre-junio-agosto-y-alcanza",
-      "fecha": "Wed, 30 Sep 2026 14:44:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Acciones suben y el dólar frena su rally a la espera de medición de inflación clave en EEUU",
-      "link": "http://www.df.cl/primer-click/acciones-suben-y-el-dolar-frena-su-rally-a-la-espera-de-medicion-de",
-      "fecha": "Wed, 30 Sep 2026 10:38:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Reactivación inmobiliaria y empleos",
-      "link": "http://www.df.cl/opinion/columnistas/reactivacion-inmobiliaria-y-empleos",
-      "fecha": "Wed, 30 Sep 2026 00:20:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ley de Reconstrucción se promulga en octubre: Hacienda incluirá ingresos transitorios en el Presupuesto 2027",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-se-promulga-en-octubre-hacienda-incluira-ingresos",
-      "fecha": "Tue, 29 Sep 2026 22:10:09 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gestora Alza lanza fondo para proyectos en Santiago y regiones junto a inmobiliaria de la familia Pérez Yoma",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/gestora-alza-lanza-fondo-para-proyectos-en-santiago-y-regiones-junto-a",
-      "fecha": "Tue, 29 Sep 2026 21:51:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tasas largas de EEUU se disparan a máximos desde 2002 ante temores por inflación y deuda",
-      "link": "http://www.df.cl/internacional/ft/tasas-largas-de-eeuu-se-disparan-a-maximos-desde-2002-ante-temores-por",
-      "fecha": "Tue, 29 Sep 2026 21:35:34 GMT",
+      "fecha": "Wed, 30 Sep 2026 20:14:26 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -83,6 +71,12 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/impuesto-de-mamdani-a-las-segundas-viviendas-sufrio-reves-judicial/2026-09-30/003935.html",
       "fecha": "Wed, 30 Sep 2026 00:39:35 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Federación de Tenis sufrió corte de luz por no pago desde hace 3 meses: Coch admitió millonaria deuda",
+      "link": "https://www.biobiochile.cl/noticias/deportes/tenis/2026/09/30/federacion-de-tenis-sufrio-corte-de-luz-por-no-pago-desde-hace-3-meses-coch-admitio-millonaria-deuda.shtml",
+      "fecha": "Wed, 30 Sep 2026 22:17:59 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
