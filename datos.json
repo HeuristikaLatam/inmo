@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T14:57:08.646625+00:00",
+  "generado": "2026-10-01T16:12:41.737070+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar se dispara $ 10 a niveles de $ 985 por compras globales de la divisa y la caída del Imacec en agosto",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
-      "fecha": "Thu, 01 Oct 2026 14:20:02 GMT",
+      "titulo": "Gerente general de Banco de Chile pide diferenciar deducibles del Fonavi según riesgo de los créditos",
+      "link": "http://www.df.cl/mercados/banca-fintech/gerente-general-de-banco-de-chile-pide-diferenciar-deducibles-del-fonavi",
+      "fecha": "Thu, 01 Oct 2026 16:09:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IPSA sigue perdiendo terreno bajo 11 mil puntos tras el negativo Imacec de agosto y el persistente aumento de las tasas largas en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ayfan",
-      "fecha": "Thu, 01 Oct 2026 14:12:25 GMT",
+      "titulo": "Arauco posterga la colocación de su nuevo bono híbrido por la fuerte volatilidad de las tasas de interés globales",
+      "link": "http://www.df.cl/mercados/renta-fija/arauco-posterga-la-colocacion-de-su-nuevo-bono-hibrido-por-la-fuerte",
+      "fecha": "Thu, 01 Oct 2026 15:27:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Por más deuda y dividendos de ENAP: la caja fiscal se dispara en agosto y acumula más de US$ 9.600 millones, un máximo desde por lo menos 2012",
+      "link": "http://www.df.cl/economia-y-politica/macro/la-caja-fiscal-se-dispara-en-agosto-y-acumula-mas-de-us-9-600-millones-un",
+      "fecha": "Thu, 01 Oct 2026 15:48:14 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar se dispara $ 10 a niveles de $ 985 por compras globales de la divisa y la caída del Imacec en agosto",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
+      "fecha": "Thu, 01 Oct 2026 15:08:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,21 +67,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Clientes ahorran millones de dólares: Las baterías caseras reemplazan centrales eléctricas en EEUU",
-      "link": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/01/clientes-ahorran-millones-de-dolares-las-baterias-caseras-reemplazan-centrales-electricas-en-eeuu.shtml",
-      "fecha": "Thu, 01 Oct 2026 14:47:15 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Ex ’VCTEX2’ Sofía Latorre sufrió accidente de tránsito tras intento de encerrona: \"Estuve en shock\"",
-      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/10/01/ex-vctex2-sofia-latorre-sufrio-accidente-de-transito-tras-intento-de-encerrona-estuve-en-shock.shtml",
-      "fecha": "Thu, 01 Oct 2026 14:18:26 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Hombre muere tras ingresar con cuchillos a vivienda de su expareja: actual conviviente quedó detenido",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/01/hombre-muere-tras-ingresar-con-cuchillos-a-vivienda-de-su-expareja-actual-conviviente-quedo-detenido.shtml",
-      "fecha": "Thu, 01 Oct 2026 14:15:16 +0000",
+      "titulo": "Inicia postulación al Subsidio Unificado al Empleo: revisa quiénes reciben hasta $52 mil",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/01/inician-postulaciones-al-subsidio-unificado-al-empleo-revisa-quienes-reciben-hasta-52-mil.shtml",
+      "fecha": "Thu, 01 Oct 2026 15:44:16 +0000",
       "fuente": "BioBioChile"
     }
   ],
