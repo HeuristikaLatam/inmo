@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-30T23:20:31.490753+00:00",
+  "generado": "2026-10-01T00:16:59.003215+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -384,6 +384,10 @@
       {
         "fecha": "2026-09-30",
         "valor": 41057.2
+      },
+      {
+        "fecha": "2026-10-01",
+        "valor": 41057.2
       }
     ],
     "dolar": [
@@ -689,6 +693,10 @@
       },
       {
         "fecha": "2026-09-30",
+        "valor": 970.46
+      },
+      {
+        "fecha": "2026-10-01",
         "valor": 970.46
       }
     ],
@@ -996,6 +1004,10 @@
       {
         "fecha": "2026-09-30",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-01",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1298,16 +1310,20 @@
       {
         "fecha": "2026-09-30",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-01",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 1.621,
+    "cambio_pct": 0.0,
+    "score": 0.84,
     "modo": "zscore",
     "valor_actual": 41057.2,
-    "fecha": "2026-09-30"
+    "fecha": "2026-10-01"
   }
 }
