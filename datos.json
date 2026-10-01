@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T16:12:41.737070+00:00",
+  "generado": "2026-10-01T23:34:49.715826+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar se dispara a máximos desde abril de 2025 al cierre de la sesión tras compras globales y la caída del Imacec en agosto",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
+      "fecha": "Thu, 01 Oct 2026 20:08:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Gerente general de Banco de Chile pide diferenciar deducibles del Fonavi según riesgo de los créditos",
       "link": "http://www.df.cl/mercados/banca-fintech/gerente-general-de-banco-de-chile-pide-diferenciar-deducibles-del-fonavi",
-      "fecha": "Thu, 01 Oct 2026 16:09:24 GMT",
+      "fecha": "Thu, 01 Oct 2026 21:33:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -45,13 +51,7 @@
     {
       "titulo": "Por más deuda y dividendos de ENAP: la caja fiscal se dispara en agosto y acumula más de US$ 9.600 millones, un máximo desde por lo menos 2012",
       "link": "http://www.df.cl/economia-y-politica/macro/la-caja-fiscal-se-dispara-en-agosto-y-acumula-mas-de-us-9-600-millones-un",
-      "fecha": "Thu, 01 Oct 2026 15:48:14 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar se dispara $ 10 a niveles de $ 985 por compras globales de la divisa y la caída del Imacec en agosto",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
-      "fecha": "Thu, 01 Oct 2026 15:08:52 GMT",
+      "fecha": "Thu, 01 Oct 2026 21:41:35 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,10 +67,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inicia postulación al Subsidio Unificado al Empleo: revisa quiénes reciben hasta $52 mil",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/01/inician-postulaciones-al-subsidio-unificado-al-empleo-revisa-quienes-reciben-hasta-52-mil.shtml",
-      "fecha": "Thu, 01 Oct 2026 15:44:16 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "El dólar escaló a su valor más alto desde abril de 2025",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
+      "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
+      "fuente": "Cooperativa"
     }
   ],
   "historial": {
