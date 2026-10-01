@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-01T00:16:59.003215+00:00",
+  "generado": "2026-10-01T14:57:08.646625+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41057.2,
-      "fecha": "2026-09-30T03:00:00.000Z"
+      "valor": 41065.38,
+      "fecha": "2026-10-01T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 970.46,
-      "fecha": "2026-09-30T03:00:00.000Z"
+      "valor": 972.6,
+      "fecha": "2026-10-01T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-09-30T03:00:00.000Z"
+      "fecha": "2026-10-01T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,51 +31,45 @@
   },
   "titulares": [
     {
-      "titulo": "Tesla obtiene US$ 30 mil millones en crédito para acelerar su apuesta por la IA y la robótica",
-      "link": "http://www.df.cl/internacional/multinacionales/tesla-obtiene-us-30-000-millones-en-credito-para-acelerar-su-apuesta-por",
-      "fecha": "Wed, 30 Sep 2026 20:07:29 GMT",
+      "titulo": "Dólar se dispara $ 10 a niveles de $ 985 por compras globales de la divisa y la caída del Imacec en agosto",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
+      "fecha": "Thu, 01 Oct 2026 14:20:02 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar sube levemente y cierra en máximos desde agosto de 2025 a medida que se profundiza la venta de bonos a largo plazo en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-muvch",
-      "fecha": "Wed, 30 Sep 2026 19:57:46 GMT",
+      "titulo": "IPSA sigue perdiendo terreno bajo 11 mil puntos tras el negativo Imacec de agosto y el persistente aumento de las tasas largas en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ayfan",
+      "fecha": "Thu, 01 Oct 2026 14:12:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Más de 73 mil trabajadores ya han postulado al subsidio a la contratación: conozca en qué consiste el beneficio y cómo puede acceder",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/mas-de-73-mil-trabajadores-ya-han-postulado-al-subsidio-a-la-contratacion",
-      "fecha": "Wed, 30 Sep 2026 19:06:40 GMT",
+      "titulo": "El mercado laboral preocupa en Colombia: desempleados sumaron 2,44 millones y la tasa superó el 9%",
+      "link": "http://www.df.cl/internacional/economia/el-mercado-laboral-preocupa-en-colombia-desempleados-sumaron-2-44-millones",
+      "fecha": "Thu, 01 Oct 2026 12:48:41 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las tasas largas de Chile se han vuelto \"considerablemente\" más atractivas tras su reciente escalada, según agentes del mercado",
-      "link": "http://www.df.cl/mercados/renta-fija/las-tasas-largas-de-chile-se-han-vuelto-considerablemente-mas-atractivas",
-      "fecha": "Wed, 30 Sep 2026 17:59:46 GMT",
+      "titulo": "Bonos caen y el dólar amplía su rally por expectativas de alzas de tasas",
+      "link": "http://www.df.cl/primer-click/bonos-caen-y-el-dolar-amplia-su-rally-por-expectativas-de-alzas-de-tasas",
+      "fecha": "Thu, 01 Oct 2026 10:46:43 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inflación PCE se modera al 3% en EEUU y abre espacio para una pausa en las alzas de tasas",
-      "link": "http://www.df.cl/internacional/economia/gasto-de-consumo-personal-se-modera-al-3-en-eeuu-y-abre-espacio-para-una",
-      "fecha": "Wed, 30 Sep 2026 15:15:57 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Clientes ahorran millones de dólares: Las baterías caseras reemplazan centrales eléctricas en EEUU",
+      "link": "https://www.biobiochile.cl/noticias/sociedad/curiosidades/2026/10/01/clientes-ahorran-millones-de-dolares-las-baterias-caseras-reemplazan-centrales-electricas-en-eeuu.shtml",
+      "fecha": "Thu, 01 Oct 2026 14:47:15 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Tasa de desocupación sube a 9,6% en el trimestre junio-agosto y alcanza nuevo máximo en más de cinco años",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-alcanza-a-9-6-en-el-trimestre-junio-agosto-y-alcanza",
-      "fecha": "Wed, 30 Sep 2026 20:14:26 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Ex ’VCTEX2’ Sofía Latorre sufrió accidente de tránsito tras intento de encerrona: \"Estuve en shock\"",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/10/01/ex-vctex2-sofia-latorre-sufrio-accidente-de-transito-tras-intento-de-encerrona-estuve-en-shock.shtml",
+      "fecha": "Thu, 01 Oct 2026 14:18:26 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Impuesto de Mamdani a las segundas viviendas sufrió revés judicial",
-      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/impuesto-de-mamdani-a-las-segundas-viviendas-sufrio-reves-judicial/2026-09-30/003935.html",
-      "fecha": "Wed, 30 Sep 2026 00:39:35 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Federación de Tenis sufrió corte de luz por no pago desde hace 3 meses: Coch admitió millonaria deuda",
-      "link": "https://www.biobiochile.cl/noticias/deportes/tenis/2026/09/30/federacion-de-tenis-sufrio-corte-de-luz-por-no-pago-desde-hace-3-meses-coch-admitio-millonaria-deuda.shtml",
-      "fecha": "Wed, 30 Sep 2026 22:17:59 +0000",
+      "titulo": "Hombre muere tras ingresar con cuchillos a vivienda de su expareja: actual conviviente quedó detenido",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/01/hombre-muere-tras-ingresar-con-cuchillos-a-vivienda-de-su-expareja-actual-conviviente-quedo-detenido.shtml",
+      "fecha": "Thu, 01 Oct 2026 14:15:16 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -387,7 +381,7 @@
       },
       {
         "fecha": "2026-10-01",
-        "valor": 41057.2
+        "valor": 41065.38
       }
     ],
     "dolar": [
@@ -697,7 +691,7 @@
       },
       {
         "fecha": "2026-10-01",
-        "valor": 970.46
+        "valor": 972.6
       }
     ],
     "tpm": [
@@ -1320,10 +1314,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.84,
+    "cambio_pct": 0.02,
+    "score": 1.579,
     "modo": "zscore",
-    "valor_actual": 41057.2,
+    "valor_actual": 41065.38,
     "fecha": "2026-10-01"
   }
 }
