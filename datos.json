@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-01T23:34:49.715826+00:00",
+  "generado": "2026-10-02T00:21:47.325675+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Contraloría visa cambios a la ordenanza de construcciones con los que el gobierno busca reducir los precios de los inmuebles y reactivar al sector",
+      "link": "http://www.df.cl/empresas/construccion/contraloria-visa-cambios-a-la-ordenanza-de-construcciones-con-los-que-el",
+      "fecha": "Fri, 02 Oct 2026 00:10:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar se dispara a máximos desde abril de 2025 al cierre de la sesión tras compras globales y la caída del Imacec en agosto",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
       "fecha": "Thu, 01 Oct 2026 20:08:02 GMT",
@@ -51,7 +57,7 @@
     {
       "titulo": "Por más deuda y dividendos de ENAP: la caja fiscal se dispara en agosto y acumula más de US$ 9.600 millones, un máximo desde por lo menos 2012",
       "link": "http://www.df.cl/economia-y-politica/macro/la-caja-fiscal-se-dispara-en-agosto-y-acumula-mas-de-us-9-600-millones-un",
-      "fecha": "Thu, 01 Oct 2026 21:41:35 GMT",
+      "fecha": "Thu, 01 Oct 2026 23:41:58 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -382,6 +388,10 @@
       {
         "fecha": "2026-10-01",
         "valor": 41065.38
+      },
+      {
+        "fecha": "2026-10-02",
+        "valor": 41065.38
       }
     ],
     "dolar": [
@@ -691,6 +701,10 @@
       },
       {
         "fecha": "2026-10-01",
+        "valor": 972.6
+      },
+      {
+        "fecha": "2026-10-02",
         "valor": 972.6
       }
     ],
@@ -1002,6 +1016,10 @@
       {
         "fecha": "2026-10-01",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-02",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1308,16 +1326,20 @@
       {
         "fecha": "2026-10-01",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-02",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 1.579,
+    "cambio_pct": 0.0,
+    "score": 0.852,
     "modo": "zscore",
     "valor_actual": 41065.38,
-    "fecha": "2026-10-01"
+    "fecha": "2026-10-02"
   }
 }
