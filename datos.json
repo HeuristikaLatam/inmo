@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-02T00:21:47.325675+00:00",
+  "generado": "2026-10-02T14:22:35.359936+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41065.38,
-      "fecha": "2026-10-01T03:00:00.000Z"
+      "valor": 41073.57,
+      "fecha": "2026-10-02T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 972.6,
-      "fecha": "2026-10-01T03:00:00.000Z"
+      "valor": 983.84,
+      "fecha": "2026-10-02T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-01T03:00:00.000Z"
+      "fecha": "2026-10-02T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,45 +31,33 @@
   },
   "titulares": [
     {
+      "titulo": "Creación de empleos en EEUU decepciona y favorece una pausa en las alzas de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/creacion-de-empleos-en-eeuu-decepciona-y-favorece-una-pausa-en-las-alzas-de",
+      "fecha": "Fri, 02 Oct 2026 14:21:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar pierde sus máximos y cae a niveles de $ 980 tras una importante sorpresa a la baja en las nóminas de empleo estadounidenses",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
+      "fecha": "Fri, 02 Oct 2026 14:20:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La firme expansión de los fondos inmobiliarios suma 15 nuevos vehículos este año",
+      "link": "http://www.df.cl/senal-df/el-deal/la-firme-expansion-de-los-fondos-inmobiliarios-suma-15-nuevos-vehiculos",
+      "fecha": "Fri, 02 Oct 2026 13:33:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno abre postulaciones al Subsidio Unificado al Empleo",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-abre-postulaciones-al-subsidio-unificado-al-empleo",
+      "fecha": "Thu, 01 Oct 2026 23:04:27 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Contraloría visa cambios a la ordenanza de construcciones con los que el gobierno busca reducir los precios de los inmuebles y reactivar al sector",
       "link": "http://www.df.cl/empresas/construccion/contraloria-visa-cambios-a-la-ordenanza-de-construcciones-con-los-que-el",
-      "fecha": "Fri, 02 Oct 2026 00:10:58 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar se dispara a máximos desde abril de 2025 al cierre de la sesión tras compras globales y la caída del Imacec en agosto",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-juxmp",
-      "fecha": "Thu, 01 Oct 2026 20:08:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gerente general de Banco de Chile pide diferenciar deducibles del Fonavi según riesgo de los créditos",
-      "link": "http://www.df.cl/mercados/banca-fintech/gerente-general-de-banco-de-chile-pide-diferenciar-deducibles-del-fonavi",
-      "fecha": "Thu, 01 Oct 2026 21:33:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Arauco posterga la colocación de su nuevo bono híbrido por la fuerte volatilidad de las tasas de interés globales",
-      "link": "http://www.df.cl/mercados/renta-fija/arauco-posterga-la-colocacion-de-su-nuevo-bono-hibrido-por-la-fuerte",
-      "fecha": "Thu, 01 Oct 2026 15:27:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Por más deuda y dividendos de ENAP: la caja fiscal se dispara en agosto y acumula más de US$ 9.600 millones, un máximo desde por lo menos 2012",
-      "link": "http://www.df.cl/economia-y-politica/macro/la-caja-fiscal-se-dispara-en-agosto-y-acumula-mas-de-us-9-600-millones-un",
-      "fecha": "Thu, 01 Oct 2026 23:41:58 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El mercado laboral preocupa en Colombia: desempleados sumaron 2,44 millones y la tasa superó el 9%",
-      "link": "http://www.df.cl/internacional/economia/el-mercado-laboral-preocupa-en-colombia-desempleados-sumaron-2-44-millones",
-      "fecha": "Thu, 01 Oct 2026 12:48:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bonos caen y el dólar amplía su rally por expectativas de alzas de tasas",
-      "link": "http://www.df.cl/primer-click/bonos-caen-y-el-dolar-amplia-su-rally-por-expectativas-de-alzas-de-tasas",
-      "fecha": "Thu, 01 Oct 2026 10:46:43 GMT",
+      "fecha": "Fri, 02 Oct 2026 09:22:13 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -77,6 +65,18 @@
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
       "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Revés para Sánchez: Congreso rechaza sus decretos que buscaban paliar la crisis de vivienda en España",
+      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/10/02/duro-reves-para-pedro-sanchez-congreso-de-espana-rechaza-los-dos-decretos-sobre-vivienda.shtml",
+      "fecha": "Fri, 02 Oct 2026 14:02:33 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "¿Postulas al DS1 y no recibes el subsidio? Cómo conocer el motivo del rechazo y apelar si hay un error",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/02/postulas-al-ds1-y-no-recibes-el-subsidio-como-conocer-el-motivo-del-rechazo-y-apelar-si-hay-un-error.shtml",
+      "fecha": "Fri, 02 Oct 2026 13:39:52 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -391,7 +391,7 @@
       },
       {
         "fecha": "2026-10-02",
-        "valor": 41065.38
+        "valor": 41073.57
       }
     ],
     "dolar": [
@@ -705,7 +705,7 @@
       },
       {
         "fecha": "2026-10-02",
-        "valor": 972.6
+        "valor": 983.84
       }
     ],
     "tpm": [
@@ -1334,12 +1334,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.852,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 1.16,
+    "score": 2.198,
     "modo": "zscore",
-    "valor_actual": 41065.38,
+    "valor_actual": 983.84,
     "fecha": "2026-10-02"
   }
 }
