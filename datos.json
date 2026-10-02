@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-02T15:37:03.426080+00:00",
+  "generado": "2026-10-02T23:26:42.377607+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,46 +31,52 @@
   },
   "titulares": [
     {
+      "titulo": "A un paso de los cuatro dígitos: dólar supera los $ 990 con un alza semanal de casi $ 30 y cierra en nuevos máximos desde abril de 2025",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
+      "fecha": "Fri, 02 Oct 2026 19:22:54 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Colegio Saint Andrew y su inmobiliaria se van a reorganización para evitar su remate",
+      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/colegio-saint-andrew-y-su-inmobiliaria-se-van-a-reorganizacion-para-evitar",
+      "fecha": "Fri, 02 Oct 2026 19:19:16 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ley de Reconstrucción a punto de promulgarse: TC entrega sentencia pero sorprende eliminando las condiciones para compensar a municipios por fin de contribuciones",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-a-punto-de-promulgarse-tc-entrega-sentencia-y",
+      "fecha": "Fri, 02 Oct 2026 18:41:01 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Industria inmobiliaria prevé nuevo impulso a la inversión tras toma de razón a la OGUC, pero queda atenta a reacción de municipios",
+      "link": "http://www.df.cl/empresas/construccion/industria-inmobiliaria-preve-nuevo-impulso-a-la-inversion-tras-toma-de",
+      "fecha": "Fri, 02 Oct 2026 21:53:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "¿Por qué puede sufrir un susto Wall Street hasta final de año?",
+      "link": "http://www.df.cl/senal-df/senales-financieras/por-que-puede-sufrir-un-susto-wall-street-hasta-final-de-ano",
+      "fecha": "Fri, 02 Oct 2026 18:26:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Creación de empleos en EEUU decepciona y favorece una pausa en las alzas de tasas de la Fed",
       "link": "http://www.df.cl/internacional/economia/creacion-de-empleos-en-eeuu-decepciona-y-favorece-una-pausa-en-las-alzas-de",
-      "fecha": "Fri, 02 Oct 2026 14:21:02 GMT",
+      "fecha": "Fri, 02 Oct 2026 18:39:05 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar pierde sus máximos y cae a niveles de $ 980 tras una importante sorpresa a la baja en las nóminas de empleo estadounidenses",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
-      "fecha": "Fri, 02 Oct 2026 14:36:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La firme expansión de los fondos inmobiliarios suma 15 nuevos vehículos este año",
-      "link": "http://www.df.cl/senal-df/el-deal/la-firme-expansion-de-los-fondos-inmobiliarios-suma-15-nuevos-vehiculos",
-      "fecha": "Fri, 02 Oct 2026 13:33:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gobierno abre postulaciones al Subsidio Unificado al Empleo",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-abre-postulaciones-al-subsidio-unificado-al-empleo",
-      "fecha": "Thu, 01 Oct 2026 23:04:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Contraloría visa cambios a la ordenanza de construcciones con los que el gobierno busca reducir los precios de los inmuebles y reactivar al sector",
-      "link": "http://www.df.cl/empresas/construccion/contraloria-visa-cambios-a-la-ordenanza-de-construcciones-con-los-que-el",
-      "fecha": "Fri, 02 Oct 2026 09:22:13 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
+      "fecha": "Fri, 02 Oct 2026 18:49:44 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "El dólar escaló a su valor más alto desde abril de 2025",
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
       "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Sánchez adelantaría las elecciones generales en España al no aprobarse decretos sobre vivienda",
-      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/10/02/sanchez-adelantaria-las-elecciones-generales-en-espana-al-no-aprobarse-decretos-sobre-vivienda.shtml",
-      "fecha": "Fri, 02 Oct 2026 15:12:28 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
