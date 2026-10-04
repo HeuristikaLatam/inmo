@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-03T23:26:38.332377+00:00",
+  "generado": "2026-10-04T13:34:56.251112+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41081.76,
-      "fecha": "2026-10-03T03:00:00.000Z"
+      "valor": 41089.96,
+      "fecha": "2026-10-04T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -61,12 +61,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Creación de empleos en EEUU decepciona y favorece una pausa en las alzas de tasas de la Fed",
-      "link": "http://www.df.cl/internacional/economia/creacion-de-empleos-en-eeuu-decepciona-y-favorece-una-pausa-en-las-alzas-de",
-      "fecha": "Fri, 02 Oct 2026 18:39:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
       "fecha": "Fri, 02 Oct 2026 18:49:44 -0300",
@@ -77,12 +71,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
       "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Contraloría da luz verde a cambios en construcción: expertos advierten riesgo de \"guetos verticales\"",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/03/contraloria-da-luz-verde-a-cambios-en-construccion-expertos-advierten-riesgo-de-guetos-verticales.shtml",
-      "fecha": "Sat, 03 Oct 2026 21:13:32 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -402,6 +390,10 @@
       {
         "fecha": "2026-10-03",
         "valor": 41081.76
+      },
+      {
+        "fecha": "2026-10-04",
+        "valor": 41089.96
       }
     ],
     "dolar": [
@@ -719,6 +711,10 @@
       },
       {
         "fecha": "2026-10-03",
+        "valor": 983.84
+      },
+      {
+        "fecha": "2026-10-04",
         "valor": 983.84
       }
     ],
@@ -1038,6 +1034,10 @@
       {
         "fecha": "2026-10-03",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-04",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1352,6 +1352,10 @@
       {
         "fecha": "2026-10-03",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-04",
+        "valor": 4.34
       }
     ]
   },
@@ -1359,9 +1363,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 1.512,
+    "score": 1.484,
     "modo": "zscore",
-    "valor_actual": 41081.76,
-    "fecha": "2026-10-03"
+    "valor_actual": 41089.96,
+    "fecha": "2026-10-04"
   }
 }
