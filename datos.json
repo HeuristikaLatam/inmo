@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-04T23:44:03.528459+00:00",
+  "generado": "2026-10-05T16:38:18.856531+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41089.96,
-      "fecha": "2026-10-04T03:00:00.000Z"
+      "valor": 41098.15,
+      "fecha": "2026-10-05T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 983.84,
-      "fecha": "2026-10-02T03:00:00.000Z"
+      "valor": 984.82,
+      "fecha": "2026-10-05T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-02T03:00:00.000Z"
+      "fecha": "2026-10-05T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,33 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "A un paso de los cuatro dígitos: dólar supera los $ 990 con un alza semanal de casi $ 30 y cierra en nuevos máximos desde abril de 2025",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-96t3c",
-      "fecha": "Fri, 02 Oct 2026 19:22:54 GMT",
+      "titulo": "El dólar se desploma en el mercado cambiario chileno y cae casi $20 al inicio de la tarde tras anuncio de Dipres de licitación de dólares",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-n75vd",
+      "fecha": "Mon, 05 Oct 2026 16:02:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Colegio Saint Andrew y su inmobiliaria se van a reorganización para evitar su remate",
-      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/colegio-saint-andrew-y-su-inmobiliaria-se-van-a-reorganizacion-para-evitar",
-      "fecha": "Fri, 02 Oct 2026 19:19:16 GMT",
+      "titulo": "El índice dólar frente a otras monedas sube a máximos de abril 2025 por riesgos en Europa",
+      "link": "http://www.df.cl/primer-click/el-indice-dolar-frente-a-otras-monedas-sube-a-maximos-de-abril-2025-por",
+      "fecha": "Mon, 05 Oct 2026 10:40:07 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Ley de Reconstrucción a punto de promulgarse: TC entrega sentencia pero sorprende eliminando las condiciones para compensar a municipios por fin de contribuciones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-a-punto-de-promulgarse-tc-entrega-sentencia-y",
-      "fecha": "Fri, 02 Oct 2026 18:41:01 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Industria inmobiliaria prevé nuevo impulso a la inversión tras toma de razón a la OGUC, pero queda atenta a reacción de municipios",
-      "link": "http://www.df.cl/empresas/construccion/industria-inmobiliaria-preve-nuevo-impulso-a-la-inversion-tras-toma-de",
-      "fecha": "Fri, 02 Oct 2026 21:53:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Por qué puede sufrir un susto Wall Street hasta final de año?",
-      "link": "http://www.df.cl/senal-df/senales-financieras/por-que-puede-sufrir-un-susto-wall-street-hasta-final-de-ano",
-      "fecha": "Fri, 02 Oct 2026 18:26:45 GMT",
+      "titulo": "Contructora prepara proyecto inmobiliario de US$ 46 millones en Antofagasta",
+      "link": "http://www.df.cl/empresas/construccion/contructora-prepara-proyecto-inmobiliario-de-us-46-millones-en-antofagasta",
+      "fecha": "Fri, 02 Oct 2026 20:23:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -71,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
       "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Rodrigo López, presidente de la CChC Concepción: “El 90% del presupuesto de obras públicas va a ser para pagar obras que están en ejecución”",
+      "link": "http://www.df.cl/regiones/biobio/rodrigo-lopez-presidente-cchc-concepcion-el-90-del-presupuesto-de-obras",
+      "fecha": "Mon, 05 Oct 2026 16:06:12 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -394,6 +388,10 @@
       {
         "fecha": "2026-10-04",
         "valor": 41089.96
+      },
+      {
+        "fecha": "2026-10-05",
+        "valor": 41098.15
       }
     ],
     "dolar": [
@@ -716,6 +714,10 @@
       {
         "fecha": "2026-10-04",
         "valor": 983.84
+      },
+      {
+        "fecha": "2026-10-05",
+        "valor": 984.82
       }
     ],
     "tpm": [
@@ -1038,6 +1040,10 @@
       {
         "fecha": "2026-10-04",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-05",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1356,6 +1362,10 @@
       {
         "fecha": "2026-10-04",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-05",
+        "valor": 4.34
       }
     ]
   },
@@ -1363,9 +1373,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.02,
-    "score": 1.484,
+    "score": 1.451,
     "modo": "zscore",
-    "valor_actual": 41089.96,
-    "fecha": "2026-10-04"
+    "valor_actual": 41098.15,
+    "fecha": "2026-10-05"
   }
 }
