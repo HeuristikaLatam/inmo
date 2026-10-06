@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-06T01:36:33.444105+00:00",
+  "generado": "2026-10-06T14:36:36.558377+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41098.15,
-      "fecha": "2026-10-05T03:00:00.000Z"
+      "valor": 41106.35,
+      "fecha": "2026-10-06T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 984.82,
-      "fecha": "2026-10-05T03:00:00.000Z"
+      "valor": 977.25,
+      "fecha": "2026-10-06T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-05T03:00:00.000Z"
+      "fecha": "2026-10-06T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,9 +31,33 @@
   },
   "titulares": [
     {
-      "titulo": "Coeva del Biobío aprueba construcción de proyecto inmobiliario de viviendas sociales junto a Humedal Paicaví en Concepción",
+      "titulo": "Dólar se hunde $ 10 y pierde los $ 965 a media mañana mientras la divisa se aleja de sus recientes máximos globales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-diafj",
+      "fecha": "Tue, 06 Oct 2026 13:54:52 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Wall Street busca récords a pesar de tasas más altas",
+      "link": "http://www.df.cl/primer-click/wall-street-busca-records-a-pesar-de-tasas-mas-altas",
+      "fecha": "Tue, 06 Oct 2026 11:05:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mercado asume un IPC de septiembre sin sorpresas, pero dólar eleva riesgo de una inflación en 5% a fin de año",
+      "link": "http://www.df.cl/economia-y-politica/macro/mercado-asume-un-ipc-de-septiembre-sin-sorpresas-pero-dolar-eleva-riesgo",
+      "fecha": "Mon, 05 Oct 2026 23:12:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Mercado brasileño en euforia ante eventual retorno del bolsonarismo a la Presidencia",
+      "link": "http://www.df.cl/internacional/economia/mercado-brasileno-en-euforia-ante-eventual-retorno-del-bolsonarismo-a-la",
+      "fecha": "Mon, 05 Oct 2026 22:47:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Coeva de Biobío aprueba construcción de proyecto de viviendas junto a Humedal Paicaví en Concepción",
       "link": "http://www.df.cl/regiones/biobio/empresas/coeva-del-biobio-aprueba-construccion-de-proyecto-inmobiliario-de-viviendas",
-      "fecha": "Mon, 05 Oct 2026 22:45:38 GMT",
+      "fecha": "Tue, 06 Oct 2026 12:14:08 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,27 +67,15 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El índice dólar frente a otras monedas sube a máximos de abril 2025 por riesgos en Europa",
-      "link": "http://www.df.cl/primer-click/el-indice-dolar-frente-a-otras-monedas-sube-a-maximos-de-abril-2025-por",
-      "fecha": "Mon, 05 Oct 2026 10:40:07 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Contructora prepara proyecto inmobiliario de US$ 46 millones en Antofagasta",
-      "link": "http://www.df.cl/empresas/construccion/contructora-prepara-proyecto-inmobiliario-de-us-46-millones-en-antofagasta",
-      "fecha": "Fri, 02 Oct 2026 20:23:49 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Presupuesto: Oposición cuestionó solicitud de endeudamiento por 25 mil millones de dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-oposicion-cuestiono-solicitud-de-endeudamiento-por-25-mil/2026-10-06/080808.html",
+      "fecha": "Tue, 06 Oct 2026 08:08:08 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "España es la punta del iceberg: ¿qué está haciendo Europa por la vivienda?",
       "link": "https://www.cooperativa.cl/noticias/mundo/espana/espana-es-la-punta-del-iceberg-que-esta-haciendo-europa-por-la/2026-10-05/180208.html",
       "fecha": "Mon, 05 Oct 2026 18:02:08 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
-      "fecha": "Fri, 02 Oct 2026 18:49:44 -0300",
       "fuente": "Cooperativa"
     }
   ],
@@ -395,7 +407,7 @@
       },
       {
         "fecha": "2026-10-06",
-        "valor": 41098.15
+        "valor": 41106.35
       }
     ],
     "dolar": [
@@ -725,7 +737,7 @@
       },
       {
         "fecha": "2026-10-06",
-        "valor": 984.82
+        "valor": 977.25
       }
     ],
     "tpm": [
@@ -1386,12 +1398,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.902,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.77,
+    "score": 1.707,
     "modo": "zscore",
-    "valor_actual": 41098.15,
+    "valor_actual": 977.25,
     "fecha": "2026-10-06"
   }
 }
