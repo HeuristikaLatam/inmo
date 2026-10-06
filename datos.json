@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06T14:36:36.558377+00:00",
+  "generado": "2026-10-06T23:27:40.066514+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar se hunde $ 10 y pierde los $ 965 a media mañana mientras la divisa se aleja de sus recientes máximos globales",
+      "titulo": "Dólar revierte su caída matinal y cierra con leve alza sobre $ 970 tras agotarse el efecto inicial del programa de licitaciones de Hacienda",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-diafj",
-      "fecha": "Tue, 06 Oct 2026 13:54:52 GMT",
+      "fecha": "Tue, 06 Oct 2026 19:20:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Acciones chilenas: estos son los cambios de las corredoras a sus carteras recomendadas tras la alta volatilidad de tasas de interés",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/acciones-chilenas-estos-son-los-cambios-de-las-corredoras-a-sus-carteras",
+      "fecha": "Tue, 06 Oct 2026 22:06:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,28 +49,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mercado asume un IPC de septiembre sin sorpresas, pero dólar eleva riesgo de una inflación en 5% a fin de año",
-      "link": "http://www.df.cl/economia-y-politica/macro/mercado-asume-un-ipc-de-septiembre-sin-sorpresas-pero-dolar-eleva-riesgo",
-      "fecha": "Mon, 05 Oct 2026 23:12:44 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Mercado brasileño en euforia ante eventual retorno del bolsonarismo a la Presidencia",
-      "link": "http://www.df.cl/internacional/economia/mercado-brasileno-en-euforia-ante-eventual-retorno-del-bolsonarismo-a-la",
-      "fecha": "Mon, 05 Oct 2026 22:47:30 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Coeva de Biobío aprueba construcción de proyecto de viviendas junto a Humedal Paicaví en Concepción",
-      "link": "http://www.df.cl/regiones/biobio/empresas/coeva-del-biobio-aprueba-construccion-de-proyecto-inmobiliario-de-viviendas",
-      "fecha": "Tue, 06 Oct 2026 12:14:08 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El dólar cierra con una caída de más de $ 17 luego que el anuncio de licitaciones de Hacienda lo desplomó cuando se acercaba a la marca de $ 1.000",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-n75vd",
-      "fecha": "Mon, 05 Oct 2026 23:34:50 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
+      "fecha": "Tue, 06 Oct 2026 14:36:45 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Presupuesto: Oposición cuestionó solicitud de endeudamiento por 25 mil millones de dólares",
