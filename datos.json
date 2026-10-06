@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T18:11:36.931843+00:00",
+  "generado": "2026-10-06T01:02:47.110633+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "El dólar se desploma en el mercado cambiario chileno y cae casi $17 al inicio de la tarde tras anuncio de Dipres de licitación de dólares",
+      "titulo": "Coeva del Biobío aprueba construcción de proyecto inmobiliario de viviendas sociales junto a Humedal Paicaví en Concepción",
+      "link": "http://www.df.cl/regiones/biobio/empresas/coeva-del-biobio-aprueba-construccion-de-proyecto-inmobiliario-de-viviendas",
+      "fecha": "Mon, 05 Oct 2026 22:45:38 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El dólar cierra con una caída de más de $ 17 luego que el anuncio de licitaciones de Hacienda lo desplomó cuando se acercaba a la marca de $ 1.000",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-n75vd",
-      "fecha": "Mon, 05 Oct 2026 17:02:58 GMT",
+      "fecha": "Mon, 05 Oct 2026 23:34:50 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,22 +55,16 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "España es la punta del iceberg: ¿qué está haciendo Europa por la vivienda?",
+      "link": "https://www.cooperativa.cl/noticias/mundo/espana/espana-es-la-punta-del-iceberg-que-esta-haciendo-europa-por-la/2026-10-05/180208.html",
+      "fecha": "Mon, 05 Oct 2026 18:02:08 -0300",
+      "fuente": "Cooperativa"
+    },
+    {
       "titulo": "Dólar amenaza con alcanzar la luca: \"No hay nada que le dé soporte al peso\"",
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-amenaza-con-alcanzar-la-luca-no-hay-nada-que-le-de-soporte-al/2026-10-02/184944.html",
       "fecha": "Fri, 02 Oct 2026 18:49:44 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El dólar escaló a su valor más alto desde abril de 2025",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/el-dolar-escalo-a-su-valor-mas-alto-desde-abril-de-2025/2026-10-01/201310.html",
-      "fecha": "Thu, 01 Oct 2026 20:13:10 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Minera Escondida solicita mediación con sindicato de supervisores",
-      "link": "http://www.df.cl/empresas/mineria/minera-escondida-solicita-mediacion-con-sindicato-de-supervisores-y",
-      "fecha": "Mon, 05 Oct 2026 17:57:29 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -392,6 +392,10 @@
       {
         "fecha": "2026-10-05",
         "valor": 41098.15
+      },
+      {
+        "fecha": "2026-10-06",
+        "valor": 41098.15
       }
     ],
     "dolar": [
@@ -717,6 +721,10 @@
       },
       {
         "fecha": "2026-10-05",
+        "valor": 984.82
+      },
+      {
+        "fecha": "2026-10-06",
         "valor": 984.82
       }
     ],
@@ -1044,6 +1052,10 @@
       {
         "fecha": "2026-10-05",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-06",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1366,16 +1378,20 @@
       {
         "fecha": "2026-10-05",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-06",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 1.451,
+    "cambio_pct": 0.0,
+    "score": 0.902,
     "modo": "zscore",
     "valor_actual": 41098.15,
-    "fecha": "2026-10-05"
+    "fecha": "2026-10-06"
   }
 }
