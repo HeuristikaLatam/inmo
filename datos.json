@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-06T23:27:40.066514+00:00",
+  "generado": "2026-10-07T00:15:39.233800+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -43,12 +43,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Wall Street busca récords a pesar de tasas más altas",
-      "link": "http://www.df.cl/primer-click/wall-street-busca-records-a-pesar-de-tasas-mas-altas",
-      "fecha": "Tue, 06 Oct 2026 11:05:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
       "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
       "fecha": "Tue, 06 Oct 2026 14:36:45 -0300",
@@ -65,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/espana/espana-es-la-punta-del-iceberg-que-esta-haciendo-europa-por-la/2026-10-05/180208.html",
       "fecha": "Mon, 05 Oct 2026 18:02:08 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Fintual ingresa solicitud formal ante la Superintendencia de Pensiones para constituir AFP y busca personal",
+      "link": "http://www.df.cl/mercados/pensiones/fintual-ingresa-solicitud-formal-ante-la-superintendencia-de-pensiones-para",
+      "fecha": "Tue, 06 Oct 2026 23:54:40 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -396,6 +396,10 @@
       {
         "fecha": "2026-10-06",
         "valor": 41106.35
+      },
+      {
+        "fecha": "2026-10-07",
+        "valor": 41106.35
       }
     ],
     "dolar": [
@@ -725,6 +729,10 @@
       },
       {
         "fecha": "2026-10-06",
+        "valor": 977.25
+      },
+      {
+        "fecha": "2026-10-07",
         "valor": 977.25
       }
     ],
@@ -1056,6 +1064,10 @@
       {
         "fecha": "2026-10-06",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-07",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1382,16 +1394,20 @@
       {
         "fecha": "2026-10-06",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-07",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.77,
-    "score": 1.707,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.914,
     "modo": "zscore",
-    "valor_actual": 977.25,
-    "fecha": "2026-10-06"
+    "valor_actual": 41106.35,
+    "fecha": "2026-10-07"
   }
 }
