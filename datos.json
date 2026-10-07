@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T16:14:52.481728+00:00",
+  "generado": "2026-10-07T23:56:26.380462+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "IPSA profundiza caída y pierde los 11 mil puntos mientras la principal tasa soberana de EEUU alcanza nuevos máximos de 24 años",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-u23ky",
-      "fecha": "Wed, 07 Oct 2026 16:13:39 GMT",
+      "titulo": "Dólar cierra al alza cerca de $ 980 una sesión marcada por la inquietud de los mercados globales frente a la crisis en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-krccy",
+      "fecha": "Wed, 07 Oct 2026 19:14:01 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar sube con fuerza y supera los $ 980 por agitación en los mercados globales frente a la crisis en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-krccy",
-      "fecha": "Wed, 07 Oct 2026 16:14:00 GMT",
+      "titulo": "Actas de la Fed muestran que funcionarios prevén otra alza de tasas este año para frenar la inflación",
+      "link": "http://www.df.cl/internacional/economia/actas-de-la-fed-muestran-que-funcionarios-preven-otra-alza-de-tasas-para",
+      "fecha": "Wed, 07 Oct 2026 19:09:20 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Giorgianna Cúneo invierte $ 2.500 millones en Aguas Andinas, equivalentes a 0,13% de la propiedad",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/giorgianna-cuneo-invierte-2-500-millones-en-aguas-andinas-equivalentes-a",
+      "fecha": "Wed, 07 Oct 2026 18:15:29 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,22 +61,22 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Embajador Judd afirma que agencia estatal de EEUU trabaja en inversiones por miles de millones de dólares en Chile",
-      "link": "http://www.df.cl/internacional/economia/embajador-judd-afirma-que-agencia-estatal-de-eeuu-trabaja-en-inversiones",
-      "fecha": "Tue, 06 Oct 2026 22:16:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
       "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
       "fecha": "Tue, 06 Oct 2026 14:36:45 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Presupuesto: Oposición cuestionó solicitud de endeudamiento por 25 mil millones de dólares",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-oposicion-cuestiono-solicitud-de-endeudamiento-por-25-mil/2026-10-06/080808.html",
-      "fecha": "Tue, 06 Oct 2026 08:08:08 -0300",
-      "fuente": "Cooperativa"
+      "titulo": "Adolescente de 15 años queda grave tras sufrir ataque con arma blanca en Quilpué: un adulto detenido",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/07/adolescente-de-15-anos-queda-grave-tras-sufrir-ataque-con-arma-blanca-en-quilpue-un-adulto-detenido.shtml",
+      "fecha": "Wed, 07 Oct 2026 23:53:27 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Liceo 1 de Santiago sufre ataque incendiario: directora culpa a encapuchadas de otros recintos",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/07/liceo-1-de-santiago-sufre-ataque-incendiario-directora-culpa-a-encapuchadas-de-otros-recintos.shtml",
+      "fecha": "Wed, 07 Oct 2026 23:16:52 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
