@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-08T00:36:51.098214+00:00",
+  "generado": "2026-10-08T15:04:52.982551+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41114.54,
-      "fecha": "2026-10-07T03:00:00.000Z"
+      "valor": 41122.74,
+      "fecha": "2026-10-08T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 967.79,
-      "fecha": "2026-10-07T03:00:00.000Z"
+      "valor": 979.85,
+      "fecha": "2026-10-08T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-07T03:00:00.000Z"
+      "fecha": "2026-10-08T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,34 +31,28 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra al alza cerca de $ 980 una sesión marcada por la inquietud de los mercados globales frente a la crisis en Medio Oriente",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-krccy",
-      "fecha": "Wed, 07 Oct 2026 19:14:01 GMT",
+      "titulo": "Dólar borra alza que lo acercó a $ 990 en sesión marcada por los temores de que EEUU escale la guerra contra Irán",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-pkbv3",
+      "fecha": "Thu, 08 Oct 2026 14:17:31 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Actas de la Fed muestran que funcionarios prevén otra alza de tasas este año para frenar la inflación",
-      "link": "http://www.df.cl/internacional/economia/actas-de-la-fed-muestran-que-funcionarios-preven-otra-alza-de-tasas-para",
-      "fecha": "Wed, 07 Oct 2026 19:09:20 GMT",
+      "titulo": "CleanTech Lithium amplía su apuesta por el litio y firma acuerdos para adquirir dos propiedades mineras en Argentina",
+      "link": "http://www.df.cl/df-sud/cleantech-lithium-amplia-su-apuesta-por-el-litio-y-firma-acuerdos-para",
+      "fecha": "Thu, 08 Oct 2026 13:49:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Giorgianna Cúneo invierte $ 2.500 millones en Aguas Andinas, equivalentes a 0,13% de la propiedad",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/giorgianna-cuneo-invierte-2-500-millones-en-aguas-andinas-equivalentes-a",
-      "fecha": "Wed, 07 Oct 2026 18:15:29 GMT",
+      "titulo": "Wall Street desafía a las tasas: la bolsa marcó récords esta semana pese a que los bonos volvieron a niveles de hace más de 20 años",
+      "link": "http://www.df.cl/mercados/renta-fija/wall-street-desafia-a-las-tasas-la-bolsa-marco-records-esta-semana-pese-a",
+      "fecha": "Thu, 08 Oct 2026 13:27:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Trabajos de reapertura del paso Agua Negra entre Coquimbo y San Juan sufren revés por nuevo frente de mal tiempo",
-      "link": "http://www.df.cl/regiones/coquimbo/avanza-reapertura-del-paso-entre-coquimbo-y-san-juan-tras-despeje-de-nieve",
-      "fecha": "Wed, 07 Oct 2026 14:15:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Hacienda busca multiplicar por seis su capacidad para vender dólares a futuro",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/hacienda-busca-multiplicar-por-seis-su-capacidad-para-vender-dolares-a",
-      "fecha": "Wed, 07 Oct 2026 10:05:44 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "La muerte de Maricarmen aviva la lucha por la vivienda en toda España: \"Se lo debemos\"",
+      "link": "https://www.cooperativa.cl/noticias/mundo/espana/la-muerte-de-maricarmen-aviva-la-lucha-por-la-vivienda-en-toda-espana/2026-10-08/103910.html",
+      "fecha": "Thu, 08 Oct 2026 10:39:10 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
@@ -67,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Liceo 1 de Santiago sufre ataque incendiario: directora culpa a encapuchadas de otros recintos",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/07/liceo-1-de-santiago-sufre-ataque-incendiario-directora-culpa-a-encapuchadas-de-otros-recintos.shtml",
-      "fecha": "Wed, 07 Oct 2026 23:16:52 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Diputado Cristián Tapia por investigación sobre irregularidades en producción de Codelco: “Lo más probable es que presentemos una querella\"",
+      "link": "http://www.df.cl/economia-y-politica/congreso/diputado-cristian-tapia-por-investigacion-sobre-irregularidades-en",
+      "fecha": "Thu, 08 Oct 2026 14:21:32 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -409,7 +403,7 @@
       },
       {
         "fecha": "2026-10-08",
-        "valor": 41114.54
+        "valor": 41122.74
       }
     ],
     "dolar": [
@@ -747,7 +741,7 @@
       },
       {
         "fecha": "2026-10-08",
-        "valor": 967.79
+        "valor": 979.85
       }
     ],
     "tpm": [
@@ -1424,12 +1418,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.925,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 1.25,
+    "score": 2.318,
     "modo": "zscore",
-    "valor_actual": 41114.54,
+    "valor_actual": 979.85,
     "fecha": "2026-10-08"
   }
 }
