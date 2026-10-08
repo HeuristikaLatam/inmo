@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-07T23:56:26.380462+00:00",
+  "generado": "2026-10-08T00:36:51.098214+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -65,12 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
       "fecha": "Tue, 06 Oct 2026 14:36:45 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Adolescente de 15 años queda grave tras sufrir ataque con arma blanca en Quilpué: un adulto detenido",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/07/adolescente-de-15-anos-queda-grave-tras-sufrir-ataque-con-arma-blanca-en-quilpue-un-adulto-detenido.shtml",
-      "fecha": "Wed, 07 Oct 2026 23:53:27 +0000",
-      "fuente": "BioBioChile"
     },
     {
       "titulo": "Liceo 1 de Santiago sufre ataque incendiario: directora culpa a encapuchadas de otros recintos",
@@ -412,6 +406,10 @@
       {
         "fecha": "2026-10-07",
         "valor": 41114.54
+      },
+      {
+        "fecha": "2026-10-08",
+        "valor": 41114.54
       }
     ],
     "dolar": [
@@ -745,6 +743,10 @@
       },
       {
         "fecha": "2026-10-07",
+        "valor": 967.79
+      },
+      {
+        "fecha": "2026-10-08",
         "valor": 967.79
       }
     ],
@@ -1080,6 +1082,10 @@
       {
         "fecha": "2026-10-07",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-08",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1410,16 +1416,20 @@
       {
         "fecha": "2026-10-07",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-08",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.97,
-    "score": 2.063,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 0.925,
     "modo": "zscore",
-    "valor_actual": 967.79,
-    "fecha": "2026-10-07"
+    "valor_actual": 41114.54,
+    "fecha": "2026-10-08"
   }
 }
