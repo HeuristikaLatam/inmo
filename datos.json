@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-09T23:43:50.067004+00:00",
+  "generado": "2026-10-10T14:06:48.513776+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41130.94,
-      "fecha": "2026-10-09T03:00:00.000Z"
+      "valor": 41136.24,
+      "fecha": "2026-10-10T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -426,6 +426,10 @@
       {
         "fecha": "2026-10-09",
         "valor": 41130.94
+      },
+      {
+        "fecha": "2026-10-10",
+        "valor": 41136.24
       }
     ],
     "dolar": [
@@ -767,6 +771,10 @@
       },
       {
         "fecha": "2026-10-09",
+        "valor": 981.61
+      },
+      {
+        "fecha": "2026-10-10",
         "valor": 981.61
       }
     ],
@@ -1110,6 +1118,10 @@
       {
         "fecha": "2026-10-09",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-10",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1448,16 +1460,20 @@
       {
         "fecha": "2026-10-09",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-10",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 1.349,
+    "cambio_pct": 0.01,
+    "score": 0.522,
     "modo": "zscore",
-    "valor_actual": 41130.94,
-    "fecha": "2026-10-09"
+    "valor_actual": 41136.24,
+    "fecha": "2026-10-10"
   }
 }
