@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-11T14:32:35.061057+00:00",
+  "generado": "2026-10-11T15:30:16.706385+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -20,7 +20,15 @@
       "fecha": "2026-10-09T03:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": null,
+  "tasa_hipotecaria": {
+    "nombre": "Tasa hipotecaria promedio (TIP)",
+    "unidad": "Porcentaje",
+    "valor": 4.34,
+    "fecha": "2026-09-15",
+    "detalle": {
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.34
+    }
+  },
   "titulares": [
     {
       "titulo": "La Primavera: La desconocida fundación de viviendas de Eduardo Fernandez León",
@@ -1473,6 +1481,10 @@
       },
       {
         "fecha": "2026-10-10",
+        "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-11",
         "valor": 4.34
       }
     ]
