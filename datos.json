@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-10T23:06:31.321564+00:00",
+  "generado": "2026-10-11T14:32:35.061057+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41136.24,
-      "fecha": "2026-10-10T03:00:00.000Z"
+      "valor": 41141.53,
+      "fecha": "2026-10-11T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -20,16 +20,20 @@
       "fecha": "2026-10-09T03:00:00.000Z"
     }
   },
-  "tasa_hipotecaria": {
-    "nombre": "Tasa hipotecaria promedio (TIP)",
-    "unidad": "Porcentaje",
-    "valor": 4.34,
-    "fecha": "2026-09-15",
-    "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.34
-    }
-  },
+  "tasa_hipotecaria": null,
   "titulares": [
+    {
+      "titulo": "La Primavera: La desconocida fundación de viviendas de Eduardo Fernandez León",
+      "link": "http://www.df.cl/df-mas/por-dentro/la-primavera-de-eduardo-fernandez-leon",
+      "fecha": "Sat, 10 Oct 2026 14:20:43 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Inmobiliaria de Gabriela Luksic se fusiona con Patagonland",
+      "link": "http://www.df.cl/df-mas/por-dentro/inmobiliaria-de-gabriela-luksic-se-fusiona-con-patagonland",
+      "fecha": "Sat, 10 Oct 2026 15:03:14 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Inmobiliarias reactivan la búsqueda de terrenos tras cambios a ordenanza de urbanismo y construcciones",
       "link": "http://www.df.cl/senal-df/factor-economico/inmobiliarias-reactivan-la-busqueda-de-terrenos-tras-cambios-a-ordenanza-de",
@@ -46,18 +50,6 @@
       "titulo": "Dólar cierra estable bajo $ 980 y quiebra una larga racha de alzas semanales mientras precios del cobre repuntan con fuerza",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5kv8",
       "fecha": "Fri, 09 Oct 2026 19:16:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Solo resta su publicación en el Diario Oficial: Kast firma el decreto para promulgar la Ley de Reconstrucción",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/solo-resta-su-publicacion-en-el-diario-oficial-kast-firma-el-decreto-para",
-      "fecha": "Fri, 09 Oct 2026 16:37:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dividendos de fin de año: Falabella, Andina y Zofri animan la última caza de 2026",
-      "link": "http://www.df.cl/senal-df/senales-financieras/dividendos-de-fin-de-ano-falabella-andina-y-zofri-animan-la-ultima-caza",
-      "fecha": "Fri, 09 Oct 2026 17:53:13 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -85,15 +77,9 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Uruguayo Bentancur fue expulsado por cabezazo a rival del United: Tottenham sigue sufriendo en Premier",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/10/uruguayo-rodrigo-bentancur-expulsado-por-cabezazo-united-tottenham-premier-league.shtml",
-      "fecha": "Sat, 10 Oct 2026 21:23:44 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Aluvión en Las Condes deja 384 damnificados y 56 viviendas destruidas: reportan 1.200 rescatados",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/10/aluvion-en-las-condes-deja-384-damnificados-y-56-viviendas-destruidas-reportan-1-200-rescatados.shtml",
-      "fecha": "Sat, 10 Oct 2026 21:04:29 +0000",
+      "titulo": "Diputados destrozan propuesta del PDG de cambiar UF por pesos: Es una idea populista y falsa, afirman",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/11/diputados-destrozan-propuesta-del-pdg-de-cambiar-uf-por-pesos-es-una-idea-populista-y-falsa-afirman.shtml",
+      "fecha": "Sun, 11 Oct 2026 13:27:06 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -442,6 +428,10 @@
       {
         "fecha": "2026-10-10",
         "valor": 41136.24
+      },
+      {
+        "fecha": "2026-10-11",
+        "valor": 41141.53
       }
     ],
     "dolar": [
@@ -788,6 +778,10 @@
       {
         "fecha": "2026-10-10",
         "valor": 981.61
+      },
+      {
+        "fecha": "2026-10-11",
+        "valor": 981.61
       }
     ],
     "tpm": [
@@ -1133,6 +1127,10 @@
       },
       {
         "fecha": "2026-10-10",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-11",
         "valor": 4.5
       }
     ],
@@ -1483,9 +1481,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.01,
-    "score": 0.522,
+    "score": 0.515,
     "modo": "zscore",
-    "valor_actual": 41136.24,
-    "fecha": "2026-10-10"
+    "valor_actual": 41141.53,
+    "fecha": "2026-10-11"
   }
 }
