@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-11T15:30:16.706385+00:00",
+  "generado": "2026-10-11T23:19:22.967559+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -61,6 +61,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Diputados consideran \"populista\" la propuesta del PDG que busca reemplazar contratos en UF",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/diputados-consideran-populista-la-propuesta-del-pdg-que-busca/2026-10-11/173656.html",
+      "fecha": "Sun, 11 Oct 2026 17:36:56 -0300",
+      "fuente": "Cooperativa"
+    },
+    {
       "titulo": "Inflación y tasas de interés: La brecha entre las proyecciones de la Dipres y el mercado",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-y-tasas-de-interes-la-brecha-entre-las-proyecciones-de-la/2026-10-09/145043.html",
       "fecha": "Fri, 09 Oct 2026 14:50:43 -0300",
@@ -85,9 +91,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Diputados destrozan propuesta del PDG de cambiar UF por pesos: Es una idea populista y falsa, afirman",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/11/diputados-destrozan-propuesta-del-pdg-de-cambiar-uf-por-pesos-es-una-idea-populista-y-falsa-afirman.shtml",
-      "fecha": "Sun, 11 Oct 2026 13:27:06 +0000",
+      "titulo": "Naufragio frente a las costas de Yibuti deja más de 130 fallecidos: al menos 15 eran niños",
+      "link": "https://www.biobiochile.cl/noticias/internacional/africa/2026/10/11/naufragio-frente-a-las-costas-de-yibuti-deja-mas-de-130-fallecidos-al-menos-15-eran-ninos.shtml",
+      "fecha": "Sun, 11 Oct 2026 20:32:36 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
+      "fecha": "Sun, 11 Oct 2026 20:00:32 +0000",
       "fuente": "BioBioChile"
     }
   ],
