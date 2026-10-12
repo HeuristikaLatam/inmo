@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-11T23:19:22.967559+00:00",
+  "generado": "2026-10-12T00:07:47.153258+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -94,12 +94,6 @@
       "titulo": "Naufragio frente a las costas de Yibuti deja más de 130 fallecidos: al menos 15 eran niños",
       "link": "https://www.biobiochile.cl/noticias/internacional/africa/2026/10/11/naufragio-frente-a-las-costas-de-yibuti-deja-mas-de-130-fallecidos-al-menos-15-eran-ninos.shtml",
       "fecha": "Sun, 11 Oct 2026 20:32:36 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Colo Colo sufrió en visita a Coquimbo: ’piratas’ le dieron una paliza al líder y escoltas se ilusionan",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/10/11/colo-colo-sufrio-en-visita-a-coquimbo-piratas-le-dieron-una-paliza-al-lider-y-escoltas-se-ilusionan.shtml",
-      "fecha": "Sun, 11 Oct 2026 20:00:32 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -452,6 +446,10 @@
       {
         "fecha": "2026-10-11",
         "valor": 41141.53
+      },
+      {
+        "fecha": "2026-10-12",
+        "valor": 41141.53
       }
     ],
     "dolar": [
@@ -801,6 +799,10 @@
       },
       {
         "fecha": "2026-10-11",
+        "valor": 981.61
+      },
+      {
+        "fecha": "2026-10-12",
         "valor": 981.61
       }
     ],
@@ -1152,6 +1154,10 @@
       {
         "fecha": "2026-10-11",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-12",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1498,16 +1504,20 @@
       {
         "fecha": "2026-10-11",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-12",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.01,
-    "score": 0.515,
+    "cambio_pct": 0.0,
+    "score": 0.969,
     "modo": "zscore",
     "valor_actual": 41141.53,
-    "fecha": "2026-10-11"
+    "fecha": "2026-10-12"
   }
 }
