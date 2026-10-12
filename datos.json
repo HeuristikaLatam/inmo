@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-12T00:07:47.153258+00:00",
+  "generado": "2026-10-12T17:10:00.827286+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41141.53,
-      "fecha": "2026-10-11T03:00:00.000Z"
+      "valor": 41146.83,
+      "fecha": "2026-10-12T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -83,18 +83,6 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/espana/tension-politica-en-madrid-tras-la-muerte-de-maricarmen-simbolo-de-la/2026-10-08/125229.html",
       "fecha": "Thu, 08 Oct 2026 12:52:29 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "La muerte de Maricarmen aviva la lucha por la vivienda en toda España: \"Se lo debemos\"",
-      "link": "https://www.cooperativa.cl/noticias/mundo/espana/la-muerte-de-maricarmen-aviva-la-lucha-por-la-vivienda-en-toda-espana/2026-10-08/103910.html",
-      "fecha": "Thu, 08 Oct 2026 10:39:10 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Naufragio frente a las costas de Yibuti deja más de 130 fallecidos: al menos 15 eran niños",
-      "link": "https://www.biobiochile.cl/noticias/internacional/africa/2026/10/11/naufragio-frente-a-las-costas-de-yibuti-deja-mas-de-130-fallecidos-al-menos-15-eran-ninos.shtml",
-      "fecha": "Sun, 11 Oct 2026 20:32:36 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -449,7 +437,7 @@
       },
       {
         "fecha": "2026-10-12",
-        "valor": 41141.53
+        "valor": 41146.83
       }
     ],
     "dolar": [
@@ -1514,10 +1502,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.969,
+    "cambio_pct": 0.01,
+    "score": 0.514,
     "modo": "zscore",
-    "valor_actual": 41141.53,
+    "valor_actual": 41146.83,
     "fecha": "2026-10-12"
   }
 }
