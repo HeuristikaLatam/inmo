@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-12T18:49:38.538391+00:00",
+  "generado": "2026-10-13T01:44:08.114162+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -55,12 +55,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra estable bajo $ 980 y quiebra una larga racha de alzas semanales mientras precios del cobre repuntan con fuerza",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5kv8",
-      "fecha": "Fri, 09 Oct 2026 19:16:43 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Diputados consideran \"populista\" la propuesta del PDG que busca reemplazar contratos en UF",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/diputados-consideran-populista-la-propuesta-del-pdg-que-busca/2026-10-11/173656.html",
       "fecha": "Sun, 11 Oct 2026 17:36:56 -0300",
@@ -85,15 +79,21 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Exsubsecretaria Quintana: Las RUF son insuficientes sin una reforma judicial y al Ministerio Público",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/12/exsubsecretaria-quintana-las-ruf-son-insuficientes-sin-una-reforma-judicial-y-al-ministerio-publico.shtml",
-      "fecha": "Mon, 12 Oct 2026 17:30:56 +0000",
+      "titulo": "Incendio deja dos viviendas totalmente destruidas en Osorno",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/10/12/incendio-deja-dos-viviendas-totalmente-destruidas-en-osorno.shtml",
+      "fecha": "Tue, 13 Oct 2026 00:40:45 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Poduje anuncia evacuación de 40 familias en Arauco y estudio por grieta que amenaza viviendas",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/10/12/poduje-anuncia-evacuacion-de-40-familias-en-arauco-y-estudio-por-grieta-que-amenaza-viviendas.shtml",
-      "fecha": "Mon, 12 Oct 2026 17:13:20 +0000",
+      "titulo": "Si vives en una de estas 4 comunas, puedes postular a una estufa a pellet o aire acondicionado",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/12/si-vives-en-una-de-estas-4-comunas-puedes-postular-a-una-estufa-a-pellet-o-aire-acondicionado.shtml",
+      "fecha": "Tue, 13 Oct 2026 00:13:02 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Desborde de esteros en Curacautín deja al menos 16 viviendas inundadas: vecina incluso perdió animales",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/10/12/desborde-de-esteros-en-curacautin-deja-al-menos-20-viviendas-inundadas-vecina-incluso-perdio-animales.shtml",
+      "fecha": "Mon, 12 Oct 2026 23:34:49 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -450,6 +450,10 @@
       {
         "fecha": "2026-10-12",
         "valor": 41146.83
+      },
+      {
+        "fecha": "2026-10-13",
+        "valor": 41146.83
       }
     ],
     "dolar": [
@@ -803,6 +807,10 @@
       },
       {
         "fecha": "2026-10-12",
+        "valor": 981.61
+      },
+      {
+        "fecha": "2026-10-13",
         "valor": 981.61
       }
     ],
@@ -1158,6 +1166,10 @@
       {
         "fecha": "2026-10-12",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-13",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1508,16 +1520,20 @@
       {
         "fecha": "2026-10-12",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-13",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.01,
-    "score": 0.514,
+    "cambio_pct": 0.0,
+    "score": 0.979,
     "modo": "zscore",
     "valor_actual": 41146.83,
-    "fecha": "2026-10-12"
+    "fecha": "2026-10-13"
   }
 }
