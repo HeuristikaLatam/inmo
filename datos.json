@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T22:52:29.181374+00:00",
+  "generado": "2026-10-14T23:33:44.169296+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
-      "fecha": "Wed, 14 Oct 2026 19:20:40 GMT",
+      "titulo": "Inflación en EEUU presiona a los bonos del Tesoro ante expectativas de nuevas alzas de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
+      "fecha": "Wed, 14 Oct 2026 22:59:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Libro Beige de la Fed destaca persistentes presiones inflacionarias y refuerza expectativas de otra alza de tasas",
-      "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
-      "fecha": "Wed, 14 Oct 2026 19:18:50 GMT",
+      "titulo": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
+      "fecha": "Wed, 14 Oct 2026 19:20:40 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,9 +61,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Falabella fortalece su perfil financiero: Fitch eleva clasificación tras reducción de deuda y mejora de márgenes",
-      "link": "http://www.df.cl/empresas/retail/falabella-fortalece-su-perfil-financiero-fitch-eleva-clasificacion-tras",
-      "fecha": "Wed, 14 Oct 2026 22:50:08 GMT",
+      "titulo": "Ingresos de Anthropic subieron un 50%, hasta alcanzar los US$ 16.800 millones, antes de su salida a bolsa",
+      "link": "http://www.df.cl/internacional/ft/ingresos-de-anthropic-subieron-un-50-hasta-alcanzar-los-us-16-800",
+      "fecha": "Wed, 14 Oct 2026 22:58:57 GMT",
       "fuente": "Diario Financiero"
     }
   ],
