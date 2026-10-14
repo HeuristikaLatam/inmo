@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-14T13:12:34.055544+00:00",
+  "generado": "2026-10-14T22:52:29.181374+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "IPC en EEUU en septiembre sube dentro de las expactivas y la inflación llega al 3,7% anual: aumentan las apuestas por una nueva alza de tasas de la Fed",
+      "titulo": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
+      "fecha": "Wed, 14 Oct 2026 19:20:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Libro Beige de la Fed destaca persistentes presiones inflacionarias y refuerza expectativas de otra alza de tasas",
       "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
-      "fecha": "Wed, 14 Oct 2026 12:59:14 GMT",
+      "fecha": "Wed, 14 Oct 2026 19:18:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Swaps de tasas de las AFP les cuestan más de US$ 11.000 millones a los afiliados y explican el 80% de la caída del fondo E",
+      "link": "http://www.df.cl/senal-df/swaps-de-tasas-de-las-afp-les-cuestan-mas-de-us-11-000-millones-a-los",
+      "fecha": "Wed, 14 Oct 2026 15:33:51 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,40 +61,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar abre plano en medio de la espera antes de los precios al consumidor de septiembre en EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
-      "fecha": "Wed, 14 Oct 2026 13:04:02 GMT",
+      "titulo": "Falabella fortalece su perfil financiero: Fitch eleva clasificación tras reducción de deuda y mejora de márgenes",
+      "link": "http://www.df.cl/empresas/retail/falabella-fortalece-su-perfil-financiero-fitch-eleva-clasificacion-tras",
+      "fecha": "Wed, 14 Oct 2026 22:50:08 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IVA inmobiliario en la mega reforma",
-      "link": "http://www.df.cl/opinion/cartas/iva-inmobiliario-en-la-mega-reforma",
-      "fecha": "Tue, 13 Oct 2026 22:26:13 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "China acelera la construcción de centros de datos en su carrera por la supremacía en IA",
-      "link": "http://www.df.cl/china-acelera-la-construccion-de-centros-de-datos-en-su-carrera-por-la",
-      "fecha": "Tue, 13 Oct 2026 20:41:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza sobre $ 980 ya que los traders se pusieron al día con el petróleo tras el fin de semana largo en Chile",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rtuun",
-      "fecha": "Tue, 13 Oct 2026 19:42:20 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Diputados consideran \"populista\" la propuesta del PDG que busca reemplazar contratos en UF",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/diputados-consideran-populista-la-propuesta-del-pdg-que-busca/2026-10-11/173656.html",
-      "fecha": "Sun, 11 Oct 2026 17:36:56 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Inflación y tasas de interés: La brecha entre las proyecciones de la Dipres y el mercado",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-y-tasas-de-interes-la-brecha-entre-las-proyecciones-de-la/2026-10-09/145043.html",
-      "fecha": "Fri, 09 Oct 2026 14:50:43 -0300",
-      "fuente": "Cooperativa"
     }
   ],
   "historial": {
