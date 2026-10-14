@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-13T02:19:13.808326+00:00",
+  "generado": "2026-10-14T13:12:34.055544+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41146.83,
-      "fecha": "2026-10-12T03:00:00.000Z"
+      "valor": 41157.43,
+      "fecha": "2026-10-14T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 981.61,
-      "fecha": "2026-10-09T03:00:00.000Z"
+      "valor": 980.79,
+      "fecha": "2026-10-14T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-09T03:00:00.000Z"
+      "fecha": "2026-10-14T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,27 +31,45 @@
   },
   "titulares": [
     {
-      "titulo": "La Primavera: La desconocida fundación de viviendas de Eduardo Fernandez León",
-      "link": "http://www.df.cl/df-mas/por-dentro/la-primavera-de-eduardo-fernandez-leon",
-      "fecha": "Sat, 10 Oct 2026 14:20:43 GMT",
+      "titulo": "IPC en EEUU en septiembre sube dentro de las expactivas y la inflación llega al 3,7% anual: aumentan las apuestas por una nueva alza de tasas de la Fed",
+      "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
+      "fecha": "Wed, 14 Oct 2026 12:59:14 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inmobiliaria de Gabriela Luksic se fusiona con Patagonland",
-      "link": "http://www.df.cl/df-mas/por-dentro/inmobiliaria-de-gabriela-luksic-se-fusiona-con-patagonland",
-      "fecha": "Sat, 10 Oct 2026 15:03:14 GMT",
+      "titulo": "Colun sufre revés judicial: tribunal mantiene suspendida la expulsión de Agrícola Las Mercedes",
+      "link": "http://www.df.cl/empresas/industria/colun-sufre-reves-judicial-tribunal-mantiene-suspendida-la-expulsion-de",
+      "fecha": "Wed, 14 Oct 2026 12:45:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inmobiliarias reactivan la búsqueda de terrenos tras cambios a ordenanza de urbanismo y construcciones",
-      "link": "http://www.df.cl/senal-df/factor-economico/inmobiliarias-reactivan-la-busqueda-de-terrenos-tras-cambios-a-ordenanza-de",
-      "fecha": "Fri, 09 Oct 2026 20:26:37 GMT",
+      "titulo": "Bancos flexibilizan condiciones de otorgamiento de créditos hipotecarios",
+      "link": "http://www.df.cl/mercados/banca-fintech/bancos-flexibilizan-condiciones-de-otorgamiento-de-creditos-hipotecarios",
+      "fecha": "Wed, 14 Oct 2026 11:57:18 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Kast visita el Banco Central y analiza con el Consejo el momento económico a meses de que Rosanna Costa cumpla su período como presidenta",
-      "link": "http://www.df.cl/economia-y-politica/pais/kast-visita-el-banco-central-y-analiza-con-el-consejo-el-momento-economico",
-      "fecha": "Fri, 09 Oct 2026 20:31:15 GMT",
+      "titulo": "Dólar abre plano en medio de la espera antes de los precios al consumidor de septiembre en EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
+      "fecha": "Wed, 14 Oct 2026 13:04:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IVA inmobiliario en la mega reforma",
+      "link": "http://www.df.cl/opinion/cartas/iva-inmobiliario-en-la-mega-reforma",
+      "fecha": "Tue, 13 Oct 2026 22:26:13 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "China acelera la construcción de centros de datos en su carrera por la supremacía en IA",
+      "link": "http://www.df.cl/china-acelera-la-construccion-de-centros-de-datos-en-su-carrera-por-la",
+      "fecha": "Tue, 13 Oct 2026 20:41:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra al alza sobre $ 980 ya que los traders se pusieron al día con el petróleo tras el fin de semana largo en Chile",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-rtuun",
+      "fecha": "Tue, 13 Oct 2026 19:42:20 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -65,36 +83,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-y-tasas-de-interes-la-brecha-entre-las-proyecciones-de-la/2026-10-09/145043.html",
       "fecha": "Fri, 09 Oct 2026 14:50:43 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Kast visitó el Banco Central tras cuestionados dichos de Quiroz",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-visito-el-banco-central-tras-cuestionados-dichos-de-quiroz/2026-10-09/140459.html",
-      "fecha": "Fri, 09 Oct 2026 14:04:59 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Tensión política en Madrid tras la muerte de Maricarmen, símbolo de la crisis de vivienda",
-      "link": "https://www.cooperativa.cl/noticias/mundo/espana/tension-politica-en-madrid-tras-la-muerte-de-maricarmen-simbolo-de-la/2026-10-08/125229.html",
-      "fecha": "Thu, 08 Oct 2026 12:52:29 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Incendio deja dos viviendas totalmente destruidas en Osorno",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/10/12/incendio-deja-dos-viviendas-totalmente-destruidas-en-osorno.shtml",
-      "fecha": "Tue, 13 Oct 2026 00:40:45 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Si vives en una de estas 4 comunas, puedes postular a una estufa a pellet o aire acondicionado",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/12/si-vives-en-una-de-estas-4-comunas-puedes-postular-a-una-estufa-a-pellet-o-aire-acondicionado.shtml",
-      "fecha": "Tue, 13 Oct 2026 00:13:02 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Desborde de esteros en Curacautín deja al menos 16 viviendas inundadas: vecina incluso perdió animales",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/10/12/desborde-de-esteros-en-curacautin-deja-al-menos-20-viviendas-inundadas-vecina-incluso-perdio-animales.shtml",
-      "fecha": "Mon, 12 Oct 2026 23:34:49 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -454,6 +442,10 @@
       {
         "fecha": "2026-10-13",
         "valor": 41146.83
+      },
+      {
+        "fecha": "2026-10-14",
+        "valor": 41157.43
       }
     ],
     "dolar": [
@@ -812,6 +804,10 @@
       {
         "fecha": "2026-10-13",
         "valor": 981.61
+      },
+      {
+        "fecha": "2026-10-14",
+        "valor": 980.79
       }
     ],
     "tpm": [
@@ -1170,6 +1166,10 @@
       {
         "fecha": "2026-10-13",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-14",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
@@ -1524,16 +1524,20 @@
       {
         "fecha": "2026-10-13",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-14",
+        "valor": 4.34
       }
     ]
   },
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 0.979,
+    "cambio_pct": 0.03,
+    "score": 2.011,
     "modo": "zscore",
-    "valor_actual": 41146.83,
-    "fecha": "2026-10-13"
+    "valor_actual": 41157.43,
+    "fecha": "2026-10-14"
   }
 }
