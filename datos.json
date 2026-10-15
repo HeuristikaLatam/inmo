@@ -1,35 +1,83 @@
 {
-  "generado": "2026-10-14T23:33:44.169296+00:00",
+  "generado": "2026-10-15T14:04:36.758393+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41157.43,
-      "fecha": "2026-10-14T03:00:00.000Z"
+      "valor": 41162.73,
+      "fecha": "2026-10-15T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 980.79,
-      "fecha": "2026-10-14T03:00:00.000Z"
+      "valor": 987.03,
+      "fecha": "2026-10-15T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-14T03:00:00.000Z"
+      "fecha": "2026-10-15T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
     "nombre": "Tasa hipotecaria promedio (TIP)",
     "unidad": "Porcentaje",
-    "valor": 4.34,
-    "fecha": "2026-09-15",
+    "valor": 4.32,
+    "fecha": "2026-10-15",
     "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.34
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.32
     }
   },
   "titulares": [
+    {
+      "titulo": "BofA: Chile y Brasil entusiasman a los gestores de fondos pese a los riesgos del cobre y el alza de tasas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bofa-chile-y-brasil-entusiasman-a-los-gestores-de-fondos-pese-a-los",
+      "fecha": "Thu, 15 Oct 2026 13:28:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Suspensión por un año del IVA a la vivienda aumenta el monto de exenciones y beneficios tributarios que reducirán la recaudación del Estado en 2027",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/suspension-por-un-ano-del-iva-a-la-vivienda-aumenta-el-monto-de-exenciones",
+      "fecha": "Thu, 15 Oct 2026 13:05:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre a la baja por fuertes ventas globales en medio de una caída en la confianza de los inversionistas sobre la IA",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddbfe",
+      "fecha": "Thu, 15 Oct 2026 13:22:29 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Caída del fondo E: Cortez se reúne con las AFP y efecto de tasas provoca pérdidas por US$ 11 mil millones",
+      "link": "http://www.df.cl/mercados/pensiones/caida-del-fondo-e-cortez-se-reune-con-las-afp-y-efecto-de-tasas-provoca",
+      "fecha": "Thu, 15 Oct 2026 09:54:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Inflación en EEUU presiona a los bonos del Tesoro ante expectativas de nuevas alzas de tasas de la Fed",
+      "link": "http://www.df.cl",
+      "fecha": "Wed, 14 Oct 2026 22:41:35 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Contraloría pone la lupa sobre el reavalúo de propiedades y afina auditoría para el primer semestre de 2027",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/contraloria-pone-la-lupa-sobre-el-reavaluo-de-propiedades-y-afina-auditoria",
+      "fecha": "Thu, 15 Oct 2026 10:40:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "DF Tax | IVA cero a la vivienda: pan para hoy, hambre para mañana",
+      "link": "http://www.df.cl/opinion/columnistas/df-tax-iva-cero-a-la-vivienda-pan-para-hoy-hambre-para-manana",
+      "fecha": "Wed, 14 Oct 2026 14:45:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La renta inmobiliaria transa UF 10,1 millones entre abril-septiembre de 2026 y se reactivan transacciones de alto monto",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/la-renta-inmobiliaria-transa-uf-10-1-millones-entre-abril-septiembre-de",
+      "fecha": "Thu, 15 Oct 2026 13:27:15 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Inflación en EEUU presiona a los bonos del Tesoro ante expectativas de nuevas alzas de tasas de la Fed",
       "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
@@ -37,42 +85,14 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra al alza sobre $ 985 por datos de inflación que reforzaron el atractivo de la divisa a nivel internacional",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-bmkwc",
-      "fecha": "Wed, 14 Oct 2026 19:20:40 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Swaps de tasas de las AFP les cuestan más de US$ 11.000 millones a los afiliados y explican el 80% de la caída del fondo E",
-      "link": "http://www.df.cl/senal-df/swaps-de-tasas-de-las-afp-les-cuestan-mas-de-us-11-000-millones-a-los",
-      "fecha": "Wed, 14 Oct 2026 15:33:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Colun sufre revés judicial: tribunal mantiene suspendida la expulsión de Agrícola Las Mercedes",
-      "link": "http://www.df.cl/empresas/industria/colun-sufre-reves-judicial-tribunal-mantiene-suspendida-la-expulsion-de",
-      "fecha": "Wed, 14 Oct 2026 12:45:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bancos flexibilizan condiciones de otorgamiento de créditos hipotecarios",
-      "link": "http://www.df.cl/mercados/banca-fintech/bancos-flexibilizan-condiciones-de-otorgamiento-de-creditos-hipotecarios",
-      "fecha": "Wed, 14 Oct 2026 11:57:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ingresos de Anthropic subieron un 50%, hasta alcanzar los US$ 16.800 millones, antes de su salida a bolsa",
-      "link": "http://www.df.cl/internacional/ft/ingresos-de-anthropic-subieron-un-50-hasta-alcanzar-los-us-16-800",
-      "fecha": "Wed, 14 Oct 2026 22:58:57 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Revelan complejo caso de liceo que sufrió robo en Quinta Normal: alumno apuñaló a otro en el recinto",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/15/revelan-complejo-caso-de-liceo-que-sufrio-robo-en-quinta-normal-alumno-apunalo-a-otro-en-el-recinto.shtml",
+      "fecha": "Thu, 15 Oct 2026 13:29:45 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-17",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-18",
         "valor": 40844.79
@@ -428,13 +448,13 @@
       {
         "fecha": "2026-10-14",
         "valor": 41157.43
+      },
+      {
+        "fecha": "2026-10-15",
+        "valor": 41162.73
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-17",
-        "valor": 924.5
-      },
       {
         "fecha": "2026-07-18",
         "valor": 924.5
@@ -790,13 +810,13 @@
       {
         "fecha": "2026-10-14",
         "valor": 980.79
+      },
+      {
+        "fecha": "2026-10-15",
+        "valor": 987.03
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-17",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-18",
         "valor": 4.5
@@ -1151,6 +1171,10 @@
       },
       {
         "fecha": "2026-10-14",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-15",
         "valor": 4.5
       }
     ],
@@ -1510,16 +1534,20 @@
       {
         "fecha": "2026-10-14",
         "valor": 4.34
+      },
+      {
+        "fecha": "2026-10-15",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.03,
-    "score": 2.011,
+    "indicador": "tasa_hipotecaria",
+    "nombre": "la tasa hipotecaria promedio",
+    "cambio_pct": -0.46,
+    "score": 3.461,
     "modo": "zscore",
-    "valor_actual": 41157.43,
-    "fecha": "2026-10-14"
+    "valor_actual": 4.32,
+    "fecha": "2026-10-15"
   }
 }
