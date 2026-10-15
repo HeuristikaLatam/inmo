@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-15T14:04:36.758393+00:00",
+  "generado": "2026-10-15T22:47:25.766821+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,24 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra a la baja cerca de $ 980 en medio de ventas globales por menor confianza de los inversionistas sobre la IA",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddbfe",
+      "fecha": "Thu, 15 Oct 2026 22:40:10 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Chile se suma al récord de participación laboral de la OCDE, pero sigue rezagado en tasa de ocupación",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/chile-se-suma-al-record-de-participacion-laboral-de-la-ocde-pero-sigue",
+      "fecha": "Thu, 15 Oct 2026 21:17:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Compradores con mayor edad y viviendas más pequeñas: el nuevo escenario que se prevé traerá el repunte inmobiliario",
+      "link": "http://www.df.cl/empresas/construccion/compradores-con-mayor-edad-y-viviendas-mas-pequenas-el-nuevo-escenario-que",
+      "fecha": "Thu, 15 Oct 2026 22:08:33 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "BofA: Chile y Brasil entusiasman a los gestores de fondos pese a los riesgos del cobre y el alza de tasas",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bofa-chile-y-brasil-entusiasman-a-los-gestores-de-fondos-pese-a-los",
       "fecha": "Thu, 15 Oct 2026 13:28:50 GMT",
@@ -39,13 +57,7 @@
     {
       "titulo": "Suspensión por un año del IVA a la vivienda aumenta el monto de exenciones y beneficios tributarios que reducirán la recaudación del Estado en 2027",
       "link": "http://www.df.cl/economia-y-politica/df-tax/suspension-por-un-ano-del-iva-a-la-vivienda-aumenta-el-monto-de-exenciones",
-      "fecha": "Thu, 15 Oct 2026 13:05:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar abre a la baja por fuertes ventas globales en medio de una caída en la confianza de los inversionistas sobre la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddbfe",
-      "fecha": "Thu, 15 Oct 2026 13:22:29 GMT",
+      "fecha": "Thu, 15 Oct 2026 22:14:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,39 +67,9 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inflación en EEUU presiona a los bonos del Tesoro ante expectativas de nuevas alzas de tasas de la Fed",
-      "link": "http://www.df.cl",
-      "fecha": "Wed, 14 Oct 2026 22:41:35 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Contraloría pone la lupa sobre el reavalúo de propiedades y afina auditoría para el primer semestre de 2027",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/contraloria-pone-la-lupa-sobre-el-reavaluo-de-propiedades-y-afina-auditoria",
-      "fecha": "Thu, 15 Oct 2026 10:40:40 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "DF Tax | IVA cero a la vivienda: pan para hoy, hambre para mañana",
-      "link": "http://www.df.cl/opinion/columnistas/df-tax-iva-cero-a-la-vivienda-pan-para-hoy-hambre-para-manana",
-      "fecha": "Wed, 14 Oct 2026 14:45:58 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La renta inmobiliaria transa UF 10,1 millones entre abril-septiembre de 2026 y se reactivan transacciones de alto monto",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/la-renta-inmobiliaria-transa-uf-10-1-millones-entre-abril-septiembre-de",
-      "fecha": "Thu, 15 Oct 2026 13:27:15 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Inflación en EEUU presiona a los bonos del Tesoro ante expectativas de nuevas alzas de tasas de la Fed",
-      "link": "http://www.df.cl/internacional/economia/inflacion-en-eeuu-llega-al-3-7-anual-en-septiembre-y-aumentan-las-apuestas",
-      "fecha": "Wed, 14 Oct 2026 22:59:36 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Revelan complejo caso de liceo que sufrió robo en Quinta Normal: alumno apuñaló a otro en el recinto",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/15/revelan-complejo-caso-de-liceo-que-sufrio-robo-en-quinta-normal-alumno-apunalo-a-otro-en-el-recinto.shtml",
-      "fecha": "Thu, 15 Oct 2026 13:29:45 +0000",
+      "titulo": "Gobierno saca el reloj y pide declarar inadmisible requerimiento opositor a las RUF por extemporáneo",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/15/gobierno-saca-el-reloj-y-pide-declarar-inadmisible-requerimiento-opositor-a-las-ruf-por-extemporaneo.shtml",
+      "fecha": "Thu, 15 Oct 2026 22:11:23 +0000",
       "fuente": "BioBioChile"
     }
   ],
