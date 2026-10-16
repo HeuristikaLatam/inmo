@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-15T23:27:05.369489+00:00",
+  "generado": "2026-10-16T22:20:54.980071+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41162.73,
-      "fecha": "2026-10-15T03:00:00.000Z"
+      "valor": 41168.03,
+      "fecha": "2026-10-16T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 987.03,
-      "fecha": "2026-10-15T03:00:00.000Z"
+      "valor": 984.09,
+      "fecha": "2026-10-16T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-15T03:00:00.000Z"
+      "fecha": "2026-10-16T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,54 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra a la baja cerca de $ 980 en medio de ventas globales por menor confianza de los inversionistas sobre la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddbfe",
-      "fecha": "Thu, 15 Oct 2026 22:40:10 GMT",
+      "titulo": "Formalizan a alcalde de Chillán por fraude al fisco: compra de Medialuna por $ 1.900 millones habría doblado el valor de propiedad",
+      "link": "http://www.df.cl/regiones/nuble/formalizan-a-alcalde-de-chillan-por-fraude-al-fisco-compra-de-medialuna",
+      "fecha": "Fri, 16 Oct 2026 19:59:16 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Chile se suma al récord de participación laboral de la OCDE, pero sigue rezagado en tasa de ocupación",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/chile-se-suma-al-record-de-participacion-laboral-de-la-ocde-pero-sigue",
-      "fecha": "Thu, 15 Oct 2026 21:17:42 GMT",
+      "titulo": "Dólar cierra al alza este viernes y a nivel semanal tras repunte del petróleo que moderó las ventas globales sobre la divisa",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-vr6ig",
+      "fecha": "Fri, 16 Oct 2026 19:17:15 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Compradores con mayor edad y viviendas más pequeñas: el nuevo escenario que se prevé traerá el repunte inmobiliario",
-      "link": "http://www.df.cl/empresas/construccion/compradores-con-mayor-edad-y-viviendas-mas-pequenas-el-nuevo-escenario-que",
-      "fecha": "Thu, 15 Oct 2026 22:08:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "BofA: Chile y Brasil entusiasman a los gestores de fondos pese a los riesgos del cobre y el alza de tasas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bofa-chile-y-brasil-entusiasman-a-los-gestores-de-fondos-pese-a-los",
-      "fecha": "Thu, 15 Oct 2026 13:28:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Suspensión por un año del IVA a la vivienda aumenta el monto de exenciones y beneficios tributarios que reducirán la recaudación del Estado en 2027",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/suspension-por-un-ano-del-iva-a-la-vivienda-aumenta-el-monto-de-exenciones",
-      "fecha": "Thu, 15 Oct 2026 22:14:36 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "GOPE despliega operativo por hombre parapetado en vivienda de Macul y negocian salida pacífica",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/15/gope-despliega-operativo-por-hombre-parapetado-en-casa-de-macul-y-negocian-salida-pacifica.shtml",
-      "fecha": "Thu, 15 Oct 2026 23:19:01 +0000",
+      "titulo": "Publicación de las RUF deja al borde del fracaso el requerimiento de la oposición ante el TC",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/16/publicacion-de-las-ruf-deja-al-borde-del-fracaso-el-requerimiento-de-la-oposicion-ante-el-tc.shtml",
+      "fecha": "Fri, 16 Oct 2026 22:09:21 +0000",
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Gobierno saca el reloj y pide declarar inadmisible requerimiento opositor a las RUF por extemporáneo",
-      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/15/gobierno-saca-el-reloj-y-pide-declarar-inadmisible-requerimiento-opositor-a-las-ruf-por-extemporaneo.shtml",
-      "fecha": "Thu, 15 Oct 2026 22:11:23 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Concesiones de exploración minera: por qué cuesta tanto pasar a la explotación",
+      "link": "http://www.df.cl/senal-df/el-deal/concesiones-de-exploracion-minera-por-que-cuesta-tanto-pasar-a-la",
+      "fecha": "Fri, 16 Oct 2026 21:59:51 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Falabella marca un nuevo récord en bolsa y supera a SQM en valor de mercado",
+      "link": "http://www.df.cl/senal-df/senales-financieras/falabella-marca-un-nuevo-record-en-bolsa-y-supera-a-sqm-en-valor-de-mercado",
+      "fecha": "Fri, 16 Oct 2026 22:09:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Aclara llega a su Investor Day en NY con apuesta por integrar su negocio",
+      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/aclara-llega-a-su-investor-day-en-ny-con-apuesta-por-integrar-su-negocio",
+      "fecha": "Fri, 16 Oct 2026 22:05:39 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-18",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-19",
         "valor": 40844.79
@@ -434,13 +424,13 @@
       {
         "fecha": "2026-10-15",
         "valor": 41162.73
+      },
+      {
+        "fecha": "2026-10-16",
+        "valor": 41168.03
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-18",
-        "valor": 924.5
-      },
       {
         "fecha": "2026-07-19",
         "valor": 924.5
@@ -796,13 +786,13 @@
       {
         "fecha": "2026-10-15",
         "valor": 987.03
+      },
+      {
+        "fecha": "2026-10-16",
+        "valor": 984.09
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-18",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-19",
         "valor": 4.5
@@ -1158,13 +1148,13 @@
       {
         "fecha": "2026-10-15",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-16",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-17",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-18",
         "valor": 4.26
@@ -1520,16 +1510,20 @@
       {
         "fecha": "2026-10-15",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-16",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "tasa_hipotecaria",
-    "nombre": "la tasa hipotecaria promedio",
-    "cambio_pct": -0.46,
-    "score": 3.461,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.3,
+    "score": 0.726,
     "modo": "zscore",
-    "valor_actual": 4.32,
-    "fecha": "2026-10-15"
+    "valor_actual": 984.09,
+    "fecha": "2026-10-16"
   }
 }
