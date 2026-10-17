@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-17T12:50:09.682110+00:00",
+  "generado": "2026-10-17T21:53:46.718250+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Chile registra su menor tasa en seis años de sobreestadía en Estados Unidos bajo la Visa Waiver",
+      "link": "http://www.df.cl/economia-y-politica/pais/chile-registra-su-menor-tasa-en-seis-anos-de-sobreestadia-en-estados-unidos",
+      "fecha": "Sat, 17 Oct 2026 14:59:51 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Formalizan a alcalde de Chillán por fraude al fisco: compra de Medialuna por $ 1.900 millones habría doblado el valor de propiedad",
       "link": "http://www.df.cl/regiones/nuble/formalizan-a-alcalde-de-chillan-por-fraude-al-fisco-compra-de-medialuna",
       "fecha": "Fri, 16 Oct 2026 19:59:16 GMT",
@@ -58,12 +64,6 @@
       "titulo": "La minuta del Congreso | Se activa el proyecto de protección de datos",
       "link": "http://www.df.cl/senal-df/la-minuta/se-activa-el-proyecto-de-proteccion-de-datos",
       "fecha": "Sat, 17 Oct 2026 07:43:09 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Lo que debes saber al terminar la semana I Caída del fondo E, tensión laboral en la minería y rebaja del TAG",
-      "link": "http://www.df.cl/senal-df/doble-shot/caida-del-fondo-e-tension-laboral-en-la-mineria-y-rebaja-del-tag-marcaron",
-      "fecha": "Sat, 17 Oct 2026 07:41:19 GMT",
       "fuente": "Diario Financiero"
     }
   ],
