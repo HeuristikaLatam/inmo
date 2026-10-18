@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-18T12:19:00.651127+00:00",
+  "generado": "2026-10-18T13:06:42.603926+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,6 +49,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Gobierno declara Emergencia Climática Preventiva entre Coquimbo y Biobío hasta el 23 de octubre ante eventual llegada de nuevo frente de mal tiempo",
+      "link": "http://www.df.cl/economia-y-politica/pais/gobierno-declara-emergencia-climatica-preventiva-entre-coquimbo-y-biobio",
+      "fecha": "Sun, 18 Oct 2026 12:51:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Se desactiva la huelga en Centinela: minera y sindicatos alcanzan acuerdo con bono de término y renovación de jornadas de $ 24 millones",
       "link": "http://www.df.cl/empresas/mineria/se-desactiva-la-huelga-en-centinela-minera-y-sindicatos-alcanzan-acuerdo",
       "fecha": "Sun, 18 Oct 2026 11:56:18 GMT",
@@ -57,13 +63,7 @@
     {
       "titulo": "Saqueos e incendio de edificios durante protestas en Francia profundizan división entre extremos políticos y provocan reacción de la Casa Blanca",
       "link": "http://www.df.cl/internacional/politica/saqueos-e-incendio-de-edificios-durante-protestas-en-francia-profundizan",
-      "fecha": "Sun, 18 Oct 2026 12:11:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Los swaps, el efecto “manada”, el riesgo sistémico, las responsabilidades: la semana negra del fondo E",
-      "link": "http://www.df.cl/df-mas/por-dentro/los-swaps-el-efecto-manada-el-riesgo-sistemico-las-responsabilidades",
-      "fecha": "Sat, 17 Oct 2026 17:10:33 GMT",
+      "fecha": "Sun, 18 Oct 2026 12:48:51 GMT",
       "fuente": "Diario Financiero"
     }
   ],
