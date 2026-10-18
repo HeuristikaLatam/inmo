@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-17T22:47:01.753432+00:00",
+  "generado": "2026-10-18T12:19:00.651127+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41173.33,
-      "fecha": "2026-10-17T03:00:00.000Z"
+      "valor": 41178.64,
+      "fecha": "2026-10-18T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -49,30 +49,26 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mercados: la semana en datos",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
-      "fecha": "Fri, 16 Oct 2026 23:46:00 GMT",
+      "titulo": "Se desactiva la huelga en Centinela: minera y sindicatos alcanzan acuerdo con bono de término y renovación de jornadas de $ 24 millones",
+      "link": "http://www.df.cl/empresas/mineria/se-desactiva-la-huelga-en-centinela-minera-y-sindicatos-alcanzan-acuerdo",
+      "fecha": "Sun, 18 Oct 2026 11:56:18 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las dudas sobre la IA hunden al Nasdaq en su peor semana desde junio e inversionistas giran hacia el Tesoro",
-      "link": "http://www.df.cl/senal-df/senales-financieras/las-dudas-sobre-la-ia-hunden-al-nasdaq-en-su-peor-semana-desde-junio-e",
-      "fecha": "Sat, 17 Oct 2026 09:53:29 GMT",
+      "titulo": "Saqueos e incendio de edificios durante protestas en Francia profundizan división entre extremos políticos y provocan reacción de la Casa Blanca",
+      "link": "http://www.df.cl/internacional/politica/saqueos-e-incendio-de-edificios-durante-protestas-en-francia-profundizan",
+      "fecha": "Sun, 18 Oct 2026 12:11:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La minuta del Congreso | Se activa el proyecto de protección de datos",
-      "link": "http://www.df.cl/senal-df/la-minuta/se-activa-el-proyecto-de-proteccion-de-datos",
-      "fecha": "Sat, 17 Oct 2026 07:43:09 GMT",
+      "titulo": "Los swaps, el efecto “manada”, el riesgo sistémico, las responsabilidades: la semana negra del fondo E",
+      "link": "http://www.df.cl/df-mas/por-dentro/los-swaps-el-efecto-manada-el-riesgo-sistemico-las-responsabilidades",
+      "fecha": "Sat, 17 Oct 2026 17:10:33 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-20",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-21",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-10-17",
         "valor": 41173.33
+      },
+      {
+        "fecha": "2026-10-18",
+        "valor": 41178.64
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-20",
-        "valor": 933.92
-      },
       {
         "fecha": "2026-07-21",
         "valor": 933
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-10-17",
         "valor": 984.09
+      },
+      {
+        "fecha": "2026-10-18",
+        "valor": 984.09
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-20",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-21",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-10-17",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-18",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-19",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-20",
         "valor": 4.26
@@ -1514,6 +1510,10 @@
       {
         "fecha": "2026-10-17",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-18",
+        "valor": 4.32
       }
     ]
   },
@@ -1521,9 +1521,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.01,
-    "score": 0.449,
+    "score": 0.437,
     "modo": "zscore",
-    "valor_actual": 41173.33,
-    "fecha": "2026-10-17"
+    "valor_actual": 41178.64,
+    "fecha": "2026-10-18"
   }
 }
