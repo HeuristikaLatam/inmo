@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-18T22:41:09.212769+00:00",
+  "generado": "2026-10-19T23:13:23.907369+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41178.64,
-      "fecha": "2026-10-18T03:00:00.000Z"
+      "valor": 41183.94,
+      "fecha": "2026-10-19T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 984.09,
-      "fecha": "2026-10-16T03:00:00.000Z"
+      "valor": 981.65,
+      "fecha": "2026-10-19T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-16T03:00:00.000Z"
+      "fecha": "2026-10-19T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,48 +31,56 @@
   },
   "titulares": [
     {
-      "titulo": "Presidente del Banco Central de China apoya mayor supervisión por parte de FMI de riesgos fiscales y de contagio",
-      "link": "http://www.df.cl/internacional/economia/presidente-del-banco-central-de-china-apoya-mayor-supervision-por-parte-de",
-      "fecha": "Sun, 18 Oct 2026 14:09:27 GMT",
+      "titulo": "Dólar cae a cerca de $ 980 al cierre de la sesión en Chile tras ponerse al día con recientes ventas globales sobre la moneda",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-fhk42",
+      "fecha": "Mon, 19 Oct 2026 19:47:47 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Chile registra su menor tasa en seis años de sobreestadía en Estados Unidos bajo la Visa Waiver",
-      "link": "http://www.df.cl/economia-y-politica/pais/chile-registra-su-menor-tasa-en-seis-anos-de-sobreestadia-en-estados-unidos",
-      "fecha": "Sat, 17 Oct 2026 14:59:51 GMT",
+      "titulo": "Opinión FT: Las alzas de tasas de interés en EEUU están amplificando su impacto en los mercados globales",
+      "link": "http://www.df.cl/internacional/ft/opinion-ft-las-alzas-de-tasas-de-interes-en-eeuu-estan-amplificando-su",
+      "fecha": "Mon, 19 Oct 2026 18:32:04 GMT",
       "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Daniel Manouchehri (PS): “El costo de la vida es el gran tema de la agenda pública y un proyecto para restringir determinados cobros en UF nos parece razonable”",
+      "link": "http://www.df.cl/economia-y-politica/congreso/daniel-manouchehri-ps-el-costo-de-la-vida-es-el-gran-tema-de-la-agenda",
+      "fecha": "Mon, 19 Oct 2026 15:57:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Alza de las tasas de interés frena la recuperación inmobiliaria global mientras compradores renegocian operaciones",
+      "link": "http://www.df.cl/internacional/ft/alza-de-las-tasas-de-interes-frena-la-recuperacion-inmobiliaria-global",
+      "fecha": "Mon, 19 Oct 2026 15:39:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Cómo un hacker utilizó agentes de IA y unos pocos miles de dólares para vulnerar más de un centenar de sitios web",
+      "link": "http://www.df.cl/df-lab/mundo/como-un-hacker-utilizo-agentes-de-ia-y-unos-pocos-miles-de-dolares-para",
+      "fecha": "Mon, 19 Oct 2026 12:22:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La economía de China acelera su crecimiento en el tercer trimestre por las exportaciones, pero el consumo y la vivienda siguen débiles",
+      "link": "http://www.df.cl/internacional/economia/la-economia-de-china-acelera-su-crecimiento-en-el-tercer-trimestre-por-las",
+      "fecha": "Mon, 19 Oct 2026 09:30:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ley de Reconstrucción: Tesorería detalló convenios de pago con deudores CAE y Mipymes",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/ley-de-reconstruccion-tesoreria-detallo-convenios-de-pago-con-deudores/2026-10-19/150607.html",
+      "fecha": "Mon, 19 Oct 2026 15:06:07 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "El impacto económico de BTS en Chile supera los 50 millones de dólares",
       "link": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/el-impacto-economico-de-bts-en-chile-supera-los-50-millones-de-dolares/2026-10-18/174551.html",
       "fecha": "Sun, 18 Oct 2026 17:45:51 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Detectan problemas de humedad en viviendas entregadas hace menos de un año en Neltume",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/18/detectan-problemas-de-humedad-en-viviendas-entregadas-hace-menos-de-un-ano-en-neltume.shtml",
-      "fecha": "Sun, 18 Oct 2026 21:22:55 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Dibu Martínez envió mensaje desde hospital tras ser operado: argentino sufrió fractura de mandíbula",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/18/dibu-martinez-manda-mensaje-desde-el-hospital-tras-lesion-mandibula.shtml",
-      "fecha": "Sun, 18 Oct 2026 19:15:31 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Incidentes aislados se registran durante las manifestaciones por la conmemoración del séptimo aniversario del estallido social",
-      "link": "http://www.df.cl/economia-y-politica/pais/comienzan-a-llegar-a-plaza-baquedano-y-ahumada-manifestantes-para",
-      "fecha": "Sun, 18 Oct 2026 22:38:30 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-21",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-22",
         "valor": 40844.79
@@ -428,13 +436,13 @@
       {
         "fecha": "2026-10-18",
         "valor": 41178.64
+      },
+      {
+        "fecha": "2026-10-19",
+        "valor": 41183.94
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-21",
-        "valor": 933
-      },
       {
         "fecha": "2026-07-22",
         "valor": 932.84
@@ -790,13 +798,13 @@
       {
         "fecha": "2026-10-18",
         "valor": 984.09
+      },
+      {
+        "fecha": "2026-10-19",
+        "valor": 981.65
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-21",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-22",
         "valor": 4.5
@@ -1152,13 +1160,13 @@
       {
         "fecha": "2026-10-18",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-19",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-20",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-21",
         "valor": 4.26
@@ -1514,16 +1522,20 @@
       {
         "fecha": "2026-10-18",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-19",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.01,
-    "score": 0.437,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.25,
+    "score": 0.613,
     "modo": "zscore",
-    "valor_actual": 41178.64,
-    "fecha": "2026-10-18"
+    "valor_actual": 981.65,
+    "fecha": "2026-10-19"
   }
 }
