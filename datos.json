@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-20T00:02:45.214880+00:00",
+  "generado": "2026-10-20T14:12:37.028495+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41183.94,
-      "fecha": "2026-10-19T03:00:00.000Z"
+      "valor": 41189.24,
+      "fecha": "2026-10-20T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 981.65,
-      "fecha": "2026-10-19T03:00:00.000Z"
+      "valor": 981.86,
+      "fecha": "2026-10-20T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-19T03:00:00.000Z"
+      "fecha": "2026-10-20T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,39 +31,51 @@
   },
   "titulares": [
     {
+      "titulo": "Incluye rebaja de contribuciones: Impuestos Internos entregará alivios para propietarios de viviendas afectadas por los últimos eventos climáticos",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/incluye-rebaja-de-contribuciones-impuestos-internos-entregara-alivios-para",
+      "fecha": "Tue, 20 Oct 2026 13:38:06 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Bci respalda mecanismo de primera pérdida del Fonavi, pero pide ajustarlo al riesgo de cada cartera hipotecaria",
+      "link": "http://www.df.cl/mercados/banca-fintech/bci-respalda-mecanismo-de-primera-perdida-del-fonavi-pero-pide-ajustarlo",
+      "fecha": "Tue, 20 Oct 2026 13:04:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar abre al alza mientras el petróleo Brent alcanza nuevos máximos desde mayo por la tensión en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
+      "fecha": "Tue, 20 Oct 2026 13:11:19 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Fernando Mejido critica a las AFP por decisiones en fondo E: “Estaban especulando sobre el comportamiento de las tasas en EEUU”",
+      "link": "http://www.df.cl/mercados/pensiones/mejido-critica-a-las-administradoras-estaban-especulando-sobre-el",
+      "fecha": "Tue, 20 Oct 2026 09:46:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "¿Impacto del alza del dólar? Mercado se abre a la posibilidad de que el Banco Central suba la tasa este año",
+      "link": "http://www.df.cl/economia-y-politica/macro/impacto-del-alza-del-dolar-mercado-se-abre-a-la-posibilidad-de-que-el",
+      "fecha": "Mon, 19 Oct 2026 22:52:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Comienza la cuenta regresiva: SII y Tesorería inician la implementación de la Ley de Reconstrucción",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/comienza-la-cuenta-regresiva-sii-y-tesoreria-inicia-implementacion-de-la",
+      "fecha": "Tue, 20 Oct 2026 11:57:19 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Ad portas del debut de la Ley de Reconstrucción, Chile sigue en la parte baja de los sistemas tributarios más competitivos",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/ad-portas-del-debut-de-la-ley-de-reconstruccion-chile-sigue-en-la-parte",
+      "fecha": "Mon, 19 Oct 2026 21:07:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar cae a cerca de $ 980 al cierre de la sesión en Chile tras ponerse al día con recientes ventas globales sobre la moneda",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-fhk42",
       "fecha": "Mon, 19 Oct 2026 19:47:47 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Opinión FT: Las alzas de tasas de interés en EEUU están amplificando su impacto en los mercados globales",
-      "link": "http://www.df.cl/internacional/ft/opinion-ft-las-alzas-de-tasas-de-interes-en-eeuu-estan-amplificando-su",
-      "fecha": "Mon, 19 Oct 2026 18:32:04 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Daniel Manouchehri (PS): “El costo de la vida es el gran tema de la agenda pública y un proyecto para restringir determinados cobros en UF nos parece razonable”",
-      "link": "http://www.df.cl/economia-y-politica/congreso/daniel-manouchehri-ps-el-costo-de-la-vida-es-el-gran-tema-de-la-agenda",
-      "fecha": "Mon, 19 Oct 2026 15:57:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Alza de las tasas de interés frena la recuperación inmobiliaria global mientras compradores renegocian operaciones",
-      "link": "http://www.df.cl/internacional/ft/alza-de-las-tasas-de-interes-frena-la-recuperacion-inmobiliaria-global",
-      "fecha": "Mon, 19 Oct 2026 15:39:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Cómo un hacker utilizó agentes de IA y unos pocos miles de dólares para vulnerar más de un centenar de sitios web",
-      "link": "http://www.df.cl/df-lab/mundo/como-un-hacker-utilizo-agentes-de-ia-y-unos-pocos-miles-de-dolares-para",
-      "fecha": "Mon, 19 Oct 2026 12:22:31 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La economía de China acelera su crecimiento en el tercer trimestre por las exportaciones, pero el consumo y la vivienda siguen débiles",
-      "link": "http://www.df.cl/internacional/economia/la-economia-de-china-acelera-su-crecimiento-en-el-tercer-trimestre-por-las",
-      "fecha": "Mon, 19 Oct 2026 09:30:39 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -77,6 +89,18 @@
       "link": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/el-impacto-economico-de-bts-en-chile-supera-los-50-millones-de-dolares/2026-10-18/174551.html",
       "fecha": "Sun, 18 Oct 2026 17:45:51 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Hallan abandonado en Maipú auto de periodista Mónica Rincón tras sufrir encerrona con disparos al aire",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/20/hallan-abandonado-en-maipu-auto-de-periodista-monica-rincon-tras-sufrir-encerrona-con-disparos-al-aire.shtml",
+      "fecha": "Tue, 20 Oct 2026 13:34:06 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "\"Toma tus cosas y te vas\": Faloon y Rai sufren su quiebre más importante en ’¿Volverías con tu ex? 2’",
+      "link": "https://www.biobiochile.cl/noticias/dopamina/2026/10/20/toma-tus-cosas-y-te-vas-faloon-y-rai-sufren-su-quiebre-mas-importante-en-volverias-con-tu-ex-2.shtml",
+      "fecha": "Tue, 20 Oct 2026 13:26:54 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -439,7 +463,7 @@
       },
       {
         "fecha": "2026-10-20",
-        "valor": 41183.94
+        "valor": 41189.24
       }
     ],
     "dolar": [
@@ -801,7 +825,7 @@
       },
       {
         "fecha": "2026-10-20",
-        "valor": 981.65
+        "valor": 981.86
       }
     ],
     "tpm": [
@@ -1532,10 +1556,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.096,
+    "cambio_pct": 0.01,
+    "score": 0.405,
     "modo": "zscore",
-    "valor_actual": 41183.94,
+    "valor_actual": 41189.24,
     "fecha": "2026-10-20"
   }
 }
