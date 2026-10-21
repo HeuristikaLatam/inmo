@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T22:55:00.070325+00:00",
+  "generado": "2026-10-21T23:49:32.553717+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Nuevo tornado afecta a la Región de Maule provocando caída de árboles y daños menores en viviendas",
+      "link": "http://www.df.cl/regiones/maule/nuevo-tornado-afecta-a-la-region-de-maule-provocando-caida-de-arboles-y",
+      "fecha": "Wed, 21 Oct 2026 23:15:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "MK4 amplía el giro de las AFP y las faculta para administrar cuentas de ahorro voluntario para la vivienda",
       "link": "http://www.df.cl/economia-y-politica/congreso/mk4-amplia-el-giro-de-las-afp-y-las-faculta-para-administrar-cuentas-de",
       "fecha": "Wed, 21 Oct 2026 22:01:02 GMT",
@@ -58,12 +64,6 @@
       "titulo": "Petróleo de Texas subió hasta 105 dólares por barril, lo más alto en un mes",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-subio-hasta-105-dolares-por-barril-lo-mas-alto-en-un/2026-10-20/110405.html",
       "fecha": "Tue, 20 Oct 2026 11:04:05 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Ley de Reconstrucción: Tesorería detalló convenios de pago con deudores CAE y Mipymes",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/ley-de-reconstruccion-tesoreria-detallo-convenios-de-pago-con-deudores/2026-10-19/150607.html",
-      "fecha": "Mon, 19 Oct 2026 15:06:07 -0300",
       "fuente": "Cooperativa"
     }
   ],
