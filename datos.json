@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T14:24:59.654128+00:00",
+  "generado": "2026-10-21T22:55:00.070325+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre con leve alza mientras el petróleo Brent retoma los US$ 110 por barril por nuevos ataques en el estrecho de Ormuz",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-u9nii",
-      "fecha": "Wed, 21 Oct 2026 11:39:04 GMT",
+      "titulo": "MK4 amplía el giro de las AFP y las faculta para administrar cuentas de ahorro voluntario para la vivienda",
+      "link": "http://www.df.cl/economia-y-politica/congreso/mk4-amplia-el-giro-de-las-afp-y-las-faculta-para-administrar-cuentas-de",
+      "fecha": "Wed, 21 Oct 2026 22:01:02 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Contraloría da luz verde a nuevo subsidio habitacional para viviendas de hasta UF 4.000",
-      "link": "http://www.df.cl/empresas/construccion/contraloria-da-luz-verde-a-nuevo-subsidio-habitacional-para-viviendas-de",
-      "fecha": "Tue, 20 Oct 2026 21:18:30 GMT",
+      "titulo": "Dólar cierra al alza mientras el Brent retoma los US$ 110 por inquietud sobre un posible recrudecimiento del conflicto en Medio Oriente",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-u9nii",
+      "fecha": "Wed, 21 Oct 2026 19:22:58 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "MK4: Comisión de Hacienda aprueba nueva tasa máxima convencional para microcréditos y Quiroz abre la puerta a una flexibilización mayor",
+      "link": "http://www.df.cl/mercados/banca-fintech/mk4-comision-de-hacienda-eleva-la-tasa-maxima-convencional-y-quiroz-se",
+      "fecha": "Wed, 21 Oct 2026 18:52:52 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Fondo de renta inmobiliaria levanta más de US$ 80 millones en el mercado chileno con su primera colocación de bonos",
+      "link": "http://www.df.cl/mercados/renta-fija/fondo-de-renta-inmobiliaria-levanta-mas-de-us-80-millones-en-el-mercado",
+      "fecha": "Wed, 21 Oct 2026 18:50:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -53,18 +65,6 @@
       "link": "https://www.cooperativa.cl/noticias/pais/politica/ley-de-reconstruccion-tesoreria-detallo-convenios-de-pago-con-deudores/2026-10-19/150607.html",
       "fecha": "Mon, 19 Oct 2026 15:06:07 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El impacto económico de BTS en Chile supera los 50 millones de dólares",
-      "link": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/el-impacto-economico-de-bts-en-chile-supera-los-50-millones-de-dolares/2026-10-18/174551.html",
-      "fecha": "Sun, 18 Oct 2026 17:45:51 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Se acaba el plazo para postular a una estufa a pellet o aire acondicionado, si vives en estas comunas",
-      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/21/se-acaba-el-plazo-para-postular-a-una-estufa-a-pellet-o-aire-acondicionado-si-vives-en-estas-comunas.shtml",
-      "fecha": "Wed, 21 Oct 2026 14:19:21 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
