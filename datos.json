@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-20T23:32:28.240441+00:00",
+  "generado": "2026-10-21T13:19:43.395891+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41189.24,
-      "fecha": "2026-10-20T03:00:00.000Z"
+      "valor": 41194.55,
+      "fecha": "2026-10-21T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 981.86,
-      "fecha": "2026-10-20T03:00:00.000Z"
+      "valor": 978.56,
+      "fecha": "2026-10-21T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-20T03:00:00.000Z"
+      "fecha": "2026-10-21T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar abre con leve alza mientras el petróleo Brent retoma los US$ 110 por barril por nuevos ataques en el estrecho de Ormuz",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-u9nii",
+      "fecha": "Wed, 21 Oct 2026 11:39:04 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Contraloría da luz verde a nuevo subsidio habitacional para viviendas de hasta UF 4.000",
       "link": "http://www.df.cl/empresas/construccion/contraloria-da-luz-verde-a-nuevo-subsidio-habitacional-para-viviendas-de",
       "fecha": "Tue, 20 Oct 2026 21:18:30 GMT",
@@ -40,24 +46,6 @@
       "titulo": "Dólar pierde los $ 980 al cierre por menor confianza sobre la IA y un giro a la baja en los precios del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
       "fecha": "Tue, 20 Oct 2026 19:09:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Vecinos de Reñaca son admitidos como terceros coadyuvantes en causa por edificio Las Perlas que enfrenta a inmobiliaria con el municipio",
-      "link": "http://www.df.cl/regiones/valparaiso/proyecto-inmobiliario-de-us-40-millones-en-renaca-enfrenta-disputa",
-      "fecha": "Tue, 20 Oct 2026 15:51:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Incluye rebaja de contribuciones: Impuestos Internos entregará alivios para propietarios de viviendas afectadas por los últimos eventos climáticos",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/incluye-rebaja-de-contribuciones-impuestos-internos-entregara-alivios-para",
-      "fecha": "Tue, 20 Oct 2026 13:38:06 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bci respalda mecanismo de primera pérdida del Fonavi, pero pide ajustarlo al riesgo de cada cartera hipotecaria",
-      "link": "http://www.df.cl/mercados/banca-fintech/bci-respalda-mecanismo-de-primera-perdida-del-fonavi-pero-pide-ajustarlo",
-      "fecha": "Tue, 20 Oct 2026 13:04:34 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -77,26 +65,10 @@
       "link": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/el-impacto-economico-de-bts-en-chile-supera-los-50-millones-de-dolares/2026-10-18/174551.html",
       "fecha": "Sun, 18 Oct 2026 17:45:51 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Si cumples con estos cuatro requisitos, puedes postular al subsidio laboral de hasta $52 mil al mes",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/20/si-cumples-con-estos-cuatro-requisitos-puedes-postular-al-subsidio-laboral-de-hasta-52-mil-al-mes.shtml",
-      "fecha": "Tue, 20 Oct 2026 23:00:55 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Mujer queda atrapada por árbol que cayó sobre vivienda de tres pisos en Algarrobo",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/10/20/mujer-queda-atrapada-por-arbol-que-cayo-sobre-vivienda-de-tres-pisos-en-algarrobo.shtml",
-      "fecha": "Tue, 20 Oct 2026 22:29:11 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-23",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-24",
         "valor": 40844.79
@@ -452,13 +424,13 @@
       {
         "fecha": "2026-10-20",
         "valor": 41189.24
+      },
+      {
+        "fecha": "2026-10-21",
+        "valor": 41194.55
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-23",
-        "valor": 936.39
-      },
       {
         "fecha": "2026-07-24",
         "valor": 946.24
@@ -814,13 +786,13 @@
       {
         "fecha": "2026-10-20",
         "valor": 981.86
+      },
+      {
+        "fecha": "2026-10-21",
+        "valor": 978.56
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-23",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-24",
         "valor": 4.5
@@ -1176,13 +1148,13 @@
       {
         "fecha": "2026-10-20",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-21",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-22",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-23",
         "valor": 4.26
@@ -1538,16 +1510,20 @@
       {
         "fecha": "2026-10-20",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-21",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.01,
-    "score": 0.405,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.34,
+    "score": 0.767,
     "modo": "zscore",
-    "valor_actual": 41189.24,
-    "fecha": "2026-10-20"
+    "valor_actual": 978.56,
+    "fecha": "2026-10-21"
   }
 }
