@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-21T13:19:43.395891+00:00",
+  "generado": "2026-10-21T14:24:59.654128+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -43,12 +43,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar pierde los $ 980 al cierre por menor confianza sobre la IA y un giro a la baja en los precios del petróleo",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-a28gj",
-      "fecha": "Tue, 20 Oct 2026 19:09:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Petróleo de Texas subió hasta 105 dólares por barril, lo más alto en un mes",
       "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/petroleo-de-texas-subio-hasta-105-dolares-por-barril-lo-mas-alto-en-un/2026-10-20/110405.html",
       "fecha": "Tue, 20 Oct 2026 11:04:05 -0300",
@@ -65,6 +59,12 @@
       "link": "https://www.cooperativa.cl/noticias/magazine/musica/shows-en-vivo/el-impacto-economico-de-bts-en-chile-supera-los-50-millones-de-dolares/2026-10-18/174551.html",
       "fecha": "Sun, 18 Oct 2026 17:45:51 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Se acaba el plazo para postular a una estufa a pellet o aire acondicionado, si vives en estas comunas",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/21/se-acaba-el-plazo-para-postular-a-una-estufa-a-pellet-o-aire-acondicionado-si-vives-en-estas-comunas.shtml",
+      "fecha": "Wed, 21 Oct 2026 14:19:21 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
