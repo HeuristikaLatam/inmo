@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-23T23:40:58.526490+00:00",
+  "generado": "2026-10-24T12:21:48.972594+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41205.16,
-      "fecha": "2026-10-23T03:00:00.000Z"
+      "valor": 41210.47,
+      "fecha": "2026-10-24T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -61,18 +61,14 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Pareja de adultos mayores llevaba una semana fallecida en vivienda que arrendaban en Punta Arenas",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/23/pareja-de-adultos-mayores-llevaba-una-semana-fallecida-en-vivienda-que-arrendaban-en-punta-arenas.shtml",
-      "fecha": "Fri, 23 Oct 2026 23:36:02 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Mercados: la semana en datos",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "fecha": "Fri, 23 Oct 2026 23:27:47 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-26",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-27",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-10-23",
         "valor": 41205.16
+      },
+      {
+        "fecha": "2026-10-24",
+        "valor": 41210.47
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-26",
-        "valor": 946.24
-      },
       {
         "fecha": "2026-07-27",
         "valor": 946.14
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-10-23",
         "valor": 986.58
+      },
+      {
+        "fecha": "2026-10-24",
+        "valor": 986.58
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-26",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-27",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-10-23",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-24",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-25",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-26",
         "valor": 4.26
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-10-23",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-24",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 1.0,
-    "score": 1.937,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.01,
+    "score": 0.348,
     "modo": "zscore",
-    "valor_actual": 986.58,
-    "fecha": "2026-10-23"
+    "valor_actual": 41210.47,
+    "fecha": "2026-10-24"
   }
 }
