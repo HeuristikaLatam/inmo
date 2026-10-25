@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-24T22:47:59.484883+00:00",
+  "generado": "2026-10-25T12:52:07.693341+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41210.47,
-      "fecha": "2026-10-24T03:00:00.000Z"
+      "valor": 41215.77,
+      "fecha": "2026-10-25T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,6 +31,18 @@
   },
   "titulares": [
     {
+      "titulo": "La columna de J.J Jinks: \"No es suficiente\"",
+      "link": "http://www.df.cl/df-mas/opinion/la-columna-de-j-j-jinks-no-es-suficiente",
+      "fecha": "Fri, 23 Oct 2026 20:59:05 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Kreutzberger, Onetto y Elberg: los chilenos tras la mayor desarrolladora inmobiliaria en Miami",
+      "link": "http://www.df.cl/df-mas/por-dentro/kreutzberger-onetto-y-elberg-los-chilenos-tras-la-mayor-desarrolladora",
+      "fecha": "Sat, 24 Oct 2026 23:31:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Fiscal Andrés Montes, CMF: \"Se ha autorizado el pago de UF 43.400 (...) a denunciantes anónimos\"",
       "link": "http://www.df.cl/senal-df/senales-financieras/fiscal-andres-montes-cmf-se-ha-autorizado-el-pago-de-uf-43-400-a",
       "fecha": "Fri, 23 Oct 2026 20:51:49 GMT",
@@ -40,12 +52,6 @@
       "titulo": "Dólar salta $ 10 este viernes y cierra la semana en máximos desde abril de 2025 por el incansable rally del petróleo",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ddc9m",
       "fecha": "Fri, 23 Oct 2026 19:06:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Oposición consigue suficientes firmas para solicitar comisión investigadora por la caída del Fondo E",
-      "link": "http://www.df.cl/economia-y-politica/congreso/oposicion-consigue-suficientes-firmas-para-solicitar-comision-investigadora",
-      "fecha": "Fri, 23 Oct 2026 15:28:37 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,18 +67,14 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Incendio en campamento de Osorno deja dos viviendas totalmente destruidas y seis damnificados",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/10/24/incendio-en-campamento-de-osorno-deja-dos-viviendas-totalmente-destruidas-y-seis-damnificados.shtml",
-      "fecha": "Sat, 24 Oct 2026 18:30:34 +0000",
+      "titulo": "Incendio consume dos viviendas y daña otras cuatro en Pudahuel: hay un fallecido",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/25/incendio-consume-dos-viviendas-y-dana-otras-cuatro-en-quinta-normal-hay-un-fallecido.shtml",
+      "fecha": "Sun, 25 Oct 2026 10:23:18 +0000",
       "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-27",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-28",
         "valor": 40844.79
@@ -428,13 +430,13 @@
       {
         "fecha": "2026-10-24",
         "valor": 41210.47
+      },
+      {
+        "fecha": "2026-10-25",
+        "valor": 41215.77
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-27",
-        "valor": 946.14
-      },
       {
         "fecha": "2026-07-28",
         "valor": 941.93
@@ -790,13 +792,13 @@
       {
         "fecha": "2026-10-24",
         "valor": 986.58
+      },
+      {
+        "fecha": "2026-10-25",
+        "valor": 986.58
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-27",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-28",
         "valor": 4.5
@@ -1152,13 +1154,13 @@
       {
         "fecha": "2026-10-24",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-25",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-26",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-27",
         "valor": 4.26
@@ -1514,6 +1516,10 @@
       {
         "fecha": "2026-10-24",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-25",
+        "valor": 4.32
       }
     ]
   },
@@ -1521,9 +1527,9 @@
     "indicador": "uf",
     "nombre": "la UF",
     "cambio_pct": 0.01,
-    "score": 0.348,
+    "score": 0.33,
     "modo": "zscore",
-    "valor_actual": 41210.47,
-    "fecha": "2026-10-24"
+    "valor_actual": 41215.77,
+    "fecha": "2026-10-25"
   }
 }
