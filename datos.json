@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-26T14:43:47.416325+00:00",
+  "generado": "2026-10-26T23:28:32.485517+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,34 +31,40 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra a la baja por una ola de ventas tras rozar la marca de $ 1.000 en medio del efecto Brasil sobre los mercados",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-wuvym",
+      "fecha": "Mon, 26 Oct 2026 19:30:55 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Contraloría detecta que el 83,9% de los inmuebles fiscalizados en La Ligua tiene construcciones sin permiso",
+      "link": "http://www.df.cl/regiones/valparaiso/contraloria-detecta-que-el-83-9-de-los-inmuebles-fiscalizados-en-la-ligua",
+      "fecha": "Mon, 26 Oct 2026 18:39:49 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "GPM recomienda al Banco Central mantener la tasa de interés en 4,5% este martes y reconoce “fuerzas contrapuestas para la política monetaria”",
+      "link": "http://www.df.cl/economia-y-politica/macro/gpm-recomienda-al-banco-central-mantener-la-tasa-de-interes-en-4-5-este",
+      "fecha": "Mon, 26 Oct 2026 16:51:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Fallece el empresario bancario e inmobiliario Jacob Ergas",
+      "link": "http://www.df.cl/empresas/actualidad/fallece-el-empresario-bancario-e-inmobiliario-jacob-ergas",
+      "fecha": "Mon, 26 Oct 2026 16:35:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "¿Firmó una promesa antes de la Ley de Reconstrucción? El SII entrega las instrucciones para acogerse a la suspensión por un año del IVA en la venta de viviendas nuevas",
       "link": "http://www.df.cl/economia-y-politica/df-tax/firmo-una-promesa-antes-de-la-ley-de-reconstruccion-el-sii-entrega-las",
-      "fecha": "Mon, 26 Oct 2026 13:50:44 GMT",
+      "fecha": "Mon, 26 Oct 2026 21:19:06 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar sube y bordea los $ 1.000 mientras el real brasileño se desploma 9% tras resultado electoral que pulverizó las apuestas del mercado",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-wuvym",
-      "fecha": "Mon, 26 Oct 2026 13:33:12 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ad portas de cambios por Ley de Reconstrucción: Sence fija nuevas reglas para la franquicia tributaria",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/ad-portas-de-cambios-por-ley-de-reconstruccion-sence-fija-nuevas-reglas",
-      "fecha": "Fri, 23 Oct 2026 18:30:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La columna de J.J Jinks: \"No es suficiente\"",
-      "link": "http://www.df.cl/df-mas/opinion/la-columna-de-j-j-jinks-no-es-suficiente",
-      "fecha": "Fri, 23 Oct 2026 20:59:05 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kreutzberger, Onetto y Elberg: los chilenos tras la mayor desarrolladora inmobiliaria en Miami",
-      "link": "http://www.df.cl/df-mas/por-dentro/kreutzberger-onetto-y-elberg-los-chilenos-tras-la-mayor-desarrolladora",
-      "fecha": "Mon, 26 Oct 2026 10:16:03 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Dólar volvió a rozar los mil pesos tras la reelección de Lula en Brasil",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-volvio-a-rozar-los-mil-pesos-tras-la-reeleccion-de-lula-en-brasil/2026-10-26/141137.html",
+      "fecha": "Mon, 26 Oct 2026 14:11:37 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Dólar anotó su mayor nivel en un año y medio al rozar los 1.000 pesos",
@@ -67,10 +73,22 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Brent supera los 116 dólares por primera vez en casi seis meses ante escalada en Medio Oriente",
-      "link": "https://www.cooperativa.cl/noticias/economia/materias-primas/petroleo/brent-supera-los-116-dolares-por-primera-vez-en-casi-seis-meses-ante/2026-10-23/125934.html",
-      "fecha": "Fri, 23 Oct 2026 12:59:34 -0300",
-      "fuente": "Cooperativa"
+      "titulo": "Reportan destrucción en viviendas de Requínoa por tornado: volaron techos y cayeron muros",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/26/reportan-destruccion-en-viviendas-de-requinoa-por-tornado-volaron-techos-y-cayeron-muros.shtml",
+      "fecha": "Mon, 26 Oct 2026 22:46:14 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Más de 10 mil clientes sufren cortes de luz en medio de lluvias y tormenta eléctrica en la RM",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/26/mas-de-10-mil-clientes-sufren-cortes-de-luz-en-medio-de-lluvias-y-tormenta-electrica-en-la-rm.shtml",
+      "fecha": "Mon, 26 Oct 2026 22:31:21 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Gobernador de O’Higgins: \"Tenemos viviendas con daños y un colegio destruido, pero no hay heridos\"",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-ohiggins/2026/10/26/gobernador-de-ohiggins-tenemos-viviendas-con-danos-y-un-colegio-destruido-pero-no-hay-heridos.shtml",
+      "fecha": "Mon, 26 Oct 2026 22:18:11 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
