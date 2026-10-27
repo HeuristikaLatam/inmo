@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-26T23:28:32.485517+00:00",
+  "generado": "2026-10-27T00:08:31.215011+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -51,7 +51,7 @@
     {
       "titulo": "Fallece el empresario bancario e inmobiliario Jacob Ergas",
       "link": "http://www.df.cl/empresas/actualidad/fallece-el-empresario-bancario-e-inmobiliario-jacob-ergas",
-      "fecha": "Mon, 26 Oct 2026 16:35:30 GMT",
+      "fecha": "Mon, 26 Oct 2026 23:40:41 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -73,30 +73,20 @@
       "fuente": "Cooperativa"
     },
     {
+      "titulo": "Atención postulantes al Subsidio DS1: este es el plazo máximo para depositar el ahorro mínimo",
+      "link": "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/10/26/atencion-postulantes-al-subsidio-ds1-este-es-el-plazo-maximo-para-depositar-el-ahorro-minimo.shtml",
+      "fecha": "Tue, 27 Oct 2026 00:00:32 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
       "titulo": "Reportan destrucción en viviendas de Requínoa por tornado: volaron techos y cayeron muros",
       "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/26/reportan-destruccion-en-viviendas-de-requinoa-por-tornado-volaron-techos-y-cayeron-muros.shtml",
       "fecha": "Mon, 26 Oct 2026 22:46:14 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Más de 10 mil clientes sufren cortes de luz en medio de lluvias y tormenta eléctrica en la RM",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/26/mas-de-10-mil-clientes-sufren-cortes-de-luz-en-medio-de-lluvias-y-tormenta-electrica-en-la-rm.shtml",
-      "fecha": "Mon, 26 Oct 2026 22:31:21 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Gobernador de O’Higgins: \"Tenemos viviendas con daños y un colegio destruido, pero no hay heridos\"",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-ohiggins/2026/10/26/gobernador-de-ohiggins-tenemos-viviendas-con-danos-y-un-colegio-destruido-pero-no-hay-heridos.shtml",
-      "fecha": "Mon, 26 Oct 2026 22:18:11 +0000",
       "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-29",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-30",
         "valor": 40844.79
@@ -452,13 +442,13 @@
       {
         "fecha": "2026-10-26",
         "valor": 41221.08
+      },
+      {
+        "fecha": "2026-10-27",
+        "valor": 41221.08
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-29",
-        "valor": 936.16
-      },
       {
         "fecha": "2026-07-30",
         "valor": 935.57
@@ -814,13 +804,13 @@
       {
         "fecha": "2026-10-26",
         "valor": 990.35
+      },
+      {
+        "fecha": "2026-10-27",
+        "valor": 990.35
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-29",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-30",
         "valor": 4.5
@@ -1176,13 +1166,13 @@
       {
         "fecha": "2026-10-26",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-27",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-28",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-29",
         "valor": 4.26
@@ -1538,16 +1528,20 @@
       {
         "fecha": "2026-10-26",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-27",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.38,
-    "score": 0.644,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.279,
     "modo": "zscore",
-    "valor_actual": 990.35,
-    "fecha": "2026-10-26"
+    "valor_actual": 41221.08,
+    "fecha": "2026-10-27"
   }
 }
