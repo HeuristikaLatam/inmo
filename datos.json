@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-28T00:09:13.340385+00:00",
+  "generado": "2026-10-28T14:43:39.446307+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41226.39,
-      "fecha": "2026-10-27T03:00:00.000Z"
+      "valor": 41231.7,
+      "fecha": "2026-10-28T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 994.29,
-      "fecha": "2026-10-27T03:00:00.000Z"
+      "valor": 985.14,
+      "fecha": "2026-10-28T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-27T03:00:00.000Z"
+      "fecha": "2026-10-28T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,6 +31,36 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cae a niveles de $ 980 tras mensaje del Banco Central que alimenta las expectativas de un ajuste monetario",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
+      "fecha": "Wed, 28 Oct 2026 14:29:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Bolsa chilena cae tras sesgo restrictivo del Banco Central y mientras SQM corrige su fuerte alza de la víspera",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xwbgb",
+      "fecha": "Wed, 28 Oct 2026 14:13:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "En su debut en Enade, Quiroz arremete contra parlamentarios y alcaldes que impugnaron los cambios en la OGUC ante el TC: \"Eso va a retardar la reactivación de la construcción de noviembre a diciembre\"",
+      "link": "http://www.df.cl/economia-y-politica/macro/en-su-debut-en-enade-quiroz-anticipa-que-continuaran-imacec-negativos-en",
+      "fecha": "Wed, 28 Oct 2026 14:25:29 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La rebaja de la tasa de impuestos",
+      "link": "http://www.df.cl/opinion/columnistas/gabriela-clivio/la-rebaja-de-la-tasa-de-impuestos",
+      "fecha": "Wed, 28 Oct 2026 00:51:00 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El mercado anticipa efectos sobre el dólar y tasas por el tono más restrictivo del Banco Central de Chile",
+      "link": "http://www.df.cl/economia-y-politica/macro/el-mercado-anticipa-efectos-sobre-el-dolar-y-tasas-por-el-tono-mas",
+      "fecha": "Wed, 28 Oct 2026 10:49:50 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Cámara despacha reforma al mercado de capitales al Senado, pero rechaza participación de las AFP en el ahorro para la vivienda",
       "link": "http://www.df.cl/mercados/banca-fintech/camara-despacha-reforma-al-mercado-de-capitales-al-senado-pero-rechaza",
       "fecha": "Tue, 27 Oct 2026 23:41:10 GMT",
@@ -39,38 +69,14 @@
     {
       "titulo": "El Banco Central mantiene la tasa de interés, pero sube el tono de las alertas por el alza de la inflación",
       "link": "http://www.df.cl/economia-y-politica/macro/banco-central-mantiene-la-tasa-y-advierte-mayores-presiones-sobre-la",
-      "fecha": "Tue, 27 Oct 2026 22:38:54 GMT",
+      "fecha": "Wed, 28 Oct 2026 09:34:55 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra a la baja en $ 985 luego de que inversionistas reajustaran sus apuestas en la región tras la sacudida de Brasil",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-p5xh6",
-      "fecha": "Tue, 27 Oct 2026 19:50:12 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Ley de Reconstrucción: ventana para regularizar deudas municipales permitiría reducir una mora que asciende a casi US$ 300 millones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-ventana-para-regularizar-deudas-municipales",
-      "fecha": "Tue, 27 Oct 2026 23:34:00 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gremio de la construcción alerta por el presupuesto del Minvu para 2027, que cambia el financiamiento de las viviendas sociales",
-      "link": "http://www.df.cl/economia-y-politica/macro/gremio-de-la-construccion-alerta-por-el-presupuesto-del-minvu-para-2027",
-      "fecha": "Tue, 27 Oct 2026 21:57:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Inmobiliaria Las Salinas ingresa a tramitación cinco proyectos que considera \"clave\" para materializar inversión por US$ 1.000 millones en Viña del Mar",
-      "link": "http://www.df.cl/empresas/construccion/inmobiliaria-las-salinas-ingresa-a-tramitacion-cinco-proyectos-que",
-      "fecha": "Tue, 27 Oct 2026 21:35:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "A los 90 años fallece Helmut Köhler, emblemático exgerente y hombre clave de Grupo Kaufmann",
-      "link": "http://www.df.cl/empresas/industria/a-los-90-anos-fallece-helmut-kohler-emblematico-exgerente-y-hombre-clave",
-      "fecha": "Tue, 27 Oct 2026 16:08:50 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Por inflación y débil inversión y consumo, Banco Central mantuvo tasa de interés en 4,5%",
+      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-inflacion-y-debil-inversion-y-consumo-banco-central-mantuvo-tasa-de/2026-10-27/210457.html",
+      "fecha": "Tue, 27 Oct 2026 21:04:57 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Dólar volvió a rozar los mil pesos tras la reelección de Lula en Brasil",
@@ -439,7 +445,7 @@
       },
       {
         "fecha": "2026-10-28",
-        "valor": 41226.39
+        "valor": 41231.7
       }
     ],
     "dolar": [
@@ -801,7 +807,7 @@
       },
       {
         "fecha": "2026-10-28",
-        "valor": 994.29
+        "valor": 985.14
       }
     ],
     "tpm": [
@@ -1530,12 +1536,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.308,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.92,
+    "score": 2.074,
     "modo": "zscore",
-    "valor_actual": 41226.39,
+    "valor_actual": 985.14,
     "fecha": "2026-10-28"
   }
 }
