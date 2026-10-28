@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-27T23:23:00.530749+00:00",
+  "generado": "2026-10-28T00:09:13.340385+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -33,7 +33,7 @@
     {
       "titulo": "Cámara despacha reforma al mercado de capitales al Senado, pero rechaza participación de las AFP en el ahorro para la vivienda",
       "link": "http://www.df.cl/mercados/banca-fintech/camara-despacha-reforma-al-mercado-de-capitales-al-senado-pero-rechaza",
-      "fecha": "Tue, 27 Oct 2026 23:05:35 GMT",
+      "fecha": "Tue, 27 Oct 2026 23:41:10 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -51,7 +51,7 @@
     {
       "titulo": "Ley de Reconstrucción: ventana para regularizar deudas municipales permitiría reducir una mora que asciende a casi US$ 300 millones",
       "link": "http://www.df.cl/economia-y-politica/df-tax/ley-de-reconstruccion-ventana-para-regularizar-deudas-municipales",
-      "fecha": "Tue, 27 Oct 2026 21:58:16 GMT",
+      "fecha": "Tue, 27 Oct 2026 23:34:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -73,30 +73,14 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar bordea los $ 1.000 y el comercio advierte una nueva presión bajista para el sector",
-      "link": "http://www.df.cl/economia-y-politica/macro/dolar-bordea-los-1-000-y-el-comercio-advierte-una-nueva-presion-bajista",
-      "fecha": "Mon, 26 Oct 2026 22:46:26 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Dólar volvió a rozar los mil pesos tras la reelección de Lula en Brasil",
       "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-volvio-a-rozar-los-mil-pesos-tras-la-reeleccion-de-lula-en-brasil/2026-10-26/141137.html",
       "fecha": "Mon, 26 Oct 2026 14:11:37 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Se acaba el plazo para disponer ahorros para postular al tramo 4 del Subsidio DS1: revisa las fechas",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/10/27/se-acaba-el-plazo-para-disponer-ahorros-para-postular-al-tramo-4-del-subsidio-ds1-revisa-las-fechas.shtml",
-      "fecha": "Tue, 27 Oct 2026 22:23:52 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-30",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-07-31",
         "valor": 40844.79
@@ -452,13 +436,13 @@
       {
         "fecha": "2026-10-27",
         "valor": 41226.39
+      },
+      {
+        "fecha": "2026-10-28",
+        "valor": 41226.39
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-30",
-        "valor": 935.57
-      },
       {
         "fecha": "2026-07-31",
         "valor": 924.78
@@ -814,13 +798,13 @@
       {
         "fecha": "2026-10-27",
         "valor": 994.29
+      },
+      {
+        "fecha": "2026-10-28",
+        "valor": 994.29
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-30",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-07-31",
         "valor": 4.5
@@ -1176,13 +1160,13 @@
       {
         "fecha": "2026-10-27",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-28",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-29",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-30",
         "valor": 4.26
@@ -1538,16 +1522,20 @@
       {
         "fecha": "2026-10-27",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-28",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.4,
-    "score": 0.664,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.308,
     "modo": "zscore",
-    "valor_actual": 994.29,
-    "fecha": "2026-10-27"
+    "valor_actual": 41226.39,
+    "fecha": "2026-10-28"
   }
 }
