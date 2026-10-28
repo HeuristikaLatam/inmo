@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-28T15:50:39.399072+00:00",
+  "generado": "2026-10-28T23:44:00.006586+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cae a niveles de $ 980 tras mensaje del Banco Central que alimenta las expectativas de un ajuste monetario",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
-      "fecha": "Wed, 28 Oct 2026 14:29:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Bolsa chilena cae tras sesgo restrictivo del Banco Central y mientras SQM corrige su fuerte alza de la víspera",
+      "titulo": "Bolsa chilena cierra a la baja tras sesgo restrictivo del Banco Central y los recientes comentarios del presidente de la Fed",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xwbgb",
-      "fecha": "Wed, 28 Oct 2026 14:13:47 GMT",
+      "fecha": "Wed, 28 Oct 2026 20:18:07 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "En su debut en Enade, Quiroz arremete contra parlamentarios y alcaldes que impugnaron los cambios en la OGUC ante el TC: \"Eso va a retardar la reactivación de la construcción de noviembre a diciembre\"",
+      "titulo": "Dólar cierra al alza cerca de $ 990 tras comentarios de Warsh que impulsaron hasta 5% al principal rendimiento del Tesoro",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
+      "fecha": "Wed, 28 Oct 2026 20:26:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La Fed mantiene las tasas sin cambios y Warsh prevé una aceleración del crecimiento de EEUU en el tercer trimestre",
+      "link": "http://www.df.cl/internacional/economia/la-fed-mantiene-las-tasas-sin-cambios-pese-a-las-presiones-inflacionarias-a",
+      "fecha": "Wed, 28 Oct 2026 21:45:31 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "En su debut en Enade, Quiroz arremete contra quienes impugnaron los cambios en la OGUC ante el TC: \"Eso va a retardar la reactivación de la construcción de noviembre a diciembre\"",
       "link": "http://www.df.cl/economia-y-politica/macro/en-su-debut-en-enade-quiroz-anticipa-que-continuaran-imacec-negativos-en",
-      "fecha": "Wed, 28 Oct 2026 14:59:09 GMT",
+      "fecha": "Wed, 28 Oct 2026 22:09:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,28 +67,16 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Cámara despacha reforma al mercado de capitales al Senado, pero rechaza participación de las AFP en el ahorro para la vivienda",
-      "link": "http://www.df.cl/mercados/banca-fintech/camara-despacha-reforma-al-mercado-de-capitales-al-senado-pero-rechaza",
-      "fecha": "Tue, 27 Oct 2026 23:41:10 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El Banco Central mantiene la tasa de interés, pero sube el tono de las alertas por el alza de la inflación",
-      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-mantiene-la-tasa-y-advierte-mayores-presiones-sobre-la",
-      "fecha": "Wed, 28 Oct 2026 09:34:55 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Por inflación y débil inversión y consumo, Banco Central mantuvo tasa de interés en 4,5%",
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-inflacion-y-debil-inversion-y-consumo-banco-central-mantuvo-tasa-de/2026-10-27/210457.html",
       "fecha": "Tue, 27 Oct 2026 21:04:57 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Dólar volvió a rozar los mil pesos tras la reelección de Lula en Brasil",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-volvio-a-rozar-los-mil-pesos-tras-la-reeleccion-de-lula-en-brasil/2026-10-26/141137.html",
-      "fecha": "Mon, 26 Oct 2026 14:11:37 -0300",
-      "fuente": "Cooperativa"
+      "titulo": "Sierra Bella: rechazan reclamo de inmobiliaria y avanza demanda de Santiago para anular compra-venta",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/28/sierra-bella-rechazan-reclamo-de-inmobiliaria-y-avanza-demanda-de-santiago-para-anular-compra-venta.shtml",
+      "fecha": "Wed, 28 Oct 2026 23:20:16 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
