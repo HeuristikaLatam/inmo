@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-28T23:44:00.006586+00:00",
+  "generado": "2026-10-29T00:32:01.144127+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -81,10 +81,6 @@
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-07-31",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-01",
         "valor": 40844.79
@@ -440,13 +436,13 @@
       {
         "fecha": "2026-10-28",
         "valor": 41231.7
+      },
+      {
+        "fecha": "2026-10-29",
+        "valor": 41231.7
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-07-31",
-        "valor": 924.78
-      },
       {
         "fecha": "2026-08-01",
         "valor": 922.21
@@ -802,13 +798,13 @@
       {
         "fecha": "2026-10-28",
         "valor": 985.14
+      },
+      {
+        "fecha": "2026-10-29",
+        "valor": 985.14
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-07-31",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-01",
         "valor": 4.5
@@ -1164,13 +1160,13 @@
       {
         "fecha": "2026-10-28",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-29",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-07-30",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-07-31",
         "valor": 4.26
@@ -1526,16 +1522,20 @@
       {
         "fecha": "2026-10-28",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-29",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.92,
-    "score": 2.074,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.339,
     "modo": "zscore",
-    "valor_actual": 985.14,
-    "fecha": "2026-10-28"
+    "valor_actual": 41231.7,
+    "fecha": "2026-10-29"
   }
 }
