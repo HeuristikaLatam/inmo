@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-29T15:58:41.243086+00:00",
+  "generado": "2026-10-29T23:42:50.564729+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,45 +31,33 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar intenta acercarse a $ 1.000 tras alza del desempleo en Chile y mientras los precios del cobre se van para abajo",
+      "titulo": "Dólar cierra con leve alza tras acercarse a $ 1.000 en medio de las reacciones al alto dato de desempleo en Chile",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zvn8a",
-      "fecha": "Thu, 29 Oct 2026 15:05:28 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IPSA cae arrastrado por SQM y mientras Wall Street sufre una fuerte venta de acciones tecnológicas tras los resultados de Alphabet",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xicjp",
-      "fecha": "Thu, 29 Oct 2026 14:09:13 GMT",
+      "fecha": "Thu, 29 Oct 2026 19:33:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Nuevo jefe de impuestos de KPMG para Sudamérica y la Ley de Reconstrucción: \"Es increíble el ambiente positivo que se siente con esta reforma tributaria\"",
       "link": "http://www.df.cl/economia-y-politica/df-tax/nuevo-jefe-de-impuestos-de-kpmg-para-sudamerica-y-la-ley-de-reconstruccion",
-      "fecha": "Thu, 29 Oct 2026 14:06:36 GMT",
+      "fecha": "Thu, 29 Oct 2026 21:41:30 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Tasa de desocupación nacional sube a 9,8% en el trimestre julio-septiembre y desempleados superan el millón de personas por primera vez desde 2020",
       "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-nacional-sube-a-9-8-en-el-trimestre-julio-septiembre",
-      "fecha": "Thu, 29 Oct 2026 14:03:32 GMT",
+      "fecha": "Thu, 29 Oct 2026 23:16:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "El primer balance de la Ley de Reconstrucción: Tesorería ha recaudado cerca de US$ 2,5 millones con la puesta al día de deudas tributarias",
       "link": "http://www.df.cl/economia-y-politica/df-tax/el-primer-balance-de-la-ley-de-reconstruccion-tesoreria-ha-recaudado-cerca",
-      "fecha": "Thu, 29 Oct 2026 12:55:35 GMT",
+      "fecha": "Thu, 29 Oct 2026 23:17:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Inflación importada: Dilema del Banco Central",
       "link": "http://www.df.cl/opinion/editorial/inflacion-importada-dilema-del-banco-central",
       "fecha": "Wed, 28 Oct 2026 23:08:33 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Tasas de interés de las rentas vitalicias caen en septiembre y promedian baja en lo que va de 2026",
-      "link": "http://www.df.cl/mercados/pensiones/tasas-de-interes-de-las-rentas-vitalicias-caen-en-septiembre-y-promedian",
-      "fecha": "Thu, 29 Oct 2026 08:35:06 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -83,18 +71,6 @@
       "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-inflacion-y-debil-inversion-y-consumo-banco-central-mantuvo-tasa-de/2026-10-27/210457.html",
       "fecha": "Tue, 27 Oct 2026 21:04:57 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Junto a Messi, Buffon, Batistuta y más: Arturo Vidal dirá presente en la despedida de Carlos Tévez",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/29/junto-a-messi-buffon-batistuta-y-mas-arturo-vidal-dira-presente-en-la-despedida-de-carlos-tevez.shtml",
-      "fecha": "Thu, 29 Oct 2026 15:53:47 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "TGR recauda más de $2 mil millones de pesos en los primeros días de la Ley de Reconstrucción",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/29/tgr-recauda-mas-de-2-mil-millones-de-pesos-en-los-primeros-dias-de-la-ley-de-reconstruccion.shtml",
-      "fecha": "Thu, 29 Oct 2026 15:52:02 +0000",
-      "fuente": "BioBioChile"
     }
   ],
   "historial": {
