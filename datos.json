@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-29T00:32:01.144127+00:00",
+  "generado": "2026-10-29T15:58:41.243086+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41231.7,
-      "fecha": "2026-10-28T03:00:00.000Z"
+      "valor": 41237.01,
+      "fecha": "2026-10-29T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 985.14,
-      "fecha": "2026-10-28T03:00:00.000Z"
+      "valor": 981.08,
+      "fecha": "2026-10-29T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-28T03:00:00.000Z"
+      "fecha": "2026-10-29T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,40 +31,52 @@
   },
   "titulares": [
     {
-      "titulo": "Bolsa chilena cierra a la baja tras sesgo restrictivo del Banco Central y los recientes comentarios del presidente de la Fed",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xwbgb",
-      "fecha": "Wed, 28 Oct 2026 20:18:07 GMT",
+      "titulo": "Dólar intenta acercarse a $ 1.000 tras alza del desempleo en Chile y mientras los precios del cobre se van para abajo",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zvn8a",
+      "fecha": "Thu, 29 Oct 2026 15:05:28 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra al alza cerca de $ 990 tras comentarios de Warsh que impulsaron hasta 5% al principal rendimiento del Tesoro",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-weuae",
-      "fecha": "Wed, 28 Oct 2026 20:26:59 GMT",
+      "titulo": "IPSA cae arrastrado por SQM y mientras Wall Street sufre una fuerte venta de acciones tecnológicas tras los resultados de Alphabet",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-xicjp",
+      "fecha": "Thu, 29 Oct 2026 14:09:13 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La Fed mantiene las tasas sin cambios y Warsh prevé una aceleración del crecimiento de EEUU en el tercer trimestre",
-      "link": "http://www.df.cl/internacional/economia/la-fed-mantiene-las-tasas-sin-cambios-pese-a-las-presiones-inflacionarias-a",
-      "fecha": "Wed, 28 Oct 2026 21:45:31 GMT",
+      "titulo": "Nuevo jefe de impuestos de KPMG para Sudamérica y la Ley de Reconstrucción: \"Es increíble el ambiente positivo que se siente con esta reforma tributaria\"",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/nuevo-jefe-de-impuestos-de-kpmg-para-sudamerica-y-la-ley-de-reconstruccion",
+      "fecha": "Thu, 29 Oct 2026 14:06:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "En su debut en Enade, Quiroz arremete contra quienes impugnaron los cambios en la OGUC ante el TC: \"Eso va a retardar la reactivación de la construcción de noviembre a diciembre\"",
-      "link": "http://www.df.cl/economia-y-politica/macro/en-su-debut-en-enade-quiroz-anticipa-que-continuaran-imacec-negativos-en",
-      "fecha": "Wed, 28 Oct 2026 22:09:52 GMT",
+      "titulo": "Tasa de desocupación nacional sube a 9,8% en el trimestre julio-septiembre y desempleados superan el millón de personas por primera vez desde 2020",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-nacional-sube-a-9-8-en-el-trimestre-julio-septiembre",
+      "fecha": "Thu, 29 Oct 2026 14:03:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La rebaja de la tasa de impuestos",
-      "link": "http://www.df.cl/opinion/columnistas/gabriela-clivio/la-rebaja-de-la-tasa-de-impuestos",
-      "fecha": "Wed, 28 Oct 2026 00:51:00 GMT",
+      "titulo": "El primer balance de la Ley de Reconstrucción: Tesorería ha recaudado cerca de US$ 2,5 millones con la puesta al día de deudas tributarias",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/el-primer-balance-de-la-ley-de-reconstruccion-tesoreria-ha-recaudado-cerca",
+      "fecha": "Thu, 29 Oct 2026 12:55:35 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El mercado anticipa efectos sobre el dólar y tasas por el tono más restrictivo del Banco Central de Chile",
-      "link": "http://www.df.cl/economia-y-politica/macro/el-mercado-anticipa-efectos-sobre-el-dolar-y-tasas-por-el-tono-mas",
-      "fecha": "Wed, 28 Oct 2026 10:49:50 GMT",
+      "titulo": "Inflación importada: Dilema del Banco Central",
+      "link": "http://www.df.cl/opinion/editorial/inflacion-importada-dilema-del-banco-central",
+      "fecha": "Wed, 28 Oct 2026 23:08:33 GMT",
       "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Tasas de interés de las rentas vitalicias caen en septiembre y promedian baja en lo que va de 2026",
+      "link": "http://www.df.cl/mercados/pensiones/tasas-de-interes-de-las-rentas-vitalicias-caen-en-septiembre-y-promedian",
+      "fecha": "Thu, 29 Oct 2026 08:35:06 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Alphabet ganó 200 mil millones de dólares en los primeros nueve meses del año",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/internet/google/alphabet-gano-200-mil-millones-de-dolares-en-los-primeros-nueve-meses/2026-10-28/223713.html",
+      "fecha": "Wed, 28 Oct 2026 22:37:13 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Por inflación y débil inversión y consumo, Banco Central mantuvo tasa de interés en 4,5%",
@@ -73,9 +85,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Sierra Bella: rechazan reclamo de inmobiliaria y avanza demanda de Santiago para anular compra-venta",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/10/28/sierra-bella-rechazan-reclamo-de-inmobiliaria-y-avanza-demanda-de-santiago-para-anular-compra-venta.shtml",
-      "fecha": "Wed, 28 Oct 2026 23:20:16 +0000",
+      "titulo": "Junto a Messi, Buffon, Batistuta y más: Arturo Vidal dirá presente en la despedida de Carlos Tévez",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/10/29/junto-a-messi-buffon-batistuta-y-mas-arturo-vidal-dira-presente-en-la-despedida-de-carlos-tevez.shtml",
+      "fecha": "Thu, 29 Oct 2026 15:53:47 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "TGR recauda más de $2 mil millones de pesos en los primeros días de la Ley de Reconstrucción",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/10/29/tgr-recauda-mas-de-2-mil-millones-de-pesos-en-los-primeros-dias-de-la-ley-de-reconstruccion.shtml",
+      "fecha": "Thu, 29 Oct 2026 15:52:02 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -439,7 +457,7 @@
       },
       {
         "fecha": "2026-10-29",
-        "valor": 41231.7
+        "valor": 41237.01
       }
     ],
     "dolar": [
@@ -801,7 +819,7 @@
       },
       {
         "fecha": "2026-10-29",
-        "valor": 985.14
+        "valor": 981.08
       }
     ],
     "tpm": [
@@ -1530,12 +1548,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.339,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.41,
+    "score": 0.988,
     "modo": "zscore",
-    "valor_actual": 41231.7,
+    "valor_actual": 981.08,
     "fecha": "2026-10-29"
   }
 }
