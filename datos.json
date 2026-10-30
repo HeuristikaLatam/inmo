@@ -1,23 +1,23 @@
 {
-  "generado": "2026-10-30T00:30:40.475394+00:00",
+  "generado": "2026-10-30T23:23:16.618913+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41237.01,
-      "fecha": "2026-10-29T03:00:00.000Z"
+      "valor": 41242.32,
+      "fecha": "2026-10-30T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 981.08,
-      "fecha": "2026-10-29T03:00:00.000Z"
+      "valor": 993.22,
+      "fecha": "2026-10-30T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-29T03:00:00.000Z"
+      "fecha": "2026-10-30T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,33 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra con leve alza tras acercarse a $ 1.000 en medio de las reacciones al alto dato de desempleo en Chile",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-zvn8a",
-      "fecha": "Thu, 29 Oct 2026 19:33:36 GMT",
+      "titulo": "Reconstrucción tras temporales: BID estima en más de $ 570 mil millones las obras para Coquimbo y Atacama",
+      "link": "http://www.df.cl/regiones/coquimbo/reconstruccion-tras-temporales-bid-estima-en-mas-de-570-mil-millones-las",
+      "fecha": "Fri, 30 Oct 2026 22:58:09 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Nuevo jefe de impuestos de KPMG para Sudamérica y la Ley de Reconstrucción: \"Es increíble el ambiente positivo que se siente con esta reforma tributaria\"",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/nuevo-jefe-de-impuestos-de-kpmg-para-sudamerica-y-la-ley-de-reconstruccion",
-      "fecha": "Thu, 29 Oct 2026 21:41:30 GMT",
+      "titulo": "Dólar cierra con leve alza tras rondar los $ 1.000 y registra un avance de casi $ 20 en octubre, su quinto mes de ganancias",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-yuugr",
+      "fecha": "Fri, 30 Oct 2026 19:16:31 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Tasa de desocupación nacional sube a 9,8% en el trimestre julio-septiembre y desempleados superan el millón de personas por primera vez desde 2020",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/tasa-de-desocupacion-nacional-sube-a-9-8-en-el-trimestre-julio-septiembre",
-      "fecha": "Thu, 29 Oct 2026 23:16:11 GMT",
+      "titulo": "Tasas, dólar y el futuro de la IA, lo que preocupa al mercado tras las elecciones en EEUU",
+      "link": "http://www.df.cl/senal-df/senales-financieras/tasas-dolar-y-el-futuro-de-la-ia-lo-que-preocupa-al-mercado-tras-las",
+      "fecha": "Fri, 30 Oct 2026 17:34:33 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El primer balance de la Ley de Reconstrucción: Tesorería ha recaudado cerca de US$ 2,5 millones con la puesta al día de deudas tributarias",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/el-primer-balance-de-la-ley-de-reconstruccion-tesoreria-ha-recaudado-cerca",
-      "fecha": "Thu, 29 Oct 2026 23:17:54 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Inflación importada: Dilema del Banco Central",
-      "link": "http://www.df.cl/opinion/editorial/inflacion-importada-dilema-del-banco-central",
-      "fecha": "Wed, 28 Oct 2026 23:08:33 GMT",
+      "titulo": "Binance suspende los retiros tras sufrir el mayor hackeo de la historia: un robo récord de US$ 6.300 millones",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/binance-suspende-los-retiros-tras-sufrir-el-mayor-hackeo-de-la-historia-un",
+      "fecha": "Fri, 30 Oct 2026 17:38:51 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Por inflación y débil inversión y consumo, Banco Central mantuvo tasa de interés en 4,5%",
-      "link": "https://www.cooperativa.cl/noticias/economia/banco-central/tasa-de-interes/por-inflacion-y-debil-inversion-y-consumo-banco-central-mantuvo-tasa-de/2026-10-27/210457.html",
-      "fecha": "Tue, 27 Oct 2026 21:04:57 -0300",
-      "fuente": "Cooperativa"
+      "titulo": "El Nasdaq cae casi un 3% y vive su peor mes desde el inicio de la guerra comercial de Trump",
+      "link": "http://www.df.cl/senal-df/senales-financieras/el-nasdaq-cae-casi-un-3-y-vive-su-peor-mes-desde-el-inicio-de-la-guerra",
+      "fecha": "Fri, 30 Oct 2026 22:56:45 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -433,7 +427,7 @@
       },
       {
         "fecha": "2026-10-30",
-        "valor": 41237.01
+        "valor": 41242.32
       }
     ],
     "dolar": [
@@ -795,7 +789,7 @@
       },
       {
         "fecha": "2026-10-30",
-        "valor": 981.08
+        "valor": 993.22
       }
     ],
     "tpm": [
@@ -1524,12 +1518,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.371,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 1.24,
+    "score": 2.373,
     "modo": "zscore",
-    "valor_actual": 41237.01,
+    "valor_actual": 993.22,
     "fecha": "2026-10-30"
   }
 }
