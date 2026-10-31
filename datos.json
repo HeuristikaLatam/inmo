@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-30T23:23:16.618913+00:00",
+  "generado": "2026-10-31T00:16:23.789832+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,30 +49,26 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Binance suspende los retiros tras sufrir el mayor hackeo de la historia: un robo récord de US$ 6.300 millones",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/binance-suspende-los-retiros-tras-sufrir-el-mayor-hackeo-de-la-historia-un",
-      "fecha": "Fri, 30 Oct 2026 17:38:51 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Alphabet ganó 200 mil millones de dólares en los primeros nueve meses del año",
       "link": "https://www.cooperativa.cl/noticias/tecnologia/internet/google/alphabet-gano-200-mil-millones-de-dolares-en-los-primeros-nueve-meses/2026-10-28/223713.html",
       "fecha": "Wed, 28 Oct 2026 22:37:13 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "El Nasdaq cae casi un 3% y vive su peor mes desde el inicio de la guerra comercial de Trump",
-      "link": "http://www.df.cl/senal-df/senales-financieras/el-nasdaq-cae-casi-un-3-y-vive-su-peor-mes-desde-el-inicio-de-la-guerra",
-      "fecha": "Fri, 30 Oct 2026 22:56:45 GMT",
+      "titulo": "Francisco Ruiz-Tagle da un paso al lado en medio de momento clave para CMPC",
+      "link": "http://www.df.cl/senal-df/el-deal/francisco-ruiz-tagle-da-un-paso-al-lado-en-medio-de-momento-clave-para-cmpc",
+      "fecha": "Sat, 31 Oct 2026 00:15:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La minuta del Congreso | A ley proyecto que perfecciona el régimen de amparo y patentes mineras",
+      "link": "http://www.df.cl/senal-df/la-minuta/a-ley-proyecto-que-perfecciona-el-regimen-de-amparo-y-patentes-mineras",
+      "fecha": "Fri, 30 Oct 2026 23:58:56 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-02",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-03",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-10-30",
         "valor": 41242.32
+      },
+      {
+        "fecha": "2026-10-31",
+        "valor": 41242.32
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-02",
-        "valor": 927.35
-      },
       {
         "fecha": "2026-08-03",
         "valor": 928.42
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-10-30",
         "valor": 993.22
+      },
+      {
+        "fecha": "2026-10-31",
+        "valor": 993.22
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-02",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-03",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-10-30",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-10-31",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-08-01",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-08-02",
         "valor": 4.26
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-10-30",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-10-31",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 1.24,
-    "score": 2.373,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.404,
     "modo": "zscore",
-    "valor_actual": 993.22,
-    "fecha": "2026-10-30"
+    "valor_actual": 41242.32,
+    "fecha": "2026-10-31"
   }
 }
