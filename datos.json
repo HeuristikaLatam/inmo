@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-31T14:05:33.914737+00:00",
+  "generado": "2026-10-31T15:12:50.703442+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "La actividad manufacturera china se contrae en octubre y queda por debajo de lo previsto",
+      "link": "http://www.df.cl/internacional/economia/la-actividad-manufacturera-china-se-contrae-en-octubre-y-queda-por-debajo",
+      "fecha": "Sat, 31 Oct 2026 14:17:38 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Reconstrucción tras temporales: BID estima en más de $ 570 mil millones las obras para Coquimbo y Atacama",
       "link": "http://www.df.cl/regiones/coquimbo/reconstruccion-tras-temporales-bid-estima-en-mas-de-570-mil-millones-las",
       "fecha": "Fri, 30 Oct 2026 22:58:09 GMT",
@@ -59,12 +65,6 @@
       "link": "https://www.biobiochile.cl/noticias/servicios/explicado/2026/10/31/como-funciona-la-exencion-del-iva-a-la-vivienda-y-quienes-pueden-acceder-a-ella-de-forma-retroactiva.shtml",
       "fecha": "Sat, 31 Oct 2026 12:21:44 +0000",
       "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "¿quiénes integran el comité que buscará al sucesor de Francisco Ruiz-Tagle en CMPC?",
-      "link": "http://www.df.cl/quienes-integran-el-comite-que-buscara-al-sucesor-de-francisco-ruiz-tagle",
-      "fecha": "Sat, 31 Oct 2026 13:18:25 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
