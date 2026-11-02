@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-01T23:14:37.917413+00:00",
+  "generado": "2026-11-02T00:03:41.543298+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -55,10 +55,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Sufrió cuadro de salud, perdió trabajo y no pagó crédito de consumo: el banco remató su casa",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/01/sufrio-cuadro-de-salud-perdio-trabajo-y-no-pago-credito-de-consumo-en-osorno-el-banco-remato-su-casa.shtml",
-      "fecha": "Sun, 01 Nov 2026 18:41:36 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Autoridad resuelve que nuevo mall de Cencosud en Puente Alto no requiere evaluación ambiental",
+      "link": "http://www.df.cl/empresas/retail/autoridad-resuelve-que-nuevo-mall-de-cencosud-en-puente-alto-no-requiere",
+      "fecha": "Sun, 01 Nov 2026 22:07:48 GMT",
+      "fuente": "Diario Financiero"
     },
     {
       "titulo": "Binance ve repunte de retiros al reanudar actividad tras robo de US$ 6.300 millones",
@@ -69,10 +69,6 @@
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-04",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-05",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-01",
         "valor": 41252.94
+      },
+      {
+        "fecha": "2026-11-02",
+        "valor": 41252.94
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-04",
-        "valor": 924.89
-      },
       {
         "fecha": "2026-08-05",
         "valor": 914.46
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-01",
         "valor": 972.6
+      },
+      {
+        "fecha": "2026-11-02",
+        "valor": 972.6
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-04",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-05",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-11-01",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-02",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-08-03",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-08-04",
         "valor": 4.26
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-01",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-02",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -2.08,
-    "score": 4.256,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.475,
     "modo": "zscore",
-    "valor_actual": 972.6,
-    "fecha": "2026-11-01"
+    "valor_actual": 41252.94,
+    "fecha": "2026-11-02"
   }
 }
