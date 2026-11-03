@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-02T00:03:41.543298+00:00",
+  "generado": "2026-11-03T01:55:33.515452+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41252.94,
-      "fecha": "2026-11-01T03:00:00.000Z"
+      "valor": 41258.26,
+      "fecha": "2026-11-02T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 972.6,
-      "fecha": "2026-10-01T03:00:00.000Z"
+      "valor": 992.66,
+      "fecha": "2026-11-02T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-10-01T03:00:00.000Z"
+      "fecha": "2026-11-02T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,48 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "La actividad manufacturera china se contrae en octubre y queda por debajo de lo previsto",
-      "link": "http://www.df.cl/internacional/economia/la-actividad-manufacturera-china-se-contrae-en-octubre-y-queda-por-debajo",
-      "fecha": "Sat, 31 Oct 2026 14:17:38 GMT",
+      "titulo": "Dólar cierra con una caída de $ 15 tras reporte de que el líder supremo de Irán está favoreciendo las negociaciones con EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-kgn9h",
+      "fecha": "Mon, 02 Nov 2026 19:18:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Reconstrucción tras temporales: BID estima en más de $ 570 mil millones las obras para Coquimbo y Atacama",
-      "link": "http://www.df.cl/regiones/coquimbo/reconstruccion-tras-temporales-bid-estima-en-mas-de-570-mil-millones-las",
-      "fecha": "Fri, 30 Oct 2026 22:58:09 GMT",
+      "titulo": "Los tres mayores bancos privados elevan sus ganancias a septiembre e incrementan sus carteras de crédito",
+      "link": "http://www.df.cl/mercados/banca-fintech/los-tres-mayores-bancos-privados-elevan-sus-ganancias-a-septiembre-e",
+      "fecha": "Mon, 02 Nov 2026 21:46:03 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra con leve alza tras rondar los $ 1.000 y registra un avance de casi $ 20 en octubre, su quinto mes de ganancias",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-yuugr",
-      "fecha": "Fri, 30 Oct 2026 19:16:31 GMT",
+      "titulo": "Euroamérica lanza millonario proyecto inmobiliario en La Dehesa: incluye comercio, oficinas y hasta una clínica",
+      "link": "http://www.df.cl/empresas/construccion/euroamerica-lanza-millonario-proyecto-inmobiliario-en-la-dehesa-incluye",
+      "fecha": "Mon, 02 Nov 2026 21:41:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Alphabet ganó 200 mil millones de dólares en los primeros nueve meses del año",
-      "link": "https://www.cooperativa.cl/noticias/tecnologia/internet/google/alphabet-gano-200-mil-millones-de-dolares-en-los-primeros-nueve-meses/2026-10-28/223713.html",
-      "fecha": "Wed, 28 Oct 2026 22:37:13 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "Autoridad resuelve que nuevo mall de Cencosud en Puente Alto no requiere evaluación ambiental",
-      "link": "http://www.df.cl/empresas/retail/autoridad-resuelve-que-nuevo-mall-de-cencosud-en-puente-alto-no-requiere",
-      "fecha": "Sun, 01 Nov 2026 22:07:48 GMT",
+      "titulo": "El petróleo y el dólar caen con fuerza y el Nasdaq busca un repunte",
+      "link": "http://www.df.cl/primer-click/el-petroleo-y-el-dolar-caen-con-fuerza-y-el-nasdaq-busca-un-repunte",
+      "fecha": "Mon, 02 Nov 2026 10:40:48 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Binance ve repunte de retiros al reanudar actividad tras robo de US$ 6.300 millones",
-      "link": "http://www.df.cl/binance-ve-repunte-de-retiros-al-reanudar-actividad-tras-robo-de-us-6-300",
-      "fecha": "Sun, 01 Nov 2026 22:40:17 GMT",
+      "titulo": "La economía repunta en septiembre pese a la minería, pero no logra revertir las perspectivas de 2026",
+      "link": "http://www.df.cl/economia-y-politica/macro/la-economia-repunta-en-septiembre-pese-a-la-mineria-pero-no-logra-revertir",
+      "fecha": "Mon, 02 Nov 2026 23:50:19 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Apple logra esquivar el golpe de los chips más caros y sorprende a Wall Street con ventas récord gracias al iPhone",
+      "link": "http://www.df.cl/empresas/multinacionales/apple-logra-esquivar-el-golpe-de-los-chips-mas-caros-y-sorprende-a-wall",
+      "fecha": "Mon, 02 Nov 2026 22:36:43 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-05",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-06",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-02",
         "valor": 41252.94
+      },
+      {
+        "fecha": "2026-11-03",
+        "valor": 41258.26
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-05",
-        "valor": 914.46
-      },
       {
         "fecha": "2026-08-06",
         "valor": 914.46
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-02",
         "valor": 972.6
+      },
+      {
+        "fecha": "2026-11-03",
+        "valor": 992.66
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-05",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-06",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-11-02",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-03",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-08-04",
-        "valor": 4.26
-      },
       {
         "fecha": "2026-08-05",
         "valor": 4.26
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-02",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-03",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.475,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 2.06,
+    "score": 3.676,
     "modo": "zscore",
-    "valor_actual": 41252.94,
-    "fecha": "2026-11-02"
+    "valor_actual": 992.66,
+    "fecha": "2026-11-03"
   }
 }
