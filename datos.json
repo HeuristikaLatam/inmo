@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-04T00:58:32.485923+00:00",
+  "generado": "2026-11-04T15:54:01.164634+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41263.57,
-      "fecha": "2026-11-03T03:00:00.000Z"
+      "valor": 41268.88,
+      "fecha": "2026-11-04T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 981.82,
-      "fecha": "2026-11-03T03:00:00.000Z"
+      "valor": 980.59,
+      "fecha": "2026-11-04T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-03T03:00:00.000Z"
+      "fecha": "2026-11-04T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,39 +31,45 @@
   },
   "titulares": [
     {
-      "titulo": "Crisis bancaria sacude a Paraguay: renuncia presidente del Banco Central tras intervención de Ueno Bank",
+      "titulo": "Dólar se hunde bajo $ 970 tras la victoria demócrata en las midterms y lo que mostraron las actas del Banco Central",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-cumel",
+      "fecha": "Wed, 04 Nov 2026 15:51:21 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Encuesta del Banco Central: las empresas vuelven a aumentar sus expectativas de inflación a dos años, a 3,5%",
+      "link": "http://www.df.cl/economia-y-politica/macro/encuesta-del-banco-central-las-empresas-vuelven-a-aumentar-sus",
+      "fecha": "Wed, 04 Nov 2026 12:38:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Consejeros del Banco Central plantearon que era \"plausible evaluar” un alza de 25 puntos en la tasa en su reunión de octubre",
+      "link": "http://www.df.cl/economia-y-politica/macro/consejeros-del-banco-central-plantearon-que-era-plausible-evaluar-un-alza",
+      "fecha": "Wed, 04 Nov 2026 12:26:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "SII acelera la implementación de la Ley de Reconstrucción: publica seis circulares a consulta e incluye la rebaja al impuesto a las donaciones",
+      "link": "http://www.df.cl/economia-y-politica/df-tax/sii-acelera-la-implementacion-de-la-ley-de-reconstruccion-publica-seis",
+      "fecha": "Wed, 04 Nov 2026 14:04:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Acciones se recuperan y el dólar extiende su caídas tras triunfo demócrata",
+      "link": "http://www.df.cl/primer-click/acciones-se-recuperan-y-el-dolar-extiende-su-caidas-tras-triunfo-democrata",
+      "fecha": "Wed, 04 Nov 2026 10:41:02 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Son más de 2,4 millones de trabajadores: la tasa de ocupación informal sube en el país",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/son-mas-de-2-4-millones-de-trabajadores-la-tasa-de-ocupacion-informal-sube",
+      "fecha": "Tue, 03 Nov 2026 23:16:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Crisis bancaria sacude a Paraguay: CEO de Ueno Bank se entrega a la policía y presidente del Banco Central renuncia",
       "link": "http://www.df.cl/empresas/multinacionales/crisis-bancaria-sacude-a-paraguay-renuncia-presidente-del-banco-central",
-      "fecha": "Tue, 03 Nov 2026 21:36:48 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra al alza mientras el cobre pierde 2,2% y los estadounidenses votan en las elecciones de mitad de mandato",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-aa3fu",
-      "fecha": "Tue, 03 Nov 2026 20:24:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El petróleo repunta y el dólar espera plano resultado de elecciones en EEUU",
-      "link": "http://www.df.cl/primer-click/el-petroleo-repunta-y-el-dolar-espera-plano-resultado-de-elecciones-en-eeuu",
-      "fecha": "Tue, 03 Nov 2026 10:38:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "En 2 semanas abrirá una nueva postulación al Subsidio DS1: revisa los 4 tramos a los que podrás optar",
-      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/11/03/en-2-semanas-abrira-una-nueva-postulacion-al-subsidio-ds1-revisa-los-4-tramos-a-los-que-podras-optar.shtml",
-      "fecha": "Tue, 03 Nov 2026 22:52:52 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Santiago City sufre desafiliación: Primera Sala confirmó veredicto por caso de documentación falsa",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-sufre-desafiliacion-primera-sala-confirmo-veredicto-por-caso-de-documentacion-falsa.shtml",
-      "fecha": "Tue, 03 Nov 2026 22:49:47 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "Elecciones en EEUU arrojan primeros resultados con victorias demócratas en la Cámara de Representantes en Georgia y Florida",
-      "link": "http://www.df.cl/internacional/ft/los-votantes-estadounidenses-se-preparan-para-emitir-su-veredicto-sobre",
-      "fecha": "Wed, 04 Nov 2026 00:42:22 GMT",
+      "fecha": "Wed, 04 Nov 2026 02:22:27 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -427,7 +433,7 @@
       },
       {
         "fecha": "2026-11-04",
-        "valor": 41263.57
+        "valor": 41268.88
       }
     ],
     "dolar": [
@@ -789,7 +795,7 @@
       },
       {
         "fecha": "2026-11-04",
-        "valor": 981.82
+        "valor": 980.59
       }
     ],
     "tpm": [
@@ -1518,12 +1524,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.503,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.13,
+    "score": 0.379,
     "modo": "zscore",
-    "valor_actual": 41263.57,
+    "valor_actual": 980.59,
     "fecha": "2026-11-04"
   }
 }
