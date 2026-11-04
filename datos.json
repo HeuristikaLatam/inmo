@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-03T15:39:31.807970+00:00",
+  "generado": "2026-11-04T00:17:42.949001+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar abre con leve alza mientras el cobre pierde 2,6% y los estadounidenses se preparan para votar en las midterms",
+      "titulo": "Crisis bancaria sacude a Paraguay: renuncia presidente del Banco Central tras intervención de Ueno Bank",
+      "link": "http://www.df.cl/empresas/multinacionales/crisis-bancaria-sacude-a-paraguay-renuncia-presidente-del-banco-central",
+      "fecha": "Tue, 03 Nov 2026 21:36:48 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra al alza mientras el cobre pierde 2,2% y los estadounidenses votan en las elecciones de mitad de mandato",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-aa3fu",
-      "fecha": "Tue, 03 Nov 2026 12:11:57 GMT",
+      "fecha": "Tue, 03 Nov 2026 20:24:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,36 +49,26 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "AgendaPro entra al negocio fintech con créditos para PYME no bancarizadas",
-      "link": "http://www.df.cl/df-lab/innovacion-y-startups/agendapro-entra-al-negocio-fintech-con-creditos-para-pyme-no-bancarizadas",
-      "fecha": "Mon, 02 Nov 2026 22:01:40 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "En 2 semanas abrirá una nueva postulación al Subsidio DS1: revisa los 4 tramos a los que podrás optar",
+      "link": "https://www.biobiochile.cl/noticias/servicios/beneficios/2026/11/03/en-2-semanas-abrira-una-nueva-postulacion-al-subsidio-ds1-revisa-los-4-tramos-a-los-que-podras-optar.shtml",
+      "fecha": "Tue, 03 Nov 2026 22:52:52 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Dólar cierra con una caída de $ 15 tras reporte de que el líder supremo de Irán está favoreciendo las negociaciones con EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-kgn9h",
-      "fecha": "Mon, 02 Nov 2026 19:18:36 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Santiago City sufre desafiliación: Primera Sala confirmó veredicto por caso de documentación falsa",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/03/santiago-city-sufre-desafiliacion-primera-sala-confirmo-veredicto-por-caso-de-documentacion-falsa.shtml",
+      "fecha": "Tue, 03 Nov 2026 22:49:47 +0000",
+      "fuente": "BioBioChile"
     },
     {
-      "titulo": "Oxxo cierra 140 tiendas en México y prevé quedar bajo su meta de expansión para 2026",
-      "link": "http://www.df.cl/df-sud/oxxo-cierra-140-tiendas-en-mexico-y-preve-quedar-bajo-su-meta-de-expansion",
-      "fecha": "Tue, 03 Nov 2026 15:17:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Kast lidera defensa de Rabat desde Italia y advierte al oficialismo por acusación constitucional",
-      "link": "http://www.df.cl/economia-y-politica/kast-lidera-defensa-de-rabat-desde-italia-y-advierte-al-oficialismo-por",
-      "fecha": "Tue, 03 Nov 2026 15:30:53 GMT",
+      "titulo": "Presupuesto 2027: oficialismo aprueba ocho partidas entre protestas contra Rabat y críticas por recortes",
+      "link": "http://www.df.cl/economia-y-politica/macro/presupuesto-2027-oficialismo-aprueba-ocho-partidas-entre-protestas-contra",
+      "fecha": "Wed, 04 Nov 2026 00:07:20 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-06",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-07",
         "valor": 40844.79
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-03",
         "valor": 41263.57
+      },
+      {
+        "fecha": "2026-11-04",
+        "valor": 41263.57
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-06",
-        "valor": 914.46
-      },
       {
         "fecha": "2026-08-07",
         "valor": 913.86
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-03",
         "valor": 981.82
+      },
+      {
+        "fecha": "2026-11-04",
+        "valor": 981.82
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-06",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-07",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-03",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-04",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-05",
-        "valor": 4.26
-      },
-      {
         "fecha": "2026-08-07",
         "valor": 4.26
       },
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-03",
+        "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-04",
         "valor": 4.32
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.03,
-    "score": 1.889,
+    "cambio_pct": 0.0,
+    "score": 1.503,
     "modo": "zscore",
     "valor_actual": 41263.57,
-    "fecha": "2026-11-03"
+    "fecha": "2026-11-04"
   }
 }
