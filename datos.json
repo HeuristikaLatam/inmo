@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-05T01:11:13.341828+00:00",
+  "generado": "2026-11-06T00:37:43.622063+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41268.88,
-      "fecha": "2026-11-04T03:00:00.000Z"
+      "valor": 41274.2,
+      "fecha": "2026-11-05T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 980.59,
-      "fecha": "2026-11-04T03:00:00.000Z"
+      "valor": 970.95,
+      "fecha": "2026-11-05T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-04T03:00:00.000Z"
+      "fecha": "2026-11-05T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,33 +31,27 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar cierra con una caída de $ 16 mientras el petróleo se hunde por las repercusiones del triunfo demócrata en las midterms",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-cumel",
-      "fecha": "Wed, 04 Nov 2026 20:02:18 GMT",
+      "titulo": "Dólar se dispara a niveles de $ 980 al cierre de una sesión marcada por la fuerte aversión al riesgo de los mercados bursátiles",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-uhrvs",
+      "fecha": "Thu, 05 Nov 2026 19:16:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Encuesta del Banco Central: las empresas vuelven a aumentar sus expectativas de inflación a dos años, a 3,5%",
-      "link": "http://www.df.cl/economia-y-politica/macro/encuesta-del-banco-central-las-empresas-vuelven-a-aumentar-sus",
-      "fecha": "Wed, 04 Nov 2026 12:38:32 GMT",
+      "titulo": "Empresa de Biobío Aislacor, que fabrica paneles con corteza de eucalipto, se posiciona en sector construcción, busca crecer en canal retail y evalúa nuevos mercados",
+      "link": "http://www.df.cl/regiones/biobio/empresas/aislacor-la-innovacion-de-biobio-que-transforma-la-corteza-de-eucalipto",
+      "fecha": "Thu, 05 Nov 2026 21:44:46 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Consejeros del Banco Central plantearon que era \"plausible evaluar” un alza de 25 puntos en la tasa en su reunión de octubre",
-      "link": "http://www.df.cl/economia-y-politica/macro/consejeros-del-banco-central-plantearon-que-era-plausible-evaluar-un-alza",
-      "fecha": "Wed, 04 Nov 2026 22:43:56 GMT",
+      "titulo": "Ola de ciberataques deja nueva víctima: Banco francés Crédit Mutuel Arkéa sufre robo por 100 millones de euros",
+      "link": "http://www.df.cl/internacional/economia/ola-de-ciberataques-deja-nueva-victima-banco-frances-credit-mutuel-arkea",
+      "fecha": "Thu, 05 Nov 2026 16:36:29 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "SII acelera la implementación de la Ley de Reconstrucción: publica seis circulares a consulta e incluye la rebaja al impuesto a las donaciones",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/sii-acelera-la-implementacion-de-la-ley-de-reconstruccion-publica-seis",
-      "fecha": "Wed, 04 Nov 2026 22:42:08 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Acciones se recuperan y el dólar extiende su caídas tras triunfo demócrata",
-      "link": "http://www.df.cl/primer-click/acciones-se-recuperan-y-el-dolar-extiende-su-caidas-tras-triunfo-democrata",
-      "fecha": "Wed, 04 Nov 2026 10:41:02 GMT",
+      "titulo": "Encuesta del Banco Central: las empresas mantienen un bajo desempeño y prevén un 2027 favorable, pero todavía con incertidumbre",
+      "link": "http://www.df.cl/economia-y-politica/macro/encuesta-del-banco-central-las-empresas-mantienen-un-bajo-desempeno-y",
+      "fecha": "Thu, 05 Nov 2026 22:58:23 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -65,14 +59,22 @@
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/dolar-y-petroleo-cayeron-tras-el-historico-triunfo-de-los-democratas/2026-11-04/141102.html",
       "fecha": "Wed, 04 Nov 2026 14:11:02 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Chile prestará apoyo con tecnología nuclear a Colombia para reconstrucción tras terremoto",
+      "link": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/chile-prestara-apoyo-con-tecnologia-nuclear-a-colombia-para-reconstruccion-tras-terremoto.shtml",
+      "fecha": "Thu, 05 Nov 2026 23:23:07 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "Periodista colombiano Walter López sufre atentado en su casa tras ser retirada su protección",
+      "link": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/05/periodista-colombiano-walter-lopez-sufre-atentado-en-su-casa-tras-ser-retirada-su-proteccion.shtml",
+      "fecha": "Thu, 05 Nov 2026 22:51:21 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-08",
-        "valor": 40844.79
-      },
       {
         "fecha": "2026-08-09",
         "valor": 40844.79
@@ -428,13 +430,13 @@
       {
         "fecha": "2026-11-05",
         "valor": 41268.88
+      },
+      {
+        "fecha": "2026-11-06",
+        "valor": 41274.2
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-08",
-        "valor": 913.86
-      },
       {
         "fecha": "2026-08-09",
         "valor": 913.86
@@ -790,13 +792,13 @@
       {
         "fecha": "2026-11-05",
         "valor": 980.59
+      },
+      {
+        "fecha": "2026-11-06",
+        "valor": 970.95
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-08",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-09",
         "valor": 4.5
@@ -1151,15 +1153,15 @@
       },
       {
         "fecha": "2026-11-05",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-06",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-08",
-        "valor": 4.26
-      },
-      {
         "fecha": "2026-08-09",
         "valor": 4.26
       },
@@ -1514,16 +1516,20 @@
       {
         "fecha": "2026-11-05",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-06",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.542,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.98,
+    "score": 1.937,
     "modo": "zscore",
-    "valor_actual": 41268.88,
-    "fecha": "2026-11-05"
+    "valor_actual": 970.95,
+    "fecha": "2026-11-06"
   }
 }
