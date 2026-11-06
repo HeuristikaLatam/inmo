@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-06T16:39:48.920228+00:00",
+  "generado": "2026-11-06T23:52:54.400410+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar supera los $ 980 antes del mediodía tras un reporte de empleo más sólido de lo previsto en EEUU",
+      "titulo": "Con inversión de 250.000 UF y arquitectura del Estudio Valdés, Las Brisas desarrolla nuevo proyecto residencial",
+      "link": "http://www.df.cl/df-mas/coffee-break/con-inversion-de-250-000-uf-y-arquitectura-del-estudio-valdes-las-brisas",
+      "fecha": "Fri, 06 Nov 2026 20:28:26 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar borra alza inicial, cierra estable y registra una caída semanal mientras se calma la venta de acciones tecnológicas",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k5xno",
-      "fecha": "Fri, 06 Nov 2026 14:43:55 GMT",
+      "fecha": "Fri, 06 Nov 2026 19:16:43 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,27 +49,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Resultados de Ingevec crecen 27% a septiembre impulsados por mayor actividad constructora y dinamismo inmobiliario",
-      "link": "http://www.df.cl/empresas/construccion/resultados-de-ingevec-crecen-27-a-septiembre-impulsados-por-mayor",
-      "fecha": "Fri, 06 Nov 2026 14:16:43 GMT",
+      "titulo": "Mercados: la semana en datos",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "fecha": "Fri, 06 Nov 2026 23:45:47 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Wall Street revierte el rally post electoral y sufre su peor caída desde los aranceles de Trump",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/wall-street-revierte-el-rally-post-electoral-y-sufre-su-peor-caida-desde",
-      "fecha": "Thu, 05 Nov 2026 23:48:18 GMT",
+      "titulo": "Sebastián Lelio en siete tomas",
+      "link": "http://www.df.cl/df-mas/personaje/sebastian-lelio-en-siete-tomas",
+      "fecha": "Fri, 06 Nov 2026 23:32:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IPSA repunta con fuerte impulso de Cencosud, que se dispara 7% tras el repunte de sus ventas en el tercer trimestre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-jbybu",
-      "fecha": "Fri, 06 Nov 2026 16:36:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Humphreys eleva a “AAA” la clasificación de riesgo de Mallplaza, que suma tercera mejora en 2026",
-      "link": "http://www.df.cl/senal-df/humphreys-eleva-a-aaa-la-clasificacion-de-riesgo-de-mallplaza-que-suma",
-      "fecha": "Fri, 06 Nov 2026 16:31:10 GMT",
+      "titulo": "El Investor Day que la plana mayor de Falabella tendrá… en Wall Street, Nueva York",
+      "link": "http://www.df.cl/df-mas/coffee-break/el-investor-day-que-la-plana-mayor-de-falabella-tendra-en-wall-street",
+      "fecha": "Fri, 06 Nov 2026 22:56:20 GMT",
       "fuente": "Diario Financiero"
     }
   ],
