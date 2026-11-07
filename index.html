@@ -139,7 +139,7 @@
     </div>
   </div>
   <div class="brand-tagline"><span class="dash"></span>Capacidad Humana Amplificada<span class="dash"></span></div>
-  <div class="update-note">La información que estás viendo fue cargada el 07-11-2026 a las 00:31.</div>
+  <div class="update-note">La información que estás viendo fue cargada el 07-11-2026 a las 14:31.</div>
 
   <section id="resumen" class="section">
     <h1>Indicadores del día</h1>
@@ -147,8 +147,8 @@
     <div class="kpis">
     <div class="kpi">
       <div class="kpi-label">UF</div>
-      <div class="kpi-val">$41.279,51</div>
-      <div class="kpi-fecha">06-11-2026</div>
+      <div class="kpi-val">$41.284,83</div>
+      <div class="kpi-fecha">07-11-2026</div>
     </div>
     <div class="kpi">
       <div class="kpi-label">Dólar obs.</div>
@@ -169,7 +169,7 @@
     <div class="highlight-box">
       <div class="highlight-tag">Lo más inusual hoy</div>
       <div class="highlight-text">
-        El movimiento más fuera de lo común fue en <strong>la UF</strong>,
+        El movimiento más fuera de lo común fue en <strong>el dólar</strong>,
         con un cambio de <strong>+0.0%</strong> respecto a su
         punto anterior (07-11-2026).
       </div>
@@ -214,6 +214,10 @@
     <div class="section-sub">Economía, finanzas e inmobiliario — filtrado de Diario Financiero, Cooperativa y BioBioChile.</div>
     <ul class="titulares-list">
         <li class="titular">
+          <a href="http://www.df.cl/senal-df/factor-economico/se-afianza-expectativa-de-alza-de-tasa-en-diciembre-tras-nuevo-avance-de-la" target="_blank" rel="noopener">Se afianza expectativa de alza de tasa en diciembre tras nuevo avance de la inflación</a>
+          <span class="titular-fuente">Diario Financiero</span>
+        </li>
+        <li class="titular">
           <a href="http://www.df.cl/df-mas/coffee-break/con-inversion-de-250-000-uf-y-arquitectura-del-estudio-valdes-las-brisas" target="_blank" rel="noopener">Con inversión de 250.000 UF y arquitectura del Estudio Valdés, Las Brisas desarrolla nuevo proyecto residencial</a>
           <span class="titular-fuente">Diario Financiero</span>
         </li>
@@ -222,19 +226,15 @@
           <span class="titular-fuente">Diario Financiero</span>
         </li>
         <li class="titular">
-          <a href="http://www.df.cl/mercados/renta-fija/esperar-rindio-frutos-arauco-vende-bonos-hibridos-por-uf-10-millones-tras" target="_blank" rel="noopener">Esperar rindió frutos: Arauco vende bonos híbridos por UF 10 millones tras la caída de las tasas de interés a largo plazo</a>
+          <a href="http://www.df.cl/df-mas/personaje/en-que-piensa-hoy-buin-zoo-un-silencioso-proyecto-en-15-hectareas-y-el" target="_blank" rel="noopener">¿En qué piensa hoy Buin Zoo?: un silencioso proyecto en 15 hectáreas y el plan de sucesión familiar</a>
           <span class="titular-fuente">Diario Financiero</span>
         </li>
         <li class="titular">
-          <a href="http://www.df.cl/empresas/mineria/grupo-cap-sigue-en-numeros-rojos-pierde-mas-de-us-70-millones-en-el" target="_blank" rel="noopener">Grupo CAP sigue en números rojos: pierde más de US$ 70 millones en el tercer trimestre</a>
+          <a href="http://www.df.cl/internacional/politica/alliana-jura-como-nuevo-presidente-de-paraguay-fiscalia-ordena-detencion" target="_blank" rel="noopener">Alliana jura como nuevo presidente de Paraguay y fiscalía ordena detención de Peña</a>
           <span class="titular-fuente">Diario Financiero</span>
         </li>
         <li class="titular">
-          <a href="http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0" target="_blank" rel="noopener">Mercados: la semana en datos</a>
-          <span class="titular-fuente">Diario Financiero</span>
-        </li>
-        <li class="titular">
-          <a href="http://www.df.cl/df-mas/personaje/sebastian-lelio-en-siete-tomas" target="_blank" rel="noopener">Sebastián Lelio en siete tomas</a>
+          <a href="http://www.df.cl/senal-df/senales-financieras/andres-trautmann-la-reactivacion-economica-de-chile-deberia-comenzar-a" target="_blank" rel="noopener">Andrés Trautmann: “La reactivación económica de Chile debería comenzar a llegar en el segundo trimestre de 2027”</a>
           <span class="titular-fuente">Diario Financiero</span>
         </li>
     </ul>
@@ -338,7 +338,7 @@ function calcularDividendo() {
     dividendoUF = monto * (iMensual * Math.pow(1 + iMensual, n)) / (Math.pow(1 + iMensual, n) - 1);
   }
 
-  const ufHoy = 41279.51;
+  const ufHoy = 41284.83;
   document.getElementById('calc-resultado-uf').textContent =
     'UF ' + dividendoUF.toFixed(2) + ' / mes';
 

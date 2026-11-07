@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-07T00:31:07.110760+00:00",
+  "generado": "2026-11-07T14:31:38.451283+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41279.51,
-      "fecha": "2026-11-06T03:00:00.000Z"
+      "valor": 41284.83,
+      "fecha": "2026-11-07T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -31,6 +31,12 @@
   },
   "titulares": [
     {
+      "titulo": "Se afianza expectativa de alza de tasa en diciembre tras nuevo avance de la inflación",
+      "link": "http://www.df.cl/senal-df/factor-economico/se-afianza-expectativa-de-alza-de-tasa-en-diciembre-tras-nuevo-avance-de-la",
+      "fecha": "Sat, 07 Nov 2026 13:08:22 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Con inversión de 250.000 UF y arquitectura del Estudio Valdés, Las Brisas desarrolla nuevo proyecto residencial",
       "link": "http://www.df.cl/df-mas/coffee-break/con-inversion-de-250-000-uf-y-arquitectura-del-estudio-valdes-las-brisas",
       "fecha": "Fri, 06 Nov 2026 20:28:26 GMT",
@@ -43,27 +49,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Esperar rindió frutos: Arauco vende bonos híbridos por UF 10 millones tras la caída de las tasas de interés a largo plazo",
-      "link": "http://www.df.cl/mercados/renta-fija/esperar-rindio-frutos-arauco-vende-bonos-hibridos-por-uf-10-millones-tras",
-      "fecha": "Fri, 06 Nov 2026 15:19:50 GMT",
+      "titulo": "¿En qué piensa hoy Buin Zoo?: un silencioso proyecto en 15 hectáreas y el plan de sucesión familiar",
+      "link": "http://www.df.cl/df-mas/personaje/en-que-piensa-hoy-buin-zoo-un-silencioso-proyecto-en-15-hectareas-y-el",
+      "fecha": "Sat, 07 Nov 2026 01:29:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Grupo CAP sigue en números rojos: pierde más de US$ 70 millones en el tercer trimestre",
-      "link": "http://www.df.cl/empresas/mineria/grupo-cap-sigue-en-numeros-rojos-pierde-mas-de-us-70-millones-en-el",
-      "fecha": "Sat, 07 Nov 2026 00:21:11 GMT",
+      "titulo": "Alliana jura como nuevo presidente de Paraguay y fiscalía ordena detención de Peña",
+      "link": "http://www.df.cl/internacional/politica/alliana-jura-como-nuevo-presidente-de-paraguay-fiscalia-ordena-detencion",
+      "fecha": "Sat, 07 Nov 2026 09:49:59 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Mercados: la semana en datos",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
-      "fecha": "Fri, 06 Nov 2026 23:45:47 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Sebastián Lelio en siete tomas",
-      "link": "http://www.df.cl/df-mas/personaje/sebastian-lelio-en-siete-tomas",
-      "fecha": "Fri, 06 Nov 2026 23:32:25 GMT",
+      "titulo": "Andrés Trautmann: “La reactivación económica de Chile debería comenzar a llegar en el segundo trimestre de 2027”",
+      "link": "http://www.df.cl/senal-df/senales-financieras/andres-trautmann-la-reactivacion-economica-de-chile-deberia-comenzar-a",
+      "fecha": "Sat, 07 Nov 2026 11:25:33 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-07",
-        "valor": 41279.51
+        "valor": 41284.83
       }
     ],
     "dolar": [
@@ -1518,12 +1518,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
+    "indicador": "dolar",
+    "nombre": "el dólar",
     "cambio_pct": 0.0,
-    "score": 1.557,
+    "score": 0.13,
     "modo": "zscore",
-    "valor_actual": 41279.51,
+    "valor_actual": 970.94,
     "fecha": "2026-11-07"
   }
 }
