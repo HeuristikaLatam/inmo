@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-08T00:05:37.842429+00:00",
+  "generado": "2026-11-08T14:39:26.059138+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41284.83,
-      "fecha": "2026-11-07T03:00:00.000Z"
+      "valor": 41290.15,
+      "fecha": "2026-11-08T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -49,12 +49,6 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Alcalde de San Antonio revela que niño de 11 años sufrió grave fractura en accidente de Santo Domingo",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/alcalde-de-san-antonio-informa-que-nino-de-11-anos-sufrio-grave-fractura-en-accidente-de-santo-domingo.shtml",
-      "fecha": "Sat, 07 Nov 2026 21:27:18 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
       "titulo": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
       "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
       "fecha": "Sat, 07 Nov 2026 19:00:08 GMT",
@@ -63,7 +57,13 @@
     {
       "titulo": "A fondo con el fondo de fondos",
       "link": "http://www.df.cl/df-mas/punto-de-partida/a-fondo-con-el-fondo-de-fondos",
-      "fecha": "Sat, 07 Nov 2026 15:38:22 GMT",
+      "fecha": "Sun, 08 Nov 2026 13:46:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Larry Summers, ex secretario del Tesoro: “Fue una elección de repudio”",
+      "link": "http://www.df.cl/df-mas/glocal/larry-summers-ex-secretario-del-tesoro-fue-una-eleccion-de-repudio",
+      "fecha": "Sat, 07 Nov 2026 14:00:15 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-08",
-        "valor": 41284.83
+        "valor": 41290.15
       }
     ],
     "dolar": [
@@ -1518,12 +1518,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
+    "indicador": "dolar",
+    "nombre": "el dólar",
     "cambio_pct": 0.0,
-    "score": 1.583,
+    "score": 0.121,
     "modo": "zscore",
-    "valor_actual": 41284.83,
+    "valor_actual": 970.94,
     "fecha": "2026-11-08"
   }
 }
