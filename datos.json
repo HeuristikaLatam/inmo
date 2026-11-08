@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-07T23:16:15.539204+00:00",
+  "generado": "2026-11-08T00:05:37.842429+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -55,24 +55,20 @@
       "fuente": "BioBioChile"
     },
     {
-      "titulo": "Madre de niño que sufrió fractura de mandíbula tras agresión en Calbuco evalúa acciones judiciales",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-los-lagos/2026/11/07/madre-de-nino-que-sufrio-fractura-de-mandibula-tras-agresion-en-calbuco-evalua-acciones-judiciales.shtml",
-      "fecha": "Sat, 07 Nov 2026 19:31:39 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
+      "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
+      "fecha": "Sat, 07 Nov 2026 19:00:08 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿En qué piensa hoy Buin Zoo?: un silencioso proyecto en 15 hectáreas y el plan de sucesión familiar",
-      "link": "http://www.df.cl/df-mas/personaje/en-que-piensa-hoy-buin-zoo-un-silencioso-proyecto-en-15-hectareas-y-el",
-      "fecha": "Sat, 07 Nov 2026 01:29:49 GMT",
+      "titulo": "A fondo con el fondo de fondos",
+      "link": "http://www.df.cl/df-mas/punto-de-partida/a-fondo-con-el-fondo-de-fondos",
+      "fecha": "Sat, 07 Nov 2026 15:38:22 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-10",
-        "valor": 40846.11
-      },
       {
         "fecha": "2026-08-11",
         "valor": 40847.42
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-07",
         "valor": 41284.83
+      },
+      {
+        "fecha": "2026-11-08",
+        "valor": 41284.83
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-10",
-        "valor": 911.77
-      },
       {
         "fecha": "2026-08-11",
         "valor": 916.3
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-07",
         "valor": 970.94
+      },
+      {
+        "fecha": "2026-11-08",
+        "valor": 970.94
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-10",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-11",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-07",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-08",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-10",
-        "valor": 4.26
-      },
-      {
         "fecha": "2026-08-11",
         "valor": 4.26
       },
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-07",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-08",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
+    "indicador": "uf",
+    "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.13,
+    "score": 1.583,
     "modo": "zscore",
-    "valor_actual": 970.94,
-    "fecha": "2026-11-07"
+    "valor_actual": 41284.83,
+    "fecha": "2026-11-08"
   }
 }
