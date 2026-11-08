@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-08T14:39:26.059138+00:00",
+  "generado": "2026-11-08T15:52:36.621424+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,6 +49,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Encuesta Criteria: desaprobación al presidente Kast llega a 67% y crece percepción de improvisación en materia de empleo y crecimiento económico",
+      "link": "http://www.df.cl/economia-y-politica/politica/encuesta-criteria-desaprobacion-al-presidente-kast-llega-a-67-y-crece",
+      "fecha": "Sun, 08 Nov 2026 15:22:05 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
       "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
       "fecha": "Sat, 07 Nov 2026 19:00:08 GMT",
@@ -58,12 +64,6 @@
       "titulo": "A fondo con el fondo de fondos",
       "link": "http://www.df.cl/df-mas/punto-de-partida/a-fondo-con-el-fondo-de-fondos",
       "fecha": "Sun, 08 Nov 2026 13:46:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Larry Summers, ex secretario del Tesoro: “Fue una elección de repudio”",
-      "link": "http://www.df.cl/df-mas/glocal/larry-summers-ex-secretario-del-tesoro-fue-una-eleccion-de-repudio",
-      "fecha": "Sat, 07 Nov 2026 14:00:15 GMT",
       "fuente": "Diario Financiero"
     }
   ],
