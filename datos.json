@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-08T15:52:36.621424+00:00",
+  "generado": "2026-11-08T23:18:56.779400+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,6 +49,12 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Papa León viaja a la Argentina de Milei, con tensiones latentes por austeridad e Irán",
+      "link": "http://www.df.cl/internacional/papa-leon-viaja-a-la-argentina-de-milei-con-tensiones-latentes-por",
+      "fecha": "Sun, 08 Nov 2026 18:35:44 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Encuesta Criteria: desaprobación al presidente Kast llega a 67% y crece percepción de improvisación en materia de empleo y crecimiento económico",
       "link": "http://www.df.cl/economia-y-politica/politica/encuesta-criteria-desaprobacion-al-presidente-kast-llega-a-67-y-crece",
       "fecha": "Sun, 08 Nov 2026 15:22:05 GMT",
@@ -58,12 +64,6 @@
       "titulo": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
       "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
       "fecha": "Sat, 07 Nov 2026 19:00:08 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "A fondo con el fondo de fondos",
-      "link": "http://www.df.cl/df-mas/punto-de-partida/a-fondo-con-el-fondo-de-fondos",
-      "fecha": "Sun, 08 Nov 2026 13:46:59 GMT",
       "fuente": "Diario Financiero"
     }
   ],
