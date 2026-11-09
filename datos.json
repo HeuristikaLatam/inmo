@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-08T23:18:56.779400+00:00",
+  "generado": "2026-11-09T00:21:39.155634+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,48 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "Se afianza expectativa de alza de tasa en diciembre tras nuevo avance de la inflación",
-      "link": "http://www.df.cl/senal-df/factor-economico/se-afianza-expectativa-de-alza-de-tasa-en-diciembre-tras-nuevo-avance-de-la",
-      "fecha": "Sat, 07 Nov 2026 13:08:22 GMT",
+      "titulo": "Más allá de MK4: las propuestas para destrabar el mercado hipotecario",
+      "link": "http://www.df.cl/aniversario/mas-alla-de-mk4-las-propuestas-para-destrabar-el-mercado-hipotecario",
+      "fecha": "Sun, 08 Nov 2026 23:38:19 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Con inversión de 250.000 UF y arquitectura del Estudio Valdés, Las Brisas desarrolla nuevo proyecto residencial",
-      "link": "http://www.df.cl/df-mas/coffee-break/con-inversion-de-250-000-uf-y-arquitectura-del-estudio-valdes-las-brisas",
-      "fecha": "Fri, 06 Nov 2026 20:28:26 GMT",
+      "titulo": "¿Qué tendencias van a reactivar la inversión inmobiliaria en 2027?",
+      "link": "http://www.df.cl/aniversario/que-tendencias-van-a-reactivar-la-inversion-inmobiliaria-en-2027",
+      "fecha": "Sun, 08 Nov 2026 23:48:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar borra alza inicial, cierra estable y registra una caída semanal mientras se calma la venta de acciones tecnológicas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k5xno",
-      "fecha": "Fri, 06 Nov 2026 19:16:43 GMT",
+      "titulo": "Jorge Nazer, presidente de Endeavor Chile: “Veo a Chile parado por desidia nuestra, pese a las oportunidades gigantescas que hay”",
+      "link": "http://www.df.cl/aniversario/jorge-nazer-presidente-de-endeavor-chile-veo-a-chile-parado-por-desidia",
+      "fecha": "Sun, 08 Nov 2026 23:32:29 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Papa León viaja a la Argentina de Milei, con tensiones latentes por austeridad e Irán",
-      "link": "http://www.df.cl/internacional/papa-leon-viaja-a-la-argentina-de-milei-con-tensiones-latentes-por",
-      "fecha": "Sun, 08 Nov 2026 18:35:44 GMT",
+      "titulo": "Los distintos caminos que se buscan para aumentar el ahorro para la pensión",
+      "link": "http://www.df.cl/aniversario/los-distintos-caminos-que-se-buscan-para-aumentar-el-ahorro-para-la-pension",
+      "fecha": "Sun, 08 Nov 2026 23:35:41 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Encuesta Criteria: desaprobación al presidente Kast llega a 67% y crece percepción de improvisación en materia de empleo y crecimiento económico",
-      "link": "http://www.df.cl/economia-y-politica/politica/encuesta-criteria-desaprobacion-al-presidente-kast-llega-a-67-y-crece",
-      "fecha": "Sun, 08 Nov 2026 15:22:05 GMT",
+      "titulo": "¿Chile retomará el vuelo?",
+      "link": "http://www.df.cl/aniversario/chile-retomara-el-vuelo",
+      "fecha": "Fri, 06 Nov 2026 21:36:36 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Gonzalo Maza despide a Lelio: “Sebastián era insoportablemente perfecto”",
-      "link": "http://www.df.cl/df-mas/personaje/gonzalo-maza-despide-a-lelio-sebastian-era-insoportablemente-perfecto",
-      "fecha": "Sat, 07 Nov 2026 19:00:08 GMT",
+      "titulo": "Cuatro países que destacaron por su salto económico en el primer cuarto del siglo",
+      "link": "http://www.df.cl/aniversario/cuatro-paises-que-destacaron-por-su-salto-economico-en-el-primer-cuarto-del",
+      "fecha": "Sun, 08 Nov 2026 23:52:31 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-11",
-        "valor": 40847.42
-      },
       {
         "fecha": "2026-08-12",
         "valor": 40848.74
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-08",
         "valor": 41290.15
+      },
+      {
+        "fecha": "2026-11-09",
+        "valor": 41290.15
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-11",
-        "valor": 916.3
-      },
       {
         "fecha": "2026-08-12",
         "valor": 914.41
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-08",
         "valor": 970.94
+      },
+      {
+        "fecha": "2026-11-09",
+        "valor": 970.94
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-11",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-12",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-08",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-09",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-11",
-        "valor": 4.26
-      },
-      {
         "fecha": "2026-08-12",
         "valor": 4.26
       },
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-08",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-09",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
+    "indicador": "uf",
+    "nombre": "la UF",
     "cambio_pct": 0.0,
-    "score": 0.121,
+    "score": 1.61,
     "modo": "zscore",
-    "valor_actual": 970.94,
-    "fecha": "2026-11-08"
+    "valor_actual": 41290.15,
+    "fecha": "2026-11-09"
   }
 }
