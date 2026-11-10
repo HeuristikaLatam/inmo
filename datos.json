@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-09T00:21:39.155634+00:00",
+  "generado": "2026-11-10T02:27:50.054618+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41290.15,
-      "fecha": "2026-11-08T03:00:00.000Z"
+      "valor": 41295.46,
+      "fecha": "2026-11-09T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 970.94,
-      "fecha": "2026-11-06T03:00:00.000Z"
+      "valor": 979.88,
+      "fecha": "2026-11-09T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-06T03:00:00.000Z"
+      "fecha": "2026-11-09T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,48 +31,44 @@
   },
   "titulares": [
     {
+      "titulo": "Dólar cierra con fuerte caída a la zona de $ 970 mientras los precios del petróleo siguen en picada tras declaraciones de Trump",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-uvysp",
+      "fecha": "Mon, 09 Nov 2026 19:11:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Viña Selentia, del Valle de Colchagua, lanza exclusivo proyecto inmobiliario que incluye parras productivas dentro de los propios lotes",
+      "link": "http://www.df.cl/regiones/o-higgins/empresas/vina-selentia-lanza-exclusivo-proyecto-de-wine-lots-que-en-tres-meses",
+      "fecha": "Mon, 09 Nov 2026 22:26:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "“No es suficiente”: pese a anuncios de Presidente Kast para contener alzas de combustibles, camioneros mantienen llamado a paro indefinido",
+      "link": "http://www.df.cl/regiones/entre-san-fernando-y-magallanes-camiones-del-sur-paralizan-de-manera",
+      "fecha": "Mon, 09 Nov 2026 21:27:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las exportaciones chilenas apenas crecieron en octubre y los envíos de cobre sufrieron su segunda caída en el año",
+      "link": "http://www.df.cl/economia-y-politica/macro/las-exportaciones-chilenas-apenas-crecieron-en-octubre-y-los-envios-de",
+      "fecha": "Mon, 09 Nov 2026 15:12:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las nuevas estrategias de las inmobiliarias en Chile: Desde mayor diversificación a evitar sectores con exposición a riesgos aluvionales",
+      "link": "http://www.df.cl/empresas/construccion/las-nuevas-estrategias-de-las-inmobiliarias-en-chile-desde-mayor",
+      "fecha": "Mon, 09 Nov 2026 22:09:57 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Más allá de MK4: las propuestas para destrabar el mercado hipotecario",
       "link": "http://www.df.cl/aniversario/mas-alla-de-mk4-las-propuestas-para-destrabar-el-mercado-hipotecario",
       "fecha": "Sun, 08 Nov 2026 23:38:19 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Qué tendencias van a reactivar la inversión inmobiliaria en 2027?",
-      "link": "http://www.df.cl/aniversario/que-tendencias-van-a-reactivar-la-inversion-inmobiliaria-en-2027",
-      "fecha": "Sun, 08 Nov 2026 23:48:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Jorge Nazer, presidente de Endeavor Chile: “Veo a Chile parado por desidia nuestra, pese a las oportunidades gigantescas que hay”",
-      "link": "http://www.df.cl/aniversario/jorge-nazer-presidente-de-endeavor-chile-veo-a-chile-parado-por-desidia",
-      "fecha": "Sun, 08 Nov 2026 23:32:29 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Los distintos caminos que se buscan para aumentar el ahorro para la pensión",
-      "link": "http://www.df.cl/aniversario/los-distintos-caminos-que-se-buscan-para-aumentar-el-ahorro-para-la-pension",
-      "fecha": "Sun, 08 Nov 2026 23:35:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿Chile retomará el vuelo?",
-      "link": "http://www.df.cl/aniversario/chile-retomara-el-vuelo",
-      "fecha": "Fri, 06 Nov 2026 21:36:36 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Cuatro países que destacaron por su salto económico en el primer cuarto del siglo",
-      "link": "http://www.df.cl/aniversario/cuatro-paises-que-destacaron-por-su-salto-economico-en-el-primer-cuarto-del",
-      "fecha": "Sun, 08 Nov 2026 23:52:31 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-12",
-        "valor": 40848.74
-      },
       {
         "fecha": "2026-08-13",
         "valor": 40850.06
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-09",
         "valor": 41290.15
+      },
+      {
+        "fecha": "2026-11-10",
+        "valor": 41295.46
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-12",
-        "valor": 914.41
-      },
       {
         "fecha": "2026-08-13",
         "valor": 912
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-09",
         "valor": 970.94
+      },
+      {
+        "fecha": "2026-11-10",
+        "valor": 979.88
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-12",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-13",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-09",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-10",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-12",
-        "valor": 4.26
-      },
-      {
         "fecha": "2026-08-13",
         "valor": 4.26
       },
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-09",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-10",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.61,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.92,
+    "score": 1.523,
     "modo": "zscore",
-    "valor_actual": 41290.15,
-    "fecha": "2026-11-09"
+    "valor_actual": 979.88,
+    "fecha": "2026-11-10"
   }
 }
