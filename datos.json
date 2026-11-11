@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T00:19:28.045149+00:00",
+  "generado": "2026-11-11T00:57:11.433478+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -30,6 +30,12 @@
     }
   },
   "titulares": [
+    {
+      "titulo": "AFP chilenas reducen pérdidas por swaps de tasas tras repunte de bonos de EEUU",
+      "link": "http://www.df.cl/mercados/pensiones/afp-chilenas-reducen-perdidas-por-swaps-de-tasas-tras-repunte-de-bonos-de",
+      "fecha": "Wed, 11 Nov 2026 00:47:04 GMT",
+      "fuente": "Diario Financiero"
+    },
     {
       "titulo": "Wall Street cierra en rojo presionado por la trama de Nvidia y datos de inflación que hicieron despegar las tasas de interés",
       "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-ebapu",
