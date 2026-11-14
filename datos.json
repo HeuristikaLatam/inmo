@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-14T01:07:56.510485+00:00",
+  "generado": "2026-11-14T14:40:48.606905+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41322.93,
-      "fecha": "2026-11-13T03:00:00.000Z"
+      "valor": 41329.8,
+      "fecha": "2026-11-14T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -23,10 +23,10 @@
   "tasa_hipotecaria": {
     "nombre": "Tasa hipotecaria promedio (TIP)",
     "unidad": "Porcentaje",
-    "valor": 4.32,
-    "fecha": "2026-10-15",
+    "valor": 4.44,
+    "fecha": "2026-11-14",
     "detalle": {
-      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.32
+      "Hipotecario UF (>1 año, hasta 2.000 UF)": 4.44
     }
   },
   "titulares": [
@@ -51,7 +51,7 @@
     {
       "titulo": "Slim acelera apuesta por Chile: su empresa de antenas cuadruplica construcción en 2026",
       "link": "http://www.df.cl/senal-df/datos-de-sobremesa/slim-acelera-apuesta-por-chile-su-empresa-de-antenas-cuadruplica",
-      "fecha": "Fri, 13 Nov 2026 18:38:15 GMT",
+      "fecha": "Sat, 14 Nov 2026 01:28:06 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -61,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Mercados: la semana en datos",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
-      "fecha": "Sat, 14 Nov 2026 00:30:26 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Golazos de Vinícius no fueron suficiente: Japón venció a Brasil en partidazo preparatorio",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/14/golazos-de-vinicius-no-fueron-suficiente-japon-vencio-a-brasil-en-partidazo-preparatorio.shtml",
+      "fecha": "Sat, 14 Nov 2026 12:52:28 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-14",
-        "valor": 41322.93
+        "valor": 41329.8
       }
     ],
     "dolar": [
@@ -1513,17 +1513,17 @@
       },
       {
         "fecha": "2026-11-14",
-        "valor": 4.32
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.03,
-    "score": 2.765,
+    "indicador": "tasa_hipotecaria",
+    "nombre": "la tasa hipotecaria promedio",
+    "cambio_pct": 2.78,
+    "score": 25.082,
     "modo": "zscore",
-    "valor_actual": 41322.93,
+    "valor_actual": 4.44,
     "fecha": "2026-11-14"
   }
 }
