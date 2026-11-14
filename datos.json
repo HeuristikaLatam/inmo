@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-12T02:03:41.876529+00:00",
+  "generado": "2026-11-14T00:34:02.636112+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41309.19,
-      "fecha": "2026-11-11T03:00:00.000Z"
+      "valor": 41322.93,
+      "fecha": "2026-11-13T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 977.05,
-      "fecha": "2026-11-11T03:00:00.000Z"
+      "valor": 992.48,
+      "fecha": "2026-11-13T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-11T03:00:00.000Z"
+      "fecha": "2026-11-13T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,48 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "Las AFP habrían materializado pérdidas de hasta US$ 3.700 millones en swaps de tasas en octubre",
-      "link": "http://www.df.cl/senal-df/las-afp-habrian-materializado-perdidas-de-hasta-us-3-700-millones-en-swaps",
-      "fecha": "Thu, 12 Nov 2026 00:15:14 GMT",
+      "titulo": "Vuelos suspendidos en Estados Unidos por problemas con el tráfico aéreo: cerca de 7.000 viajes sufrieron retrasos o cancelaciones",
+      "link": "http://www.df.cl/internacional/multinacionales/vuelos-suspendidos-en-todo-estados-unidos-por-problemas-con-el-control-del",
+      "fecha": "Fri, 13 Nov 2026 22:26:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Bolsa chilena sufre una caída de última hora, mientras que Wall Street cierra al alza con el fuerte impulso de CoreWeave",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-986fe",
-      "fecha": "Wed, 11 Nov 2026 21:08:44 GMT",
+      "titulo": "Arquitecto jefe de la Sagrada Familia: “Es un momento de esperanza para la construcción de la capilla Gaudí en Rancagua”",
+      "link": "http://www.df.cl/arquitecto-jefe-de-la-sagrada-familia-es-un-momento-de-esperanza-para-la",
+      "fecha": "Fri, 13 Nov 2026 22:58:37 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar borra alza y cierra estable en Chile mientras la divisa alcanza máximos desde abril de 2025 en los mercados globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kyrj4",
-      "fecha": "Wed, 11 Nov 2026 19:14:38 GMT",
+      "titulo": "Dólar cierra estable tras superar los $ 1.000 por primera vez desde abril de 2025 por el reciente impulso de las compras globales",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-5p9gp",
+      "fecha": "Fri, 13 Nov 2026 19:06:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Echeverría Izquierdo hace su primer remate holandés de bonos desde 2018 y amplía la escasa oferta desde el sector de la construcción",
-      "link": "http://www.df.cl/mercados/renta-fija/constructora-echeverria-izquierdo-vuelve-a-salir-al-mercado-de-capitales",
-      "fecha": "Wed, 11 Nov 2026 19:17:24 GMT",
+      "titulo": "Slim acelera apuesta por Chile: su empresa de antenas cuadruplica construcción en 2026",
+      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/slim-acelera-apuesta-por-chile-su-empresa-de-antenas-cuadruplica",
+      "fecha": "Fri, 13 Nov 2026 18:38:15 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Los bancos recurren a seguros de crédito para ampliar los límites de préstamos de IA",
-      "link": "http://www.df.cl/internacional/ft/los-bancos-recurren-a-seguros-de-credito-para-ampliar-los-limites-de",
-      "fecha": "Wed, 11 Nov 2026 15:19:48 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Caso Ueno bank: Fiscalía paraguaya acusa de asociación criminal a Peña y cúpula del Banco Central",
+      "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/caso-ueno-bank-fiscalia-paraguaya-acusa-de-asociacion-criminal-a-pena-y/2026-11-13/173937.html",
+      "fecha": "Fri, 13 Nov 2026 17:39:37 -0300",
+      "fuente": "Cooperativa"
     },
     {
-      "titulo": "Entel pone a la venta operación de Perú y Millicom está interesado en adquirirla",
-      "link": "http://www.df.cl/senal-df/el-deal/entel-pone-a-la-venta-operacion-de-peru-y-millicom-esta-interesado-en",
-      "fecha": "Thu, 12 Nov 2026 01:52:31 GMT",
+      "titulo": "Mercados: la semana en datos",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "fecha": "Sat, 14 Nov 2026 00:30:26 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-15",
-        "valor": 40852.69
-      },
       {
         "fecha": "2026-08-16",
         "valor": 40854.01
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-12",
         "valor": 41309.19
+      },
+      {
+        "fecha": "2026-11-14",
+        "valor": 41322.93
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-15",
-        "valor": 913.2
-      },
       {
         "fecha": "2026-08-16",
         "valor": 913.2
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-12",
         "valor": 977.05
+      },
+      {
+        "fecha": "2026-11-14",
+        "valor": 992.48
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-15",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-16",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-12",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-14",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-15",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-16",
         "valor": 4.3
       },
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-12",
         "valor": 4.32
+      },
+      {
+        "fecha": "2026-11-14",
+        "valor": 4.32
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.75,
-    "score": 1.176,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.03,
+    "score": 2.765,
     "modo": "zscore",
-    "valor_actual": 977.05,
-    "fecha": "2026-11-12"
+    "valor_actual": 41322.93,
+    "fecha": "2026-11-14"
   }
 }
