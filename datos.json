@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-15T00:33:19.717590+00:00",
+  "generado": "2026-11-15T15:07:28.865935+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41329.8,
-      "fecha": "2026-11-14T03:00:00.000Z"
+      "valor": 41336.67,
+      "fecha": "2026-11-15T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -61,10 +61,10 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "La Roja perdió a otro defensa: Diego Ulloa fue liberado tras sufrir fractura ante Colombia",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/la-roja-pierde-a-diego-ulloa-defensa-sufrio-fractura.shtml",
-      "fecha": "Sun, 15 Nov 2026 00:19:51 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Kast llega a Vietnam en visita oficial antes de su viaje a China para la APEC",
+      "link": "http://www.df.cl/economia-y-politica/politica/kast-llega-a-vietnam-en-visita-oficial-antes-de-su-viaje-a-china-para-la",
+      "fecha": "Sun, 15 Nov 2026 13:44:21 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-15",
-        "valor": 41329.8
+        "valor": 41336.67
       }
     ],
     "dolar": [
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.564,
+    "cambio_pct": 0.02,
+    "score": 0.417,
     "modo": "zscore",
-    "valor_actual": 41329.8,
+    "valor_actual": 41336.67,
     "fecha": "2026-11-15"
   }
 }
