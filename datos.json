@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15T16:11:25.051185+00:00",
+  "generado": "2026-11-15T23:39:47.667893+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -49,21 +49,21 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Slim acelera apuesta por Chile: su empresa de antenas cuadruplica construcción en 2026",
-      "link": "http://www.df.cl/senal-df/datos-de-sobremesa/slim-acelera-apuesta-por-chile-su-empresa-de-antenas-cuadruplica",
-      "fecha": "Sat, 14 Nov 2026 01:28:06 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "Caso Ueno bank: Fiscalía paraguaya acusa de asociación criminal a Peña y cúpula del Banco Central",
       "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/caso-ueno-bank-fiscalia-paraguaya-acusa-de-asociacion-criminal-a-pena-y/2026-11-13/173937.html",
       "fecha": "Fri, 13 Nov 2026 17:39:37 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Bessent afirma que Nvidia necesita una \"reorganización drástica\" tras la destitución de Huang",
-      "link": "http://www.df.cl/internacional/politica/bessent-afirma-que-nvidia-necesita-una-reorganizacion-drastica-tras-la",
-      "fecha": "Sun, 15 Nov 2026 15:55:43 GMT",
+      "titulo": "China Mobile reafirma planes de inversión en Chile mientras Subtel continúa estudio de antecedentes del cable a Hong Kong",
+      "link": "http://www.df.cl/empresas/telecom-tecnologia/china-mobile-reafirma-planes-de-inversion-en-chile-mientras-subtel-continua",
+      "fecha": "Sun, 15 Nov 2026 20:14:41 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "¿El regreso de Jensen Huang? El exCEO de Nvidia habla con sus aliados sobre su posible retorno a la compañía",
+      "link": "http://www.df.cl/internacional/ft/el-regreso-de-jensen-huang-el-exceo-de-nvidia-habla-con-sus-aliados-sobre",
+      "fecha": "Sun, 15 Nov 2026 19:57:16 GMT",
       "fuente": "Diario Financiero"
     }
   ],
