@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T23:31:43.809637+00:00",
+  "generado": "2026-11-15T00:33:19.717590+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -61,18 +61,14 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Detrás de la foto: Quiroz, Alvarado y el fin del paro camionero",
-      "link": "http://www.df.cl/df-mas/coffee-break/detras-de-la-foto-quiroz-alvarado-y-el-fin-del-paro-camionero",
-      "fecha": "Sat, 14 Nov 2026 15:43:36 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "La Roja perdió a otro defensa: Diego Ulloa fue liberado tras sufrir fractura ante Colombia",
+      "link": "https://www.biobiochile.cl/noticias/deportes/futbol/la-roja/2026/11/14/la-roja-pierde-a-diego-ulloa-defensa-sufrio-fractura.shtml",
+      "fecha": "Sun, 15 Nov 2026 00:19:51 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-16",
-        "valor": 40854.01
-      },
       {
         "fecha": "2026-08-17",
         "valor": 40855.33
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-14",
         "valor": 41329.8
+      },
+      {
+        "fecha": "2026-11-15",
+        "valor": 41329.8
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-16",
-        "valor": 913.2
-      },
       {
         "fecha": "2026-08-17",
         "valor": 913.15
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-14",
         "valor": 992.48
+      },
+      {
+        "fecha": "2026-11-15",
+        "valor": 992.48
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-16",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-17",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-11-14",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-15",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-08-16",
-        "valor": 4.3
-      },
       {
         "fecha": "2026-08-17",
         "valor": 4.3
@@ -1514,16 +1510,20 @@
       {
         "fecha": "2026-11-14",
         "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-15",
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "tasa_hipotecaria",
-    "nombre": "la tasa hipotecaria promedio",
-    "cambio_pct": 2.78,
-    "score": 25.082,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.564,
     "modo": "zscore",
-    "valor_actual": 4.44,
-    "fecha": "2026-11-14"
+    "valor_actual": 41329.8,
+    "fecha": "2026-11-15"
   }
 }
