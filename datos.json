@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-16T00:33:17.263035+00:00",
+  "generado": "2026-11-16T19:27:22.850214+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41336.67,
-      "fecha": "2026-11-15T03:00:00.000Z"
+      "valor": 41343.55,
+      "fecha": "2026-11-16T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 992.48,
-      "fecha": "2026-11-13T03:00:00.000Z"
+      "valor": 999.1,
+      "fecha": "2026-11-16T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-13T03:00:00.000Z"
+      "fecha": "2026-11-16T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,40 +31,58 @@
   },
   "titulares": [
     {
-      "titulo": "Vuelos suspendidos en Estados Unidos por problemas con el tráfico aéreo: cerca de 7.000 viajes sufrieron retrasos o cancelaciones",
-      "link": "http://www.df.cl/internacional/multinacionales/vuelos-suspendidos-en-todo-estados-unidos-por-problemas-con-el-control-del",
-      "fecha": "Fri, 13 Nov 2026 22:26:25 GMT",
+      "titulo": "Dólar sube y cierra en $ 1.000 por primera vez desde abril de 2025 en medio de una masiva búsqueda de refugio",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v3ymu",
+      "fecha": "Mon, 16 Nov 2026 19:24:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Arquitecto jefe de la Sagrada Familia: “Es un momento de esperanza para la construcción de la capilla Gaudí en Rancagua”",
-      "link": "http://www.df.cl/arquitecto-jefe-de-la-sagrada-familia-es-un-momento-de-esperanza-para-la",
-      "fecha": "Fri, 13 Nov 2026 22:58:37 GMT",
+      "titulo": "Gremio de la construcción prevé cierre del año con inversión prácticamente estancada, pero ve repunte para 2027",
+      "link": "http://www.df.cl/empresas/construccion/cchc-preve-que-la-inversion-en-construccion-cierre-el-ano-practicamente",
+      "fecha": "Mon, 16 Nov 2026 18:30:11 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra estable tras superar los $ 1.000 por primera vez desde abril de 2025 por el reciente impulso de las compras globales",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-5p9gp",
-      "fecha": "Fri, 13 Nov 2026 19:06:11 GMT",
+      "titulo": "Warren Buffett acelera reparto de su fortuna y dona US$ 5.500 millones a fundaciones familiares",
+      "link": "http://www.df.cl/internacional/economia/warren-buffett-acelera-reparto-de-su-fortuna-y-dona-us-5-500-millones-a",
+      "fecha": "Mon, 16 Nov 2026 15:47:20 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Caso Ueno bank: Fiscalía paraguaya acusa de asociación criminal a Peña y cúpula del Banco Central",
-      "link": "https://www.cooperativa.cl/noticias/mundo/paraguay/caso-ueno-bank-fiscalia-paraguaya-acusa-de-asociacion-criminal-a-pena-y/2026-11-13/173937.html",
-      "fecha": "Fri, 13 Nov 2026 17:39:37 -0300",
+      "titulo": "IPSA arriesga perder los 10.600 frente a caídas de commodities y mientras Wall Street sufre nuevas ventas de acciones tecnológicas",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-eumxy",
+      "fecha": "Mon, 16 Nov 2026 16:25:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El dólar avanza mientras el cobre cae a su menor nivel desde julio",
+      "link": "http://www.df.cl/primer-click/el-dolar-avanza-mientras-el-cobre-cae-a-su-menor-nivel-desde-julio",
+      "fecha": "Mon, 16 Nov 2026 11:05:47 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El cobre toca un mínimo de cuatro meses en Londres ante el fortalecimiento del dólar",
+      "link": "http://www.df.cl/mercados/commodities/el-cobre-toca-un-minimo-de-cuatro-meses-en-londres-ante-el-fortalecimiento",
+      "fecha": "Mon, 16 Nov 2026 09:56:39 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Apuesta por el lujo en España sigue al alza: inmobiliaria chilena capta US$ 28 millones de family offices",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/apuesta-por-el-lujo-en-espana-sigue-al-alza-inmobiliaria-chilena-capta-us",
+      "fecha": "Mon, 16 Nov 2026 11:20:11 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Nuevo proyecto con viviendas y hotel a pasos de mall Alto Las Condes",
+      "link": "http://www.df.cl/empresas/construccion/nuevo-proyecto-con-viviendas-y-hotel-a-pasos-de-mall-alto-las-condes",
+      "fecha": "Mon, 16 Nov 2026 12:24:42 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "CChC redujo su proyección de inversión total en construcción para 2026",
+      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/construccion/cchc-redujo-su-proyeccion-de-inversion-total-en-construccion-para-2026/2026-11-16/142124.html",
+      "fecha": "Mon, 16 Nov 2026 14:21:24 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "China Mobile reafirma planes de inversión en Chile mientras Subtel continúa estudio de antecedentes del cable a Hong Kong",
-      "link": "http://www.df.cl/empresas/telecom-tecnologia/china-mobile-reafirma-planes-de-inversion-en-chile-mientras-subtel-continua",
-      "fecha": "Mon, 16 Nov 2026 00:29:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "¿El regreso de Jensen Huang? El exCEO de Nvidia habla con sus aliados sobre su posible retorno a la compañía",
-      "link": "http://www.df.cl/internacional/ft/el-regreso-de-jensen-huang-el-exceo-de-nvidia-habla-con-sus-aliados-sobre",
-      "fecha": "Sun, 15 Nov 2026 19:57:16 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -427,7 +445,7 @@
       },
       {
         "fecha": "2026-11-16",
-        "valor": 41336.67
+        "valor": 41343.55
       }
     ],
     "dolar": [
@@ -789,7 +807,7 @@
       },
       {
         "fecha": "2026-11-16",
-        "valor": 992.48
+        "valor": 999.1
       }
     ],
     "tpm": [
@@ -1518,12 +1536,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.594,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.67,
+    "score": 0.95,
     "modo": "zscore",
-    "valor_actual": 41336.67,
+    "valor_actual": 999.1,
     "fecha": "2026-11-16"
   }
 }
