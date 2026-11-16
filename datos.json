@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-15T23:39:47.667893+00:00",
+  "generado": "2026-11-16T00:33:17.263035+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -57,7 +57,7 @@
     {
       "titulo": "China Mobile reafirma planes de inversión en Chile mientras Subtel continúa estudio de antecedentes del cable a Hong Kong",
       "link": "http://www.df.cl/empresas/telecom-tecnologia/china-mobile-reafirma-planes-de-inversion-en-chile-mientras-subtel-continua",
-      "fecha": "Sun, 15 Nov 2026 20:14:41 GMT",
+      "fecha": "Mon, 16 Nov 2026 00:29:18 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -69,10 +69,6 @@
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-17",
-        "valor": 40855.33
-      },
       {
         "fecha": "2026-08-18",
         "valor": 40856.64
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-15",
         "valor": 41336.67
+      },
+      {
+        "fecha": "2026-11-16",
+        "valor": 41336.67
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-17",
-        "valor": 913.15
-      },
       {
         "fecha": "2026-08-18",
         "valor": 914.19
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-15",
         "valor": 992.48
+      },
+      {
+        "fecha": "2026-11-16",
+        "valor": 992.48
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-17",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-18",
         "valor": 4.5
@@ -1152,13 +1148,13 @@
       {
         "fecha": "2026-11-15",
         "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-16",
+        "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
-      {
-        "fecha": "2026-08-17",
-        "valor": 4.3
-      },
       {
         "fecha": "2026-08-18",
         "valor": 4.3
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-15",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-16",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 0.417,
+    "cambio_pct": 0.0,
+    "score": 1.594,
     "modo": "zscore",
     "valor_actual": 41336.67,
-    "fecha": "2026-11-15"
+    "fecha": "2026-11-16"
   }
 }
