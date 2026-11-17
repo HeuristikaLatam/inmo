@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-17T03:18:52.367784+00:00",
+  "generado": "2026-11-17T17:15:37.588662+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,40 +31,46 @@
   },
   "titulares": [
     {
+      "titulo": "Los gigantes detrás de Anthropic: Amazon y Google concentrarán casi 28% de su propiedad",
+      "link": "http://www.df.cl/internacional/multinacionales/los-gigantes-detras-de-anthropic-amazon-y-google-concentraran-casi-28-de",
+      "fecha": "Tue, 17 Nov 2026 17:00:08 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar borra caída de la mañana y retoma los niveles de $ 1.000 tras sorpresas al alza en las ventas minoristas de EEUU",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hwwav",
+      "fecha": "Tue, 17 Nov 2026 14:24:07 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IEF del Banco Central advierte por mayores riesgos financieros y deterioro en capacidad de pago de hogares y empresas",
+      "link": "http://www.df.cl/mercados/banca-fintech/ief-del-banco-central-advierte-por-mayores-riesgos-financieros-y-deterioro",
+      "fecha": "Tue, 17 Nov 2026 13:17:34 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "IEF aborda el riesgo de nuevas alzas de tasas en EEUU y su impacto en Chile",
+      "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
+      "fecha": "Tue, 17 Nov 2026 14:22:28 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Banco Central mantiene exigencia de capital para la banca, en medio de elevados riesgos financieros",
       "link": "http://www.df.cl/mercados/banca-fintech/banco-central-mantiene-exigencia-de-capital-para-la-banca-en-medio-de",
       "fecha": "Mon, 16 Nov 2026 22:08:56 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar sube y cierra en $ 1.000 por primera vez desde abril de 2025 en medio de una masiva búsqueda de refugio",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v3ymu",
-      "fecha": "Mon, 16 Nov 2026 19:34:25 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gremio de la construcción prevé cierre del año con inversión prácticamente estancada, pero ve repunte para 2027",
-      "link": "http://www.df.cl/empresas/construccion/cchc-preve-que-la-inversion-en-construccion-cierre-el-ano-practicamente",
-      "fecha": "Mon, 16 Nov 2026 21:46:02 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Warren Buffett acelera reparto de su fortuna y dona US$ 5.500 millones a fundaciones familiares",
-      "link": "http://www.df.cl/internacional/economia/warren-buffett-acelera-reparto-de-su-fortuna-y-dona-us-5-500-millones-a",
-      "fecha": "Mon, 16 Nov 2026 15:47:20 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Banco Central alerta deterioro en capacidad de pago de hogares y empresas",
+      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/banco-central-alerta-deterioro-en-capacidad-de-pago-de-hogares-y-empresas/2026-11-17/114745.html",
+      "fecha": "Tue, 17 Nov 2026 11:47:45 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "CChC redujo su proyección de inversión total en construcción para 2026",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/construccion/cchc-redujo-su-proyeccion-de-inversion-total-en-construccion-para-2026/2026-11-16/142124.html",
       "fecha": "Mon, 16 Nov 2026 14:21:24 -0300",
       "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "El congelamiento de las alzas de los combustibles será realidad: Congreso despacha a ley la norma tras acuerdo entre el gobierno y los camioneros",
-      "link": "http://www.df.cl/economia-y-politica/df-tax/costara-al-fisco-us-820-millones-hacienda-ingresa-al-congreso-indicacion",
-      "fecha": "Tue, 17 Nov 2026 01:18:06 GMT",
-      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
