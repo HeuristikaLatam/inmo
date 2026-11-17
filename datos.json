@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-16T19:27:22.850214+00:00",
+  "generado": "2026-11-17T02:41:57.457065+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
+      "titulo": "Banco Central mantiene exigencia de capital para la banca, en medio de elevados riesgos financieros",
+      "link": "http://www.df.cl/mercados/banca-fintech/banco-central-mantiene-exigencia-de-capital-para-la-banca-en-medio-de",
+      "fecha": "Mon, 16 Nov 2026 22:08:56 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Dólar sube y cierra en $ 1.000 por primera vez desde abril de 2025 en medio de una masiva búsqueda de refugio",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-v3ymu",
-      "fecha": "Mon, 16 Nov 2026 19:24:49 GMT",
+      "fecha": "Mon, 16 Nov 2026 19:34:25 GMT",
       "fuente": "Diario Financiero"
     },
     {
       "titulo": "Gremio de la construcción prevé cierre del año con inversión prácticamente estancada, pero ve repunte para 2027",
       "link": "http://www.df.cl/empresas/construccion/cchc-preve-que-la-inversion-en-construccion-cierre-el-ano-practicamente",
-      "fecha": "Mon, 16 Nov 2026 18:30:11 GMT",
+      "fecha": "Mon, 16 Nov 2026 21:46:02 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -49,48 +55,20 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "IPSA arriesga perder los 10.600 frente a caídas de commodities y mientras Wall Street sufre nuevas ventas de acciones tecnológicas",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/bolsas-hoy-eumxy",
-      "fecha": "Mon, 16 Nov 2026 16:25:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El dólar avanza mientras el cobre cae a su menor nivel desde julio",
-      "link": "http://www.df.cl/primer-click/el-dolar-avanza-mientras-el-cobre-cae-a-su-menor-nivel-desde-julio",
-      "fecha": "Mon, 16 Nov 2026 11:05:47 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El cobre toca un mínimo de cuatro meses en Londres ante el fortalecimiento del dólar",
-      "link": "http://www.df.cl/mercados/commodities/el-cobre-toca-un-minimo-de-cuatro-meses-en-londres-ante-el-fortalecimiento",
-      "fecha": "Mon, 16 Nov 2026 09:56:39 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Apuesta por el lujo en España sigue al alza: inmobiliaria chilena capta US$ 28 millones de family offices",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/apuesta-por-el-lujo-en-espana-sigue-al-alza-inmobiliaria-chilena-capta-us",
-      "fecha": "Mon, 16 Nov 2026 11:20:11 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Nuevo proyecto con viviendas y hotel a pasos de mall Alto Las Condes",
-      "link": "http://www.df.cl/empresas/construccion/nuevo-proyecto-con-viviendas-y-hotel-a-pasos-de-mall-alto-las-condes",
-      "fecha": "Mon, 16 Nov 2026 12:24:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "CChC redujo su proyección de inversión total en construcción para 2026",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/construccion/cchc-redujo-su-proyeccion-de-inversion-total-en-construccion-para-2026/2026-11-16/142124.html",
       "fecha": "Mon, 16 Nov 2026 14:21:24 -0300",
       "fuente": "Cooperativa"
+    },
+    {
+      "titulo": "Banco Central advierte deterioro en capacidad de pago de hogares y empresas",
+      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/16/banco-central-advierte-deterioro-en-capacidad-de-pago-de-hogares-y-empresas.shtml",
+      "fecha": "Mon, 16 Nov 2026 23:37:14 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-18",
-        "valor": 40856.64
-      },
       {
         "fecha": "2026-08-19",
         "valor": 40857.96
@@ -446,13 +424,13 @@
       {
         "fecha": "2026-11-16",
         "valor": 41343.55
+      },
+      {
+        "fecha": "2026-11-17",
+        "valor": 41343.55
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-18",
-        "valor": 914.19
-      },
       {
         "fecha": "2026-08-19",
         "valor": 922.12
@@ -808,13 +786,13 @@
       {
         "fecha": "2026-11-16",
         "valor": 999.1
+      },
+      {
+        "fecha": "2026-11-17",
+        "valor": 999.1
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-18",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-19",
         "valor": 4.5
@@ -1169,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-16",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-17",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-18",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-19",
         "valor": 4.3
       },
@@ -1532,16 +1510,20 @@
       {
         "fecha": "2026-11-16",
         "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-17",
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.67,
-    "score": 0.95,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.624,
     "modo": "zscore",
-    "valor_actual": 999.1,
-    "fecha": "2026-11-16"
+    "valor_actual": 41343.55,
+    "fecha": "2026-11-17"
   }
 }
