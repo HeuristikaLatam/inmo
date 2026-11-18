@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-17T17:15:37.588662+00:00",
+  "generado": "2026-11-18T01:57:46.395455+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,33 +31,39 @@
   },
   "titulares": [
     {
+      "titulo": "La doble alerta del IEF del Banco Central: tasas globales en alza y hogares y empresas bajo presión",
+      "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
+      "fecha": "Tue, 17 Nov 2026 23:31:45 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Apple sufre caída masiva de sistemas tras fallida actualización interna y asegura estar \"trabajando para restablecer\" el problema",
+      "link": "http://www.df.cl/internacional/multinacionales/apple-sufre-caida-masiva-de-sistemas-tras-fallida-actualizacion-interna-y",
+      "fecha": "Tue, 17 Nov 2026 21:11:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar pierde la marca de $ 1.000 al cierre a la par de leves ventas globales previo a los resultados de Nvidia",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hwwav",
+      "fecha": "Tue, 17 Nov 2026 21:46:37 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Santander redobla apuesta por el segmento joven y lanza hipotecario con plazo de hasta 40 años",
+      "link": "http://www.df.cl/mercados/banca-fintech/santander-redobla-apuesta-por-el-segmento-joven-y-lanza-hipotecario-con",
+      "fecha": "Tue, 17 Nov 2026 19:02:29 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "Los gigantes detrás de Anthropic: Amazon y Google concentrarán casi 28% de su propiedad",
       "link": "http://www.df.cl/internacional/multinacionales/los-gigantes-detras-de-anthropic-amazon-y-google-concentraran-casi-28-de",
       "fecha": "Tue, 17 Nov 2026 17:00:08 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar borra caída de la mañana y retoma los niveles de $ 1.000 tras sorpresas al alza en las ventas minoristas de EEUU",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-hwwav",
-      "fecha": "Tue, 17 Nov 2026 14:24:07 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
       "titulo": "IEF del Banco Central advierte por mayores riesgos financieros y deterioro en capacidad de pago de hogares y empresas",
       "link": "http://www.df.cl/mercados/banca-fintech/ief-del-banco-central-advierte-por-mayores-riesgos-financieros-y-deterioro",
       "fecha": "Tue, 17 Nov 2026 13:17:34 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "IEF aborda el riesgo de nuevas alzas de tasas en EEUU y su impacto en Chile",
-      "link": "http://www.df.cl/mercados/renta-fija/ief-aborda-el-riesgo-de-nuevas-alzas-de-tasas-en-eeuu-y-su-impacto-en-chile",
-      "fecha": "Tue, 17 Nov 2026 14:22:28 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Banco Central mantiene exigencia de capital para la banca, en medio de elevados riesgos financieros",
-      "link": "http://www.df.cl/mercados/banca-fintech/banco-central-mantiene-exigencia-de-capital-para-la-banca-en-medio-de",
-      "fecha": "Mon, 16 Nov 2026 22:08:56 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -75,10 +81,6 @@
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-19",
-        "valor": 40857.96
-      },
       {
         "fecha": "2026-08-20",
         "valor": 40859.28
@@ -434,13 +436,13 @@
       {
         "fecha": "2026-11-17",
         "valor": 41350.42
+      },
+      {
+        "fecha": "2026-11-18",
+        "valor": 41350.42
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-19",
-        "valor": 922.12
-      },
       {
         "fecha": "2026-08-20",
         "valor": 920.26
@@ -796,13 +798,13 @@
       {
         "fecha": "2026-11-17",
         "valor": 1001.17
+      },
+      {
+        "fecha": "2026-11-18",
+        "valor": 1001.17
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-19",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-20",
         "valor": 4.5
@@ -1157,15 +1159,15 @@
       },
       {
         "fecha": "2026-11-17",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-18",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-19",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-20",
         "valor": 4.3
       },
@@ -1519,6 +1521,10 @@
       },
       {
         "fecha": "2026-11-17",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-18",
         "valor": 4.44
       }
     ]
@@ -1526,10 +1532,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 0.386,
+    "cambio_pct": 0.0,
+    "score": 1.656,
     "modo": "zscore",
     "valor_actual": 41350.42,
-    "fecha": "2026-11-17"
+    "fecha": "2026-11-18"
   }
 }
