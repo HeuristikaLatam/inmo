@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-19T01:34:23.891870+00:00",
+  "generado": "2026-11-19T16:58:40.434601+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41357.3,
-      "fecha": "2026-11-18T03:00:00.000Z"
+      "valor": 41364.17,
+      "fecha": "2026-11-19T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 996.68,
-      "fecha": "2026-11-18T03:00:00.000Z"
+      "valor": 1002.07,
+      "fecha": "2026-11-19T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-18T03:00:00.000Z"
+      "fecha": "2026-11-19T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,40 +31,40 @@
   },
   "titulares": [
     {
-      "titulo": "Minutas de la Fed revelan que funcionarios ven necesarias nuevas alzas de tasas para contener la inflación",
-      "link": "http://www.df.cl/internacional/economia/minutas-de-la-fed-revelan-que-funcionarios-ven-necesarias-nuevas-alzas-de",
-      "fecha": "Wed, 18 Nov 2026 19:44:02 GMT",
+      "titulo": "Dólar supera los $ 1.010 al inicio de la tarde mientras flaquea el entusiasmo por la salida a bolsa de Anthropic",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kdug8",
+      "fecha": "Thu, 19 Nov 2026 16:12:50 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar despega sobre los $ 1.000 y cierra en máximos de 22 meses con el cobre en caída libre por el cambio de perspectivas sobre la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ji6d7",
-      "fecha": "Wed, 18 Nov 2026 19:48:05 GMT",
+      "titulo": "Caja Los Héroes vende bonos por más de US$ 80 millones para entregar nuevos créditos sociales a sus afiliados",
+      "link": "http://www.df.cl/mercados/renta-fija/caja-los-heroes-vende-bonos-por-mas-de-us-80-millones-para-entregar-nuevos",
+      "fecha": "Thu, 19 Nov 2026 16:08:10 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "El dólar extiende su rally y el cobre profundiza su caída",
-      "link": "http://www.df.cl/primer-click/el-dolar-extiende-su-rally-y-el-cobre-profundiza-su-caida",
-      "fecha": "Wed, 18 Nov 2026 10:51:28 GMT",
+      "titulo": "Masisa sufre nueva rebaja en su clasificación de riesgo a menos de dos meses de fecha clave para su deuda",
+      "link": "http://www.df.cl/empresas/industria/masisa-sufre-nueva-rebaja-en-su-clasificacion-de-riesgo-a-menos-de-dos",
+      "fecha": "Thu, 19 Nov 2026 13:15:52 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar a $ 1.000: el riesgo no está en el número",
-      "link": "http://www.df.cl/opinion/cartas/dolar-a-1-000-el-riesgo-no-esta-en-el-numero",
-      "fecha": "Tue, 17 Nov 2026 22:22:15 GMT",
+      "titulo": "La construcción, aunque a distancia de la minería, se resiente y el agro celebra buenas cifras",
+      "link": "http://www.df.cl/economia-y-politica/macro/la-construccion-aunque-a-distancia-de-la-mineria-se-resiente-y-el-agro",
+      "fecha": "Thu, 19 Nov 2026 11:35:00 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Camionero argentino sufrió asalto armado y fue secuestrado en Los Andes: apareció vivo en la RM",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/18/camionero-argentino-sufrio-asalto-armado-y-fue-secuestrado-en-los-andes-aparecio-vivo-en-la-rm.shtml",
-      "fecha": "Wed, 18 Nov 2026 23:40:22 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Midterms: Musk se siente \"tonto\" por haber gastado 445 millones de dólares en apoyar a republicanos",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/midterms-musk-se-siente-tonto-por-haber-gastado-445-millones-de/2026-11-19/115218.html",
+      "fecha": "Thu, 19 Nov 2026 11:52:18 -0300",
+      "fuente": "Cooperativa"
     },
     {
-      "titulo": "CMF denuncia a cuatro entidades que ofrecen créditos por internet: acusa estafa, extorsión y usura",
-      "link": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/18/cmf-denuncia-a-cuatro-entidades-que-ofrecen-creditos-por-internet-acusa-estafa-extorsion-y-usura.shtml",
-      "fecha": "Wed, 18 Nov 2026 22:53:23 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "La apuesta energética de Milei por atraer inversión: megaproyecto de gas argentino por US$ 24 mil millones",
+      "link": "http://www.df.cl/internacional/economia/la-apuesta-energetica-de-milei-por-atraer-inversion-megaproyecto-de-gas",
+      "fecha": "Thu, 19 Nov 2026 16:57:19 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-19",
-        "valor": 41357.3
+        "valor": 41364.17
       }
     ],
     "dolar": [
@@ -789,7 +789,7 @@
       },
       {
         "fecha": "2026-11-19",
-        "valor": 996.68
+        "valor": 1002.07
       }
     ],
     "tpm": [
@@ -1518,12 +1518,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.45,
-    "score": 0.907,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.03,
+    "score": 2.388,
     "modo": "zscore",
-    "valor_actual": 996.68,
+    "valor_actual": 41364.17,
     "fecha": "2026-11-19"
   }
 }
