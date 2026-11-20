@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-19T16:58:40.434601+00:00",
+  "generado": "2026-11-20T01:33:26.444116+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,9 +31,33 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar supera los $ 1.010 al inicio de la tarde mientras flaquea el entusiasmo por la salida a bolsa de Anthropic",
+      "titulo": "Contraloría detecta incumplimientos, pagos en exceso y retrasos en la construcción del Puente Chacao",
+      "link": "http://www.df.cl/regiones/los-lagos/contraloria-detecta-incumplimientos-pagos-en-exceso-y-retrasos-en-la",
+      "fecha": "Thu, 19 Nov 2026 21:51:40 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Banco central de Brasil interviene para frenar la caída del real tras negativa de Lula para dar a conocer su equipo económico",
+      "link": "http://www.df.cl/internacional/politica/banco-central-de-brasil-interviene-para-frenar-caida-del-real-tras-negativa",
+      "fecha": "Thu, 19 Nov 2026 21:34:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Más de US$ 900 mil recaudados: Tesorería entrega primer balance de las facilidades de pago del CAE en el marco de la Ley de Reconstrucción",
+      "link": "http://www.df.cl/economia-y-politica/actualidad/mas-de-us-900-mil-recaudados-tesoreria-entrega-primer-balance-de-las",
+      "fecha": "Thu, 19 Nov 2026 21:12:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Las inversiones de Trump: gira su cartera hacia bonos y dividendos, pero mantiene compras en Nvidia y tecnológicas",
+      "link": "http://www.df.cl/internacional/multinacionales/las-inversiones-de-trump-gira-su-cartera-hacia-bonos-y-dividendos-pero",
+      "fecha": "Thu, 19 Nov 2026 20:17:18 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar supera los $ 1.010 y cierra en máximos desde el inicio de 2025 luego de que flaqueara el entusiasmo inicial por la salida a bolsa de Anthropic",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kdug8",
-      "fecha": "Thu, 19 Nov 2026 16:12:50 GMT",
+      "fecha": "Thu, 19 Nov 2026 20:58:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -55,24 +79,26 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "Dólar cerró en 1.014 pesos y se acerca a su valor más alto",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-cerro-en-1-014-pesos-y-se-acerca-a-su-valor-mas-alto/2026-11-19/192439.html",
+      "fecha": "Thu, 19 Nov 2026 19:24:39 -0300",
+      "fuente": "Cooperativa"
+    },
+    {
       "titulo": "Midterms: Musk se siente \"tonto\" por haber gastado 445 millones de dólares en apoyar a republicanos",
       "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/midterms-musk-se-siente-tonto-por-haber-gastado-445-millones-de/2026-11-19/115218.html",
       "fecha": "Thu, 19 Nov 2026 11:52:18 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "La apuesta energética de Milei por atraer inversión: megaproyecto de gas argentino por US$ 24 mil millones",
-      "link": "http://www.df.cl/internacional/economia/la-apuesta-energetica-de-milei-por-atraer-inversion-megaproyecto-de-gas",
-      "fecha": "Thu, 19 Nov 2026 16:57:19 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Crisis de vivienda en España marca el inicio del debate entre presidente Sánchez y opositor Feijóo",
+      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/19/crisis-de-vivienda-en-espana-marca-el-inicio-del-debate-entre-presidente-sanchez-y-opositor-feijoo.shtml",
+      "fecha": "Thu, 19 Nov 2026 23:14:16 +0000",
+      "fuente": "BioBioChile"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-21",
-        "valor": 40860.6
-      },
       {
         "fecha": "2026-08-22",
         "valor": 40861.91
@@ -428,13 +454,13 @@
       {
         "fecha": "2026-11-19",
         "valor": 41364.17
+      },
+      {
+        "fecha": "2026-11-20",
+        "valor": 41364.17
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-21",
-        "valor": 923.23
-      },
       {
         "fecha": "2026-08-22",
         "valor": 923.23
@@ -790,13 +816,13 @@
       {
         "fecha": "2026-11-19",
         "valor": 1002.07
+      },
+      {
+        "fecha": "2026-11-20",
+        "valor": 1002.07
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-21",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-22",
         "valor": 4.5
@@ -1151,15 +1177,15 @@
       },
       {
         "fecha": "2026-11-19",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-20",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-21",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-22",
         "valor": 4.3
       },
@@ -1513,6 +1539,10 @@
       },
       {
         "fecha": "2026-11-19",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-20",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1550,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.03,
-    "score": 2.388,
+    "cambio_pct": 0.0,
+    "score": 1.645,
     "modo": "zscore",
     "valor_actual": 41364.17,
-    "fecha": "2026-11-19"
+    "fecha": "2026-11-20"
   }
 }
