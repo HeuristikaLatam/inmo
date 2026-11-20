@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-20T01:57:27.486544+00:00",
+  "generado": "2026-11-20T17:41:28.798259+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41364.17,
-      "fecha": "2026-11-19T03:00:00.000Z"
+      "valor": 41371.05,
+      "fecha": "2026-11-20T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 1002.07,
-      "fecha": "2026-11-19T03:00:00.000Z"
+      "valor": 1008.79,
+      "fecha": "2026-11-20T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-19T03:00:00.000Z"
+      "fecha": "2026-11-20T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,52 +31,28 @@
   },
   "titulares": [
     {
-      "titulo": "Contraloría detecta incumplimientos, pagos en exceso y retrasos en la construcción del Puente Chacao",
-      "link": "http://www.df.cl/regiones/los-lagos/contraloria-detecta-incumplimientos-pagos-en-exceso-y-retrasos-en-la",
-      "fecha": "Thu, 19 Nov 2026 21:51:40 GMT",
+      "titulo": "Dólar supera los $ 1.020 en sesión volátil y alcanza nuevo máximo desde 2022 mientras el precio del cobre sigue en picada",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ctefc",
+      "fecha": "Fri, 20 Nov 2026 17:14:27 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Banco central de Brasil interviene para frenar la caída del real tras negativa de Lula para dar a conocer su equipo económico",
-      "link": "http://www.df.cl/internacional/politica/banco-central-de-brasil-interviene-para-frenar-caida-del-real-tras-negativa",
-      "fecha": "Thu, 19 Nov 2026 21:34:03 GMT",
+      "titulo": "Visita de Bill Gates a Codelco agita el debate sobre la propiedad del cobre chileno",
+      "link": "http://www.df.cl/empresas/mineria/visita-de-bill-gates-a-codelco-agita-el-debate-sobre-la-propiedad-del-cobre",
+      "fecha": "Fri, 20 Nov 2026 15:34:32 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Más de US$ 900 mil recaudados: Tesorería entrega primer balance de las facilidades de pago del CAE en el marco de la Ley de Reconstrucción",
-      "link": "http://www.df.cl/economia-y-politica/actualidad/mas-de-us-900-mil-recaudados-tesoreria-entrega-primer-balance-de-las",
-      "fecha": "Thu, 19 Nov 2026 21:12:30 GMT",
+      "titulo": "Los chilenos en los créditos del GTA VI",
+      "link": "http://www.df.cl/df-mas/coffee-break/los-chilenos-en-los-creditos-del-gta-vi",
+      "fecha": "Fri, 20 Nov 2026 16:05:24 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Las inversiones de Trump: gira su cartera hacia bonos y dividendos, pero mantiene compras en Nvidia y tecnológicas",
-      "link": "http://www.df.cl/internacional/multinacionales/las-inversiones-de-trump-gira-su-cartera-hacia-bonos-y-dividendos-pero",
-      "fecha": "Thu, 19 Nov 2026 20:17:18 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar supera los $ 1.010 y cierra en máximos desde el inicio de 2025 luego de que flaqueara el entusiasmo inicial por la salida a bolsa de Anthropic",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-kdug8",
-      "fecha": "Thu, 19 Nov 2026 20:58:42 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Caja Los Héroes vende bonos por más de US$ 80 millones para entregar nuevos créditos sociales a sus afiliados",
-      "link": "http://www.df.cl/mercados/renta-fija/caja-los-heroes-vende-bonos-por-mas-de-us-80-millones-para-entregar-nuevos",
-      "fecha": "Thu, 19 Nov 2026 16:08:10 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Masisa sufre nueva rebaja en su clasificación de riesgo a menos de dos meses de fecha clave para su deuda",
-      "link": "http://www.df.cl/empresas/industria/masisa-sufre-nueva-rebaja-en-su-clasificacion-de-riesgo-a-menos-de-dos",
-      "fecha": "Thu, 19 Nov 2026 13:15:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "La construcción, aunque a distancia de la minería, se resiente y el agro celebra buenas cifras",
-      "link": "http://www.df.cl/economia-y-politica/macro/la-construccion-aunque-a-distancia-de-la-mineria-se-resiente-y-el-agro",
-      "fecha": "Thu, 19 Nov 2026 11:35:00 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Dólar mantiene este viernes su tendencia al alza",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-mantiene-este-viernes-su-tendencia-al-alza/2026-11-20/103124.html",
+      "fecha": "Fri, 20 Nov 2026 10:31:24 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Dólar cerró en 1.014 pesos y se acerca a su valor más alto",
@@ -91,9 +67,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Crisis de vivienda en España marca el inicio del debate entre presidente Sánchez y opositor Feijóo",
-      "link": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/19/crisis-de-vivienda-en-espana-marca-el-inicio-del-debate-entre-presidente-sanchez-y-opositor-feijoo.shtml",
-      "fecha": "Thu, 19 Nov 2026 23:14:16 +0000",
+      "titulo": "Detienen a padres de niño que habría consumido ácido sulfúrico y sufrió quemaduras en Puchuncaví",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/20/detienen-a-padres-de-nino-que-habria-consumido-acido-sulfurico-y-sufrio-quemaduras-en-puchuncavi.shtml",
+      "fecha": "Fri, 20 Nov 2026 17:03:48 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
+      "titulo": "La sincera reflexión de Evelyn Matthei sobre el Parkinson que sufre su esposo: \"Enfermedad de mierda\"",
+      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/20/la-sincera-reflexion-de-evelyn-matthei-sobre-el-parkinson-que-sufre-su-esposo-enfermedad-de-mierda.shtml",
+      "fecha": "Fri, 20 Nov 2026 16:51:15 +0000",
       "fuente": "BioBioChile"
     }
   ],
@@ -457,7 +439,7 @@
       },
       {
         "fecha": "2026-11-20",
-        "valor": 41364.17
+        "valor": 41371.05
       }
     ],
     "dolar": [
@@ -819,7 +801,7 @@
       },
       {
         "fecha": "2026-11-20",
-        "valor": 1002.07
+        "valor": 1008.79
       }
     ],
     "tpm": [
@@ -1548,12 +1530,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.645,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 0.67,
+    "score": 0.963,
     "modo": "zscore",
-    "valor_actual": 41364.17,
+    "valor_actual": 1008.79,
     "fecha": "2026-11-20"
   }
 }
