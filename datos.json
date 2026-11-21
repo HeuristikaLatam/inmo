@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-21T01:53:20.704790+00:00",
+  "generado": "2026-11-21T15:49:22.721187+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41371.05,
-      "fecha": "2026-11-20T03:00:00.000Z"
+      "valor": 41377.93,
+      "fecha": "2026-11-21T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-21",
-        "valor": 41371.05
+        "valor": 41377.93
       }
     ],
     "dolar": [
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.678,
+    "cambio_pct": 0.02,
+    "score": 0.31,
     "modo": "zscore",
-    "valor_actual": 41371.05,
+    "valor_actual": 41377.93,
     "fecha": "2026-11-21"
   }
 }
