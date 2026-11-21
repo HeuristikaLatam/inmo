@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-20T17:41:28.798259+00:00",
+  "generado": "2026-11-21T00:59:30.742853+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,21 +31,15 @@
   },
   "titulares": [
     {
-      "titulo": "Dólar supera los $ 1.020 en sesión volátil y alcanza nuevo máximo desde 2022 mientras el precio del cobre sigue en picada",
+      "titulo": "Lo que debes saber al terminar la semana I Riesgo de PIB negativo en 2026, alza del dólar y apertura de Anthropic",
+      "link": "http://www.df.cl/senal-df/doble-shot/riesgo-de-pib-negativo-en-2026-alza-del-dolar-y-apertura-de-anthropic",
+      "fecha": "Fri, 20 Nov 2026 22:27:30 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar cierra sobre los $ 1.020 por primera vez desde julio de 2022 luego de que se reactivaran las fuertes ventas de cobre",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ctefc",
-      "fecha": "Fri, 20 Nov 2026 17:14:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Visita de Bill Gates a Codelco agita el debate sobre la propiedad del cobre chileno",
-      "link": "http://www.df.cl/empresas/mineria/visita-de-bill-gates-a-codelco-agita-el-debate-sobre-la-propiedad-del-cobre",
-      "fecha": "Fri, 20 Nov 2026 15:34:32 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Los chilenos en los créditos del GTA VI",
-      "link": "http://www.df.cl/df-mas/coffee-break/los-chilenos-en-los-creditos-del-gta-vi",
-      "fecha": "Fri, 20 Nov 2026 16:05:24 GMT",
+      "fecha": "Fri, 20 Nov 2026 19:18:45 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -67,24 +61,14 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Detienen a padres de niño que habría consumido ácido sulfúrico y sufrió quemaduras en Puchuncaví",
-      "link": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/20/detienen-a-padres-de-nino-que-habria-consumido-acido-sulfurico-y-sufrio-quemaduras-en-puchuncavi.shtml",
-      "fecha": "Fri, 20 Nov 2026 17:03:48 +0000",
-      "fuente": "BioBioChile"
-    },
-    {
-      "titulo": "La sincera reflexión de Evelyn Matthei sobre el Parkinson que sufre su esposo: \"Enfermedad de mierda\"",
-      "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/notas-espectaculos-tv/2026/11/20/la-sincera-reflexion-de-evelyn-matthei-sobre-el-parkinson-que-sufre-su-esposo-enfermedad-de-mierda.shtml",
-      "fecha": "Fri, 20 Nov 2026 16:51:15 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Mario Marchese, exdirector de HNH Energy, y el repliegue del hidrógeno verde: \"La autoridad falló en reaccionar haciendo un cambio rápido\"",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mario-marchese-exdirector-de-hnh-energy-la-autoridad-fallo-en-reaccionar",
+      "fecha": "Sat, 21 Nov 2026 00:18:57 GMT",
+      "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-22",
-        "valor": 40861.91
-      },
       {
         "fecha": "2026-08-23",
         "valor": 40863.23
@@ -440,13 +424,13 @@
       {
         "fecha": "2026-11-20",
         "valor": 41371.05
+      },
+      {
+        "fecha": "2026-11-21",
+        "valor": 41371.05
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-22",
-        "valor": 923.23
-      },
       {
         "fecha": "2026-08-23",
         "valor": 923.23
@@ -802,13 +786,13 @@
       {
         "fecha": "2026-11-20",
         "valor": 1008.79
+      },
+      {
+        "fecha": "2026-11-21",
+        "valor": 1008.79
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-22",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-23",
         "valor": 4.5
@@ -1163,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-20",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-21",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-22",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-23",
         "valor": 4.3
       },
@@ -1526,16 +1510,20 @@
       {
         "fecha": "2026-11-20",
         "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-21",
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 0.67,
-    "score": 0.963,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.678,
     "modo": "zscore",
-    "valor_actual": 1008.79,
-    "fecha": "2026-11-20"
+    "valor_actual": 41371.05,
+    "fecha": "2026-11-21"
   }
 }
