@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-21T23:59:32.145121+00:00",
+  "generado": "2026-11-22T00:48:24.903666+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -55,24 +55,20 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Betis de Pellegrini sufre en derbi: error de portero sella empate agónico de Sevilla con Suazo titular",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/chilenos-en-el-exterior/2026/11/21/betis-de-pellegrini-sufre-en-derbi-error-de-portero-sella-empate-agonico-de-sevilla-con-suazo-titular.shtml",
-      "fecha": "Sat, 21 Nov 2026 19:44:59 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "Rabat, al filo de la hora",
+      "link": "http://www.df.cl/df-mas/politica/rabat-al-filo-de-la-hora",
+      "fecha": "Sat, 21 Nov 2026 17:43:37 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Guía de Ocio: Los altruistas llega a Netflix",
-      "link": "http://www.df.cl/df-mas/capital/cultura/guia-de-ocio-los-altruistas",
-      "fecha": "Sat, 21 Nov 2026 01:24:09 GMT",
+      "titulo": "Columna de J.J. Jinks: Mano empuñada",
+      "link": "http://www.df.cl/df-mas/opinion/columna-de-j-j-jinks-mano-empunada",
+      "fecha": "Sat, 21 Nov 2026 00:45:12 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-23",
-        "valor": 40863.23
-      },
       {
         "fecha": "2026-08-24",
         "valor": 40864.55
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-21",
         "valor": 41377.93
+      },
+      {
+        "fecha": "2026-11-22",
+        "valor": 41377.93
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-23",
-        "valor": 923.23
-      },
       {
         "fecha": "2026-08-24",
         "valor": 918.17
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-21",
         "valor": 1008.79
+      },
+      {
+        "fecha": "2026-11-22",
+        "valor": 1008.79
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-23",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-24",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-21",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-22",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-23",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-24",
         "valor": 4.3
       },
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-21",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-22",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 0.31,
+    "cambio_pct": 0.0,
+    "score": 1.711,
     "modo": "zscore",
     "valor_actual": 41377.93,
-    "fecha": "2026-11-21"
+    "fecha": "2026-11-22"
   }
 }
