@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-22T00:48:24.903666+00:00",
+  "generado": "2026-11-22T15:47:55.888984+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41377.93,
-      "fecha": "2026-11-21T03:00:00.000Z"
+      "valor": 41384.81,
+      "fecha": "2026-11-22T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,15 +55,15 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Rabat, al filo de la hora",
-      "link": "http://www.df.cl/df-mas/politica/rabat-al-filo-de-la-hora",
-      "fecha": "Sat, 21 Nov 2026 17:43:37 GMT",
+      "titulo": "Encuesta Criteria: aprobación de Kast sube cinco puntos y llega a 23%, su mayor alza desde julio",
+      "link": "http://www.df.cl/economia-y-politica/politica/encuesta-criteria-aprobacion-de-kast-sube-cinco-puntos-y-llega-a-23-su",
+      "fecha": "Sun, 22 Nov 2026 15:01:54 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Columna de J.J. Jinks: Mano empuñada",
-      "link": "http://www.df.cl/df-mas/opinion/columna-de-j-j-jinks-mano-empunada",
-      "fecha": "Sat, 21 Nov 2026 00:45:12 GMT",
+      "titulo": "En medio de un viaje a China fallece Raúl Gardilcic, fundador de la constructora de minas subterráneas que lleva su apellido",
+      "link": "http://www.df.cl/empresas/mineria/fallece-raul-gardilcic-fundador-de-la-constructora-especializada-en",
+      "fecha": "Sun, 22 Nov 2026 13:52:41 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-22",
-        "valor": 41377.93
+        "valor": 41384.81
       }
     ],
     "dolar": [
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.711,
+    "cambio_pct": 0.02,
+    "score": 0.294,
     "modo": "zscore",
-    "valor_actual": 41377.93,
+    "valor_actual": 41384.81,
     "fecha": "2026-11-22"
   }
 }
