@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-22T16:59:46.260463+00:00",
+  "generado": "2026-11-23T00:32:23.148759+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -55,24 +55,20 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Conmoción en Bayern: aseguran que Musiala sufrió otro \"ataque de ausencia\" y club está en alerta",
-      "link": "https://www.biobiochile.cl/noticias/deportes/futbol-internacional/notas-futbol-internacional/2026/11/22/conmocion-en-bayern-aseguran-que-musiala-sufrio-otro-ataque-de-ausencia-y-club-esta-en-alerta.shtml",
-      "fecha": "Sun, 22 Nov 2026 15:53:39 +0000",
-      "fuente": "BioBioChile"
+      "titulo": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena",
+      "link": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de",
+      "fecha": "Sun, 22 Nov 2026 18:30:57 GMT",
+      "fuente": "Diario Financiero"
     },
     {
-      "titulo": "COP31 termina sin acuerdo por rechazo de la UE a borrador que omitía referencias a combustibles fósiles",
-      "link": "http://www.df.cl/empresas/medio-ambiente/cop31-termina-sin-acuerdo-por-rechazo-de-la-ue-a-borrador-sobre",
-      "fecha": "Sun, 22 Nov 2026 16:13:56 GMT",
+      "titulo": "Jefe de Inteligencia de EEUU prevé más interrupciones en servicios tecnológicos ante actualización de sistemas",
+      "link": "http://www.df.cl/internacional/jefe-de-inteligencia-de-eeuu-preve-mas-interrupciones-en-servicios",
+      "fecha": "Sun, 22 Nov 2026 20:18:39 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-24",
-        "valor": 40864.55
-      },
       {
         "fecha": "2026-08-25",
         "valor": 40865.87
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-22",
         "valor": 41384.81
+      },
+      {
+        "fecha": "2026-11-23",
+        "valor": 41384.81
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-24",
-        "valor": 918.17
-      },
       {
         "fecha": "2026-08-25",
         "valor": 914.64
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-22",
         "valor": 1008.79
+      },
+      {
+        "fecha": "2026-11-23",
+        "valor": 1008.79
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-24",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-25",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-22",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-23",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-24",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-25",
         "valor": 4.3
       },
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-22",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-23",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.02,
-    "score": 0.294,
+    "cambio_pct": 0.0,
+    "score": 1.747,
     "modo": "zscore",
     "valor_actual": 41384.81,
-    "fecha": "2026-11-22"
+    "fecha": "2026-11-23"
   }
 }
