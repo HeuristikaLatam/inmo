@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-23T01:15:20.992743+00:00",
+  "generado": "2026-11-24T04:30:56.761217+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41384.81,
-      "fecha": "2026-11-22T03:00:00.000Z"
+      "valor": 41398.57,
+      "fecha": "2026-11-24T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 1008.79,
-      "fecha": "2026-11-20T03:00:00.000Z"
+      "valor": 1017.66,
+      "fecha": "2026-11-24T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-20T03:00:00.000Z"
+      "fecha": "2026-11-24T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,48 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "Lo que debes saber al terminar la semana I Riesgo de PIB negativo en 2026, alza del dólar y apertura de Anthropic",
-      "link": "http://www.df.cl/senal-df/doble-shot/riesgo-de-pib-negativo-en-2026-alza-del-dolar-y-apertura-de-anthropic",
-      "fecha": "Fri, 20 Nov 2026 22:27:30 GMT",
+      "titulo": "MOP regulariza pagos por $ 84 millones y aplica multas tras reparos de Contraloría a contrato de diseño y construcción de Puente Chacao",
+      "link": "http://www.df.cl/regiones/los-lagos/mop-regulariza-pagos-por-84-millones-y-aplica-multas-tras-reparos-de",
+      "fecha": "Mon, 23 Nov 2026 20:26:39 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar cierra sobre los $ 1.020 por primera vez desde julio de 2022 luego de que se reactivaran las fuertes ventas de cobre",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-ctefc",
-      "fecha": "Fri, 20 Nov 2026 19:18:45 GMT",
+      "titulo": "Dólar rompe con tres sesiones al alza y cierra bajo los $ 1.020 en medio del repunte del cobre por la restitución de Huang en Nvidia",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k2ywr",
+      "fecha": "Mon, 23 Nov 2026 21:00:30 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar mantiene este viernes su tendencia al alza",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-mantiene-este-viernes-su-tendencia-al-alza/2026-11-20/103124.html",
-      "fecha": "Fri, 20 Nov 2026 10:31:24 -0300",
+      "titulo": "Inmobiliarias chilenas mantienen su apuesta por Perú y aumentan su actividad residencial",
+      "link": "http://www.df.cl/df-sud/inmobiliarias-chilenas-mantienen-su-apuesta-por-peru-y-aumentan-su",
+      "fecha": "Mon, 23 Nov 2026 16:56:55 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Black Friday: Proyectan ventas por 570 millones de dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/consumidores/black-friday-proyectan-ventas-por-570-millones-de-dolares/2026-11-23/112255.html",
+      "fecha": "Mon, 23 Nov 2026 11:22:55 -0300",
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Dólar cerró en 1.014 pesos y se acerca a su valor más alto",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-cerro-en-1-014-pesos-y-se-acerca-a-su-valor-mas-alto/2026-11-19/192439.html",
-      "fecha": "Thu, 19 Nov 2026 19:24:39 -0300",
-      "fuente": "Cooperativa"
-    },
-    {
-      "titulo": "PriceSmart logra desactivar disputa con Walmart: involucraba el nombre de la cadena",
-      "link": "http://www.df.cl/empresas/industria/pricesmart-logra-desactivar-disputa-con-walmart-involucraba-el-nombre-de",
-      "fecha": "Sun, 22 Nov 2026 18:30:57 GMT",
+      "titulo": "Nvidia recupera a Jensen Huang como su CEO y desata la algarabía en Wall Street",
+      "link": "http://www.df.cl/internacional/multinacionales/nvidia-vuelve-a-nombrar-a-jensen-huang-como-presidente-ejecutivo-y-sus",
+      "fecha": "Tue, 24 Nov 2026 00:27:37 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Jefe de Inteligencia de EEUU prevé más interrupciones en servicios tecnológicos ante actualización de sistemas",
-      "link": "http://www.df.cl/internacional/jefe-de-inteligencia-de-eeuu-preve-mas-interrupciones-en-servicios",
-      "fecha": "Sun, 22 Nov 2026 20:18:39 GMT",
+      "titulo": "Forum desafía el estancamiento automotriz y crece 5,5% en volúmenes de financiamiento en 2026",
+      "link": "http://www.df.cl/mercados/banca-fintech/forum-desafia-el-estancamiento-automotriz-y-crece-5-5-en-volumenes-de",
+      "fecha": "Mon, 23 Nov 2026 23:26:36 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-25",
-        "valor": 40865.87
-      },
       {
         "fecha": "2026-08-26",
         "valor": 40867.18
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-23",
         "valor": 41384.81
+      },
+      {
+        "fecha": "2026-11-24",
+        "valor": 41398.57
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-25",
-        "valor": 914.64
-      },
       {
         "fecha": "2026-08-26",
         "valor": 911.43
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-23",
         "valor": 1008.79
+      },
+      {
+        "fecha": "2026-11-24",
+        "valor": 1017.66
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-25",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-26",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-23",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-24",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-25",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-26",
         "valor": 4.3
       },
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-23",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-24",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.747,
+    "cambio_pct": 0.03,
+    "score": 2.292,
     "modo": "zscore",
-    "valor_actual": 41384.81,
-    "fecha": "2026-11-23"
+    "valor_actual": 41398.57,
+    "fecha": "2026-11-24"
   }
 }
