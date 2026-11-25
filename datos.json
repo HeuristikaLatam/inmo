@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-24T05:04:07.945568+00:00",
+  "generado": "2026-11-25T03:15:37.190360+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,22 +31,28 @@
   },
   "titulares": [
     {
-      "titulo": "MOP regulariza pagos por $ 84 millones y aplica multas tras reparos de Contraloría a contrato de diseño y construcción de Puente Chacao",
-      "link": "http://www.df.cl/regiones/los-lagos/mop-regulariza-pagos-por-84-millones-y-aplica-multas-tras-reparos-de",
-      "fecha": "Mon, 23 Nov 2026 20:26:39 GMT",
+      "titulo": "Dólar se dispara sobre $ 1.030 y cierra en nuevos máximos desde 2022 luego de que el cobre borrara todos sus avances de este año",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-769uz",
+      "fecha": "Tue, 24 Nov 2026 21:08:42 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar rompe con tres sesiones al alza y cierra bajo los $ 1.020 en medio del repunte del cobre por la restitución de Huang en Nvidia",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-k2ywr",
-      "fecha": "Mon, 23 Nov 2026 21:00:30 GMT",
+      "titulo": "Pablo García, presidente de la Comision Nacional de Evaluacion y Productividad: “Yo subiría la tasa en diciembre y que el IPoM se concentre en pensar qué es lo que viene después”",
+      "link": "http://www.df.cl/economia-y-politica/macro/pablo-garcia-presidente-de-la-comision-nacional-de-evaluacion-y",
+      "fecha": "Tue, 24 Nov 2026 12:38:08 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Inmobiliarias chilenas mantienen su apuesta por Perú y aumentan su actividad residencial",
-      "link": "http://www.df.cl/df-sud/inmobiliarias-chilenas-mantienen-su-apuesta-por-peru-y-aumentan-su",
-      "fecha": "Mon, 23 Nov 2026 16:56:55 GMT",
+      "titulo": "Banco Central ve un mercado cambiario funcionando con normalidad y analistas desestiman necesidad de medidas",
+      "link": "http://www.df.cl/economia-y-politica/macro/banco-central-ve-un-mercado-cambiario-funcionando-con-normalidad-y",
+      "fecha": "Tue, 24 Nov 2026 10:54:25 GMT",
       "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar superó los 1.032 pesos, mientras el cobre cayó a 5,46 dólares la libra",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-supero-los-1-032-pesos-mientras-el-cobre-cayo-a-5-46-dolares-la/2026-11-24/150844.html",
+      "fecha": "Tue, 24 Nov 2026 15:08:44 -0300",
+      "fuente": "Cooperativa"
     },
     {
       "titulo": "Black Friday: Proyectan ventas por 570 millones de dólares",
@@ -55,24 +61,14 @@
       "fuente": "Cooperativa"
     },
     {
-      "titulo": "Nvidia recupera a Jensen Huang como su CEO y desata la algarabía en Wall Street",
-      "link": "http://www.df.cl/internacional/multinacionales/nvidia-vuelve-a-nombrar-a-jensen-huang-como-presidente-ejecutivo-y-sus",
-      "fecha": "Tue, 24 Nov 2026 00:27:37 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Forum desafía el estancamiento automotriz y crece 5,5% en volúmenes de financiamiento en 2026",
-      "link": "http://www.df.cl/mercados/banca-fintech/forum-desafia-el-estancamiento-automotriz-y-crece-5-5-en-volumenes-de",
-      "fecha": "Mon, 23 Nov 2026 23:26:36 GMT",
+      "titulo": "Dictamen de la DT abre nuevo capítulo en disputa por continuidad laboral en Casino de Talca",
+      "link": "http://www.df.cl/regiones/maule/dictamen-de-la-dt-abre-nuevo-capitulo-en-disputa-por-continuidad-laboral-en",
+      "fecha": "Tue, 24 Nov 2026 23:26:02 GMT",
       "fuente": "Diario Financiero"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-26",
-        "valor": 40867.18
-      },
       {
         "fecha": "2026-08-27",
         "valor": 40868.5
@@ -428,13 +424,13 @@
       {
         "fecha": "2026-11-24",
         "valor": 41398.57
+      },
+      {
+        "fecha": "2026-11-25",
+        "valor": 41398.57
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-26",
-        "valor": 911.43
-      },
       {
         "fecha": "2026-08-27",
         "valor": 918.42
@@ -790,13 +786,13 @@
       {
         "fecha": "2026-11-24",
         "valor": 1017.66
+      },
+      {
+        "fecha": "2026-11-25",
+        "valor": 1017.66
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-26",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-27",
         "valor": 4.5
@@ -1151,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-24",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-25",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-26",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-27",
         "valor": 4.3
       },
@@ -1513,6 +1509,10 @@
       },
       {
         "fecha": "2026-11-24",
+        "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-25",
         "valor": 4.44
       }
     ]
@@ -1520,10 +1520,10 @@
   "dato_remarcable": {
     "indicador": "uf",
     "nombre": "la UF",
-    "cambio_pct": 0.03,
-    "score": 2.292,
+    "cambio_pct": 0.0,
+    "score": 1.739,
     "modo": "zscore",
     "valor_actual": 41398.57,
-    "fecha": "2026-11-24"
+    "fecha": "2026-11-25"
   }
 }
