@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-26T03:18:33.362592+00:00",
+  "generado": "2026-11-26T18:01:09.657005+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41405.45,
-      "fecha": "2026-11-25T03:00:00.000Z"
+      "valor": 41412.34,
+      "fecha": "2026-11-26T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 1025.06,
-      "fecha": "2026-11-25T03:00:00.000Z"
+      "valor": 1044.08,
+      "fecha": "2026-11-26T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-25T03:00:00.000Z"
+      "fecha": "2026-11-26T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,9 +31,57 @@
   },
   "titulares": [
     {
+      "titulo": "Corbo sobre posible intervención del Banco Central frente a alza del dólar: “No es necesario, lo que tiene que hacer es preocuparse de que los mercados estén funcionando bien”",
+      "link": "http://www.df.cl/economia-y-politica/macro/corbo-sobre-posible-intervencion-del-banco-central-frente-a-alza-del-dolar",
+      "fecha": "Thu, 26 Nov 2026 16:09:28 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar transa plano mientras el precio del cobre repunta y EEUU se toma un descanso por Acción de Gracias",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yw8",
+      "fecha": "Thu, 26 Nov 2026 15:53:03 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "La FIFA sufre ciberataque y confirma filtración de información personal y empresarial",
+      "link": "http://www.df.cl/internacional/ft/la-fifa-sufre-ciberataque-y-confirma-filtracion-de-informacion-personal-y",
+      "fecha": "Thu, 26 Nov 2026 15:44:32 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Dólar por las nubes y caída del cobre, el complicado cóctel en el análisis de la Comisión de Hacienda de la Cámara",
+      "link": "http://www.df.cl/economia-y-politica/congreso/alza-del-dolar-y-caida-del-cobre-el-complicado-coctel-en-el-analisis-de-la",
+      "fecha": "Thu, 26 Nov 2026 14:55:15 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Pablo Hernández de Cos será el próximo presidente del Banco Central Europeo",
+      "link": "http://www.df.cl/internacional/ft/pablo-hernandez-de-cos-sera-el-proximo-presidente-del-banco-central-europeo",
+      "fecha": "Thu, 26 Nov 2026 15:17:12 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "El mercado se divide sobre si el dólar romperá un nuevo récord tras escalada que lo llevó a cerrar sobre los $ 1.040",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-vuelve-a-subir-cierra-en-1-040-y-mercado-se-divide-sobre-si",
+      "fecha": "Thu, 26 Nov 2026 11:05:46 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Gobierno cuadruplica cupos para el subsidio a la contratación y flexibiliza requisitos de acceso",
+      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-cuadruplica-cupos-para-el-subsidio-a-la-contratacion-y-flexibiliza",
+      "fecha": "Thu, 26 Nov 2026 11:19:55 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "DF Tax | Ley de Reconstrucción: reorganizar no es eludir",
+      "link": "http://www.df.cl/opinion/columnistas/df-tax-ley-de-reconstruccion-reorganizar-no-es-eludir",
+      "fecha": "Wed, 25 Nov 2026 12:53:59 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
       "titulo": "SEA apelará ante la Suprema anulación de proyecto inmobiliario ligado a la familia Piñera Morel en la Región de Los Ríos",
       "link": "http://www.df.cl/regiones/los-rios/empresas/sea-apelara-ante-la-suprema-anulacion-de-proyecto-inmobiliario-ligado-a-la",
-      "fecha": "Wed, 25 Nov 2026 23:54:55 GMT",
+      "fecha": "Thu, 26 Nov 2026 11:05:03 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -43,64 +91,10 @@
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "¿Llama a una intervención? El Tipo de Cambio Real supera el rango de equilibrio de largo plazo del Banco Central",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/llama-a-una-intervencion-el-tipo-de-cambio-real-estaria-en-niveles-de",
-      "fecha": "Wed, 25 Nov 2026 21:44:45 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Datos de octubre y Libro Beige de la Fed evidencian persistencia de la inflación en EEUU y refuerzan perspectivas de una nueva alza de tasas",
-      "link": "http://www.df.cl/internacional/economia/el-indicador-de-inflacion-predilecto-de-la-fed-se-acelera-y-refuerza-las",
-      "fecha": "Wed, 25 Nov 2026 21:41:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar cierra con fuerte alza una sesión donde llegó a tocar los $ 1.050 por la venta global de activos ligados a la IA",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-wbvnj",
-      "fecha": "Wed, 25 Nov 2026 23:17:06 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El cobre se hunde a su menor nivel en 11 meses y se acerca a mercado bajista por temores sobre aranceles y alza de tasas",
-      "link": "http://www.df.cl/mercados/commodities/el-precio-del-cobre-toca-sus-minimos-de-un-ano-luego-que-se-agota-el",
-      "fecha": "Wed, 25 Nov 2026 19:25:52 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Quiroz reconoce \"un problema\" por fuerte alza del dólar, pero reafirma que una eventual decisión de intervenir o no en el mercado corresponde al Banco Central",
-      "link": "http://www.df.cl/economia-y-politica/politica/quiroz-reconoce-un-problema-por-fuerte-alza-del-dolar-pero-reafirma-que",
-      "fecha": "Wed, 25 Nov 2026 18:04:07 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "MK4: la apuesta por desconcentrar la propiedad de las empresas y atraer nuevos emisores a bolsa que debate el mercado",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/mk4-la-apuesta-por-desconcentrar-la-propiedad-de-las-empresas-y-atraer",
-      "fecha": "Wed, 25 Nov 2026 15:42:09 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Inmobiliaria del Boulevard Arica City Center acude a la justicia para anular multa de $ 25 millones por ruidos molestos",
-      "link": "http://www.df.cl/regiones/arica-y-parinacota/empresas/inmobiliaria-del-boulevard-arica-city-center-acude-a-la-justicia-para",
-      "fecha": "Wed, 25 Nov 2026 14:34:41 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "“La industria está empezando a ver brotes verdes”: Inmobiliaria Altas Cumbres apuesta a desarrollar nuevos proyectos en 2027 ante alza de subsidios",
-      "link": "http://www.df.cl/regiones/inmobiliaria-altas-cumbres-apuesta-por-viviendas-industrializadas-en-el-sur",
-      "fecha": "Wed, 25 Nov 2026 15:56:27 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Fondos de Moneda Patria redoblan apuesta por CLC e inyectan nuevo financiamiento por UF 1 millón",
-      "link": "http://www.df.cl/mercados/fondos-de-inversion/fondos-de-moneda-patria-redoblan-apuesta-por-clc-e-inyectan-nuevo",
-      "fecha": "Wed, 25 Nov 2026 14:27:38 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Costa aborda escalada del dólar y reafirma criterio del Banco Central para intervenir el mercado cambiario",
-      "link": "http://www.df.cl/economia-y-politica/macro/costa-aborda-escalada-del-dolar-y-reafirma-criterio-del-banco-central-para",
-      "fecha": "Wed, 25 Nov 2026 21:38:11 GMT",
-      "fuente": "Diario Financiero"
+      "titulo": "Dólar alcanzó máximo intradía de 1.048 pesos mientras el Banco Central descartó intervenir el mercado",
+      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-alcanzo-maximo-intradia-de-1-048-pesos-mientras-el-banco-central/2026-11-25/103815.html",
+      "fecha": "Wed, 25 Nov 2026 10:38:15 -0300",
+      "fuente": "Cooperativa"
     }
   ],
   "historial": {
@@ -463,7 +457,7 @@
       },
       {
         "fecha": "2026-11-26",
-        "valor": 41405.45
+        "valor": 41412.34
       }
     ],
     "dolar": [
@@ -825,7 +819,7 @@
       },
       {
         "fecha": "2026-11-26",
-        "valor": 1025.06
+        "valor": 1044.08
       }
     ],
     "tpm": [
@@ -1554,12 +1548,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.776,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": 1.86,
+    "score": 2.924,
     "modo": "zscore",
-    "valor_actual": 41405.45,
+    "valor_actual": 1044.08,
     "fecha": "2026-11-26"
   }
 }
