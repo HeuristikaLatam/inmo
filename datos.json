@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-26T18:01:09.657005+00:00",
+  "generado": "2026-11-27T02:33:07.925852+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
@@ -31,15 +31,21 @@
   },
   "titulares": [
     {
-      "titulo": "Corbo sobre posible intervención del Banco Central frente a alza del dólar: “No es necesario, lo que tiene que hacer es preocuparse de que los mercados estén funcionando bien”",
-      "link": "http://www.df.cl/economia-y-politica/macro/corbo-sobre-posible-intervencion-del-banco-central-frente-a-alza-del-dolar",
-      "fecha": "Thu, 26 Nov 2026 16:09:28 GMT",
+      "titulo": "La reforma del Banco Central de Argentina propuesta por Milei obtiene la aprobación final del Congreso",
+      "link": "http://www.df.cl/internacional/politica/la-reforma-del-banco-central-de-argentina-propuesta-por-milei-obtiene-la",
+      "fecha": "Thu, 26 Nov 2026 21:55:47 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar transa plano mientras el precio del cobre repunta y EEUU se toma un descanso por Acción de Gracias",
+      "titulo": "Dólar retiene casi intactos sus máximos desde 2022 al cierre en medio del feriado estadounidense por Acción de Gracias",
       "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yw8",
-      "fecha": "Thu, 26 Nov 2026 15:53:03 GMT",
+      "fecha": "Thu, 26 Nov 2026 19:12:13 GMT",
+      "fuente": "Diario Financiero"
+    },
+    {
+      "titulo": "Corbo sobre posible intervención del Banco Central frente a alza del dólar: “No es necesario, lo que tiene que hacer es preocuparse de que los mercados estén funcionando bien”",
+      "link": "http://www.df.cl/economia-y-politica/macro/corbo-sobre-posible-intervencion-del-banco-central-frente-a-alza-del-dolar",
+      "fecha": "Thu, 26 Nov 2026 22:04:07 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -57,37 +63,7 @@
     {
       "titulo": "Pablo Hernández de Cos será el próximo presidente del Banco Central Europeo",
       "link": "http://www.df.cl/internacional/ft/pablo-hernandez-de-cos-sera-el-proximo-presidente-del-banco-central-europeo",
-      "fecha": "Thu, 26 Nov 2026 15:17:12 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "El mercado se divide sobre si el dólar romperá un nuevo récord tras escalada que lo llevó a cerrar sobre los $ 1.040",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-vuelve-a-subir-cierra-en-1-040-y-mercado-se-divide-sobre-si",
-      "fecha": "Thu, 26 Nov 2026 11:05:46 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Gobierno cuadruplica cupos para el subsidio a la contratación y flexibiliza requisitos de acceso",
-      "link": "http://www.df.cl/economia-y-politica/laboral-personas/gobierno-cuadruplica-cupos-para-el-subsidio-a-la-contratacion-y-flexibiliza",
-      "fecha": "Thu, 26 Nov 2026 11:19:55 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "DF Tax | Ley de Reconstrucción: reorganizar no es eludir",
-      "link": "http://www.df.cl/opinion/columnistas/df-tax-ley-de-reconstruccion-reorganizar-no-es-eludir",
-      "fecha": "Wed, 25 Nov 2026 12:53:59 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "SEA apelará ante la Suprema anulación de proyecto inmobiliario ligado a la familia Piñera Morel en la Región de Los Ríos",
-      "link": "http://www.df.cl/regiones/los-rios/empresas/sea-apelara-ante-la-suprema-anulacion-de-proyecto-inmobiliario-ligado-a-la",
-      "fecha": "Thu, 26 Nov 2026 11:05:03 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Moller cuadruplica sus utilidades a septiembre y retoma la búsqueda de terrenos para nuevos proyectos inmobiliarios",
-      "link": "http://www.df.cl/empresas/construccion/moller-cuadruplica-sus-utilidades-a-septiembre-y-retoma-la-busqueda-de",
-      "fecha": "Wed, 25 Nov 2026 23:07:56 GMT",
+      "fecha": "Thu, 26 Nov 2026 21:54:38 GMT",
       "fuente": "Diario Financiero"
     },
     {
@@ -99,10 +75,6 @@
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-28",
-        "valor": 40869.82
-      },
       {
         "fecha": "2026-08-29",
         "valor": 40871.14
@@ -458,13 +430,13 @@
       {
         "fecha": "2026-11-26",
         "valor": 41412.34
+      },
+      {
+        "fecha": "2026-11-27",
+        "valor": 41412.34
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-28",
-        "valor": 925.25
-      },
       {
         "fecha": "2026-08-29",
         "valor": 925.25
@@ -820,13 +792,13 @@
       {
         "fecha": "2026-11-26",
         "valor": 1044.08
+      },
+      {
+        "fecha": "2026-11-27",
+        "valor": 1044.08
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-28",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-29",
         "valor": 4.5
@@ -1181,15 +1153,15 @@
       },
       {
         "fecha": "2026-11-26",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-27",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-28",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-29",
         "valor": 4.3
       },
@@ -1544,16 +1516,20 @@
       {
         "fecha": "2026-11-26",
         "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-27",
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": 1.86,
-    "score": 2.924,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.0,
+    "score": 1.814,
     "modo": "zscore",
-    "valor_actual": 1044.08,
-    "fecha": "2026-11-26"
+    "valor_actual": 41412.34,
+    "fecha": "2026-11-27"
   }
 }
