@@ -1,23 +1,23 @@
 {
-  "generado": "2026-11-27T03:23:14.891735+00:00",
+  "generado": "2026-11-28T02:24:04.876544+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41412.34,
-      "fecha": "2026-11-26T03:00:00.000Z"
+      "valor": 41419.22,
+      "fecha": "2026-11-27T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
       "unidad": "Pesos",
-      "valor": 1044.08,
-      "fecha": "2026-11-26T03:00:00.000Z"
+      "valor": 1037.91,
+      "fecha": "2026-11-27T03:00:00.000Z"
     },
     "tpm": {
       "nombre": "Tasa Política Monetaria (TPM)",
       "unidad": "Porcentaje",
       "valor": 4.5,
-      "fecha": "2026-11-26T03:00:00.000Z"
+      "fecha": "2026-11-27T03:00:00.000Z"
     }
   },
   "tasa_hipotecaria": {
@@ -31,54 +31,44 @@
   },
   "titulares": [
     {
-      "titulo": "La reforma del Banco Central de Argentina propuesta por Milei obtiene la aprobación final del Congreso",
-      "link": "http://www.df.cl/internacional/politica/la-reforma-del-banco-central-de-argentina-propuesta-por-milei-obtiene-la",
-      "fecha": "Thu, 26 Nov 2026 21:55:47 GMT",
+      "titulo": "Dólar al alza: qué diferencia el momento actual del año 2022 y por qué, por ahora, no es necesaria una intervención del Banco Central",
+      "link": "http://www.df.cl/senal-df/factor-economico/dolar-al-alza-que-diferencia-el-momento-actual-del-2022-y-por-que-por",
+      "fecha": "Fri, 27 Nov 2026 23:17:21 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar retiene casi intactos sus máximos desde 2022 al cierre en medio del feriado estadounidense por Acción de Gracias",
-      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-85yw8",
-      "fecha": "Thu, 26 Nov 2026 19:12:13 GMT",
+      "titulo": "Inmobiliaria Galilea deberá indemnizar a propietarios y reparar viviendas de barrio rancagüino tras dictamen judicial",
+      "link": "http://www.df.cl/regiones/o-higgins/empresas/inmobiliaria-galilea-debera-indemnizar-a-propietarios-y-reparar-viviendas",
+      "fecha": "Fri, 27 Nov 2026 21:03:41 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Corbo sobre posible intervención del Banco Central frente a alza del dólar: “No es necesario, lo que tiene que hacer es preocuparse de que los mercados estén funcionando bien”",
-      "link": "http://www.df.cl/economia-y-politica/macro/corbo-sobre-posible-intervencion-del-banco-central-frente-a-alza-del-dolar",
-      "fecha": "Thu, 26 Nov 2026 22:04:07 GMT",
+      "titulo": "Dólar cierra a la baja y pierde los $ 1.040 mientras el cobre amplía su recuperación tras el apoyo de China a sus mercados",
+      "link": "http://www.df.cl/mercados/bolsa-monedas/dolar-hoy-xdnjh",
+      "fecha": "Fri, 27 Nov 2026 19:10:37 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "La FIFA sufre ciberataque y confirma filtración de información personal y empresarial",
-      "link": "http://www.df.cl/internacional/ft/la-fifa-sufre-ciberataque-y-confirma-filtracion-de-informacion-personal-y",
-      "fecha": "Thu, 26 Nov 2026 15:44:32 GMT",
+      "titulo": "Socovesa agudiza sus pérdidas y sufre una fuerte caída en sus ingresos ante menor venta de viviendas",
+      "link": "http://www.df.cl/empresas/construccion/socovesa-agudiza-sus-perdidas-y-sufre-una-fuerte-caida-en-sus-ingresos-ante",
+      "fecha": "Fri, 27 Nov 2026 16:27:49 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Dólar por las nubes y caída del cobre, el complicado cóctel en el análisis de la Comisión de Hacienda de la Cámara",
-      "link": "http://www.df.cl/economia-y-politica/congreso/alza-del-dolar-y-caida-del-cobre-el-complicado-coctel-en-el-analisis-de-la",
-      "fecha": "Thu, 26 Nov 2026 14:55:15 GMT",
+      "titulo": "Guía de Ocio: Gordon y la ruda historia política de Argentina",
+      "link": "http://www.df.cl/df-mas/capital/cultura/guia-de-ocio-gordon-y-la-ruda-historia-politica-de-argentina",
+      "fecha": "Sat, 28 Nov 2026 01:45:50 GMT",
       "fuente": "Diario Financiero"
     },
     {
-      "titulo": "Pablo Hernández de Cos será el próximo presidente del Banco Central Europeo",
-      "link": "http://www.df.cl/internacional/ft/pablo-hernandez-de-cos-sera-el-proximo-presidente-del-banco-central-europeo",
-      "fecha": "Thu, 26 Nov 2026 21:54:38 GMT",
+      "titulo": "Mercados: la semana en datos",
+      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
+      "fecha": "Sat, 28 Nov 2026 00:01:52 GMT",
       "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Dólar alcanzó máximo intradía de 1.048 pesos mientras el Banco Central descartó intervenir el mercado",
-      "link": "https://www.cooperativa.cl/noticias/economia/divisas/dolar/dolar-alcanzo-maximo-intradia-de-1-048-pesos-mientras-el-banco-central/2026-11-25/103815.html",
-      "fecha": "Wed, 25 Nov 2026 10:38:15 -0300",
-      "fuente": "Cooperativa"
     }
   ],
   "historial": {
     "uf": [
-      {
-        "fecha": "2026-08-29",
-        "valor": 40871.14
-      },
       {
         "fecha": "2026-08-30",
         "valor": 40872.45
@@ -434,13 +424,13 @@
       {
         "fecha": "2026-11-27",
         "valor": 41412.34
+      },
+      {
+        "fecha": "2026-11-28",
+        "valor": 41419.22
       }
     ],
     "dolar": [
-      {
-        "fecha": "2026-08-29",
-        "valor": 925.25
-      },
       {
         "fecha": "2026-08-30",
         "valor": 925.25
@@ -796,13 +786,13 @@
       {
         "fecha": "2026-11-27",
         "valor": 1044.08
+      },
+      {
+        "fecha": "2026-11-28",
+        "valor": 1037.91
       }
     ],
     "tpm": [
-      {
-        "fecha": "2026-08-29",
-        "valor": 4.5
-      },
       {
         "fecha": "2026-08-30",
         "valor": 4.5
@@ -1157,15 +1147,15 @@
       },
       {
         "fecha": "2026-11-27",
+        "valor": 4.5
+      },
+      {
+        "fecha": "2026-11-28",
         "valor": 4.5
       }
     ],
     "tasa_hipotecaria": [
       {
-        "fecha": "2026-08-29",
-        "valor": 4.3
-      },
-      {
         "fecha": "2026-08-30",
         "valor": 4.3
       },
@@ -1520,16 +1510,20 @@
       {
         "fecha": "2026-11-27",
         "valor": 4.44
+      },
+      {
+        "fecha": "2026-11-28",
+        "valor": 4.44
       }
     ]
   },
   "dato_remarcable": {
-    "indicador": "uf",
-    "nombre": "la UF",
-    "cambio_pct": 0.0,
-    "score": 1.814,
+    "indicador": "dolar",
+    "nombre": "el dólar",
+    "cambio_pct": -0.59,
+    "score": 1.174,
     "modo": "zscore",
-    "valor_actual": 41412.34,
-    "fecha": "2026-11-27"
+    "valor_actual": 1037.91,
+    "fecha": "2026-11-28"
   }
 }
