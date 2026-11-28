@@ -1,11 +1,11 @@
 {
-  "generado": "2026-11-28T02:24:04.876544+00:00",
+  "generado": "2026-11-28T16:30:18.904772+00:00",
   "macro": {
     "uf": {
       "nombre": "Unidad de fomento (UF)",
       "unidad": "Pesos",
-      "valor": 41419.22,
-      "fecha": "2026-11-27T03:00:00.000Z"
+      "valor": 41426.11,
+      "fecha": "2026-11-28T03:00:00.000Z"
     },
     "dolar": {
       "nombre": "Dólar observado",
@@ -55,15 +55,15 @@
       "fuente": "Diario Financiero"
     },
     {
+      "titulo": "PDI captura en menos de 24 horas a hombre que robó más de $100 millones desde vivienda en La Reina",
+      "link": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/28/pdi-captura-en-menos-de-24-horas-a-hombre-que-robo-mas-de-100-millones-desde-vivienda-en-la-reina.shtml",
+      "fecha": "Sat, 28 Nov 2026 13:59:43 +0000",
+      "fuente": "BioBioChile"
+    },
+    {
       "titulo": "Guía de Ocio: Gordon y la ruda historia política de Argentina",
       "link": "http://www.df.cl/df-mas/capital/cultura/guia-de-ocio-gordon-y-la-ruda-historia-politica-de-argentina",
       "fecha": "Sat, 28 Nov 2026 01:45:50 GMT",
-      "fuente": "Diario Financiero"
-    },
-    {
-      "titulo": "Mercados: la semana en datos",
-      "link": "http://www.df.cl/senal-df/senales-financieras/mercados-la-semana-en-datos-0",
-      "fecha": "Sat, 28 Nov 2026 00:01:52 GMT",
       "fuente": "Diario Financiero"
     }
   ],
@@ -427,7 +427,7 @@
       },
       {
         "fecha": "2026-11-28",
-        "valor": 41419.22
+        "valor": 41426.11
       }
     ],
     "dolar": [
@@ -1518,12 +1518,12 @@
     ]
   },
   "dato_remarcable": {
-    "indicador": "dolar",
-    "nombre": "el dólar",
-    "cambio_pct": -0.59,
-    "score": 1.174,
+    "indicador": "uf",
+    "nombre": "la UF",
+    "cambio_pct": 0.03,
+    "score": 2.209,
     "modo": "zscore",
-    "valor_actual": 1037.91,
+    "valor_actual": 41426.11,
     "fecha": "2026-11-28"
   }
 }
